@@ -29,7 +29,7 @@
     "organizer": "IEEE Turkey",
     "difficulty": "Intermediate",
     "kyc_required": null,
-    "participants_count": 890,
+    "participants_count": 891,
     "findings_count": null,
     "repo_url": null,
     "logo_url": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/642/899/datas/medium_square.png",
@@ -37,7 +37,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T12:27:40Z"
+    "scraped_at": "2026-10-17T13:55:16Z"
   },
   {
     "id": "3fe6f43f89f6c5",
@@ -77,6 +77,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T12:27:40Z"
+    "scraped_at": "2026-10-17T13:55:16Z"
   }
 ]

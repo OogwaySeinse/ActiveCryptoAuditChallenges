@@ -36,7 +36,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T12:27:41Z"
+    "scraped_at": "2026-10-17T13:55:16Z"
   },
   {
     "id": "68c9e14757e483",
@@ -67,7 +67,7 @@
     "organizer": "Cyber Hacktics",
     "difficulty": "Intermediate",
     "kyc_required": null,
-    "participants_count": 271,
+    "participants_count": 274,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -75,7 +75,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T12:27:41Z"
+    "scraped_at": "2026-10-17T13:55:16Z"
   },
   {
     "id": "0b4ac6543b13d9",
@@ -106,7 +106,7 @@
     "organizer": "CRUx BPHC",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 40,
+    "participants_count": 41,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -114,7 +114,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T12:27:41Z"
+    "scraped_at": "2026-10-17T13:55:16Z"
   },
   {
     "id": "394fbaf0a772ce",
@@ -145,7 +145,7 @@
     "organizer": "HITCON",
     "difficulty": "Advanced",
     "kyc_required": null,
-    "participants_count": 151,
+    "participants_count": 153,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -153,7 +153,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T12:27:41Z"
+    "scraped_at": "2026-10-17T13:55:16Z"
   },
   {
     "id": "ed803bfa2572ff",
@@ -184,7 +184,7 @@
     "organizer": "RSTCON",
     "difficulty": "Intermediate",
     "kyc_required": null,
-    "participants_count": 35,
+    "participants_count": 37,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -192,7 +192,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T12:27:41Z"
+    "scraped_at": "2026-10-17T13:55:16Z"
   },
   {
     "id": "b21acc324fdc24",
@@ -231,7 +231,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T12:27:41Z"
+    "scraped_at": "2026-10-17T13:55:16Z"
   },
   {
     "id": "11753b833667ea",
@@ -270,7 +270,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T12:27:41Z"
+    "scraped_at": "2026-10-17T13:55:16Z"
   },
   {
     "id": "cdf9473850d484",
@@ -311,7 +311,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T12:27:41Z"
+    "scraped_at": "2026-10-17T13:55:16Z"
   },
   {
     "id": "e101a557a587ba",
@@ -350,7 +350,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T12:27:41Z"
+    "scraped_at": "2026-10-17T13:55:16Z"
   },
   {
     "id": "e17a550e465960",
@@ -389,7 +389,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T12:27:41Z"
+    "scraped_at": "2026-10-17T13:55:16Z"
   },
   {
     "id": "527b3fa1a60850",
@@ -428,6 +428,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T12:27:41Z"
+    "scraped_at": "2026-10-17T13:55:16Z"
   }
 ]

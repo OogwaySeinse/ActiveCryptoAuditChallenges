@@ -1,0 +1,6953 @@
+{
+  "bounties": [
+    {
+      "slug": "layerzero",
+      "project": "LayerZero",
+      "maxBounty": 15000000,
+      "launchDate": "2023-05-17T17:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "Astar zkEVM",
+          "Aurora",
+          "Avalanche",
+          "BSC",
+          "Base",
+          "Blast",
+          "Canto",
+          "Celo",
+          "Conflux",
+          "DOS",
+          "ETH",
+          "Fantom",
+          "Fraxtal",
+          "Fuse",
+          "Gnosis",
+          "Harmony",
+          "Horizen EON",
+          "Injective",
+          "Kava",
+          "Linea",
+          "Manta",
+          "Mantle",
+          "Merit Circle",
+          "Metis",
+          "Mode",
+          "Moonbeam",
+          "Moonriver",
+          "Optimism",
+          "Orderly",
+          "Polygon",
+          "Polygon zkEVM",
+          "Scroll",
+          "ShimmerEVM",
+          "Telos",
+          "Tenet",
+          "Viction",
+          "XPLA",
+          "Xai",
+          "Zora",
+          "opBNB",
+          "Aptos",
+          "Cronos",
+          "Rootstock",
+          "Sei",
+          "TON"
+        ],
+        "productType": [
+          "Bridge",
+          "Crosschain Liquidity"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Infrastructure"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Arbitration",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/layerzero/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "stargate",
+      "project": "Stargate",
+      "maxBounty": 10000000,
+      "launchDate": "2024-09-24T18:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [],
+        "productType": [
+          "Crosschain Liquidity"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Arbitration",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/stargate/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "sky",
+      "project": "Sky",
+      "maxBounty": 10000000,
+      "launchDate": "2022-02-10T07:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "CDP",
+          "Lending",
+          "Staking"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Not Required",
+          "Paid Submissions",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/sky/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "usdt0",
+      "project": "USDT0",
+      "maxBounty": 6000000,
+      "launchDate": "2025-01-30T14:58:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Typescript",
+          "Solidity"
+        ],
+        "ecosystem": [],
+        "productType": [
+          "Stablecoin",
+          "Crosschain Liquidity"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi",
+          "Infrastructure"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/usdt0/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "sparklend",
+      "project": "Spark",
+      "maxBounty": 5000000,
+      "launchDate": "2023-11-01T15:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Lending"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Not Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/sparklend/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "gmx",
+      "project": "GMX",
+      "maxBounty": 5000000,
+      "launchDate": "2021-10-20T12:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "JavaScript",
+          "Solidity",
+          "Typescript"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "Avalanche"
+        ],
+        "productType": [
+          "AMM",
+          "DEX"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Not Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/gmx/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "olympus",
+      "project": "Olympus",
+      "maxBounty": 3333333,
+      "launchDate": "2022-01-06T17:45:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "Avalanche",
+          "Boba Network",
+          "ETH",
+          "Fantom",
+          "Optimism",
+          "Polygon"
+        ],
+        "productType": [
+          "DAO",
+          "Token"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/olympus/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "ethena",
+      "project": "Ethena",
+      "maxBounty": 3000000,
+      "launchDate": "2024-04-04T16:46:29.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [
+          "Stablecoin"
+        ],
+        "programType": [
+          "Websites and Applications",
+          "Smart Contract"
+        ],
+        "projectType": [],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Arbitration",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact",
+          "Vaults"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/ethena/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "chainlink",
+      "project": "Chainlink",
+      "maxBounty": 3000000,
+      "launchDate": "2021-05-11T05:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Go",
+          "Rust",
+          "Solidity",
+          "Typescript"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "Base",
+          "Celo",
+          "ETH",
+          "Fantom",
+          "Gnosis",
+          "Linea",
+          "Metis",
+          "Moonriver",
+          "Optimism",
+          "Polygon",
+          "Scroll",
+          "Solana",
+          "Aptos"
+        ],
+        "productType": [
+          "Oracle"
+        ],
+        "programType": [
+          "Websites and Applications",
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Infrastructure"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/chainlink/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "hyperlane",
+      "project": "Hyperlane",
+      "maxBounty": 2500000,
+      "launchDate": "2023-01-10T21:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "NextJS",
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "BSC",
+          "Celo",
+          "ETH",
+          "Gnosis",
+          "Moonbeam",
+          "Optimism",
+          "Polygon"
+        ],
+        "productType": [
+          "Services"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Blockchain",
+          "Infrastructure"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/hyperlane/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "optimism",
+      "project": "Optimism",
+      "maxBounty": 2000042,
+      "launchDate": "2022-01-14T07:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "C/C++",
+          "Go",
+          "Solidity",
+          "Rust"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Optimism"
+        ],
+        "productType": [
+          "L1",
+          "L2"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications",
+          "Blockchain/DLT"
+        ],
+        "projectType": [
+          "Defi",
+          "NFT"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/optimism/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "rhinofi",
+      "project": "Rhino.fi",
+      "maxBounty": 2000000,
+      "launchDate": "2023-06-30T13:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "BSC",
+          "ETH",
+          "Optimism",
+          "Polygon",
+          "Polygon zkEVM",
+          "zkSync",
+          "Starknet",
+          "Tron",
+          "Base"
+        ],
+        "productType": [
+          "Bridge",
+          "Crosschain Liquidity"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi",
+          "Infrastructure"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/rhinofi/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "gnosischain",
+      "project": "Gnosis Chain",
+      "maxBounty": 2000000,
+      "launchDate": "2022-02-11T04:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "BSC",
+          "ETH"
+        ],
+        "productType": [
+          "Crosschain Liquidity",
+          "L1"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/gnosischain/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "arbitrum",
+      "project": "Arbitrum",
+      "maxBounty": 2000000,
+      "launchDate": "2021-08-31T13:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "ETH"
+        ],
+        "productType": [
+          "L2"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Blockchain"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/arbitrum/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "lido",
+      "project": "Lido",
+      "maxBounty": 2000000,
+      "launchDate": "2021-05-22T05:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity",
+          "Vyper"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "DAO",
+          "Liquid Staking",
+          "Staking"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/lido/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "beanstalk",
+      "project": "Beanstalk",
+      "maxBounty": 1100000,
+      "launchDate": "2022-10-11T19:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity",
+          "Typescript"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "DAO",
+          "DEX",
+          "Stablecoin"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi",
+          "Infrastructure"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/beanstalk/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "veda",
+      "project": "Veda",
+      "maxBounty": 1000000,
+      "launchDate": "2026-01-21T15:00:08.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [],
+        "general": [
+          "Triaged by Immunefi",
+          "Safe Harbor",
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/veda/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "capyfi",
+      "project": "CapyFi",
+      "maxBounty": 1000000,
+      "launchDate": "2025-11-19T10:10:47.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [
+          "Lending"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [],
+        "general": [
+          "Triaged by Immunefi",
+          "KYC Required",
+          "Arbitration",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/capyfi/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "immutable",
+      "project": "Immutable",
+      "maxBounty": 1000000,
+      "launchDate": "2025-06-10T05:44:56.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/immutable/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "compoundfinance",
+      "project": "Compound Finance",
+      "maxBounty": 1000000,
+      "launchDate": "2024-12-11T16:28:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Lending"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Safe Harbor",
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/compoundfinance/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "0x",
+      "project": "0x",
+      "maxBounty": 1000000,
+      "launchDate": "2024-07-30T16:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Polygon",
+          "Avalanche",
+          "Arbitrum",
+          "Base",
+          "BSC",
+          "ETH",
+          "Linea",
+          "Mantle",
+          "Mode",
+          "Optimism",
+          "Scroll",
+          "Solana"
+        ],
+        "productType": [
+          "DEX"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Arbitration",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/0x/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "aave",
+      "project": "AAVE",
+      "maxBounty": 1000000,
+      "launchDate": "2023-10-18T09:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Asset Management",
+          "DAO",
+          "Lending",
+          "Stablecoin",
+          "Staking"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/aave/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "staderforeth",
+      "project": "Stader for ETH",
+      "maxBounty": 1000000,
+      "launchDate": "2023-07-08T11:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Staking"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/staderforeth/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "ondofinance",
+      "project": "Ondo Finance",
+      "maxBounty": 1000000,
+      "launchDate": "2023-03-07T21:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity",
+          "Rust"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Solana"
+        ],
+        "productType": [
+          "Yield Aggregator"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/ondofinance/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "listadao",
+      "project": "Lista DAO",
+      "maxBounty": 1000000,
+      "launchDate": "2022-06-16T16:30:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "JavaScript",
+          "Solidity"
+        ],
+        "ecosystem": [
+          "BSC"
+        ],
+        "productType": [
+          "Lending",
+          "Stablecoin",
+          "Yield Aggregator"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/listadao/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "balancer",
+      "project": "Balancer Foundation",
+      "maxBounty": 1000000,
+      "launchDate": "2022-05-12T16:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "JavaScript",
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "AMM",
+          "DEX"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/balancer/information/",
+      "pausedAt": "2026-10-14T18:30:13.049Z"
+    },
+    {
+      "slug": "wormhole",
+      "project": "Wormhole",
+      "maxBounty": 1000000,
+      "launchDate": "2022-02-11T15:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Go",
+          "Move",
+          "Python",
+          "Rust",
+          "Solidity"
+        ],
+        "ecosystem": [],
+        "productType": [
+          "Crosschain Liquidity"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Blockchain/DLT"
+        ],
+        "projectType": [
+          "Blockchain",
+          "Infrastructure"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/wormhole/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "originprotocol",
+      "project": "Origin Protocol",
+      "maxBounty": 1000000,
+      "launchDate": "2021-11-22T07:15:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "JavaScript",
+          "Solidity",
+          "Typescript"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Base",
+          "Arbitrum"
+        ],
+        "productType": [
+          "Stablecoin",
+          "Liquid Staking",
+          "AMM"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Safe Harbor",
+          "Immunefi Standard",
+          "KYC Not Required",
+          "Arbitration",
+          "PoC Required",
+          "Primacy of Impact",
+          "Vaults"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/originprotocol/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "cowprotocol",
+      "project": "CoW Protocol",
+      "maxBounty": 1000000,
+      "launchDate": "2021-06-15T17:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Gnosis"
+        ],
+        "productType": [
+          "AMM",
+          "DEX"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/cowprotocol/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "pancakeswap",
+      "project": "PancakeSwap",
+      "maxBounty": 1000000,
+      "launchDate": "2021-03-28T07:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "BSC"
+        ],
+        "productType": [
+          "AMM",
+          "DEX"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/pancakeswap/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "fluxfinance",
+      "project": "Flux Finance",
+      "maxBounty": 550000,
+      "launchDate": "2023-02-08T16:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Lending"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/fluxfinance/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "raydium",
+      "project": "Raydium",
+      "maxBounty": 505000,
+      "launchDate": "2023-04-25T12:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Rust"
+        ],
+        "ecosystem": [
+          "Solana"
+        ],
+        "productType": [
+          "AMM"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/raydium/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "1inch-SmartContracts",
+      "project": "1inch - Smart Contracts",
+      "maxBounty": 500000,
+      "launchDate": "2026-06-11T05:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/1inch-SmartContracts/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "lombard-finance",
+      "project": "Lombard Finance",
+      "maxBounty": 500000,
+      "launchDate": "2024-09-04T00:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [
+          "Bitcoin"
+        ],
+        "productType": [],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "Arbitration",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact",
+          "Vaults"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/lombard-finance/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "etherfi",
+      "project": "Ether.fi",
+      "maxBounty": 500000,
+      "launchDate": "2024-03-27T01:30:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity",
+          "NextJS"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Yield Aggregator",
+          "Liquid Restaking",
+          "Services"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/etherfi/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "dexeprotocol",
+      "project": "DeXe Protocol",
+      "maxBounty": 500000,
+      "launchDate": "2024-01-23T20:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Python",
+          "Typescript",
+          "Go"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "DAO"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Infrastructure"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact",
+          "Premium Program",
+          "Vaults"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/dexeprotocol/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "sei",
+      "project": "Sei",
+      "maxBounty": 500000,
+      "launchDate": "2023-11-30T09:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Go",
+          "Rust"
+        ],
+        "ecosystem": [
+          "Sei"
+        ],
+        "productType": [
+          "Bridge",
+          "L1",
+          "Staking"
+        ],
+        "programType": [
+          "Blockchain/DLT"
+        ],
+        "projectType": [
+          "Blockchain"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Arbitration",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/sei/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "mETH",
+      "project": "mETH Protocol",
+      "maxBounty": 500000,
+      "launchDate": "2023-11-28T14:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": null,
+        "productType": [
+          "Staking"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/mETH/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "aera",
+      "project": "Aera",
+      "maxBounty": 500000,
+      "launchDate": "2023-11-20T12:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Arbitrum",
+          "Base",
+          "Polygon",
+          "Optimism"
+        ],
+        "productType": [
+          "Perpetuals",
+          "Lending",
+          "Restaking"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/aera/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "utix",
+      "project": "Utix",
+      "maxBounty": 500000,
+      "launchDate": "2023-07-26T12:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Services"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": null,
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/utix/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "ankr",
+      "project": "Ankr",
+      "maxBounty": 500000,
+      "launchDate": "2022-07-21T18:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "JavaScript",
+          "Vyper"
+        ],
+        "ecosystem": [
+          "BSC",
+          "ETH",
+          "Polygon"
+        ],
+        "productType": [
+          "Services",
+          "Liquid Staking"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Infrastructure"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/ankr/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "orca",
+      "project": "Orca",
+      "maxBounty": 500000,
+      "launchDate": "2022-05-19T17:30:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Rust"
+        ],
+        "ecosystem": [
+          "Solana"
+        ],
+        "productType": [
+          "AMM",
+          "Crosschain Liquidity"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/orca/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "axelarnetwork",
+      "project": "Axelar Network",
+      "maxBounty": 500000,
+      "launchDate": "2022-03-11T03:30:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Go",
+          "Rust",
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "Avalanche",
+          "BSC",
+          "Base",
+          "Blast",
+          "Celo",
+          "Centrifuge",
+          "ETH",
+          "Fantom",
+          "Filecoin",
+          "Fraxtal",
+          "Kava",
+          "Linea",
+          "Mantle",
+          "Moonbeam",
+          "Optimism",
+          "Polygon",
+          "Scroll"
+        ],
+        "productType": [
+          "Bridge",
+          "Crosschain Liquidity",
+          "DAO"
+        ],
+        "programType": [
+          "Blockchain/DLT",
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Blockchain",
+          "Defi",
+          "Infrastructure"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/axelarnetwork/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "maple",
+      "project": "Maple",
+      "maxBounty": 500000,
+      "launchDate": "2022-01-25T21:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "JavaScript",
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Lending"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/maple/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "instadapp",
+      "project": "Instadapp",
+      "maxBounty": 500000,
+      "launchDate": "2021-09-20T01:30:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Avalanche",
+          "BSC",
+          "ETH",
+          "Optimism",
+          "Polygon"
+        ],
+        "productType": [
+          "L1",
+          "L2",
+          "Wallet"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/instadapp/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "benqi",
+      "project": "BENQI",
+      "maxBounty": 500000,
+      "launchDate": "2021-08-19T12:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "ReactJS",
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Avalanche"
+        ],
+        "productType": [
+          "Lending",
+          "Liquid Staking"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/benqi/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "defisaver",
+      "project": "DeFi Saver",
+      "maxBounty": 350000,
+      "launchDate": "2021-04-21T07:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Asset Management"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/defisaver/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "zksyncera",
+      "project": "ZKsync Era",
+      "maxBounty": 300000,
+      "launchDate": "2023-03-10T17:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity",
+          "Yul"
+        ],
+        "ecosystem": [
+          "ETH",
+          "zkSync"
+        ],
+        "productType": [
+          "L2"
+        ],
+        "programType": [
+          "Blockchain/DLT",
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Blockchain"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/zksyncera/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "Aevo",
+      "project": "Aevo",
+      "maxBounty": 300000,
+      "launchDate": "2021-04-12T07:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Avalanche",
+          "BSC",
+          "ETH",
+          "Solana"
+        ],
+        "productType": [
+          "Derivatives",
+          "Yield Aggregator"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/Aevo/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "sbtc",
+      "project": "sBTC",
+      "maxBounty": 250000,
+      "launchDate": "2026-07-02T13:59:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Rust",
+          "Clarity",
+          "Bitcoin Script"
+        ],
+        "ecosystem": [
+          "Stacks",
+          "Bitcoin"
+        ],
+        "productType": [
+          "Bridge"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Blockchain/DLT"
+        ],
+        "projectType": [
+          "Infrastructure",
+          "Blockchain"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "KYC Required",
+          "Arbitration",
+          "Paid Submissions",
+          "PoC Required",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/sbtc/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "royco",
+      "project": "Royco",
+      "maxBounty": 250000,
+      "launchDate": "2026-02-17T10:24:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity",
+          "JavaScript",
+          "Typescript"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Arbitrum",
+          "Base",
+          "Avalanche"
+        ],
+        "productType": [],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/royco/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "parallel",
+      "project": "Parallel",
+      "maxBounty": 250000,
+      "launchDate": "2025-10-02T12:10:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "JavaScript",
+          "NextJS",
+          "ReactJS",
+          "Solidity",
+          "Typescript",
+          "Go"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Polygon",
+          "Arbitrum",
+          "Avalanche",
+          "Base",
+          "Gnosis",
+          "LayerZero",
+          "Optimism",
+          "Scroll",
+          "Sei",
+          "BSC",
+          "xDAI / Gnosis Chain"
+        ],
+        "productType": [
+          "Stablecoin",
+          "CDP",
+          "DAO"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/parallel/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "strata",
+      "project": "Strata",
+      "maxBounty": 250000,
+      "launchDate": "2025-10-01T10:01:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Synthetic Assets",
+          "Asset Management"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/strata/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "kelp-dao",
+      "project": "Kelp DAO",
+      "maxBounty": 250000,
+      "launchDate": "2024-08-02T00:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": null,
+        "ecosystem": null,
+        "productType": [
+          "Liquid Restaking"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "Arbitration",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/kelp-dao/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "avail",
+      "project": "Avail",
+      "maxBounty": 250000,
+      "launchDate": "2024-07-23T02:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "L2"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Infrastructure"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/avail/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "ens",
+      "project": "ENS",
+      "maxBounty": 250000,
+      "launchDate": "2024-05-10T03:11:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity",
+          "NextJS"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Services"
+        ],
+        "programType": [
+          "Websites and Applications",
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Infrastructure"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact",
+          "Vaults"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/ens/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "ssvnetwork",
+      "project": "SSV Network",
+      "maxBounty": 250000,
+      "launchDate": "2023-09-11T16:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Staking",
+          "Validator"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi",
+          "Infrastructure"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact",
+          "Vaults"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/ssvnetwork/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "burrow",
+      "project": "Burrow",
+      "maxBounty": 250000,
+      "launchDate": "2023-02-08T18:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": null,
+        "ecosystem": null,
+        "productType": [
+          "Lending"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/burrow/information/",
+      "pausedAt": "2026-10-05T19:36:28.792Z"
+    },
+    {
+      "slug": "decentraland",
+      "project": "Decentraland",
+      "maxBounty": 250000,
+      "launchDate": "2022-07-05T16:30:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Polygon"
+        ],
+        "productType": [
+          "Gaming"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi",
+          "Infrastructure"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/decentraland/information/",
+      "pausedAt": "2026-10-16T07:21:52.155Z"
+    },
+    {
+      "slug": "reffinance",
+      "project": "Ref Finance",
+      "maxBounty": 250000,
+      "launchDate": "2022-05-17T18:30:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Rust"
+        ],
+        "ecosystem": [
+          "Near"
+        ],
+        "productType": [
+          "AMM",
+          "DEX"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Not Required",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/reffinance/information/",
+      "pausedAt": "2026-10-05T19:36:08.053Z"
+    },
+    {
+      "slug": "stacks",
+      "project": "Stacks",
+      "maxBounty": 250000,
+      "launchDate": "2022-03-31T19:30:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Rust",
+          "Bitcoin Script",
+          "Clarity"
+        ],
+        "ecosystem": [
+          "Stacks",
+          "Bitcoin"
+        ],
+        "productType": [
+          "L1"
+        ],
+        "programType": [
+          "Blockchain/DLT",
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Blockchain"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Arbitration",
+          "Paid Submissions",
+          "PoC Required",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/stacks/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "marinade",
+      "project": "Marinade",
+      "maxBounty": 250000,
+      "launchDate": "2021-12-01T18:30:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Rust"
+        ],
+        "ecosystem": [
+          "Solana"
+        ],
+        "productType": [
+          "Staking"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/marinade/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "polygon",
+      "project": "Polygon",
+      "maxBounty": 250000,
+      "launchDate": "2021-09-13T13:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Polygon"
+        ],
+        "productType": [
+          "L2"
+        ],
+        "programType": [
+          "Blockchain/DLT",
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Blockchain"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/polygon/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "hydration",
+      "project": "Hydration",
+      "maxBounty": 222222,
+      "launchDate": "2023-02-20T20:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Rust"
+        ],
+        "ecosystem": [
+          "Polkadot"
+        ],
+        "productType": [
+          "AMM",
+          "DEX",
+          "Staking"
+        ],
+        "programType": [
+          "Blockchain/DLT",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Blockchain",
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "Paid Submissions",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/hydration/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "rootstocklabs",
+      "project": "RootstockLabs",
+      "maxBounty": 200000,
+      "launchDate": "2026-02-10T01:55:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [
+          "Rootstock"
+        ],
+        "productType": [],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications",
+          "Blockchain/DLT"
+        ],
+        "projectType": [],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/rootstocklabs/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "enzyme-onyx",
+      "project": "Enzyme Onyx",
+      "maxBounty": 200000,
+      "launchDate": "2025-09-04T10:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Asset Management"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Safe Harbor",
+          "KYC Not Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/enzyme-onyx/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "ostium",
+      "project": "Ostium",
+      "maxBounty": 200000,
+      "launchDate": "2025-04-30T00:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "NextJS",
+          "Solidity",
+          "Typescript"
+        ],
+        "ecosystem": [
+          "Arbitrum"
+        ],
+        "productType": [
+          "Perpetuals",
+          "DEX"
+        ],
+        "programType": [
+          "Websites and Applications",
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Exchange",
+          "Defi"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/ostium/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "aster",
+      "project": "Aster",
+      "maxBounty": 200000,
+      "launchDate": "2025-04-16T02:43:13.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Websites and Applications",
+          "Smart Contract"
+        ],
+        "projectType": [],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/aster/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "beets",
+      "project": "Beets",
+      "maxBounty": 200000,
+      "launchDate": "2022-09-16T03:30:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Fantom",
+          "Optimism"
+        ],
+        "productType": [
+          "AMM",
+          "DEX",
+          "Liquid Staking",
+          "Token"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/beets/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "stakewise",
+      "project": "StakeWise Mainnet",
+      "maxBounty": 200000,
+      "launchDate": "2022-05-31T17:30:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "JavaScript"
+        ],
+        "ecosystem": [
+          "ETH",
+          "xDAI / Gnosis Chain"
+        ],
+        "productType": [
+          "Staking",
+          "Yield Aggregator"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/stakewise/information/",
+      "pausedAt": "2026-09-28T12:47:19.149Z"
+    },
+    {
+      "slug": "debridge",
+      "project": "deBridge",
+      "maxBounty": 200000,
+      "launchDate": "2022-01-21T13:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "Avalanche",
+          "BSC",
+          "ETH",
+          "Fantom",
+          "Heco",
+          "Polygon"
+        ],
+        "productType": [
+          "Bridge",
+          "Crosschain Liquidity",
+          "DEX"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi",
+          "Infrastructure"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Not Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/debridge/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "celer",
+      "project": "Celer",
+      "maxBounty": 200000,
+      "launchDate": "2021-11-18T13:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "JavaScript",
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "Avalanche",
+          "BSC",
+          "Base",
+          "ETH",
+          "Fantom",
+          "Moonbeam",
+          "Optimism",
+          "Polygon"
+        ],
+        "productType": [
+          "Crosschain Liquidity",
+          "L1",
+          "Wallet"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Blockchain",
+          "Defi",
+          "NFT"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/celer/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "yearnfinance",
+      "project": "Yearn Finance",
+      "maxBounty": 200000,
+      "launchDate": "2021-07-01T07:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "ETH",
+          "Fantom",
+          "Optimism"
+        ],
+        "productType": [
+          "Lending",
+          "Yield Aggregator"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Blockchain",
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Not Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/yearnfinance/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "enzymefinance",
+      "project": "Enzyme Blue",
+      "maxBounty": 200000,
+      "launchDate": "2021-03-29T07:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Polygon"
+        ],
+        "productType": [
+          "Asset Management"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Safe Harbor",
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/enzymefinance/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "sushiswap",
+      "project": "SushiSwap",
+      "maxBounty": 200000,
+      "launchDate": "2021-03-26T07:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "Avalanche",
+          "BSC",
+          "Celo",
+          "ETH",
+          "Fantom",
+          "Gnosis",
+          "Harmony",
+          "Heco",
+          "Kava",
+          "Linea",
+          "Metis",
+          "Moonbeam",
+          "Optimism",
+          "Polygon"
+        ],
+        "productType": [
+          "AMM",
+          "DEX",
+          "Staking"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/sushiswap/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "alchemix-1",
+      "project": "Alchemix",
+      "maxBounty": 150000,
+      "launchDate": "2026-02-26T19:26:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "ETH",
+          "Optimism",
+          "Base"
+        ],
+        "productType": [
+          "CDP",
+          "DAO",
+          "Lending",
+          "Synthetic Assets",
+          "Token",
+          "Yield Aggregator",
+          "Asset Management"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "KYC Not Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/alchemix-1/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "thresholdnetwork",
+      "project": "Threshold Network",
+      "maxBounty": 150000,
+      "launchDate": "2023-04-28T09:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "JavaScript",
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "ETH",
+          "Optimism",
+          "Polygon",
+          "Solana",
+          "Base",
+          "Starknet",
+          "SUI"
+        ],
+        "productType": [
+          "Crosschain Liquidity",
+          "Currency",
+          "Staking",
+          "Synthetic Assets"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Blockchain",
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/thresholdnetwork/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "gearbox",
+      "project": "Gearbox",
+      "maxBounty": 150000,
+      "launchDate": "2022-02-08T13:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Options",
+          "Perpetuals"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/gearbox/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "rocketpool",
+      "project": "Rocket Pool",
+      "maxBounty": 150000,
+      "launchDate": "2021-09-08T14:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Staking"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi",
+          "Infrastructure"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/rocketpool/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "pythnetwork",
+      "project": "Pyth Network",
+      "maxBounty": 125000,
+      "launchDate": "2024-06-24T16:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [
+          "Solana"
+        ],
+        "productType": [
+          "Oracle"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Infrastructure"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/pythnetwork/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "sp1",
+      "project": "SP1",
+      "maxBounty": 100000,
+      "launchDate": "2026-09-21T15:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Rust",
+          "Go"
+        ],
+        "ecosystem": [],
+        "productType": [
+          "Zero-Knowledge Proofs"
+        ],
+        "programType": [
+          "Blockchain/DLT"
+        ],
+        "projectType": [],
+        "general": [
+          "KYC Not Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/sp1/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "intuition",
+      "project": "Intuition",
+      "maxBounty": 100000,
+      "launchDate": "2026-07-08T09:19:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Base"
+        ],
+        "productType": [],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/intuition/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "gmtrade",
+      "project": "GMTrade",
+      "maxBounty": 100000,
+      "launchDate": "2026-07-06T00:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Rust"
+        ],
+        "ecosystem": [
+          "Solana"
+        ],
+        "productType": [
+          "Perpetuals"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "KYC Not Required",
+          "PoC Not Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/gmtrade/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "1inch-business",
+      "project": "1inch - Business",
+      "maxBounty": 100000,
+      "launchDate": "2026-06-11T14:30:11.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Websites and Applications"
+        ],
+        "projectType": [],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/1inch-business/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "1inch-wallet",
+      "project": "1inch - Wallet",
+      "maxBounty": 100000,
+      "launchDate": "2026-06-11T13:44:50.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Websites and Applications"
+        ],
+        "projectType": [],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/1inch-wallet/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "1inch-aqua",
+      "project": "1inch - Aqua",
+      "maxBounty": 100000,
+      "launchDate": "2026-06-11T12:46:32.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/1inch-aqua/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "onre",
+      "project": "OnRe",
+      "maxBounty": 100000,
+      "launchDate": "2026-05-11T09:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Rust"
+        ],
+        "ecosystem": [
+          "Solana"
+        ],
+        "productType": [
+          "Insurance"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/onre/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "variational",
+      "project": "Variational",
+      "maxBounty": 100000,
+      "launchDate": "2026-03-16T16:30:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/variational/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "hermetica",
+      "project": "Hermetica",
+      "maxBounty": 100000,
+      "launchDate": "2026-02-12T09:27:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [],
+        "general": [
+          "KYC Not Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/hermetica/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "zest-protocol-v2",
+      "project": "Zest Protocol V2",
+      "maxBounty": 100000,
+      "launchDate": "2026-01-15T22:10:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Clarity"
+        ],
+        "ecosystem": [
+          "Stacks"
+        ],
+        "productType": [
+          "Lending"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact",
+          "Vaults"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/zest-protocol-v2/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "zksync-os",
+      "project": "ZKsync OS",
+      "maxBounty": 100000,
+      "launchDate": "2025-11-24T08:16:26.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [
+          "zkSync"
+        ],
+        "productType": [],
+        "programType": [
+          "Blockchain/DLT",
+          "Smart Contract"
+        ],
+        "projectType": [],
+        "general": [
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/zksync-os/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "granite-protocol",
+      "project": "Granite Protocol",
+      "maxBounty": 100000,
+      "launchDate": "2025-02-26T15:58:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Clarity"
+        ],
+        "ecosystem": [
+          "Stacks"
+        ],
+        "productType": [
+          "Lending"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/granite-protocol/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "berachain",
+      "project": "Berachain",
+      "maxBounty": 100000,
+      "launchDate": "2025-02-06T11:58:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Go",
+          "Solidity",
+          "Rust"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Cosmos"
+        ],
+        "productType": [
+          "L1"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Blockchain/DLT"
+        ],
+        "projectType": [
+          "Blockchain",
+          "Infrastructure",
+          "Defi",
+          "NFT"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/berachain/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "fbtc",
+      "project": "FBTC",
+      "maxBounty": 100000,
+      "launchDate": "2024-12-19T19:46:46.000Z",
+      "kyc": true,
+      "tags": {
+        "language": null,
+        "ecosystem": null,
+        "productType": [
+          "Asset Management"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": null,
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "Arbitration",
+          "PoC Not Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/fbtc/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "arkadiko",
+      "project": "Arkadiko",
+      "maxBounty": 100000,
+      "launchDate": "2024-06-03T02:44:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Clarity"
+        ],
+        "ecosystem": null,
+        "productType": [
+          "Stablecoin"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "Arbitration",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/arkadiko/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "orderlynetwork",
+      "project": "Orderly Network",
+      "maxBounty": 100000,
+      "launchDate": "2024-02-27T00:05:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Derivatives"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/orderlynetwork/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "stackingdao",
+      "project": "StackingDAO",
+      "maxBounty": 100000,
+      "launchDate": "2024-02-04T20:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Clarity"
+        ],
+        "ecosystem": [
+          "Stacks"
+        ],
+        "productType": [
+          "DEX",
+          "Staking"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi",
+          "Blockchain"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "Arbitration",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact",
+          "Vaults"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/stackingdao/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "avalanche",
+      "project": "Ava Labs Avalanche",
+      "maxBounty": 100000,
+      "launchDate": "2023-12-03T22:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [
+          "L1",
+          "Services"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Blockchain/DLT"
+        ],
+        "projectType": [],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/avalanche/information/",
+      "pausedAt": "2026-10-07T08:14:03.843Z"
+    },
+    {
+      "slug": "extrafinance",
+      "project": "Extra Finance",
+      "maxBounty": 100000,
+      "launchDate": "2023-09-08T13:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Optimism"
+        ],
+        "productType": [
+          "Lending",
+          "Yield Aggregator"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/extrafinance/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "linea",
+      "project": "Linea",
+      "maxBounty": 100000,
+      "launchDate": "2023-07-11T14:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Linea"
+        ],
+        "productType": [
+          "L2"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Blockchain"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/linea/information/",
+      "pausedAt": "2026-09-04T06:26:17.073Z"
+    },
+    {
+      "slug": "velodromefinance",
+      "project": "Velodrome Finance",
+      "maxBounty": 100000,
+      "launchDate": "2023-06-29T09:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Optimism"
+        ],
+        "productType": [
+          "AMM",
+          "DEX",
+          "Staking"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi",
+          "NFT"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/velodromefinance/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "bobanetwork",
+      "project": "Boba Network",
+      "maxBounty": 100000,
+      "launchDate": "2023-01-13T21:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Go",
+          "JavaScript",
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Avalanche",
+          "BSC",
+          "ETH"
+        ],
+        "productType": [
+          "Bridge",
+          "L2",
+          "Staking"
+        ],
+        "programType": [
+          "Websites and Applications",
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Blockchain",
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/bobanetwork/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "silofinance-v2",
+      "project": "Silo Finance (v2 & v3)",
+      "maxBounty": 100000,
+      "launchDate": "2022-08-30T17:30:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Asset Management",
+          "Lending"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/silofinance-v2/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "symbiosis",
+      "project": "Symbiosis",
+      "maxBounty": 100000,
+      "launchDate": "2022-08-18T09:30:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Avalanche",
+          "BSC",
+          "ETH",
+          "Polygon",
+          "Arbitrum",
+          "Base",
+          "Bitcoin",
+          "Boba Network",
+          "Cronos",
+          "Manta",
+          "Mantle",
+          "Metis",
+          "Rootstock",
+          "Sei",
+          "Sonic",
+          "Telos",
+          "TON",
+          "Tron"
+        ],
+        "productType": [
+          "AMM",
+          "Bridge",
+          "Crosschain Liquidity",
+          "DAO",
+          "DEX"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/symbiosis/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "folksfinance",
+      "project": "Folks Finance",
+      "maxBounty": 100000,
+      "launchDate": "2022-03-31T17:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Python"
+        ],
+        "ecosystem": [
+          "Algorand"
+        ],
+        "productType": [
+          "Lending"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/folksfinance/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "mux",
+      "project": "MUX",
+      "maxBounty": 100000,
+      "launchDate": "2021-06-09T07:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "Avalanche",
+          "BSC",
+          "ETH",
+          "Fantom",
+          "Optimism"
+        ],
+        "productType": [
+          "DEX",
+          "Liquid Staking"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi",
+          "Exchange"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/mux/information/",
+      "pausedAt": "2026-09-28T12:47:08.039Z"
+    },
+    {
+      "slug": "synthetix",
+      "project": "Synthetix",
+      "maxBounty": 100000,
+      "launchDate": "2021-03-05T07:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity",
+          "JavaScript"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "DAO",
+          "DEX",
+          "Perpetuals",
+          "Staking"
+        ],
+        "programType": [
+          "Websites and Applications",
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/synthetix/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "harvest",
+      "project": "Harvest Finance",
+      "maxBounty": 100000,
+      "launchDate": "2020-12-02T07:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "JavaScript",
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "BSC",
+          "ETH",
+          "Polygon"
+        ],
+        "productType": [
+          "L2",
+          "Yield Aggregator"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/harvest/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "katana",
+      "project": "Katana",
+      "maxBounty": 80000,
+      "launchDate": "2026-02-11T14:57:23.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/katana/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "xterio",
+      "project": "Xterio",
+      "maxBounty": 80000,
+      "launchDate": "2024-07-08T10:30:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Gaming"
+        ],
+        "programType": [
+          "Websites and Applications",
+          "Smart Contract"
+        ],
+        "projectType": [
+          "NFT"
+        ],
+        "general": [
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/xterio/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "beefyfinance",
+      "project": "Beefy Finance",
+      "maxBounty": 75000,
+      "launchDate": "2021-07-15T16:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Polygon"
+        ],
+        "productType": [
+          "Yield Aggregator"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/beefyfinance/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "velvetcapital",
+      "project": "Velvet Capital",
+      "maxBounty": 51000,
+      "launchDate": "2023-12-15T09:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [],
+        "ecosystem": [
+          "BSC"
+        ],
+        "productType": [
+          "Asset Management"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/velvetcapital/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "dawn",
+      "project": "DAWN USD.infra Vault",
+      "maxBounty": 50000,
+      "launchDate": "2026-07-12T11:54:11.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Rust",
+          "Typescript",
+          "NextJS"
+        ],
+        "ecosystem": [
+          "Solana"
+        ],
+        "productType": [
+          "Staking",
+          "Liquid Staking"
+        ],
+        "programType": [
+          "Websites and Applications",
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi",
+          "Blockchain",
+          "Infrastructure"
+        ],
+        "general": [
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/dawn/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "cosmos",
+      "project": "Cosmos",
+      "maxBounty": 50000,
+      "launchDate": "2026-06-22T21:39:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Go",
+          "Rust",
+          "Solidity",
+          "C/C++",
+          "cosm-wasm"
+        ],
+        "ecosystem": [
+          "Cosmos"
+        ],
+        "productType": [
+          "L1",
+          "Services",
+          "Staking",
+          "Wallet",
+          "Validator"
+        ],
+        "programType": [
+          "Blockchain/DLT"
+        ],
+        "projectType": [
+          "Blockchain"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Premium Program",
+          "Vaults"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/cosmos/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "1inch-web",
+      "project": "1inch - Web",
+      "maxBounty": 50000,
+      "launchDate": "2026-06-11T07:56:01.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Websites and Applications"
+        ],
+        "projectType": [],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/1inch-web/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "KAST",
+      "project": "KAST",
+      "maxBounty": 50000,
+      "launchDate": "2026-04-20T04:48:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [],
+        "general": [
+          "Triaged by Immunefi",
+          "Safe Harbor",
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/KAST/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "kleidi",
+      "project": "Kleidi",
+      "maxBounty": 50000,
+      "launchDate": "2026-02-13T19:09:05.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [],
+        "general": [
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/kleidi/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "twyne",
+      "project": "Twyne",
+      "maxBounty": 50000,
+      "launchDate": "2026-01-16T14:30:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Lending"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/twyne/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "galagames",
+      "project": "Gala Games",
+      "maxBounty": 50000,
+      "launchDate": "2023-05-23T13:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "JavaScript",
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Gaming",
+          "Wallet"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Blockchain",
+          "Infrastructure",
+          "NFT"
+        ],
+        "general": [
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/galagames/information/",
+      "pausedAt": "2026-08-19T18:55:47.282Z"
+    },
+    {
+      "slug": "filecoin",
+      "project": "Filecoin",
+      "maxBounty": 50000,
+      "launchDate": "2023-04-14T20:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Go",
+          "Rust"
+        ],
+        "ecosystem": [
+          "Filecoin"
+        ],
+        "productType": [
+          "L1"
+        ],
+        "programType": [
+          "Blockchain/DLT"
+        ],
+        "projectType": [
+          "Blockchain"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/filecoin/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "metronome",
+      "project": "Metronome",
+      "maxBounty": 50000,
+      "launchDate": "2023-02-21T21:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Optimism"
+        ],
+        "productType": [
+          "Synthetic Assets",
+          "Yield Aggregator"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/metronome/information/",
+      "pausedAt": "2026-09-29T17:02:15.373Z"
+    },
+    {
+      "slug": "magpiexyz",
+      "project": "MagpieXYZ",
+      "maxBounty": 50000,
+      "launchDate": "2023-02-09T20:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "BSC",
+          "Arbitrum",
+          "ETH"
+        ],
+        "productType": [
+          "DAO",
+          "Staking",
+          "Token",
+          "Yield Aggregator"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/magpiexyz/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "justlenddao",
+      "project": "JustLend DAO",
+      "maxBounty": 50000,
+      "launchDate": "2022-08-31T03:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Tron"
+        ],
+        "productType": [
+          "Lending",
+          "Liquid Staking"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/justlenddao/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "hashflow",
+      "project": "Hashflow",
+      "maxBounty": 50000,
+      "launchDate": "2022-03-29T20:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [],
+        "ecosystem": [
+          "Arbitrum",
+          "Avalanche",
+          "BSC",
+          "ETH",
+          "Optimism",
+          "Polygon",
+          "Solana"
+        ],
+        "productType": [
+          "DEX Aggregator",
+          "Staking"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Not Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/hashflow/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "glodollar",
+      "project": "Glo Dollar",
+      "maxBounty": 50000,
+      "launchDate": "2022-02-14T15:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": null,
+        "ecosystem": [
+          "ETH",
+          "Polygon"
+        ],
+        "productType": [
+          "Stablecoin"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/glodollar/information/",
+      "pausedAt": "2026-10-05T19:35:31.053Z"
+    },
+    {
+      "slug": "dhedge",
+      "project": "dHEDGE",
+      "maxBounty": 50000,
+      "launchDate": "2021-11-09T12:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "Base",
+          "ETH",
+          "Optimism",
+          "Polygon"
+        ],
+        "productType": [
+          "Asset Management"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Not Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/dhedge/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "gamma",
+      "project": "Gamma",
+      "maxBounty": 50000,
+      "launchDate": "2021-10-08T15:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "AMM",
+          "Liquid Staking"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi",
+          "Infrastructure"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/gamma/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "derive",
+      "project": "Derive",
+      "maxBounty": 50000,
+      "launchDate": "2021-08-23T14:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Optimism"
+        ],
+        "productType": [
+          "DEX",
+          "Options",
+          "Perpetuals"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/derive/information/",
+      "pausedAt": "2026-10-08T22:31:56.127Z"
+    },
+    {
+      "slug": "thegraph",
+      "project": "The Graph",
+      "maxBounty": 50000,
+      "launchDate": "2021-08-04T17:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Go",
+          "Rust",
+          "Solidity",
+          "Typescript"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "ETH"
+        ],
+        "productType": [
+          "Services",
+          "Staking"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Blockchain",
+          "Infrastructure"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Vaults"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/thegraph/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "ichi",
+      "project": "Ichi",
+      "maxBounty": 50000,
+      "launchDate": "2021-06-17T15:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Stablecoin"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Not Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/ichi/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "vesper",
+      "project": "Vesper",
+      "maxBounty": 50000,
+      "launchDate": "2021-05-06T05:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "JavaScript",
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Yield Aggregator"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/vesper/information/",
+      "pausedAt": "2026-09-29T17:02:29.396Z"
+    },
+    {
+      "slug": "pareto",
+      "project": "Pareto Credit",
+      "maxBounty": 50000,
+      "launchDate": "2021-03-25T07:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Yield Aggregator"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/pareto/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "immunefi",
+      "project": "Immunefi",
+      "maxBounty": 50000,
+      "launchDate": "2020-12-02T05:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Optimism"
+        ],
+        "productType": [
+          "Bug bounty"
+        ],
+        "programType": [
+          "Websites and Applications",
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Infrastructure"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Safe Harbor",
+          "Immunefi Standard",
+          "KYC Required",
+          "Arbitration",
+          "PoC Required",
+          "Primacy of Impact",
+          "Vaults"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/immunefi/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "obyte",
+      "project": "Obyte",
+      "maxBounty": 50000,
+      "launchDate": "2020-12-01T07:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "JavaScript"
+        ],
+        "ecosystem": [
+          "Obyte"
+        ],
+        "productType": [
+          "L1",
+          "Wallet"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Blockchain/DLT",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Blockchain"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/obyte/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "nuva",
+      "project": "NUVA",
+      "maxBounty": 40000,
+      "launchDate": "2026-05-18T06:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/nuva/information/",
+      "pausedAt": "2026-10-05T10:14:39.959Z"
+    },
+    {
+      "slug": "gammaswap",
+      "project": "GammaSwap",
+      "maxBounty": 40000,
+      "launchDate": "2023-09-29T20:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum"
+        ],
+        "productType": [
+          "AMM",
+          "DEX",
+          "Derivatives",
+          "Lending",
+          "Options",
+          "Perpetuals"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/gammaswap/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "livepeer",
+      "project": "Livepeer",
+      "maxBounty": 40000,
+      "launchDate": "2022-02-25T04:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity",
+          "Go"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "ETH"
+        ],
+        "productType": [
+          "Services"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/livepeer/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "hedera",
+      "project": "Hedera",
+      "maxBounty": 30000,
+      "launchDate": "2025-02-05T04:21:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Websites and Applications",
+          "Blockchain/DLT"
+        ],
+        "projectType": [],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Premium Program",
+          "Vaults"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/hedera/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "serai",
+      "project": "Serai",
+      "maxBounty": 30000,
+      "launchDate": "2023-08-04T11:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Rust"
+        ],
+        "ecosystem": [],
+        "productType": [
+          "AMM",
+          "Crosschain Liquidity",
+          "DEX",
+          "L1"
+        ],
+        "programType": [
+          "Blockchain/DLT"
+        ],
+        "projectType": [
+          "Exchange",
+          "Defi",
+          "Blockchain"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/serai/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "1inch-aqua-improvement",
+      "project": "1inch - Aqua Improvement",
+      "maxBounty": 25000,
+      "launchDate": "2026-06-11T13:20:02.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/1inch-aqua-improvement/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "openzeppelin-stellar",
+      "project": "OpenZeppelin on Stellar",
+      "maxBounty": 25000,
+      "launchDate": "2025-05-08T02:51:06.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [],
+        "general": [
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Not Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/openzeppelin-stellar/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "exactly",
+      "project": "Exactly",
+      "maxBounty": 25000,
+      "launchDate": "2022-12-08T21:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Optimism"
+        ],
+        "productType": [
+          "Lending"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/exactly/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "zerion",
+      "project": "Zerion",
+      "maxBounty": 25000,
+      "launchDate": "2022-03-29T19:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "JavaScript",
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "Avalanche",
+          "BSC",
+          "ETH",
+          "Fantom",
+          "Optimism",
+          "Polygon",
+          "xDAI / Gnosis Chain"
+        ],
+        "productType": [
+          "Bridge",
+          "Crosschain Liquidity",
+          "DEX",
+          "Wallet"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi",
+          "NFT"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/zerion/information/",
+      "pausedAt": "2026-09-28T12:43:34.549Z"
+    },
+    {
+      "slug": "antefinance",
+      "project": "Ante Finance",
+      "maxBounty": 25000,
+      "launchDate": "2022-01-05T18:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Staking"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Blockchain",
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/antefinance/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "openzeppelin",
+      "project": "OpenZeppelin",
+      "maxBounty": 25000,
+      "launchDate": "2021-11-15T15:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [],
+        "productType": [
+          "Services"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi",
+          "Exchange",
+          "NFT"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/openzeppelin/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "nexusmutual",
+      "project": "Nexus Mutual",
+      "maxBounty": 25000,
+      "launchDate": "2021-02-23T07:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Insurance"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/nexusmutual/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "1inch-infrastructure",
+      "project": "1inch - Infrastructure",
+      "maxBounty": 20000,
+      "launchDate": "2026-06-11T14:09:17.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Websites and Applications"
+        ],
+        "projectType": [],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/1inch-infrastructure/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "xoxno",
+      "project": "XOXNO",
+      "maxBounty": 20000,
+      "launchDate": "2025-09-16T08:00:31.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Rust"
+        ],
+        "ecosystem": [],
+        "productType": [
+          "Lending"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/xoxno/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "hibachi",
+      "project": "Hibachi",
+      "maxBounty": 20000,
+      "launchDate": "2025-01-08T14:58:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": null,
+        "ecosystem": [
+          "Celestia"
+        ],
+        "productType": [
+          "DEX"
+        ],
+        "programType": [
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/hibachi/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "trufin",
+      "project": "TruYields",
+      "maxBounty": 20000,
+      "launchDate": "2023-09-27T14:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity",
+          "Rust"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Polygon",
+          "Solana"
+        ],
+        "productType": [
+          "Staking",
+          "Liquid Staking"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/trufin/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "hathornetwork",
+      "project": "Hathor Network",
+      "maxBounty": 20000,
+      "launchDate": "2023-03-15T19:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "JavaScript",
+          "Python"
+        ],
+        "ecosystem": [],
+        "productType": [
+          "L1",
+          "Wallet"
+        ],
+        "programType": [
+          "Websites and Applications",
+          "Blockchain/DLT"
+        ],
+        "projectType": [
+          "Blockchain"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/hathornetwork/information/",
+      "pausedAt": "2026-09-24T14:47:32.798Z"
+    },
+    {
+      "slug": "horizen",
+      "project": "Horizen",
+      "maxBounty": 10000,
+      "launchDate": "2026-07-15T11:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity",
+          "Typescript",
+          "ReactJS"
+        ],
+        "ecosystem": [
+          "Base"
+        ],
+        "productType": [
+          "L2",
+          "Staking"
+        ],
+        "programType": [
+          "Websites and Applications",
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Blockchain"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/horizen/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "edgex",
+      "project": "edgeX",
+      "maxBounty": 10000,
+      "launchDate": "2026-04-07T22:57:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [],
+        "programType": [
+          "Websites and Applications"
+        ],
+        "projectType": [],
+        "general": [
+          "Triaged by Immunefi",
+          "Safe Harbor",
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Not Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/edgex/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "ofza-1",
+      "project": "OFZA",
+      "maxBounty": 10000,
+      "launchDate": "2025-06-18T05:11:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [
+          "CEX"
+        ],
+        "programType": [
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Exchange"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/ofza-1/information/",
+      "pausedAt": "2026-09-28T12:46:52.718Z"
+    },
+    {
+      "slug": "yo-protocol",
+      "project": "YO Protocol",
+      "maxBounty": 10000,
+      "launchDate": "2025-05-05T13:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [
+          "Yield Aggregator",
+          "Asset Management"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/yo-protocol/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "berachain-webapps",
+      "project": "Berachain (Web/Apps)",
+      "maxBounty": 10000,
+      "launchDate": "2025-03-18T09:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [],
+        "productType": [
+          "L1"
+        ],
+        "programType": [
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Blockchain",
+          "Infrastructure"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/berachain-webapps/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "velvet-capital-v2",
+      "project": "Velvet Capital V2",
+      "maxBounty": 10000,
+      "launchDate": "2024-09-05T21:23:24.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [],
+        "ecosystem": [
+          "BSC"
+        ],
+        "productType": [
+          "Asset Management"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/velvet-capital-v2/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "avalabs",
+      "project": "Ava Labs",
+      "maxBounty": 10000,
+      "launchDate": "2023-12-04T09:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Go",
+          "JavaScript",
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Avalanche"
+        ],
+        "productType": [
+          "L1",
+          "Wallet"
+        ],
+        "programType": [
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Blockchain"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/avalabs/information/",
+      "pausedAt": "2026-10-07T08:14:07.409Z"
+    },
+    {
+      "slug": "pragmaoracle",
+      "project": "Pragma Oracle",
+      "maxBounty": 10000,
+      "launchDate": "2023-11-22T09:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Cairo"
+        ],
+        "ecosystem": [
+          "Starknet"
+        ],
+        "productType": [
+          "Oracle"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/pragmaoracle/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "marsecosystem",
+      "project": "Mars Ecosystem",
+      "maxBounty": 10000,
+      "launchDate": "2021-09-08T11:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "BSC",
+          "ETH"
+        ],
+        "productType": [
+          "Stablecoin"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/marsecosystem/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "moneyonchain",
+      "project": "Money on Chain / RIF on Chain",
+      "maxBounty": 10000,
+      "launchDate": "2021-01-14T07:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity",
+          "Python",
+          "Typescript"
+        ],
+        "ecosystem": [
+          "RSK"
+        ],
+        "productType": [
+          "Stablecoin",
+          "Staking"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/moneyonchain/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "charm",
+      "project": "Charm",
+      "maxBounty": 6000,
+      "launchDate": "2021-02-05T07:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "AMM",
+          "Options"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/charm/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "leather",
+      "project": "Leather",
+      "maxBounty": 5000,
+      "launchDate": "2026-07-30T07:43:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Typescript"
+        ],
+        "ecosystem": [
+          "Stacks",
+          "Bitcoin"
+        ],
+        "productType": [
+          "Wallet"
+        ],
+        "programType": [
+          "Websites and Applications"
+        ],
+        "projectType": [],
+        "general": [
+          "Triaged by Immunefi",
+          "KYC Required",
+          "Arbitration",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/leather/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "blockpinetwork",
+      "project": "BlockPI Network",
+      "maxBounty": 5000,
+      "launchDate": "2022-11-11T03:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [],
+        "ecosystem": [
+          "Arbitrum",
+          "Avalanche",
+          "BSC",
+          "Base",
+          "Cronos",
+          "ETH",
+          "Fantom",
+          "Gnosis",
+          "Klaytn",
+          "Linea",
+          "Meter",
+          "Oasis",
+          "Optimism",
+          "Polygon",
+          "Scroll",
+          "Starknet",
+          "Viction",
+          "zkSync"
+        ],
+        "productType": [
+          "Services"
+        ],
+        "programType": [
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Infrastructure"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/blockpinetwork/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "autonolas",
+      "project": "Autonolas",
+      "maxBounty": 5000,
+      "launchDate": "2022-08-10T17:30:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Base",
+          "Celo",
+          "Gnosis",
+          "Optimism",
+          "Polygon",
+          "Arbitrum",
+          "Mode"
+        ],
+        "productType": [
+          "DAO",
+          "Services",
+          "Token",
+          "Staking",
+          "Oracle"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Infrastructure"
+        ],
+        "general": [
+          "KYC Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/autonolas/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "mtpelerin",
+      "project": "Mt Pelerin",
+      "maxBounty": 5000,
+      "launchDate": "2021-02-08T07:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "Avalanche",
+          "BSC",
+          "Base",
+          "Bitcoin",
+          "ETH",
+          "Gnosis",
+          "Optimism",
+          "Polygon",
+          "Rootstock",
+          "Tezos",
+          "Celo",
+          "zkSync",
+          "Lightning",
+          "Sonic",
+          "xDAI / Gnosis Chain"
+        ],
+        "productType": [
+          "Bridge",
+          "CEX",
+          "Wallet"
+        ],
+        "programType": [
+          "Websites and Applications",
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi",
+          "Exchange"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/mtpelerin/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "ipor",
+      "project": "IPOR",
+      "maxBounty": 1000,
+      "launchDate": "2023-04-11T18:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "ETH"
+        ],
+        "productType": [
+          "AMM",
+          "Asset Management",
+          "DEX",
+          "Derivatives",
+          "L2",
+          "Staking"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/ipor/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "unstoppablewallet",
+      "project": "Unstoppable Wallet",
+      "maxBounty": 1000,
+      "launchDate": "2022-03-04T04:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Kotlin"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Asset Management",
+          "Wallet"
+        ],
+        "programType": [
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Blockchain",
+          "Defi",
+          "NFT"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/unstoppablewallet/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "acala",
+      "project": "Acala",
+      "maxBounty": 1000,
+      "launchDate": "2021-12-14T02:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Rust"
+        ],
+        "ecosystem": [
+          "Polkadot"
+        ],
+        "productType": [
+          "Stablecoin",
+          "Staking"
+        ],
+        "programType": [
+          "Blockchain/DLT"
+        ],
+        "projectType": [
+          "Blockchain",
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/acala/information/",
+      "pausedAt": null
+    }
+  ],
+  "competitions": [
+    {
+      "slug": "audit-competition-ens",
+      "project": "Audit Competition | ENS",
+      "rewardsPool": 70000,
+      "launchDate": "2026-08-18T08:00:00.000Z",
+      "endDate": "2026-09-14T11:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-competition-ens/information/"
+    },
+    {
+      "slug": "audit-comp-firelight-1",
+      "project": "Audit Comp | Firelight",
+      "rewardsPool": 20000,
+      "launchDate": "2026-08-12T08:30:00.000Z",
+      "endDate": "2026-08-25T10:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-comp-firelight-1/information/"
+    },
+    {
+      "slug": "audit-comp-quantus",
+      "project": "Audit Comp | Quantus",
+      "rewardsPool": 20000,
+      "launchDate": "2026-08-12T08:30:00.000Z",
+      "endDate": "2026-08-25T10:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-comp-quantus/information/"
+    },
+    {
+      "slug": "firedancer-v1-audit-comp",
+      "project": "Audit Comp | Firedancer V1",
+      "rewardsPool": 1000000,
+      "launchDate": "2026-04-09T17:00:00.000Z",
+      "endDate": "2026-05-09T17:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/firedancer-v1-audit-comp/information/"
+    },
+    {
+      "slug": "audit-comp-base-azul",
+      "project": "Audit Comp | Base Azul",
+      "rewardsPool": 250000,
+      "launchDate": "2026-04-21T20:00:00.000Z",
+      "endDate": "2026-05-04T20:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-comp-base-azul/information/"
+    },
+    {
+      "slug": "audit-comp-folks-finance-staking-contracts",
+      "project": "Audit Comp | Folks Finance: Staking Contracts",
+      "rewardsPool": 25000,
+      "launchDate": "2026-03-11T15:00:00.000Z",
+      "endDate": "2026-03-17T15:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-comp-folks-finance-staking-contracts/information/"
+    },
+    {
+      "slug": "xrpl-ripple-attackathon",
+      "project": "Attackathon | XRPL Lending Protocol",
+      "rewardsPool": 200000,
+      "launchDate": "2025-10-27T14:00:00.000Z",
+      "endDate": "2025-11-24T14:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/xrpl-ripple-attackathon/information/"
+    },
+    {
+      "slug": "alchemix-v3-audit-competition",
+      "project": "Audit Comp | Alchemix V3",
+      "rewardsPool": 100000,
+      "launchDate": "2025-10-14T15:00:00.000Z",
+      "endDate": "2025-11-04T14:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/alchemix-v3-audit-competition/information/"
+    },
+    {
+      "slug": "audit-comp-belong",
+      "project": "Audit Comp | Belong",
+      "rewardsPool": 30000,
+      "launchDate": "2025-10-20T15:00:00.000Z",
+      "endDate": "2025-10-29T15:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-comp-belong/information/"
+    },
+    {
+      "slug": "lido-v3-bug-bounty-competition",
+      "project": "Bug Bounty Comp | Lido V3",
+      "rewardsPool": 0,
+      "launchDate": "2025-11-12T13:00:00.000Z",
+      "endDate": "2025-12-09T12:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/lido-v3-bug-bounty-competition/information/"
+    },
+    {
+      "slug": "audit-comp-vechain-stargate-hayabusa",
+      "project": "Audit Comp | Vechain | Stargate Hayabusa",
+      "rewardsPool": 40000,
+      "launchDate": "2025-11-10T10:00:00.000Z",
+      "endDate": "2025-11-24T10:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-comp-vechain-stargate-hayabusa/information/"
+    },
+    {
+      "slug": "audit-comp-firelight",
+      "project": "Audit Comp | Firelight",
+      "rewardsPool": 15000,
+      "launchDate": "2025-11-07T14:00:00.000Z",
+      "endDate": "2025-11-17T10:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-comp-firelight/information/"
+    },
+    {
+      "slug": "vechain-hayabusa-upgrade-attackathon",
+      "project": "Attackathon | VeChain Hayabusa Upgrade",
+      "rewardsPool": 160000,
+      "launchDate": "2025-10-01T13:00:00.000Z",
+      "endDate": "2025-10-26T14:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/vechain-hayabusa-upgrade-attackathon/information/"
+    },
+    {
+      "slug": "audit-comp--folks-finance-wormhole-ntt-on-algorand",
+      "project": "Audit Comp | Folks Finance: Wormhole NTT on Algorand",
+      "rewardsPool": 30000,
+      "launchDate": "2025-10-16T10:00:00.000Z",
+      "endDate": "2025-10-27T10:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-comp--folks-finance-wormhole-ntt-on-algorand/information/"
+    },
+    {
+      "slug": "plume-network-attackathon",
+      "project": "Attackathon | Plume Network",
+      "rewardsPool": 200000,
+      "launchDate": "2025-07-17T18:00:00.000Z",
+      "endDate": "2025-08-14T19:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/plume-network-attackathon/information/"
+    },
+    {
+      "slug": "flare-fassets--mitigation-audit",
+      "project": "Mitigation Audit | Flare | FAssets",
+      "rewardsPool": 25000,
+      "launchDate": "2025-09-18T10:00:00.000Z",
+      "endDate": "2025-09-25T10:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/flare-fassets--mitigation-audit/information/"
+    },
+    {
+      "slug": "lido-bug-bounty-competition",
+      "project": "Bug Bounty Comp | Lido: Dual Governance",
+      "rewardsPool": 0,
+      "launchDate": "2025-07-29T12:00:00.000Z",
+      "endDate": "2025-08-12T12:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/lido-bug-bounty-competition/information/"
+    },
+    {
+      "slug": "folks-sc-library",
+      "project": "Audit Comp | Folks Smart Contract Library",
+      "rewardsPool": 30000,
+      "launchDate": "2025-07-07T10:00:00.000Z",
+      "endDate": "2025-07-21T10:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/folks-sc-library/information/"
+    },
+    {
+      "slug": "audit-comp-flare-fassets",
+      "project": "Audit Comp | Flare | FAssets",
+      "rewardsPool": 125000,
+      "launchDate": "2025-05-12T10:00:00.000Z",
+      "endDate": "2025-06-09T10:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-comp-flare-fassets/information/"
+    },
+    {
+      "slug": "iop-paradex",
+      "project": "IOP | Paradex",
+      "rewardsPool": 45000,
+      "launchDate": "2025-05-23T07:00:00.000Z",
+      "endDate": "2025-06-13T07:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/iop-paradex/information/"
+    },
+    {
+      "slug": "iop-zano-trade",
+      "project": "IOP | Zano Trade",
+      "rewardsPool": 20000,
+      "launchDate": "2025-06-19T10:00:00.000Z",
+      "endDate": "2025-07-03T10:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/iop-zano-trade/information/"
+    },
+    {
+      "slug": "iop-term-structure",
+      "project": "IOP | Term Structure Institutional",
+      "rewardsPool": 6000,
+      "launchDate": "2025-06-02T10:00:21.000Z",
+      "endDate": "2025-06-16T10:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/iop-term-structure/information/"
+    },
+    {
+      "slug": "audit-comp-spectra-finance",
+      "project": "Audit Comp | Spectra Finance",
+      "rewardsPool": 40000,
+      "launchDate": "2025-04-03T14:00:00.000Z",
+      "endDate": "2025-04-17T14:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-comp-spectra-finance/information/"
+    },
+    {
+      "slug": "stacks-attackathon-2",
+      "project": "Attackathon | Stacks II",
+      "rewardsPool": 250000,
+      "launchDate": "2025-02-24T08:00:00.000Z",
+      "endDate": "2025-03-27T08:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/stacks-attackathon-2/information/"
+    },
+    {
+      "slug": "movement-labs-attackathon",
+      "project": "Attackathon | Movement Labs",
+      "rewardsPool": 400000,
+      "launchDate": "2025-03-07T18:00:00.000Z",
+      "endDate": "2025-04-04T18:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/movement-labs-attackathon/information/"
+    },
+    {
+      "slug": "ethereum-protocol-attackathon",
+      "project": "Attackathon | Ethereum Protocol",
+      "rewardsPool": 1500000,
+      "launchDate": "2024-11-25T14:00:00.000Z",
+      "endDate": "2025-01-25T14:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/ethereum-protocol-attackathon/information/"
+    },
+    {
+      "slug": "audit-comp-yeet",
+      "project": "Audit Comp | Yeet",
+      "rewardsPool": 30000,
+      "launchDate": "2025-03-11T14:00:00.000Z",
+      "endDate": "2025-03-25T14:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-comp-yeet/information/"
+    },
+    {
+      "slug": "iop-circuitdao",
+      "project": "IOP | CircuitDAO",
+      "rewardsPool": 10000,
+      "launchDate": "2025-04-09T13:50:00.000Z",
+      "endDate": "2025-04-24T14:42:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/iop-circuitdao/information/"
+    },
+    {
+      "slug": "audit-comp-shardeum-core-iii",
+      "project": "Audit Comp | Shardeum: Core III",
+      "rewardsPool": 250000,
+      "launchDate": "2025-01-15T21:44:00.000Z",
+      "endDate": "2025-02-12T17:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-comp-shardeum-core-iii/information/"
+    },
+    {
+      "slug": "audit-comp-shardeum-ancillaries-iii",
+      "project": "Audit Comp | Shardeum: Ancillaries III",
+      "rewardsPool": 100000,
+      "launchDate": "2025-01-15T21:45:00.000Z",
+      "endDate": "2025-02-12T17:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-comp-shardeum-ancillaries-iii/information/"
+    },
+    {
+      "slug": "iop-zano",
+      "project": "IOP | Zano",
+      "rewardsPool": 25000,
+      "launchDate": "2025-02-17T10:00:00.000Z",
+      "endDate": "2025-03-10T14:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/iop-zano/information/"
+    },
+    {
+      "slug": "audit-comp-butter",
+      "project": "Audit Comp | Butter",
+      "rewardsPool": 30000,
+      "launchDate": "2025-01-23T10:00:00.000Z",
+      "endDate": "2025-02-01T10:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-comp-butter/information/"
+    },
+    {
+      "slug": "audit-comp-lombard",
+      "project": "Audit Comp | Lombard",
+      "rewardsPool": 100000,
+      "launchDate": "2024-12-18T16:00:00.000Z",
+      "endDate": "2025-01-08T16:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-comp-lombard/information/"
+    },
+    {
+      "slug": "stacks-attackathon-1",
+      "project": "Attackathon | Stacks",
+      "rewardsPool": 250000,
+      "launchDate": "2024-12-02T08:00:00.000Z",
+      "endDate": "2025-01-13T08:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/stacks-attackathon-1/information/"
+    },
+    {
+      "slug": "audit-comp-celo",
+      "project": "Audit Comp | Celo",
+      "rewardsPool": 50000,
+      "launchDate": "2024-11-13T19:00:43.000Z",
+      "endDate": "2024-12-06T19:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-comp-celo/information/"
+    },
+    {
+      "slug": "jito-restaking-audit-competition",
+      "project": "Audit Comp | Jito Restaking",
+      "rewardsPool": 150000,
+      "launchDate": "2024-11-04T10:00:41.000Z",
+      "endDate": "2024-12-02T10:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/jito-restaking-audit-competition/information/"
+    },
+    {
+      "slug": "folks-finance-liquid-staking-audit-competition",
+      "project": "Audit Comp | Folks: Liquid Staking",
+      "rewardsPool": 30000,
+      "launchDate": "2024-12-09T10:00:12.000Z",
+      "endDate": "2024-12-19T10:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/folks-finance-liquid-staking-audit-competition/information/"
+    },
+    {
+      "slug": "swaylend-frontend-iop",
+      "project": "IOP | SwayLend Frontend",
+      "rewardsPool": 30000,
+      "launchDate": "2024-11-12T10:00:00.000Z",
+      "endDate": "2024-12-17T10:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/swaylend-frontend-iop/information/"
+    },
+    {
+      "slug": "iop-fluid-protocol",
+      "project": "IOP | Fluid Protocol",
+      "rewardsPool": 80000,
+      "launchDate": "2024-11-14T11:00:00.000Z",
+      "endDate": "2024-12-12T10:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/iop-fluid-protocol/information/"
+    },
+    {
+      "slug": "audit-comp-anvil-letters-of-credit",
+      "project": "Audit Comp | Anvil: Letters of Credit",
+      "rewardsPool": 30000,
+      "launchDate": "2024-11-11T10:00:28.000Z",
+      "endDate": "2024-11-22T10:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-comp-anvil-letters-of-credit/information/"
+    },
+    {
+      "slug": "audit-comp-anvil",
+      "project": "Audit Comp | Anvil",
+      "rewardsPool": 50000,
+      "launchDate": "2024-10-16T08:00:00.000Z",
+      "endDate": "2024-11-06T08:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/audit-comp-anvil/information/"
+    },
+    {
+      "slug": "shardeum-ancillaries-ii-boost",
+      "project": "Audit Comp | Shardeum: Ancillaries II",
+      "rewardsPool": 100000,
+      "launchDate": "2024-09-04T12:00:00.000Z",
+      "endDate": "2024-10-16T12:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/shardeum-ancillaries-ii-boost/information/"
+    },
+    {
+      "slug": "shardeum-core-ii-boost",
+      "project": "Audit Comp | Shardeum: Core II",
+      "rewardsPool": 150000,
+      "launchDate": "2024-09-04T12:00:00.000Z",
+      "endDate": "2024-10-16T12:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/shardeum-core-ii-boost/information/"
+    },
+    {
+      "slug": "boost-acre",
+      "project": "Audit Comp | Acre",
+      "rewardsPool": 50000,
+      "launchDate": "2024-08-20T08:00:25.000Z",
+      "endDate": "2024-09-03T08:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/boost-acre/information/"
+    },
+    {
+      "slug": "iop-swaylend",
+      "project": "IOP | Swaylend",
+      "rewardsPool": 45000,
+      "launchDate": "2024-10-01T08:00:00.000Z",
+      "endDate": "2024-10-22T12:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/iop-swaylend/information/"
+    },
+    {
+      "slug": "fuel-network-attackathon",
+      "project": "Attackathon | Fuel Network",
+      "rewardsPool": 1000000,
+      "launchDate": "2024-06-17T08:00:00.000Z",
+      "endDate": "2024-07-29T08:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/fuel-network-attackathon/information/"
+    },
+    {
+      "slug": "boost-lido",
+      "project": "Audit Comp | Lido: Mellow Vault",
+      "rewardsPool": 100000,
+      "launchDate": "2024-08-15T12:00:00.000Z",
+      "endDate": "2024-09-05T08:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/boost-lido/information/"
+    },
+    {
+      "slug": "thundernft-iop",
+      "project": "IOP | ThunderNFT",
+      "rewardsPool": 65000,
+      "launchDate": "2024-08-12T11:00:00.000Z",
+      "endDate": "2024-09-02T08:00:28.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/thundernft-iop/information/"
+    },
+    {
+      "slug": "firedancer-boost",
+      "project": "Audit Comp | Firedancer v0.1",
+      "rewardsPool": 1000000,
+      "launchDate": "2024-07-10T17:00:00.000Z",
+      "endDate": "2024-08-21T08:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/firedancer-boost/information/"
+    },
+    {
+      "slug": "boost-idex",
+      "project": "Audit Comp | IDEX",
+      "rewardsPool": 45000,
+      "launchDate": "2024-07-30T08:00:00.000Z",
+      "endDate": "2024-08-23T08:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/boost-idex/information/"
+    },
+    {
+      "slug": "shardeum-ancillaries-boost",
+      "project": "Audit Comp | Shardeum: Ancillaries",
+      "rewardsPool": 200000,
+      "launchDate": "2024-07-08T06:00:00.000Z",
+      "endDate": "2024-08-14T06:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/shardeum-ancillaries-boost/information/"
+    },
+    {
+      "slug": "shardeum-core-boost",
+      "project": "Audit Comp | Shardeum: Core",
+      "rewardsPool": 500000,
+      "launchDate": "2024-07-08T06:00:00.000Z",
+      "endDate": "2024-08-14T06:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/shardeum-core-boost/information/"
+    },
+    {
+      "slug": "mitigation-audit-folksfinance",
+      "project": "Mitigation Audit | Folks Finance",
+      "rewardsPool": 25000,
+      "launchDate": "2024-08-27T11:00:00.000Z",
+      "endDate": "2024-09-05T11:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/mitigation-audit-folksfinance/information/"
+    },
+    {
+      "slug": "folksfinance-boost",
+      "project": "Audit Comp | Folks Finance",
+      "rewardsPool": 100000,
+      "launchDate": "2024-07-16T08:00:00.000Z",
+      "endDate": "2024-08-06T08:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/folksfinance-boost/information/"
+    },
+    {
+      "slug": "ionic-iop",
+      "project": "IOP | Ionic",
+      "rewardsPool": 4000,
+      "launchDate": "2024-06-12T08:00:00.000Z",
+      "endDate": "2024-06-19T10:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/ionic-iop/information/"
+    },
+    {
+      "slug": "alchemix-boost",
+      "project": "Audit Comp | Alchemix",
+      "rewardsPool": 125000,
+      "launchDate": "2024-04-30T10:30:00.000Z",
+      "endDate": "2024-05-21T10:30:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/alchemix-boost/information/"
+    },
+    {
+      "slug": "hinkal-iop",
+      "project": "IOP | Hinkal",
+      "rewardsPool": 0,
+      "launchDate": "2024-04-16T18:00:00.000Z",
+      "endDate": "2024-05-07T21:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/hinkal-iop/information/"
+    },
+    {
+      "slug": "zerolend-boost",
+      "project": "Audit Comp | ZeroLend",
+      "rewardsPool": 200000,
+      "launchDate": "2024-02-29T08:00:00.000Z",
+      "endDate": "2024-03-14T08:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/zerolend-boost/information/"
+    },
+    {
+      "slug": "immunefiarbitration-boost",
+      "project": "Audit Comp | Immunefi Arbitration",
+      "rewardsPool": 30000,
+      "launchDate": "2024-03-12T08:00:00.000Z",
+      "endDate": "2024-04-02T08:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/immunefiarbitration-boost/information/"
+    },
+    {
+      "slug": "pufferfinance-boost",
+      "project": "Audit Comp | Puffer Finance",
+      "rewardsPool": 50000,
+      "launchDate": "2024-02-22T08:00:00.000Z",
+      "endDate": "2024-03-07T08:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/pufferfinance-boost/information/"
+    },
+    {
+      "slug": "ebtc-boost",
+      "project": "Audit Comp | eBTC",
+      "rewardsPool": 200000,
+      "launchDate": "2024-02-19T08:00:00.000Z",
+      "endDate": "2024-03-04T08:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/ebtc-boost/information/"
+    },
+    {
+      "slug": "boosteddegatebugbounty",
+      "project": "Audit Comp | DeGate",
+      "rewardsPool": 50000,
+      "launchDate": "2023-11-20T16:00:00.000Z",
+      "endDate": "2023-12-04T09:00:00.000Z",
+      "auditCompetitionStatus": "FINISHED",
+      "url": "/audit-competition/boosteddegatebugbounty/information/"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+name = "wunderaudit-recommender"
+main = "src/index.ts"
+compatibility_date = "2026-05-20"
+
+[vars]
+ALLOWED_ORIGIN = "*"
+RATE_LIMIT_MAX_REQUESTS = "12"
+RATE_LIMIT_WINDOW_SECONDS = "600"
+

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Node / Vite
+node_modules/
+apps/dashboard/dist/
+*.tsbuildinfo
+workers/**/.wrangler/
+
+# Secrets
+.env
+.dev.vars
+
+# OS
+.DS_Store
+Thumbs.db
+

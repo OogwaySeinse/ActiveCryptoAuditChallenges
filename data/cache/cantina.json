@@ -1,0 +1,1914 @@
+[
+  {
+    "id": "e275368c-547d-4d91-a418-053ad31082a8",
+    "name": "Revert v4lend Competition",
+    "url": "https://cantina.xyz/competitions/e275368c-547d-4d91-a418-053ad31082a8",
+    "company": {
+      "id": "0f0dce95-672d-44e5-80df-cbcce25e4180",
+      "name": "Revert Finance",
+      "handle": "revert-finance",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/da92d699-1cbf-4a22-de6b-a549ad0f0600/public",
+      "website": "https://revert.finance/",
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2026-10-06T18:30:00Z",
+      "end": "2026-11-03T18:30:00Z"
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "50000",
+    "kycRequired": true,
+    "totalFindings": 1752,
+    "createdAt": "2026-09-21T09:21:19.160847Z",
+    "kind": "public_contest",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "`v4lend` is a Uniswap v4-native lending and automation codebase built by Revert Finance.\n\nIt includes:\n\n- a lending vault that accepts Uniswap v4 LP NFTs as collateral,\n- a two-source oracle for valuing LP positions using Chainlink-compatible feeds with Uniswap v3 TWAP verification,\n- a Uniswap v4 hook for on-swap automation (auto exit, auto range, auto collect, auto lend, auto leverage),\n- standalone operator-driven automators for the same strategies outside the hook path,\n- vault transformers for atomic position management (range changes, compounding, leverage),\n- liquidation helpers and sha",
+    "_type": "audit_contest"
+  },
+  {
+    "id": "f9df94db-c7b1-434b-bb06-d1360abdd1be",
+    "name": "Uniswap",
+    "url": "https://cantina.xyz/bounties/f9df94db-c7b1-434b-bb06-d1360abdd1be",
+    "company": {
+      "id": "d4db2695-9f71-43c7-9df4-e6e11d16e17a",
+      "name": "Uniswap Labs",
+      "handle": "uniswap",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/996f66ba-85cb-426e-8735-30c8cd8a6300/public",
+      "website": "https://uniswap.org",
+      "github": "Uniswap",
+      "twitter": "Uniswap"
+    },
+    "timeframe": {
+      "start": "2024-11-26T14:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "15500000",
+    "submissionFee": "50.00",
+    "kycRequired": true,
+    "totalFindings": 1095,
+    "createdAt": "2024-07-16T03:43:37.841146Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "# What We're Looking For\n\n**Smart Contract Vulnerabilities**\n\n- Protocol-level bugs that affect core AMM functionality, liquidity provision, or fee collection\n- Integration vulnerabilities in hooks, periphery contracts, or external integrations\n- Economic exploits that enable unfair value extraction or manipulation\n- Access control issues that bypass intended permissions or restrictions\n\n**Infrastructure & Deployment Issues**\n- Deployment configuration errors that could be exploited before contracts are properly configured\n- Upgrade mechanism vulnerabilities (where applicable)\n- Cross-chain br",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "3709ca85-4050-407e-9b36-51f5d5ea9b00",
+    "name": "Reserve Protocol Bug Bounty",
+    "url": "https://cantina.xyz/bounties/3709ca85-4050-407e-9b36-51f5d5ea9b00",
+    "company": {
+      "id": "1da30b3d-a65d-4c5b-b423-eb42ee91f829",
+      "name": "Reserve Protocol",
+      "handle": "reserve-protocol",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/9b09e384-f489-4960-ce29-ed0ba1bd6400/public",
+      "website": "https://reserve.org",
+      "github": "reserve-protocol",
+      "twitter": "reserveprotocol"
+    },
+    "timeframe": {
+      "start": "2026-03-26T16:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "10000000",
+    "submissionFee": "100.00",
+    "kycRequired": true,
+    "totalFindings": 227,
+    "createdAt": "2026-02-20T03:54:10.767988Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "The Reserve project is guided by the belief that everyone should be able to own their share of the world's wealth. Its platform lets anyone hold and transfer an entire portfolio of tokenized assets as a single unit, so as more of the world's wealth moves onchain, anyone can own their share of it.\n\nThis lays the groundwork for asset-backed currency: money backed by real assets rather than inflationary fiat that loses purchasing power over time. When people earn more than they spend while holding value this way, they steadily build ownership of a share of the world’s wealth.\n\nReserve is not just",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "4d285eee-602e-440a-845e-25e155cec26a",
+    "name": "Euler-Bounty",
+    "url": "https://cantina.xyz/bounties/4d285eee-602e-440a-845e-25e155cec26a",
+    "company": {
+      "id": "0c80319f-cce2-4c71-ac0c-ae00ed1a8ce0",
+      "name": "Euler",
+      "handle": "euler",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/8652cfc9-3821-4ecf-caf5-25ffab4b3a00/public",
+      "website": "https://www.euler.finance/",
+      "github": "euler-xyz",
+      "twitter": "eulerfinance"
+    },
+    "timeframe": {
+      "start": "2024-08-21T16:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC + rEUL + USUAL",
+    "totalRewardPot": "7500000",
+    "submissionFee": "20.00",
+    "kycRequired": true,
+    "totalFindings": 627,
+    "createdAt": "2024-08-21T15:45:40.588667Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Euler V2 is a modular lending platform with two main components at launch: 1) the Euler Vault Kit (EVK), which empowers builders to deploy and chain together their own customised lending vaults in a permissionless manner; and 2) the Ethereum Vault Connector (EVC), a powerful, immutable, primitive which give vaults superpowers by allowing their use as collateral for other vaults. Together, the EVK and EVC provide the flexibility to build or recreate any type of pre-existing or future-state lending product inside the Euler ecosystem.\n\n\n#### Euler Vault Kit: \nThe Euler Vault Kit is a system for c",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "55316f42-3c5e-4746-9bd0-0f18dcbc344b",
+    "name": "Coinbase",
+    "url": "https://cantina.xyz/bounties/55316f42-3c5e-4746-9bd0-0f18dcbc344b",
+    "company": {
+      "id": "271d0d83-9333-487c-950d-92dbf96ec5f8",
+      "name": "Coinbase",
+      "handle": "coinbase",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/32f837aa-461f-42b4-5c99-2aa6599cf500/public",
+      "website": "https://www.base.org/",
+      "github": "base",
+      "twitter": "base"
+    },
+    "timeframe": {
+      "start": "2025-07-08T14:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "5000000",
+    "kycRequired": true,
+    "totalFindings": 1759,
+    "createdAt": "2025-06-16T14:58:28.440194Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "We're excited to launch Coinbase’s new Onchain Bug Bounty Program, focused on securing our smart contracts across all onchain products. This program invites security researchers and the broader onchain community to identify and responsibly disclose vulnerabilities in any of our deployed smart contracts. All mainnet contracts deployed by Coinbase are in scope as well as contracts for Base. By participating, researchers help safeguard user funds and contribute directly to the resilience of the decentralized products we’re building.\n\n## Program Details\n\nThis bug bounty program is specifically sco",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "ff945ca2-2a6e-4b83-b1b6-7a0cd3b94bea",
+    "name": "Polymarket",
+    "url": "https://cantina.xyz/bounties/ff945ca2-2a6e-4b83-b1b6-7a0cd3b94bea",
+    "company": {
+      "id": "6e44c26a-e9d2-45c1-9a59-8447756b8371",
+      "name": "Polymarket",
+      "handle": "polymarket",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/d2ebe2eb-7c5e-474b-f255-82266f1eb800/public",
+      "website": null,
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2026-04-12T22:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "5000000",
+    "submissionFee": "5.00",
+    "kycRequired": true,
+    "totalFindings": 1011,
+    "createdAt": "2026-04-07T16:58:27.461104Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "# Introduction\n\nPolymarket is the world's largest prediction market. With Polymarket you can bet on the outcome of future events in a wide range of topics, like sports, politics, and pop culture. Get accurate real-time probabilities of the events that matter most to you.\n\n## Severity and Rewards\n\nVulnerabilities are classified by Impact and Likelihood. The combination determines the severity and guides the reward amount.\n\n### Risk Classification Matrix\n\n| Severity Level | Impact: Critical | Impact: High | Impact: Medium | Impact: Low |\n|---|---|---|---|---|\n| **Likelihood: High** | Critical | ",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "35a5f0a1-2ffd-432c-8f3b-77d169add8c3",
+    "name": "Morpho",
+    "url": "https://cantina.xyz/bounties/35a5f0a1-2ffd-432c-8f3b-77d169add8c3",
+    "company": {
+      "id": "8abda30e-5feb-462f-aec0-47b86f1632e5",
+      "name": "Morpho",
+      "handle": "morpho",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/56103ebb-f81c-409e-c60b-5eb6e9bb7900/public",
+      "website": "https://morpho.org",
+      "github": "morpho-org",
+      "twitter": "Morpho"
+    },
+    "timeframe": {
+      "start": "2024-03-27T18:37:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "2500000",
+    "submissionFee": "30.00",
+    "kycRequired": false,
+    "totalFindings": 1701,
+    "createdAt": "2024-03-27T18:36:14.219805Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "informational",
+      "low"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Morpho is an open lending network that connects lenders and borrowers to the best opportunities globally. Businesses integrate Morpho's neutral infrastructure to power lending or borrowing products at scale, including embedded crypto-backed loans and earn products. Morpho network is powered by multiple protocols:\n- **Morpho Midnight**: a non-custodial fixed-rate lending protocol.\n- **Morpho Blue**: a non-custodial variable rate lending protocol.\n- **Morpho Vault V2**: non-custodial vaults that can allocate to any protocol via adapters.\n- **Morpho Vaults V1** (previously known as MetaMorpho): n",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "fb1f1c54-0cb9-4201-8791-fb1e78e6e600",
+    "name": "Pendle Bounty",
+    "url": "https://cantina.xyz/bounties/fb1f1c54-0cb9-4201-8791-fb1e78e6e600",
+    "company": {
+      "id": "c9168797-d58f-4e73-ba5f-aca6d2b57484",
+      "name": "Pendle Finance",
+      "handle": "pendle-finance",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/2b01fc25-74fe-4674-66e2-b90805e65500/public",
+      "website": "https://www.pendle.finance",
+      "github": "pendle-finance",
+      "twitter": "pendle_fi"
+    },
+    "timeframe": {
+      "start": "2024-06-14T12:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "2000000",
+    "submissionFee": "100.00",
+    "kycRequired": false,
+    "totalFindings": 102,
+    "createdAt": "2024-06-10T21:10:51.269741Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "high",
+      "medium",
+      "low",
+      "informational",
+      "critical"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Pendle is the first protocol that enables the trading of tokenized future yield on an AMM system. The project aims to give holders of yield-generating assets the opportunity to generate additional yield and to lock in future yield upfront, while offering traders direct exposure to future yield streams, without the need for an underlying collateral.\n\nFurther resources about Pendle can be found at [pendle.finance](https://pendle.finance/)\n\nThe bug bounty program is focused on smart contract security and is primarily concerned with preventing loss of user funds and protocol insolvency.\n\n## Upfron",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "5ffa2a58-2121-4986-b318-43f8ba9a559e",
+    "name": "Ondo Perps",
+    "url": "https://cantina.xyz/bounties/5ffa2a58-2121-4986-b318-43f8ba9a559e",
+    "company": {
+      "id": "c44170fc-ba31-43e6-847c-1ea9e5769559",
+      "name": "Ondo Perps",
+      "handle": "OndoPerps",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/e6dee25f-7bbe-466d-69df-5cf213fbde00/public",
+      "website": "https://www.ondoperps.xyz/",
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2026-06-02T20:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "1500000",
+    "submissionFee": "20.00",
+    "kycRequired": true,
+    "totalFindings": 105,
+    "createdAt": "2026-06-01T08:25:16.545656Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Ondo Perps is a platform for perpetual futures on equities, indices, and commodities with up to 20x leverage and 24/7 trading. The first-of-its-kind permissionless platform is designed to unlock liquidity, execution speed, and capital efficiency that rivals traditional derivatives exchanges. It is powered by Ondo Finance technology, which also powers the institutional-grade infrastructure behind Ondo Global Markets, the world's largest tokenized stocks platform. Accessible worldwide outside the U.S., Panama, and other prohibited jurisdictions. Made available by Ondo Global (Panama) Inc.\n\nRewar",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "607dd012-08ad-4080-bf4a-78dc1c28faa9",
+    "name": "Kiln V1 Bounty",
+    "url": "https://cantina.xyz/bounties/607dd012-08ad-4080-bf4a-78dc1c28faa9",
+    "company": {
+      "id": "26ddb95d-2715-4701-8d30-614f17a21bb5",
+      "name": "Kiln",
+      "handle": "kilnfi",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/faceb1cf-6d27-4718-4623-387405d69000/public",
+      "website": "https://www.kiln.fi/",
+      "github": "kilnfi",
+      "twitter": "Kiln_finance"
+    },
+    "timeframe": {
+      "start": "2024-09-09T00:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "1000000",
+    "submissionFee": "30.00",
+    "kycRequired": true,
+    "totalFindings": 465,
+    "createdAt": "2024-09-04T18:03:49.358431Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Kiln On-Chain (v1) enables non-custodial platforms to propose an ETH staking offer where users can stake on dedicated validators while remaining the only one able to access their staked assets. \nThe goal of these Ethereum Smart Contracts is to enable:\n- Operator to register its validation keys deposit data on the Smart Contract\n- Users to deposit on approved and available validation keys\n- Manage the Execution and Consensus Layer rewards and exited ETH\n- Perform the commission dispatching on these ETH when user performs a withdrawal action\n\nThis Bug Bounty is focused on the Staking Smart Contr",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "260585d8-a3e8-4d70-8077-b6f3f5f0391b",
+    "name": "lifi-contracts-bounty",
+    "url": "https://cantina.xyz/bounties/260585d8-a3e8-4d70-8077-b6f3f5f0391b",
+    "company": {
+      "id": "6163da2a-82cf-4483-bbf7-64a624c3402f",
+      "name": "LI.FI",
+      "handle": "lifinance",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/522fcaf3-3e38-480f-f227-670d318b2700/public",
+      "website": "https://li.fi/",
+      "github": "lifinance",
+      "twitter": "lifiprotocol"
+    },
+    "timeframe": {
+      "start": "2025-03-20T03:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "1000000",
+    "submissionFee": "20.00",
+    "kycRequired": true,
+    "totalFindings": 346,
+    "createdAt": "2025-02-10T13:54:01.597705Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "LI.FI is a cross-chain aggregation protocol that combines multiple bridges and DEXs to enable seamless asset transfers between different blockchains. The protocol uses a diamond pattern (eip-2535) smart contract architecture where a main contract delegates calls to specialized facet contracts that handle specific bridge and DEX integrations. It simplifies cross-chain transfers for both developers and users by providing a single unified solution instead of requiring individual bridge integrations.\n\n## Scope\n\n**In-Scope Targets:**  \n- **Smart Contracts:**\t\n    - Repository: https://github.com/li",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "ea552420-8bd6-4119-815d-3d5203d0377a",
+    "name": "PancakeSwap Infinity",
+    "url": "https://cantina.xyz/bounties/ea552420-8bd6-4119-815d-3d5203d0377a",
+    "company": {
+      "id": "0f06aee4-fc96-4dbf-92d9-bfbb82a88692",
+      "name": "PancakeSwap",
+      "handle": "pancakeswap",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/4c26fe1f-ca4d-41d8-8f0d-ada392aa4500/public",
+      "website": null,
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2025-04-29T16:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "1000000",
+    "submissionFee": "10.00",
+    "kycRequired": true,
+    "totalFindings": 249,
+    "createdAt": "2025-04-22T09:07:00.340205Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": false,
+    "instructions": "PancakeSwap is a leading multi-chain DEX with ~$2B in TVL. It offers several products such as farming, derivatives, etc. PancakeSwap Infinity is the newest version of the DEX, designed to make swapping & liquidity provisioning faster, cheaper, and more flexible. It uses a modular design that allows for more customization using hooks and supports different types of AMM pools.\n\n\n## Scope\n\n**In-Scope Targets:**  \n\nCore Contracts:\n- https://github.com/pancakeswap/infinity-core \n\n| Contract                     | Address                                      |\n|-----------------------------|---------",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "a98129d7-dd15-4c16-b2cb-d8cc42f87de4",
+    "name": "kinetiq-contracts",
+    "url": "https://cantina.xyz/bounties/a98129d7-dd15-4c16-b2cb-d8cc42f87de4",
+    "company": {
+      "id": "229aef73-e346-49ca-9eb4-ccbfef25360d",
+      "name": "Kinetiq",
+      "handle": "kinetiq",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/ce9571e0-d903-4bea-76e4-72feb148fc00/public",
+      "website": "https://kinetiq.xyz/",
+      "github": "kinetiq-research",
+      "twitter": "kinetiq_xyz"
+    },
+    "timeframe": {
+      "start": "2025-09-15T20:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "1000000",
+    "submissionFee": "20.00",
+    "kycRequired": true,
+    "totalFindings": 421,
+    "createdAt": "2025-09-15T08:40:36.388038Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Kinetiq is a liquid staking protocol built natively on Hyperliquid, enabling users to stake the native token of the Hyperliquid blockchain (HYPE) and receive Kinetiq Staked HYPE (kHYPE) in return.\n\nkHYPE enables staking participation while retaining full liquidity and capital efficiency — earning staking rewards while staying active across DeFi.\n\nBehind the scenes, all staked HYPE is automatically delegated to the top-performing Hyperliquid validators, selected by StakeHub—Kinetiq’s autonomous validator scoring and delegation system.\n\n## Scope\n\n_Please carefully review prior audits at [https:/",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "31f19cea-dda2-4568-8f99-27dafd120c97",
+    "name": "Monad Consensus & Execution Bug Bounty",
+    "url": "https://cantina.xyz/bounties/31f19cea-dda2-4568-8f99-27dafd120c97",
+    "company": {
+      "id": "651cfa9d-499a-41d0-9900-c728fd7a2e2b",
+      "name": "Monad Foundation",
+      "handle": "monad",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/6cd87a82-9b94-46ae-bff5-65f4969d7e00/public",
+      "website": "https://monad.xyz",
+      "github": "monad-crypto",
+      "twitter": "monad_xyz"
+    },
+    "timeframe": {
+      "start": "2025-11-18T06:20:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "1000000",
+    "submissionFee": "100.00",
+    "kycRequired": false,
+    "totalFindings": 300,
+    "createdAt": "2025-11-12T04:00:01.741433Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "## Introduction\n\nMonad Foundation is an organization dedicated to supporting the development, decentralization, security, and adoption of the Monad protocol by providing a wide range of services including community engagement, business development, developer and user education, and marketing services.\n\n## Prohibited Actions\n\n- **No Unauthorized Testing on Production Environments:** Do not test vulnerabilities on mainnet or public testnet deployments without prior authorization. Use local test environments or private test setup.\n    - The README.md contains [instructions](https://github.com/cat",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "00992789-fcd1-4bda-862e-463b0c73faa9",
+    "name": "OKX Labs",
+    "url": "https://cantina.xyz/bounties/00992789-fcd1-4bda-862e-463b0c73faa9",
+    "company": {
+      "id": "d3a2f158-dbce-4c05-b51a-9095b16351a6",
+      "name": "OKX",
+      "handle": "OKXlabs",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/19c1e9af-24f6-492d-ce33-22d3b8708800/public",
+      "website": null,
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2026-01-30T09:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USD",
+    "totalRewardPot": "1000000",
+    "submissionFee": "10.00",
+    "kycRequired": true,
+    "totalFindings": 631,
+    "createdAt": "2026-01-12T19:00:46.421520Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "## Introduction\n\nWe are launching OKX Labs’ Onchain Bug Bounty Program to fortify the security of our production-grade smart contracts. We warmly welcome security researchers to responsibly disclose vulnerabilities impacting smart contracts deployed and utilized in our onchain products. Your valuable reports play a critical role in safeguarding user funds and enhancing the resilience of our systems.\n\n## Program Details\n\nThis program exclusively focuses on **onchain components (smart contracts)**. A vulnerability is eligible for rewards only if the affected contract meets the following criteria",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "83b38645-7554-43c3-88d4-cac2910650b7",
+    "name": "dYdX Bug Bounty",
+    "url": "https://cantina.xyz/bounties/83b38645-7554-43c3-88d4-cac2910650b7",
+    "company": {
+      "id": "8e64d39e-8ba6-4b74-8adc-45c78021a25f",
+      "name": "dYdX Trading Inc.",
+      "handle": "dydx",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/736d6bf0-efaa-473a-cf43-3aefa9f53e00/public",
+      "website": null,
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2026-05-08T16:30:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "1000000",
+    "submissionFee": "30.00",
+    "kycRequired": true,
+    "totalFindings": 1095,
+    "createdAt": "2026-05-05T13:24:02.390266Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "dYdX Chain (dYdX v4) is open source software for a decentralized perpetual futures protocol built as an application-specific blockchain using the Cosmos SDK and CometBFT. It runs a fully on-chain orderbook and matching engine, with off-chain Indexer infrastructure feeding the trading frontend. The protocol supports cross-margined perpetual markets, governance, and staking, operated by a network of independent validators.  More information is available at   https://github.com/dydxprotocol/v4-chain. \n\nThis program covers the protocol layer, the indexer, the web client, and the official client SD",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "2acbecd1-3a5e-44fb-a324-a524c156d690",
+    "name": "Robinhood",
+    "url": "https://cantina.xyz/bounties/2acbecd1-3a5e-44fb-a324-a524c156d690",
+    "company": {
+      "id": "46910547-c87a-4676-899e-6bdbc79abf8d",
+      "name": "Robinhood",
+      "handle": "robinhood",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/3b133e64-b63e-46a8-f714-ec35aaaa8800/public",
+      "website": null,
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2026-09-08T17:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "1000000",
+    "submissionFee": "30.00",
+    "kycRequired": true,
+    "totalFindings": 133,
+    "createdAt": "2026-05-27T16:29:13.221800Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Robinhood Markets has launched its onchain footprint with **Robinhood Chain**, an AI-native and purpose-built for real-world assets environment for builders to innovate seamlessly. This bug bounty program covers the smart contracts that power tokenization on Robinhood Chain, the just-in-time spending for Robinhood's crypto wallet, the public web interfaces and documentation portals, and the testnet faucet and explorer.\n\n## Severity Definitions\n\n### Web3 (Smart Contracts + Onchain Configuration)\n\n- **Critical** - Direct theft of tokenized assets or user balances, unauthorized mint/burn of Robin",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "185c683c-77e7-4b71-822d-95e1a98fee9e",
+    "name": "Kiln V2 Bounty",
+    "url": "https://cantina.xyz/bounties/185c683c-77e7-4b71-822d-95e1a98fee9e",
+    "company": {
+      "id": "26ddb95d-2715-4701-8d30-614f17a21bb5",
+      "name": "Kiln",
+      "handle": "kilnfi",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/faceb1cf-6d27-4718-4623-387405d69000/public",
+      "website": "https://www.kiln.fi/",
+      "github": "kilnfi",
+      "twitter": "Kiln_finance"
+    },
+    "timeframe": {
+      "start": "2024-09-09T00:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "500000",
+    "submissionFee": "30.00",
+    "kycRequired": true,
+    "totalFindings": 301,
+    "createdAt": "2024-09-04T18:06:04.292694Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Kiln On-Chain (v2) enables non-custodial platforms to propose an ETH staking offer where users can stake any amount of ETH on operator pools while remaining the only one able to access their staked assets.\n\nThe goal of these Ethereum Smart Contracts is to enable:\n\n* Operator to register its validation keys deposit data on their operator vFactory Smart Contract  \n* Operator to propose deposit services like pooling on top of their vFactory  \n* Integrators to propose white-labelled staking offers on top of operator pools with their Smart Contract  \n* Users to deposit any amount of ETH to be stake",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "c9a4b51b-2e80-4713-a06f-13524c530fa6",
+    "name": "Kiln OmniVault Bounty",
+    "url": "https://cantina.xyz/bounties/c9a4b51b-2e80-4713-a06f-13524c530fa6",
+    "company": {
+      "id": "26ddb95d-2715-4701-8d30-614f17a21bb5",
+      "name": "Kiln",
+      "handle": "kilnfi",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/faceb1cf-6d27-4718-4623-387405d69000/public",
+      "website": "https://www.kiln.fi/",
+      "github": "kilnfi",
+      "twitter": "Kiln_finance"
+    },
+    "timeframe": {
+      "start": "2024-09-09T00:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "500000",
+    "submissionFee": "30.00",
+    "kycRequired": true,
+    "totalFindings": 321,
+    "createdAt": "2024-09-04T18:07:06.593578Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "\nKiln OmniVault enables non-custodial platforms to propose DeFi yield products (like lending supply or rwa distributor) where users can deposit any amount of ERC20 on a vault while remaining the only one able to access their staked assets.\n\nThe goal of these EVM Smart Contracts is to enable:\n\n* Users to deposit to supported protocols with a common 4626 interface  \n* Enable Integrators, and any third parties enabled by the integrator to have a fee on the rewards generated or on the deposit, dispatched on-chain\n\nThis Bug Bounty is focused on Kiln OmniVault Smart Contracts only, all items regardi",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "253a4e11-c99c-49e9-83f7-d076d8804475",
+    "name": "pump-fun",
+    "url": "https://cantina.xyz/bounties/253a4e11-c99c-49e9-83f7-d076d8804475",
+    "company": {
+      "id": "bc22ac70-5fbc-4ba9-856d-4cb0765482a2",
+      "name": "pump.fun",
+      "handle": "pumpfun",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/02f892de-566d-4e57-522d-838879c79200/public",
+      "website": null,
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2025-03-29T20:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "500000",
+    "kycRequired": true,
+    "totalFindings": 914,
+    "createdAt": "2025-03-27T18:08:26.052567Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Pump.fun is a platform where anyone can launch a fair-launch coin, meaning everyone has equal access to buy and sell when the coin is created. Security is critical to us, and we appreciate your contributions to keeping our platform safe.\n\n\n## **🔍 Program Overview**\n\nWe welcome responsible disclosure of vulnerabilities that could impact:\n\n- **User funds**\n- **User data**\n- **System integrity**\n\nEven if the vulnerability lies outside our defined scope, if it presents a real risk, please report it, we review these on a case-by-case basis.\n\n\n## **🎯 Scope of the Program**\n\n### **In-Scope Assets**\n*",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "aa966ff2-4740-49da-af4a-40f85e2e82a3",
+    "name": "Pendle Boros Bounty",
+    "url": "https://cantina.xyz/bounties/aa966ff2-4740-49da-af4a-40f85e2e82a3",
+    "company": {
+      "id": "c9168797-d58f-4e73-ba5f-aca6d2b57484",
+      "name": "Pendle Finance",
+      "handle": "pendle-finance",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/2b01fc25-74fe-4674-66e2-b90805e65500/public",
+      "website": "https://www.pendle.finance",
+      "github": "pendle-finance",
+      "twitter": "pendle_fi"
+    },
+    "timeframe": {
+      "start": "2025-09-19T20:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "500000",
+    "submissionFee": "50.00",
+    "kycRequired": false,
+    "totalFindings": 114,
+    "createdAt": "2025-09-17T09:19:05.199874Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Pendle Boros is the first protocol that provides a marketplace for on-chain interest rate swaps. The protocol enables users to take long or short positions on variable interest rates with leverage through a hybrid system combining a central limit order book and AMM.\n\nFurther resources regarding Boros can be found at [boros.pendle.finance](https://boros.pendle.finance/).\n\nThe bug bounty program is focused on smart contract security and is primarily concerned with preventing loss of user funds and protocol insolvency.\n\n## Upfront Expectations\n\nWe aim for reports with a clear, actionable outcome.",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "4e88f4df-c483-47d3-8d78-b9d7cc67be73",
+    "name": "Makina Contracts",
+    "url": "https://cantina.xyz/bounties/4e88f4df-c483-47d3-8d78-b9d7cc67be73",
+    "company": {
+      "id": "9211689d-bf56-4351-a065-d440fb36d94e",
+      "name": "Makina Foundation",
+      "handle": "makina",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/09b8bf7d-cf98-44f2-27fc-b9037aadb700/public",
+      "website": "https://makina.finance/",
+      "github": "MakinaHQ",
+      "twitter": "makinafi"
+    },
+    "timeframe": {
+      "start": "2025-10-29T19:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "500000",
+    "submissionFee": "5.00",
+    "safeHarbor": {
+      "id": "d46a5890-d33f-45be-9463-ad8e5dece42b",
+      "description": "## **Introduction**\n\nThis proposal outlines Makina’s adoption of the SEAL ([Security Alliance](https://www.securityalliance.org/)) Whitehat Safe Harbor Agreement (“Safe Harbor Agreement”). By adopting the Safe Harbor Agreement, Makina improves the security of its on-chain assets by allowing whitehats to intervene during active exploits to save protocol funds.\n\n\n### **What is the Safe Harbor Agreement?**\n\nThe Safe Harbor Agreement addresses a critical need in crypto: enabling whitehats to intervene during active exploits when the urgency of an attack makes traditional processes too slow to save funds. \n\nThe Safe Harbor Agreement was created by SEAL, a nonprofit founded by samczsun, to secure the future of crypto. In addition to the Safe Harbor Agreement, SEAL runs multiple initiatives including SEAL 911 (emergency response hotline for exploits), SEAL Intel (crypto-native threat intelligence sharing), SEAL Frameworks (open source security best practices and playbooks), SEAL Wargames (incident response training), and more in development.\n\nKey aspects of the agreement include:\n\n- **Encouraging Whitehats to Protect the Protocol:** By adopting the Safe Harbor Agreement, Makina incentivizes whitehats to step in and protect the protocol during active exploits by limiting their legal exposure. \n\n- **Intervention Only During Active Exploits:** Whitehats are authorized to act only when there is an immediate or ongoing exploit that threatens the protocol. This agreement is not intended for routine security testing or bug bounty reporting. It applies only to critical situations where the urgency of the exploit supersedes traditional procedures for responsible disclosure in order to save funds. \n\n- **Mandatory Return of Rescued Funds:** Under the terms of the Safe Harbor, whitehats are required to return all rescued assets to a pre-designated recovery address controlled by the protocol within 72 hours of recovery to ensure these funds are quickly secured, preventing delay or potential loss.\n\n- **Clear Guidelines and Legal Protection:** The agreement establishes strict rules for how whitehats must operate during an exploit, ensuring recovery efforts are conducted professionally and safely, minimizing the risk of mistakes or further damage to the protocol. By adhering to these guidelines, whitehats can limit their potential legal exposure, allowing them to act in good faith without fear of liability.\n\n- **Incentivized Rescue Efforts:** To motivate whitehats to act during critical situations, the agreement offers a bounty system that rewards rescuers with a percentage of the recovered assets, up to a predefined cap, for successful interventions.\n\nSafe Harbor has already been adopted by leading protocols such as Uniswap, Zksync, Pendle, Pancakeswap, and Balancer, establishing it as a trusted industry standard for empowering whitehats during active exploits.\n\n***\n\n\n## **Rationale**\n\nMakina is committed to enhancing its security and protecting user funds during critical moments. While security audits and other preventive measures are crucial, the unpredictable nature of active exploits requires a swift, decisive response mechanism to minimize potential damage.\n\nBenefits of adopting the Safe Harbor Agreement include:\n\n- **Agile Defense Against Exploits:** Whitehats are authorized to intervene as soon as an active exploit is detected, enabling them to respond faster than traditional methods. Immediate action minimizes the window for malicious actors, reduces damages, and accelerates the recovery of assets during critical moments.\n\n- **Clarified Rescue Process:** The agreement ensures that every step, from intervention to fund recovery, is predetermined and streamlined. Whitehats know exactly where to send recovered funds, preventing chaotic negotiations or rushed decisions during an exploit. This clarity ensures efficient, decisive action when it matters most.\n\n- **Clear Financial Boundaries:** The predefined bounty system, with a cap matching Makina’s existing bug bounty, ensures that whitehats are incentivized fairly without creating conflicting priorities between exploit intervention and standard vulnerability disclosure. By setting expectations upfront, it eliminates post-exploit negotiations, ensuring funds are returned promptly without attempts to change the reward amount, keeping the process fair and transparent.\n\n- **Aligning with Industry Best Practices:** By adopting the Safe Harbor Agreement, Makina aligns itself with leading security practices across the industry, reinforcing its commitment to staying at the forefront of protocol security.\n\nAdoption of the agreement complements audits by providing an additional layer of security, ensuring that the protocol is better prepared to respond to active threats.\n\n***\n\n\n## **Adoption Details**\n\n**Protocol Details**\n\nProtocol Name: Makina\n\nOwner Address: 0x62244C74e1d09b3D86EF7342d354b5D7770bDE10\n\n**Bounty Terms**\n\n_Predetermined rewards for successful whitehats that recover protocol funds. For more information review the_ [_Safe Harbor Scope_](https://frameworks.securityalliance.org/safe-harbor/scope-terms) _document._\n\n- Percentage: 10.0\n\n- Cap (USD): 1000000\n\n- Aggregate Cap (USD): 1000000\n\n- Retainable: No\n\n- Identity: Named\n\n- Diligence Requirements: KYC & sanctions screening only when necessary\n\n**Contact Details**\n\n_Designated security contacts for the protocol who whitehats will contact following a safe harbor recovery_\n\n| Name          | Contact                  |\n| ------------- | ------------------------ |\n| Security Team | security\\@makina.finance |\n\nThe asset addresses below are valid for all chains where Makina is operating on.",
+      "cap": "1000000.00",
+      "reward": "10% of TVL",
+      "returnAddresses": [
+        {
+          "id": "1b4bddcc-503d-4884-9901-f2e66e76143b",
+          "address": "0x62244C74e1d09b3D86EF7342d354b5D7770bDE10",
+          "chain": "ethereum"
+        }
+      ],
+      "assets": [
+        {
+          "id": "7383425a-e065-44c0-aa3c-4dd331f5df17",
+          "name": "0x0fCEfa3f1047F35521A49cD8B06faBd588665d7F",
+          "description": "AccessManager (all chains)"
+        },
+        {
+          "id": "e9facb7e-7b92-45d6-b821-e9c9e1c86324",
+          "name": "0x0FAEeCEab0BCb63bE2Fe984Ea8c77778989d53eA",
+          "description": "CoreRegistry (all chains)"
+        },
+        {
+          "id": "b3d033e8-1f0a-4bc6-b2bf-c7f7b09819e7",
+          "name": "0xC388B72AB90Be82B230D919F9C05c87F9397f485",
+          "description": "OracleRegistry (all chains)"
+        },
+        {
+          "id": "00f955a7-8054-4560-802f-3d7cb9279bc8",
+          "name": "0xd9310A41d085c0DC1E40F691e8647080862A5fd4",
+          "description": "TokenRegistry (all chains)"
+        },
+        {
+          "id": "003404ef-0c6d-4a04-89e2-3fd292a68b8e",
+          "name": "0x45681FCf26EF1dCa89ae2B8B97c6447ea68771Df",
+          "description": "ChainRegistry (all chains)"
+        },
+        {
+          "id": "87c51ea6-5376-4665-853d-a2faacffdfae",
+          "name": "0x8d28A69328561eF9F171c58996fEcB9F494e070c",
+          "description": "CoreFactory (all chains)"
+        },
+        {
+          "id": "a9af2b7c-56ff-432d-a344-43c36f037e75",
+          "name": "0x923c98b22F9c367A109E93f7dfBaCa28b20C17C3",
+          "description": "SwapModule (all chains)"
+        },
+        {
+          "id": "e16e091d-6280-49a1-b6ab-66cea0480b1e",
+          "name": "0x3f5A881DB86D6f495823028A1e892E7b2CD7e162",
+          "description": "CaliberBeacon (all chains)"
+        },
+        {
+          "id": "a3ed00db-e373-49d9-8a4a-683349b9c5fd",
+          "name": "0x5C680EC39bafE8524F3C2fa9d5F6D65F09Bd7333",
+          "description": "MachineBeacon (all chains)"
+        },
+        {
+          "id": "a9e85b11-147b-4c21-a6a2-b4dc5b80de24",
+          "name": "0x511C3F33417275d060932458DD987bd47c9ca678",
+          "description": "AcrossV3BridgeAdapterBeacon (all chains)"
+        }
+      ]
+    },
+    "kycRequired": true,
+    "totalFindings": 181,
+    "createdAt": "2025-10-13T15:47:22.174246Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "The Makina protocol introduces a novel architecture for onchain strategy execution that addresses fundamental limitations in existing vault infrastructure. \nThrough its hub-and-spoke multi-chain design, Makina enables sophisticated cross-chain strategies while maintaining strict security guarantees and operational efficiency. The protocol's core innovation, MakinaVM, provides a flexible yet controlled execution environment that allows strategies to interact with any external protocol without requiring custom adapters. \nCombined with a comprehensive governance framework featuring multiple stake",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "acca29a4-d405-4405-a3b3-8c3feb10d1e3",
+    "name": "Symbiotic Bug Bounty",
+    "url": "https://cantina.xyz/bounties/acca29a4-d405-4405-a3b3-8c3feb10d1e3",
+    "company": {
+      "id": "7be7e853-6cd9-421c-8237-2c399e6fc8f1",
+      "name": "Symbiotic",
+      "handle": "symbioticfi",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/7f888151-1692-4106-e83e-146a0f8dec00/public",
+      "website": "https://symbiotic.fi",
+      "github": "symbioticfi",
+      "twitter": "symbioticfi"
+    },
+    "timeframe": {
+      "start": "2026-02-01T23:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USD",
+    "totalRewardPot": "500000",
+    "submissionFee": "10.00",
+    "kycRequired": true,
+    "totalFindings": 378,
+    "createdAt": "2026-02-02T14:18:49.735837Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "## Introduction\n\nSymbiotic is a shared security protocol designed to create a marketplace for economic security. It enables networks that need security to access it from those who have assets to stake, creating an efficient ecosystem where stake can be shared and utilized across multiple networks. Through its flexible architecture, stake providers can maximize their returns while networks can obtain the security guarantees they need.\n\n## Prohibited Actions\n\n- **No Unauthorized Testing on Production Environments:**\n  \n  Do not test vulnerabilities on mainnet or public testnet deployments withou",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "d77405e5-99ce-4ba5-846c-885820b030e1",
+    "name": "Midas Bug Bounty",
+    "url": "https://cantina.xyz/bounties/d77405e5-99ce-4ba5-846c-885820b030e1",
+    "company": {
+      "id": "3c1f016d-9d94-4e39-9cf3-ce6de1768ca6",
+      "name": "Midas.app",
+      "handle": "midas-app",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/8c52cded-ce40-486f-0034-9ddbc9595600/public",
+      "website": null,
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2026-03-23T19:30:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "500000",
+    "submissionFee": "20.00",
+    "kycRequired": true,
+    "totalFindings": 369,
+    "createdAt": "2026-03-20T11:18:24.520903Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Midas is a platform for composable onchain investment products. It enables strategy managers to turn institutional strategies into regulatory-compliant tokens that offer investors full transparency, instant redemptions, and native composability across DeFi protocols such as Morpho and Pendle.\n\nMidas products are compliant financial instruments that are issued with clearly defined investor rights, onchain transparency, and robust operational controls. Each product's underlying investment strategy is managed and monitored by appointed strategy managers, such as BlackRock, Hyperithm and M1 Capita",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "79042c5c-2331-4100-9bc7-249a540cd013",
+    "name": "Injective",
+    "url": "https://cantina.xyz/bounties/79042c5c-2331-4100-9bc7-249a540cd013",
+    "company": {
+      "id": "04af979f-ec74-416f-9008-9098c8eb0a1e",
+      "name": "Injective",
+      "handle": "injective",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/91b00f2f-c2ce-468a-f6b1-13298dd51200/public",
+      "website": null,
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2026-06-03T02:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "500000",
+    "submissionFee": "50.00",
+    "kycRequired": true,
+    "totalFindings": 665,
+    "createdAt": "2025-02-04T01:09:22.035552Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "## Introduction\n\nInjective is a lightning fast interoperable layer one optimized for building unmatched Web3 finance applications. Injective is incubated by Binance and is backed by prominent investors such as Jump Crypto, Pantera and Mark Cuban. The goal of this Bug Bounty Program is to encourage responsible security research by providing incentives for finding and reporting vulnerabilities in Injective's codebase and related systems. By participating in this Program, you help us maintain a safe, secure, and reliable environment for our users.\n\nDocumentation: [docs.injective.network](https://",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "5240b7c7-6fec-4902-bec0-8cad12f14ec4",
+    "name": "Chronicle Labs Bounty",
+    "url": "https://cantina.xyz/bounties/5240b7c7-6fec-4902-bec0-8cad12f14ec4",
+    "company": {
+      "id": "1f8a1b0d-e498-4a6e-b5f3-f519ae4848d8",
+      "name": "Chronicle Labs",
+      "handle": "Chronicle-Labs",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/d128e8fe-92a5-4e01-2f6f-a5e4281dea00/public",
+      "website": null,
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2024-05-01T18:16:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "400000",
+    "submissionFee": "30.00",
+    "kycRequired": true,
+    "totalFindings": 254,
+    "createdAt": "2024-05-01T15:23:35.666864Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "cantinaTriaged": false,
+    "instructions": "Chronicle Protocol is a novel Oracle solution that has exclusively secured over $10B in assets for MakerDAO and its ecosystem since 2017. With a history of innovation, including the invention of the first Oracle on Ethereum, Chronicle Protocol continues to redefine Oracle networks. A blockchain-agnostic protocol, Chronicle overcomes the current limitations of transferring data on-chain by developing the first truly scalable, cost-efficient, decentralized, and verifiable Oracles, rewriting the rulebook on data transparency and accessibility.\n\nScribe's technical documentation at [`docs/`](https:",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "6cc9d51a-ac1e-4385-a88a-a3924e40c00e",
+    "name": "Centrifuge Protocol",
+    "url": "https://cantina.xyz/bounties/6cc9d51a-ac1e-4385-a88a-a3924e40c00e",
+    "company": {
+      "id": "c2464a45-bee7-42f1-9956-2c4ab445341f",
+      "name": "Centrifuge",
+      "handle": "centrifuge",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/76314f6e-4bf5-4007-ccb9-7827c362fd00/public",
+      "website": "https://centrifuge.io",
+      "github": "centrifuge",
+      "twitter": "centrifuge"
+    },
+    "timeframe": {
+      "start": "2025-07-17T10:10:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "250000",
+    "submissionFee": "50.00",
+    "kycRequired": true,
+    "totalFindings": 522,
+    "createdAt": "2025-06-20T13:51:54.817460Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Centrifuge V3.3 is an open, decentralized protocol for onchain asset management. Built on immutable smart contracts, it enables permissionless deployment of customizable tokenization products.\nBuild a wide range of use cases - from permissioned funds to onchain loans - while enabling fast, secure deployment. ERC-4626 and ERC-7540 vaults allow seamless integration into DeFi.\nUsing protocol-level chain abstraction, tokenization issuers access liquidity across any network, all managed from one Hub chain of their choice.\n\n## Prohibited Actions\n\n- **No Unauthorized Testing on Production Environment",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "3aaad22b-52ee-4bb2-bed2-4be53b0993cc",
+    "name": "Agglayer",
+    "url": "https://cantina.xyz/bounties/3aaad22b-52ee-4bb2-bed2-4be53b0993cc",
+    "company": {
+      "id": "2e01f80b-d6c6-4bf9-8523-01d622d4534b",
+      "name": "Agglayer by Polygon",
+      "handle": "agglayer",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/972937de-e6ee-4072-bb58-f92703b7df00/public",
+      "website": "https://www.agglayer.dev/",
+      "github": "Agglayer",
+      "twitter": "Agglayer"
+    },
+    "timeframe": {
+      "start": "2025-10-14T14:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "250000",
+    "kycRequired": true,
+    "totalFindings": 637,
+    "createdAt": "2025-09-18T06:15:52.620411Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Agglayer is a cross-chain settlement layer that connects the liquidity and users of any blockchain for fast, low cost interoperability and growth.\n\nThe Agglayer’s Vault Bridge is a customizable yield-generating mechanism for providing L2s with a native revenue stream. It’s designed to help EVM chains move toward a more durable, less extractive economic model for funding ecosystem growth\nFor more information about Agglayer: https://www.agglayer.dev/\n\n## Prohibited Actions\n\n- **No Unauthorized Testing on Production Environments:**  \n  Do not test vulnerabilities on mainnet or public testnet depl",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "36c588d4-0681-45a8-9694-13a871cc4ae6",
+    "name": "RedStone Bug Bounty",
+    "url": "https://cantina.xyz/bounties/36c588d4-0681-45a8-9694-13a871cc4ae6",
+    "company": {
+      "id": "8970600f-cc68-4473-9c51-55298626570a",
+      "name": "RedStone",
+      "handle": "RedStone",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/26571f42-8e17-4e04-eefd-297039947500/public",
+      "website": null,
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2025-11-01T12:20:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "250000",
+    "submissionFee": "20.00",
+    "kycRequired": false,
+    "totalFindings": 311,
+    "createdAt": "2025-10-28T16:06:46.463134Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": false,
+    "instructions": "RedStone Is The Fastest Growing oracle, specialising in yield-bearing collateral for lending markets and securing $10bn+. Blue chip DeFi protocols are our clients including Spark, Morpho, Compound, Pendle, Venus, Lido, EtherFi, Ethena, Puffer, Balancer, Lombard, Enzyme, Frax, Agora, M^0 and 80+ other Clients. RedStone is also the official oracle provider for Securitize assets such as BUDIL (BlackRock), ACRED (Apollo) and others. RedStone provides a wide variety of in-demand assets such as LSTs, LRTs, Bitcoin LSTs and many others.\n\n## Prohibited Actions\n\n- **No Unauthorized Testing on Productio",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "e54ee88c-df96-4f80-a6c1-0723548312ab",
+    "name": "Concrete",
+    "url": "https://cantina.xyz/bounties/e54ee88c-df96-4f80-a6c1-0723548312ab",
+    "company": {
+      "id": "daca4767-bb0f-4b5b-99bd-7118f55c3035",
+      "name": "Concrete Finance",
+      "handle": "concretefinance",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/250f761e-bd6f-4e87-6106-97f651be8100/public",
+      "website": "https://concrete.xyz/",
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2025-11-05T20:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "250000",
+    "submissionFee": "20.00",
+    "kycRequired": false,
+    "totalFindings": 345,
+    "createdAt": "2025-11-06T16:25:42.555499Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "## Introduction\nConcrete builds full-stack yield infrastructure for onchain finance, powering automated, risk-managed vault products across major ecosystems. Concrete combines quantitative modeling, modular architecture, and cross-chain integrations to deliver institutional-grade vaults with transparent, sustainable performance.\n\n- [Docs](https://github.com/Blueprint-Finance/concrete-earn-v2-bug-bounty/pull/1)\n## Prohibited Actions\nResearchers must not perform the following actions:\n\n- No unauthorized testing on production environments:\n  - Do not test vulnerabilities on mainnet or public test",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "d558609e-d378-446b-a69d-2a577533f333",
+    "name": "3F Grunt",
+    "url": "https://cantina.xyz/bounties/d558609e-d378-446b-a69d-2a577533f333",
+    "company": {
+      "id": "ca1a11e4-d587-4757-88f4-707aa65685d5",
+      "name": "3F",
+      "handle": "3f-company",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/f7c4fc9e-fa88-403f-b919-385074a40f00/public",
+      "website": null,
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2026-06-02T20:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "250000",
+    "submissionFee": "50.00",
+    "kycRequired": true,
+    "totalFindings": 94,
+    "createdAt": "2026-06-01T10:38:14.540542Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "3F is a protocol that brings on-chain leverage to yield opportunities that can't be looped atomically. In typical DeFi, leverage is simple: deposit, borrow, and redeposit in a single transaction. But RWAs and other asynchronous yield sources settle over days or weeks, making that kind of instant looping impossible. 3F bridges this gap by enabling leverage to be built up in one settlement cycle of the underlying RWA, using bridge loans whose usage is narrowly scoped and enforced entirely on-chain.\n\nA vault depositor (3F LP) provides the initial equity and Bridge Facilitators lend the remaining ",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "82d15510-9264-4ce0-9bee-ee0cb5c53742",
+    "name": "Mezo Bug Bounty",
+    "url": "https://cantina.xyz/bounties/82d15510-9264-4ce0-9bee-ee0cb5c53742",
+    "company": {
+      "id": "b19e98d8-3ef3-488b-a4f1-33b3d01810cc",
+      "name": "Mezo",
+      "handle": "mezo",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/e0c3134f-779c-4570-53eb-8cf80aa7ff00/public",
+      "website": null,
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2026-05-13T14:30:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USD (in Mezo)",
+    "totalRewardPot": "150000",
+    "submissionFee": "50.00",
+    "kycRequired": true,
+    "totalFindings": 377,
+    "createdAt": "2026-04-27T08:05:29.126354Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low"
+    ],
+    "cantinaTriaged": false,
+    "instructions": "[Mezo](https://mezo.org/) is a Bitcoin finance protocol that enables everyday financial services using Bitcoin. Built on a hybrid EVM-compatible architecture (Cosmos SDK + CometBFT consensus via the `mezod` client), Mezo allows users to borrow against BTC collateral, mint MUSD (a Bitcoin-backed stablecoin), earn yield through vaults and liquidity pools, and participate in governance. The protocol uses BTC as its native gas token.\n\nKey components include the Mezo chain core (`mezod`), MUSD lending/borrowing smart contracts, cross-chain bridges (Wormhole NTT for MUSD and MEZO token), Mezo Passpo",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "7aa23a2b-7e8b-4b88-a9bb-713dc102a11a",
+    "name": "Liquity",
+    "url": "https://cantina.xyz/bounties/7aa23a2b-7e8b-4b88-a9bb-713dc102a11a",
+    "company": {
+      "id": "80b1aa89-52ed-4354-b21e-6a5159f9930f",
+      "name": "Liquity",
+      "handle": "liquity",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/f09ac833-d918-4611-a85d-14a1aed50900/public",
+      "website": "https://www.liquity.org/",
+      "github": "liquity",
+      "twitter": "LiquityProtocol"
+    },
+    "timeframe": {
+      "start": "2025-07-01T16:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "BOLD",
+    "totalRewardPot": "125000",
+    "kycRequired": true,
+    "totalFindings": 559,
+    "createdAt": "2025-06-10T16:01:56.833957Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Liquity v2 is a collateralized debt platform. Users can lock up WETH and/or select LSTs, and issue stablecoin tokens (BOLD) to their own Ethereum address. The individual collateralized debt positions are called Troves. The stablecoin tokens are economically geared towards maintaining value of 1 BOLD = \\$1 USD, due to the following properties:\nThe system is designed to always be over-collateralized - the dollar value of the locked collateral exceeds the dollar value of the issued stablecoins.\nThe stablecoins are fully redeemable - users can always swap x BOLD for \\$x worth of a mix of WETH and ",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "246de4d3-e138-4340-bdfc-fc4c95951491",
+    "name": "Modular Account V2",
+    "url": "https://cantina.xyz/bounties/246de4d3-e138-4340-bdfc-fc4c95951491",
+    "company": {
+      "id": "addafb02-a092-450d-ae54-76d09d770aa1",
+      "name": "Alchemy",
+      "handle": "alchemyplatform",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/bd199b10-21e1-4a18-2936-96b20e3a2d00/public",
+      "website": "https://www.alchemy.com/",
+      "github": "alchemyplatform",
+      "twitter": "Alchemy"
+    },
+    "timeframe": {
+      "start": "2025-02-05T20:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "100000",
+    "submissionFee": "30.00",
+    "kycRequired": true,
+    "totalFindings": 665,
+    "createdAt": "2025-02-05T14:14:20.363138Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "\n\nModular Account V2 contains a suite of modular smart contract accounts and modules. Modular Account V2 is maximally secure, modular, and has the cheapest creation costs amongst ERC4337-compatible smart contract accounts. \n\nThe accounts are upgradeable, can create session keys with scoped permissions on the account, and can use gas sponsorship provided by the ERC-4337 protocol. It can be used for most smart account use cases due to high flexibility from its modular design.\n\nModular Account V2 contains 4 smart account implementations:\n1. ModularAccount (ERC4337 compatible)\n2. SemiModularAccoun",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "509e46d0-a107-43aa-b46e-b2fe7e2ea591",
+    "name": "infinifi-protocol",
+    "url": "https://cantina.xyz/bounties/509e46d0-a107-43aa-b46e-b2fe7e2ea591",
+    "company": {
+      "id": "9556e50b-4eaa-4b91-8944-1ae90bf78e16",
+      "name": "infiniFi",
+      "handle": "infinifi",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/41e18ef7-f8be-47e7-d02f-bfdceda6ed00/public",
+      "website": "https://infinifi.xyz/",
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2025-06-08T16:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "100000",
+    "submissionFee": "50.00",
+    "kycRequired": true,
+    "totalFindings": 351,
+    "createdAt": "2025-06-02T16:01:44.968672Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "infiniFi is building the future of decentralized finance by recreating modern banking infrastructure—on-chain. By merging liquid and illiquid assets into a capital-efficient system with transparent fractional reserves, infiniFi delivers superior yields to depositors without increasing systemic risk. Founded in 2024, infiniFi is backed by top Web3 investors and is integrated with major protocols like AAVE, Pendle, and Ethena.\n\n\n## Prohibited Actions\n\n- **No Unauthorized Testing on Production Environments:**  \n  Do not test vulnerabilities on mainnet or public testnet deployments without prior a",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "32e64f2e-5f01-4a0b-bbe3-76f32c17b99f",
+    "name": "USDai",
+    "url": "https://cantina.xyz/bounties/32e64f2e-5f01-4a0b-bbe3-76f32c17b99f",
+    "company": {
+      "id": "3cb9f58c-4c62-41cc-a801-baeca17ea9f8",
+      "name": "USDAI",
+      "handle": "metastreetxyz",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/d76cdfeb-fb43-4aba-dc7c-f4171ea0ae00/public",
+      "website": null,
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2025-06-25T20:30:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "100000",
+    "kycRequired": true,
+    "totalFindings": 899,
+    "createdAt": "2025-06-18T15:37:01.847070Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "low",
+      "medium",
+      "high"
+    ],
+    "cantinaTriaged": false,
+    "instructions": "USDai is an \\$PYUSD-backed stablecoin. Staked USDai (sUSDai) is a yield-bearing vault token backed by USDai \\$PYUSD yield from PayPal's incentives and loans against GPUs.\n\n## Prohibited Actions\n\n- **No Unauthorized Testing on Production Environments:**  \n  Do not test vulnerabilities on mainnet or public testnet deployments without prior authorization. Use local test environments or private test setups.\n  \n- **No Public Disclosure Without Consent:**  \n  Do not publicly disclose details of any vulnerability before it has been addressed and you have received written permission to disclose.\n\n- **",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "06fa2fa7-0ec0-475a-987c-a8b05cb8e9b2",
+    "name": "Kiln Web / Infra",
+    "url": "https://cantina.xyz/bounties/06fa2fa7-0ec0-475a-987c-a8b05cb8e9b2",
+    "company": {
+      "id": "26ddb95d-2715-4701-8d30-614f17a21bb5",
+      "name": "Kiln",
+      "handle": "kilnfi",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/faceb1cf-6d27-4718-4623-387405d69000/public",
+      "website": "https://www.kiln.fi/",
+      "github": "kilnfi",
+      "twitter": "Kiln_finance"
+    },
+    "timeframe": {
+      "start": "2025-10-30T16:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "100000",
+    "submissionFee": "30.00",
+    "kycRequired": true,
+    "totalFindings": 130,
+    "createdAt": "2025-10-13T15:51:13.329091Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "## Introduction\nKiln is a staking platform that enable one to stake directly, or whitelabel staking into their product. \n\nIt allows individuals or clients to stake crypto assets, manually or programmatically, while maintaining custody of their funds in your existing solution, such as Fireblocks, Copper, or Ledger.\n\n## Prohibited Actions\n\n- **No Unauthorized Testing on Production Environments:**  \n  Do not test vulnerabilities on mainnet or public testnet deployments without prior authorization. Use local test environments or private test setups.\n  \n- **No Public Disclosure Without Consent:**  ",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "02d2b20f-fe2e-4d8b-b9af-d38616e9836f",
+    "name": "Superform Bug Bounty Program",
+    "url": "https://cantina.xyz/bounties/02d2b20f-fe2e-4d8b-b9af-d38616e9836f",
+    "company": {
+      "id": "a7b0abfa-ffcc-4928-ae0c-45fd3431d70f",
+      "name": "Superform",
+      "handle": "superform-xyz",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/7b9b34db-25d9-4cd1-34b6-cb169028fe00/public",
+      "website": "https://superform.xyz",
+      "github": "superform-xyz",
+      "twitter": "superformxyz"
+    },
+    "timeframe": {
+      "start": "2026-05-01T00:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC + $UP",
+    "totalRewardPot": "100000",
+    "submissionFee": "20.00",
+    "kycRequired": true,
+    "totalFindings": 182,
+    "createdAt": "2026-04-30T18:07:28.435694Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Superform is a non-custodial protocol that allows anyone to build and distribute onchain financial products. SuperVaults allocate user deposits across yield strategies via curator-defined hooks, with onchain price-per-share (PPS) accounting secured by a validator-attested oracle and dual Merkle hook validation.\n\nThis program rewards security researchers who responsibly disclose previously unknown vulnerabilities in Superform v2 smart contracts.\n\n## Severity Definitions\n\nFinal severity and reward amount may consider maximum demonstrated loss, affected TVL, number of affected vaults or users, ex",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "5314819f-b0b2-4d39-b953-d02ec74cac1a",
+    "name": "Phantom",
+    "url": "https://cantina.xyz/bounties/5314819f-b0b2-4d39-b953-d02ec74cac1a",
+    "company": {
+      "id": "56713718-37a2-436f-8956-11b06441ad50",
+      "name": "Phantom",
+      "handle": "phantomapp",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/b6fd462c-4d69-4dda-1ec5-0ee1db626c00/public",
+      "website": "https://phantom.com",
+      "github": "phantom",
+      "twitter": "phantom"
+    },
+    "timeframe": {
+      "start": "2026-07-01T00:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "100000",
+    "submissionFee": "5.00",
+    "kycRequired": true,
+    "totalFindings": 262,
+    "createdAt": "2025-11-04T12:49:55.988236Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Phantom is the money app for trading crypto, predictions, and more. We invite security researchers to test the systems behind Phantom and help keep our 20+ million users safe.\n\n## Focus Areas\n\nThe following types are of **special interest** to our security team:\n\n* Vulnerabilities which have the potential for theft of user funds\n* Vulnerabilities that could expose private keys, seed phrases, authentication tokens, sensitive user data, or privileged internal data\n* Vulnerabilities that provide unauthorized access to Phantom build pipelines, deployment processes, cloud environments, or productio",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "3d61254a-dd89-49e0-9adb-45fdba139b2e",
+    "name": "Rain Bug Bounty",
+    "url": "https://cantina.xyz/bounties/3d61254a-dd89-49e0-9adb-45fdba139b2e",
+    "company": {
+      "id": "95cfce08-77a8-4e84-92dd-f6c329872c26",
+      "name": "Rain.xyz",
+      "handle": "rainxyz",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/f8b1e8f2-fd34-4940-1c9c-6193f337e900/public",
+      "website": null,
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2026-10-16T21:30:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "100000",
+    "submissionFee": "30.00",
+    "kycRequired": true,
+    "totalFindings": 9,
+    "createdAt": "2026-09-18T16:19:53.425397Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Rain is a stablecoin payments platform for the tokenized future. Through a single API, Rain helps companies launch stablecoin-powered cards, manage digital dollar accounts, and move money across borders on modern settlement rails.\n\n## Severity Definitions\n\n- **Critical**: Theft or freezing of collateral without a privileged signer; admin or authority takeover; signature or authorization bypass; unauthorized upgrade.\n- **High**: Theft requiring a single privileged co-signer; permanent denial of withdrawals; treasury misdirection.\n- **Medium**: Temporary denial of service; griefing with cost to ",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "78a734d2-b460-4245-9c81-833487d6a339",
+    "name": "BitGo Bug Bounty",
+    "url": "https://cantina.xyz/bounties/78a734d2-b460-4245-9c81-833487d6a339",
+    "company": {
+      "id": "d41e549b-81fe-4834-9bcf-7d9aea031a51",
+      "name": "Bitgo",
+      "handle": "bitgo",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/8ca76676-c513-404d-ade1-22c44994f200/public",
+      "website": null,
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2026-03-17T18:30:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "75000",
+    "submissionFee": "30.00",
+    "kycRequired": true,
+    "totalFindings": 1022,
+    "createdAt": "2026-02-27T16:31:31.343112Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "The BitGo ETH Multisig and EVM Stablecoins contracts are a secure multi-signature wallet protocol and stablecoin token infrastructure for Ethereum and other EVM-compatible chains. Together, they enable users to manage digital assets collaboratively, requiring multiple parties to approve wallet transactions, and to issue, transfer, and manage stablecoins with equivalent security guarantees. Designed for reliability and flexibility, the protocol protects funds from single points of failure and unauthorised access, serving as a foundation for secure decentralised applications and asset custody so",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "f93c6818-141e-43a0-941f-5f56d606ad6f",
+    "name": "Kuru Bug Bounty",
+    "url": "https://cantina.xyz/bounties/f93c6818-141e-43a0-941f-5f56d606ad6f",
+    "company": {
+      "id": "918a2bd7-de3a-453d-b0b3-acdd260c67c2",
+      "name": "Kuru Labs",
+      "handle": "kurulabs",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/729312c8-6812-4733-8744-71bd84473300/public",
+      "website": "https://www.kurulabs.xyz/",
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2025-11-24T17:30:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USD",
+    "totalRewardPot": "50000",
+    "submissionFee": "18.00",
+    "kycRequired": true,
+    "totalFindings": 300,
+    "createdAt": "2025-11-21T12:24:53.003757Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "## Introduction\n\nKuru is a smart aggregator and fully on-chain order book decentralized exchange (DEX) built on Monad. Kuru is dedicated to building the trading hub for Monad, allowing users to access all of Monad’s liquidity with our smart aggregator, Kuru Flow, and bringing a performant central-limit orderbook to the EVM for the first time along with integrated discovery features, a trading terminal, user liquidity provision, and token launchpad.\n\nPowered by Monad’s globally decentralized network, Kuru unifies liquidity across the ecosystem with our hybrid integrated CLOB-AMM model that pres",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "80e74370-10d8-4e52-8e4b-7294deb7c9ee",
+    "name": "Aztec Network Bug Bounty",
+    "url": "https://cantina.xyz/bounties/80e74370-10d8-4e52-8e4b-7294deb7c9ee",
+    "company": {
+      "id": "7ff61251-dad2-4fae-a828-e5d4ebcf6e42",
+      "name": "Aztec Foundation",
+      "handle": "aztecfoundation",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/55e2b469-c922-48d2-08d9-eab28bdf0a00/public",
+      "website": "https://aztec.foundation/",
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2026-05-04T22:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "50000",
+    "submissionFee": "30.00",
+    "kycRequired": true,
+    "totalFindings": 162,
+    "createdAt": "2026-04-28T14:04:27.583520Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "high",
+      "critical",
+      "medium",
+      "low"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "\n## Program Overview\nAztec Network is a privacy-focused Ethereum Layer 2 that enables developers to build fully private smart contracts and decentralized applications using zero-knowledge cryptography.\nFor more information about Aztec Network, please visit https://aztec.network/.\nThe Aztec Foundation provides rewards in USDC on Ethereum, denominated in USD. For more details about the payment process, please view the Rewards by Threat Level section further below.\n\n\n## Privacy-preserving eligibility check\n\nAztec Network will be requesting a compliance check in order to pay for successful bug sub",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "0420bc1a-9177-4e4e-8da7-826d273e3d3e",
+    "name": "Tenbin Bug Bounty",
+    "url": "https://cantina.xyz/bounties/0420bc1a-9177-4e4e-8da7-826d273e3d3e",
+    "company": {
+      "id": "0d959175-33b4-47d1-a737-fc80750b433b",
+      "name": "Tenbin",
+      "handle": "tenbin",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/09901460-b4a1-4a7c-e3bb-3ace7d604e00/public",
+      "website": null,
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2026-09-11T14:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "40000",
+    "submissionFee": "50.00",
+    "kycRequired": true,
+    "totalFindings": 99,
+    "createdAt": "2026-09-03T06:14:30.894229Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Tenbin is an asset token issuance platform with the goal of creating liquid, composable financial assets. Assets in the Tenbin protocol are backed by two positions: off-chain futures contracts and on-chain collateral. The off-chain hedging system maintains a delta one exposure of an underlying asset. The on-chain collateral is used to earn low-risk yield. So long as the on-chain yield equals or exceeds the off-chain funding costs, the protocol is able to peg Tenbin assets to the spot price of the real asset.\n\nThe program has a total budget of US$100,000. Once that amount has been paid out, the",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "a3806410-4f70-4023-8b29-103ddbd5b8a3",
+    "name": "Monad.xyz UI",
+    "url": "https://cantina.xyz/bounties/a3806410-4f70-4023-8b29-103ddbd5b8a3",
+    "company": {
+      "id": "651cfa9d-499a-41d0-9900-c728fd7a2e2b",
+      "name": "Monad Foundation",
+      "handle": "monad",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/6cd87a82-9b94-46ae-bff5-65f4969d7e00/public",
+      "website": "https://monad.xyz",
+      "github": "monad-crypto",
+      "twitter": "monad_xyz"
+    },
+    "timeframe": {
+      "start": "2025-11-23T16:30:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "30000",
+    "submissionFee": "30.00",
+    "kycRequired": false,
+    "totalFindings": 199,
+    "createdAt": "2025-10-22T19:22:55.733615Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Monad Foundation is an organization dedicated to supporting the development, decentralization, security, and adoption of the Monad protocol by providing a wide range of services including community engagement, business development, developer and user education, and marketing services.\n\n\n\n\n\n## Prohibited Actions\n- **No Unauthorized Testing on Production Environments:**\nDo not test vulnerabilities on mainnet or public testnet deployments without prior authorization. Use local test environments or private test setups.\n- **No Public Disclosure Without Consent:**\nDo not publicly disclose details of",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "4bbe54f6-c8ea-4704-a756-0066689d7371",
+    "name": "Perena Bug Bounty",
+    "url": "https://cantina.xyz/bounties/4bbe54f6-c8ea-4704-a756-0066689d7371",
+    "company": {
+      "id": "1776a223-b5cf-4715-9ff0-2c6952392209",
+      "name": "Perena",
+      "handle": "perena",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/7f0fbfe3-3518-4f28-2be4-9e9ee6b8e400/public",
+      "website": null,
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2026-04-06T00:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "25000",
+    "submissionFee": "30.00",
+    "kycRequired": true,
+    "totalFindings": 91,
+    "createdAt": "2026-04-02T15:21:34.690016Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Perena is a stablecoin infrastructure protocol on Solana. Its flagship product, USD*, is a unified stablecoin that aggregates fragmented stablecoin liquidity. The protocol's core functionality includes minting, redeeming, yield distribution, and pool management.\n\n## Severity Definitions\n\n- **Critical:** Vulnerabilities that could lead to direct loss, theft, or permanent freezing of user funds. Examples include unauthorized minting, bypassing redemption controls, or manipulating yield distribution to drain funds.\n- **High:** Vulnerabilities that could lead to temporary freezing of funds, manipu",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "5a488487-a48e-41c6-be92-2e65b569b01c",
+    "name": "Rogo",
+    "url": "https://cantina.xyz/bounties/5a488487-a48e-41c6-be92-2e65b569b01c",
+    "company": {
+      "id": "c59e004f-4a9b-47a9-8789-645e9f0eb087",
+      "name": "Rogo Technologies",
+      "handle": "rogo",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/aa4dbb6d-4a3f-4472-b63e-a4c8f3341500/public",
+      "website": "https://rogo.ai",
+      "github": null,
+      "twitter": null
+    },
+    "timeframe": {
+      "start": "2026-06-25T20:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "25000",
+    "submissionFee": "50.00",
+    "kycRequired": true,
+    "totalFindings": 28,
+    "createdAt": "2026-06-24T14:29:36.092058Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "[Rogo](https://rogo.ai/) is an AI platform built for financial professionals, delivering AI-powered research, analysis, and workflow automation. The platform is accessed through a web application at [app.rogo.ai](https://app.rogo.ai/) and a companion iOS app.\n\n## Severity Definitions\n\nThe following impact definitions guide severity classification for this program:\n\n- **Critical:** Leads to severe loss of user data, permanent system disruption, or widespread compromise.\n- **High:** Causes notable financial loss or significantly harms user trust, but on a lesser scale than Critical.\n- **Medium:*",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "b5e376ee-2fe9-47eb-a667-df98d3d201ae",
+    "name": "Ammalgam Bug Bounty",
+    "url": "https://cantina.xyz/bounties/b5e376ee-2fe9-47eb-a667-df98d3d201ae",
+    "company": {
+      "id": "924afe8c-6b0e-4248-ad17-c3cb49d643fc",
+      "name": "Ammalgam",
+      "handle": "ammalgam",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/1d92a039-47b8-4986-627e-e33df2971200/public",
+      "website": "https://ammalgam.xyz/",
+      "github": "Ammalgam-Protocol",
+      "twitter": "ammalgam"
+    },
+    "timeframe": {
+      "start": "2026-07-09T18:30:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "25000",
+    "submissionFee": "50.00",
+    "kycRequired": true,
+    "totalFindings": 86,
+    "createdAt": "2026-07-06T11:04:29.776844Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high"
+    ],
+    "cantinaTriaged": false,
+    "instructions": "Ammalgam introduces a new primitive in decentralized finance: the **Decentralized Lending Exchange (DLEX)**. By combining trading and lending into a single protocol, DLEX unlocks a level of capital efficiency that traditional platforms can't match, offering up to a 60% increase in yield for liquidity providers.\n\nProtocol and security documentation is available in the [Ammalgam security docs](https://docs.ammalgam.xyz/docs/security).\n\n## Severity Definitions\n\nOnly vulnerabilities that result in an **on-chain loss of funds** are eligible for a reward. Severity classification is secondary to this",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "8f671963-4313-4ac3-aed9-3186a240b75a",
+    "name": "Circuit",
+    "url": "https://cantina.xyz/bounties/8f671963-4313-4ac3-aed9-3186a240b75a",
+    "company": {
+      "id": "1a1a2f45-7f7b-4560-a492-9f78dadb7398",
+      "name": "CircuitDAO",
+      "handle": "circuitdao",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/0575fe4b-c091-4645-dc44-08b40f9b7b00/public",
+      "website": "https://circuitdao.com",
+      "github": "circuitdao",
+      "twitter": "Circuit_DAO"
+    },
+    "timeframe": {
+      "start": "2025-11-05T17:30:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "20000",
+    "submissionFee": "30.00",
+    "kycRequired": true,
+    "totalFindings": 417,
+    "createdAt": "2025-11-05T15:02:53.945539Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Circuit is a DeFi protocol built on the [Chia blockchain](https://www.chia.net/)\n\nMore specifically, Circuit is a collateralized debt position (CDP) protocol that allows users to borrow Bytecash (BYC), a USD stablecoin issued by the protocol, against XCH, the native token of Chia. Circuit is written in [Chialisp](https://chialisp.com/)\n \n\n## Prohibited Actions\n\n- **No Unauthorized Testing on Production Environments:**  \n  Do not test vulnerabilities on mainnet or public testnet deployments without prior authorization. Use local test environments or private test setups.\n  \n- **No Public Disclos",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "d1496b11-e0cb-4905-80e6-b95f892f39ba",
+    "name": "alchemy-web",
+    "url": "https://cantina.xyz/bounties/d1496b11-e0cb-4905-80e6-b95f892f39ba",
+    "company": {
+      "id": "addafb02-a092-450d-ae54-76d09d770aa1",
+      "name": "Alchemy",
+      "handle": "alchemyplatform",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/bd199b10-21e1-4a18-2936-96b20e3a2d00/public",
+      "website": "https://www.alchemy.com/",
+      "github": "alchemyplatform",
+      "twitter": "Alchemy"
+    },
+    "timeframe": {
+      "start": "2025-10-07T15:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "10000",
+    "submissionFee": "30.00",
+    "kycRequired": true,
+    "totalFindings": 582,
+    "createdAt": "2025-09-19T12:52:07.136214Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "medium",
+      "low",
+      "informational"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Welcome to Alchemy’s Bug Bounty!\nWe invite researchers and developers to help us strengthen our Web3+Web2 ecosystem by identifying bugs and vulnerabilities across our stack. The scope includes our frontend applications, backend APIs, websites, and SDKs. Whether it’s a glitch, an exploit, or a hidden vulnerability, your discoveries will help protect our users and ensure the future of blockchain remains secure.\n\n## Scope\nWe invite researchers and developers to help us strengthen our Web3+Web2 ecosystem \n### In Scope Targets\n\n- **Web Interface / Application:**\n    - All public-facing APIs related",
+    "_type": "bug_bounty"
+  },
+  {
+    "id": "ade8dd1f-f6a3-42e5-ad59-0f9d137c831f",
+    "name": "Cantina Bounty",
+    "url": "https://cantina.xyz/bounties/ade8dd1f-f6a3-42e5-ad59-0f9d137c831f",
+    "company": {
+      "id": "c092236d-d957-4292-8945-2a8eabfec30b",
+      "name": "Cantina",
+      "handle": "cantina",
+      "logo": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/21cd2dfe-1c7e-48a5-4df1-36ed6d223400/public",
+      "website": "https://cantina.xyz",
+      "github": null,
+      "twitter": "cantinaxyz"
+    },
+    "timeframe": {
+      "start": "2024-07-27T00:00:00Z",
+      "end": null
+    },
+    "status": "live",
+    "currencyCode": "USDC",
+    "totalRewardPot": "5000",
+    "kycRequired": false,
+    "totalFindings": 281,
+    "createdAt": "2024-07-26T11:31:27.787966Z",
+    "kind": "public_bounty",
+    "joined": "restricted",
+    "allowedSeverities": [
+      "critical",
+      "high",
+      "informational",
+      "medium",
+      "low"
+    ],
+    "cantinaTriaged": true,
+    "instructions": "Cantina is the one-stop shop for all your security needs, allowing you to source the best network of teams, freelancers, and services to keep your smart contracts secure.\n\n## Guidelines\n\n1. **Scope**: Only vulnerabilities found on our websites \n    - https://cantina.xyz and its subdomains are eligible for rewards.\n    - https://spearbit.com and its subdomains are eligible for rewards.\n    - Any email infrastructure used by cantina.xyz or spearbit.com\n\n2. **Testing**: Do not perform any testing that could disrupt our services or compromise user data.\n\n3. **Disclosure**: Do not disclose any vuln",
+    "_type": "bug_bounty"
+  }
+]

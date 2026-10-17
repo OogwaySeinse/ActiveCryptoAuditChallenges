@@ -1,0 +1,678 @@
+[
+  {
+    "organizers": [
+      {
+        "id": 373034,
+        "name": "GaianSpace"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3354/",
+    "ctf_id": 1284,
+    "weight": 0,
+    "duration": {
+      "hours": 0,
+      "days": 4
+    },
+    "live_feed": "https://ctftime.org/live/3354/",
+    "logo": "https://ctftime.org//media/events/gaianspace-logo-new_1.png",
+    "id": 3354,
+    "title": "GaianSpace CTF 2026",
+    "start": "2026-10-10T21:00:00+00:00",
+    "participants": 53,
+    "location": "",
+    "finish": "2026-10-14T21:00:00+00:00",
+    "description": "GaianSpace CTF, hosted by GaianSpace!\r\nChallenges to secure ground and space systems through Web, Pwn, Forensics, Reverse, Network, Crypto and more.\r\nVaried difficulties ensure fun for all skill levels. Hack the cosmos with us!\r\n\r\nLocation: Online\r\nEvent format: Jeopardy\r\n\r\nFirst ever CTF scheduled:\r\nEvent start datetime: 2026.10.10 9:00pm (UTC)\r\nEvent finish datetime: 2026.10.14 9:00pm (UTC)\r\nDuration: 96 hours\r\n\r\nPrizes: 1st Place, 2nd Place, 3rd Place, Write-up Prizes",
+    "format": "Jeopardy",
+    "is_votable_now": true,
+    "prizes": "The top three teams and the best write-up will receive the following prizes:\r\n1st Place: 10,000 SATS\r\n2nd Place: 5,000 SATS\r\n3rd Place: 2,500 SATS\r\n\r\nBest Write-Up: 5,000 SATS (awarded to the team with the most detailed and insightful post-event write-up, as judged by GaianSpace)",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Open",
+    "url": "https://gaian.space/ctf",
+    "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 5084,
+        "name": "Securinets"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3364/",
+    "ctf_id": 105,
+    "weight": 85.12,
+    "duration": {
+      "hours": 12,
+      "days": 1
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/logo_red_copy_1_2.jpg",
+    "id": 3364,
+    "title": "Securinets CTF Quals 2026",
+    "start": "2026-10-17T09:00:00+00:00",
+    "participants": 303,
+    "location": "",
+    "finish": "2026-10-18T21:00:00+00:00",
+    "description": "Securinets CTF Quals 2026 is an online Jeopardy-style Capture the Flag competition organized by Securinets INSAT, Tunisia.\r\n\r\nQualifiers: October 17–18, 2026 | Online | 36 hours | Jeopardy\r\nFinals: December 12–13, 2026 | Onsite at INSAT, Tunis, Tunisia\r\n\r\nQualification:\r\nThe top 10 international teams and the top 10 teams from the MENA region will qualify for the onsite finals at INSAT, Tunisia.\r\n\r\nTravel & Accommodation:\r\n- Top 2 international teams: flights and accommodation fully covered.\r\n- Top 10 teams: additional travel and accommodation coverage may be offered, depending on availability.\r\n\r\nCategories: Web, Pwn, Reverse, Crypto, Forensics, Mobile, Hardware, OSINT, Misc\r\n\r\n\r\nQualifying teams will take part in technical interviews to verify their solutions before the finals.\r\n\r\nCompete from anywhere and earn your ticket to Tunisia!\r\n\r\nRegister: https://quals.securinets.tn\r\nDiscord: https://discord.gg/X5nSDvjSyc\r\n\r\n☁️ Infrastructure sponsored by Google: https://goo.gle/ctfsponsorship",
+    "format": "Jeopardy",
+    "is_votable_now": true,
+    "prizes": "TBA",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Open",
+    "url": "https://ctf.securinets.tn/",
+    "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 451200,
+        "name": "SOLARCTF"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3471/",
+    "ctf_id": 1723,
+    "weight": 0,
+    "duration": {
+      "hours": 0,
+      "days": 1
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/ctf_time_4.png",
+    "id": 3471,
+    "title": "SOLAR CTF 2026",
+    "start": "2026-10-17T09:00:00+00:00",
+    "participants": 28,
+    "location": "",
+    "finish": "2026-10-18T09:00:00+00:00",
+    "description": "Registration for SolarCTF is open ☀️\r\nSolar’s first student cybersecurity competition is your chance to test your skills in practice, build a team, and compete for prizes.\r\n\r\nKey information:\r\n✦ Teams of up to 5 people\r\n✦ Start — October 17 at 12:00 PM (MSK)\r\n✦ End — October 18 at 12:00 PM (MSK)\r\n✦ 24 hours to complete the challenges\r\n\r\nDon’t have a team yet? Find teammates in the SolarCTF chat - https://t.me/+-6q5XsXtT6IxNjIy.\r\nBuild your team and register for SolarCTF ❤️\r\n\r\nhttps://solarctf.ru/",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "The total prize pool is ₽300,000* plus limited-edition merchandise.\r\n\r\nYou can participate if you are at least 18 years old, a student, permanently reside in Russia, and will be in Russia during the competition.\r\n\r\n---\r\n* https://solarctf.ru/static/media/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_SOLAR_CTF.8e6abcf0802a490afbf5.pdf",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Academic",
+    "url": "https://solarctf.ru/",
+    "public_votable": false
+  },
+  {
+    "organizers": [
+      {
+        "id": 127017,
+        "name": "Cyber Hacktics"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3279/",
+    "ctf_id": 487,
+    "weight": 35.39,
+    "duration": {
+      "hours": 10,
+      "days": 1
+    },
+    "live_feed": "https://ctftime.org/live/3279/",
+    "logo": "https://ctftime.org//media/events/logo_deadface_ctf_2026.png",
+    "id": 3279,
+    "title": "DEADFACE CTF 2026",
+    "start": "2026-10-17T14:00:00+00:00",
+    "participants": 271,
+    "location": "",
+    "finish": "2026-10-19T00:00:00+00:00",
+    "description": "DEADFACE CTF features jeopardy-style challenges and is hosted by Cyber Hacktics and veterans of the United States Air Force in support of National Cyber Security Awareness Month.",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "1st Place - $300\r\n2nd Place - $200\r\n3rd Place - $100",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Open",
+    "url": "https://ctf.deadface.io/",
+    "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 283057,
+        "name": "SAS CREW"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3409/",
+    "ctf_id": 1081,
+    "weight": 49.5,
+    "duration": {
+      "hours": 11,
+      "days": 0
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/SAS26_temp_1.png",
+    "id": 3409,
+    "title": "SAS CTF 2026 Finals",
+    "start": "2026-10-20T03:00:00+00:00",
+    "participants": 0,
+    "location": "Indonesia, Bali",
+    "finish": "2026-10-20T14:00:00+00:00",
+    "description": "SAS CTF is an international competition for cybersecurity experts, held as a part of the Security Analyst Summit conference. The competition consists of an online Jeopardy qualification stage and on-site Attack-Defense finals.\r\n\r\nWe are inviting Top 8 teams that completed the SAS CTF qualification round and 5 regional winners of Kaspersky{CTF} 2026 (https://lp.kaspersky.com/ctf/) to compete for a share of the $18.000 prize pot at SAS 2026 in Bali, Indonesia on October 19-22.",
+    "format": "Attack-Defense",
+    "is_votable_now": false,
+    "prizes": "- 1st place: $10000\r\n- 2nd place: $5000\r\n- 3rd place: $3000",
+    "format_id": 2,
+    "onsite": true,
+    "restrictions": "Prequalified",
+    "url": "https://ctf.thesascon.com/",
+    "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 270645,
+        "name": "CRUx BPHC"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3369/",
+    "ctf_id": 1004,
+    "weight": 0.0,
+    "duration": {
+      "hours": 0,
+      "days": 2
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/cruX_logo_1.png",
+    "id": 3369,
+    "title": "cruXipher 2026 - ATMoS '26, BITS Hyderabad",
+    "start": "2026-10-23T00:30:00+00:00",
+    "participants": 40,
+    "location": "",
+    "finish": "2026-10-25T00:30:00+00:00",
+    "description": "cruXipher: A development-style Capture-the-Flag competition where teams of people come together to solve challenges that involve the skills of problem-solving, programming, cybersecurity, and general knowledge of computers to rise to the top.",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "- 1st Place: 15,000 INR\r\n- 2nd Place: 9,000 INR\r\n- 3rd Place: 6,000 INR",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Open",
+    "url": "https://cruxipher.crux-bphc.com/",
+    "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 418000,
+        "name": "CREST"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3477/",
+    "ctf_id": 1469,
+    "weight": 0,
+    "duration": {
+      "hours": 6,
+      "days": 0
+    },
+    "live_feed": "https://ctftime.org/live/3477/",
+    "logo": "https://ctftime.org//media/events/WhatsApp_Image_2026-10-11_at_14.32.54.jpeg",
+    "id": 3477,
+    "title": "CREST CTF 2.0",
+    "start": "2026-10-23T05:30:00+00:00",
+    "participants": 0,
+    "location": "",
+    "finish": "2026-10-23T11:30:00+00:00",
+    "description": "CREST CTF 2.0 | National Level Cyber Security Competition\r\nOrganized by CREST Cyber Club under the School of Computer Applications, Pimpri Chinchwad University (PCU).\r\nCREST CTF 2.0 is a national-level Capture The Flag (CTF) cybersecurity competition designed to challenge and elevate your problem-solving, ethical hacking, and cybersecurity skills. Whether you are competing remotely or joining us on campus, CREST CTF 2.0 offers an immersive environment to test your practical knowledge across various domains of cybersecurity.\r\nThis event is held alongside the National Level Cyber Security Conference on October 22–23, 2026.\r\nFormat: Hybrid Mode — Participate Online from anywhere in India, or join Offline at the PCU Campus.\r\n\r\nEvent Date: October 23, 2026\r\nParticipation Options\r\nOnline Participation: Free (Participate remotely with access to the CTF portal).\r\n\r\nOffline Participation: Free(Join us on campus at Pimpri Chinchwad University for the live hands-on competition experience).\r\n\r\nCore Domains & Categories\r\nParticipants will tackle hands-on challenges across diverse categories, including:\r\nWeb Exploitation\r\nDigital Forensics & Incident Response\r\nReverse Engineering & Binary Exploitation\r\nCryptography & OSINT (Open Source Intelligence)\r\nNetwork Security & Cloud Defense\r\nWho Should Register?\r\nCyber Security Enthusiasts & CTF Competitors\r\nStudents pursuing Degrees in Computer Applications, Computer Science, IT, or Cybersecurity\r\nAnyone looking to build practical, real-world security skills and connect with industry peers\r\n",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "●Total Cash Prize Pool: ₹1,00,000\r\n\r\n●Offline Category\r\n•1st Place – ₹10,000\r\n•2nd Place – ₹6,000\r\n•3rd Place – ₹4,000\r\n\r\n●Online Category\r\n•1st Place – ₹5,000\r\n•2nd Place – ₹3,000\r\n•3rd Place – ₹2,000\r\n\r\n●Plus exciting sponsor rewards, vouchers, discounts, swags, and much more!",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Individual",
+    "url": "https://crest.ctf7.com/",
+    "public_votable": false
+  },
+  {
+    "organizers": [
+      {
+        "id": 8299,
+        "name": "HITCON"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3340/",
+    "ctf_id": 79,
+    "weight": 91.16,
+    "duration": {
+      "hours": 0,
+      "days": 2
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg",
+    "id": 3340,
+    "title": "HITCON CTF 2026",
+    "start": "2026-10-23T14:00:00+00:00",
+    "participants": 151,
+    "location": "",
+    "finish": "2026-10-25T14:00:00+00:00",
+    "description": "",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "1st place: $8,000 USD\r\n2nd place: $4,000 USD\r\n3rd place: $2,000 USD\r\nSpecial award for Taiwan teams: $1,000 USD",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Open",
+    "url": "https://ctf2026.hitcon.org/",
+    "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 281202,
+        "name": "RSTCON"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3377/",
+    "ctf_id": 1125,
+    "weight": 25.0,
+    "duration": {
+      "hours": 0,
+      "days": 2
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/RSTCON-BLK_1.png",
+    "id": 3377,
+    "title": "RSTCON 2026 CTF",
+    "start": "2026-10-23T17:00:00+00:00",
+    "participants": 35,
+    "location": "",
+    "finish": "2026-10-25T17:00:00+00:00",
+    "description": "Online/Hybrid\r\nRSTCON CTF will available online, but there will be some challenges only available on-site at the conference.\r\n\r\nRSTCON CTF is an on-site/online competition for RSTCON, which is an annual technical security and hacking conference hosted in Charlotte, NC. RSTCON focuses on cutting-edge research, exploitation, and tradecraft in the logistics, energy, and manufacturing industries, as well as the sensors, systems, and architectures they rely on. RSTCON is home to the curious and those passionate about software and hardware security. \r\n(https://rstcon.org/)\r\n",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "1st - RSTCON Hard Hats & Next Year Tickets\r\n2nd - Conference Shirt & Bottlecap Badge\r\n3rd - Conference Shirt",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Open",
+    "url": "https://ctf.rstcon.org/",
+    "public_votable": false
+  },
+  {
+    "organizers": [
+      {
+        "id": 551,
+        "name": "FluxFingers"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3207/",
+    "ctf_id": 8,
+    "weight": 94.74,
+    "duration": {
+      "hours": 0,
+      "days": 2
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/hacklu25.jpg",
+    "id": 3207,
+    "title": "Hack.lu CTF 2026",
+    "start": "2026-10-23T18:00:00+00:00",
+    "participants": 108,
+    "location": "",
+    "finish": "2026-10-25T18:00:00+00:00",
+    "description": "Hack.​lu CTF is organized by FluxFingers, the CTF team of Ruhr-University Bochum (Germany). This will be the 16th edition.",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "TBA",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Open",
+    "url": "https://flu.xxx/",
+    "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 166645,
+        "name": "x6e.x65.x78.x75.x73"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3442/",
+    "ctf_id": 942,
+    "weight": 0.0,
+    "duration": {
+      "hours": 3,
+      "days": 1
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/v7_2.jpg",
+    "id": 3442,
+    "title": "Cryovault 2026 Finals",
+    "start": "2026-10-24T03:30:00+00:00",
+    "participants": 0,
+    "location": "Bengaluru, India",
+    "finish": "2026-10-25T06:30:00+00:00",
+    "description": "Cryovault 2026 is the flagship annual Capture The Flag competition organized by the Information Security and Forensics Center for Research (ISFCR) at PES University, Bengaluru.\r\n\r\nDiscord : https://discord.gg/yMFMXh3raE\r\n\r\nThis year's edition is split into two rounds:\r\n           Online Qualifier. A 24-hour jeopardy-style CTF open to teams around the world.\r\n           Offline Finals. The top qualifying teams are invited to compete on-site at PES University, Bengaluru.\r\n\r\nChallenges cover Web Exploitation, Binary Exploitation (pwn), Reverse Engineering, Cryptography, Forensics, OSINT, and Misc.\r\nThe problem set ranges from beginner-friendly warmups to advanced challenges crafted by the CTF team @ ISFCR PESU.",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "1st Rs. 30,000\r\n2nd Rs 20,000\r\n3rd Rs 10,000\r\nFirst consolation for the next 6 places Rs 5,000\r\nSecond consolation for the next 12 places Rs 2,000\r\nTop 21 receive prizes in the offline round",
+    "format_id": 1,
+    "onsite": true,
+    "restrictions": "Open",
+    "url": "https://isfcrpesu.ctfd.io/",
+    "public_votable": false
+  },
+  {
+    "organizers": [
+      {
+        "id": 281844,
+        "name": "H7Tex"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3094/",
+    "ctf_id": 1169,
+    "weight": 0.0,
+    "duration": {
+      "hours": 0,
+      "days": 1
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/87939ee617d4b7c6287bebf8cd7a620c.jpg",
+    "id": 3094,
+    "title": "H7CTF 2026 Finals",
+    "start": "2026-10-24T06:30:00+00:00",
+    "participants": 11,
+    "location": "Chennai, Tamil Nadu",
+    "finish": "2026-10-25T06:30:00+00:00",
+    "description": "H7CTF v3 Finals: An onsite cyber-security challenge hosted at SRMIST, bringing together the top teams from a unified global qualification round. \r\n\r\nTeams will compete in a real-world attack-defense environment, testing their capabilities across offensive and defensive domains.",
+    "format": "Attack-Defense",
+    "is_votable_now": false,
+    "prizes": "TDB",
+    "format_id": 2,
+    "onsite": true,
+    "restrictions": "Prequalified",
+    "url": "https://2026.h7tex.com/",
+    "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 444079,
+        "name": "BSides Peoria CTF Village"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3473/",
+    "ctf_id": 1718,
+    "weight": 0,
+    "duration": {
+      "hours": 6,
+      "days": 0
+    },
+    "live_feed": "https://ctftime.org/live/3473/",
+    "logo": "https://ctftime.org//media/events/cropped-BSIDES_PEORIA-2026_10pct.png",
+    "id": 3473,
+    "title": "BSides Peoria CTF 2026",
+    "start": "2026-10-24T14:45:00+00:00",
+    "participants": 2,
+    "location": "Peoria, Illinois, USA",
+    "finish": "2026-10-24T20:45:00+00:00",
+    "description": "This is the BSides Peoria CTF for 2026! It is our inaugural CTF, covering web, pwn, crypto, forensics, reversing, and fullpwn. It is held exclusively on site, at Bradley University, in Peoria, IL. A conference attendee pass is needed, and can be purchased at https://bsidespeoria.com/tickets/.\r\n\r\nThe maximum team size for this competition is 2. The AI policy is under https://bsidespeoriac.tf/rules\r\n\r\nOur sponsors are listed below!\r\nPlatinum Sponsor:\r\nBrackish Security\r\nCyberDrain\r\n\r\nGold Sponsor:\r\nBishopFox\r\nThreatlocker\r\nBlumira\r\n\r\nSilver Sponsor:\r\nRocket Fuel FactoryFormal\r\nMClean Maintenance Solutions\r\nCyphn.io\r\n\r\nBronze Sponsor:\r\nCorelight\r\nPearl Technology\r\nSKB Cyber\r\nHacker Tracker\r\n",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "2x Black Badges to the conference.",
+    "format_id": 1,
+    "onsite": true,
+    "restrictions": "Casual",
+    "url": "https://bsidespeoriac.tf/",
+    "public_votable": false
+  },
+  {
+    "organizers": [
+      {
+        "id": 83987,
+        "name": "exunclan"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3443/",
+    "ctf_id": 869,
+    "weight": 0.0,
+    "duration": {
+      "hours": 12,
+      "days": 1
+    },
+    "live_feed": "https://ctftime.org/live/3443/",
+    "logo": "https://ctftime.org//media/events/WhatsApp_Image_2026-09-14_at_12.17.30.jpeg",
+    "id": 3443,
+    "title": "Sudocrypt v16.0",
+    "start": "2026-10-27T03:30:00+00:00",
+    "participants": 14,
+    "location": "",
+    "finish": "2026-10-28T15:30:00+00:00",
+    "description": "The technology club of DPS RK Puram, Exun Clan is returning with its eagerly anticipated annual International Capture the Flag (CTF) x Cryptic Hunt event. Sudocrypt v16.0 is an event where individual cryptic enthusiasts come together to take on the ultimate challenge, showcasing their skills and passion for cyber and cryptic challenges. It's an event that promises excitement, learning, and the chance to test your abilities against participants from around the globe.\r\n",
+    "format": "Hack quest",
+    "is_votable_now": false,
+    "prizes": "This year’s prize pool stands at $900 USD, along with plenty of goodies for the top 50 teams. ",
+    "format_id": 3,
+    "onsite": false,
+    "restrictions": "Open",
+    "url": "https://sudocrypt.com/",
+    "public_votable": false
+  },
+  {
+    "organizers": [
+      {
+        "id": 83421,
+        "name": "Srdnlen"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3444/",
+    "ctf_id": 840,
+    "weight": 25.0,
+    "duration": {
+      "hours": 8,
+      "days": 0
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/e04b66f1d17c437f935e29d0fbe7beed_2.png",
+    "id": 3444,
+    "title": "Srdnlen CTF 2026 Finals (Sardinia Cyber Camp)",
+    "start": "2026-10-29T09:00:00+00:00",
+    "participants": 0,
+    "location": "Italy, Cagliari",
+    "finish": "2026-10-29T17:00:00+00:00",
+    "description": "The Sardinia Cyber Camp 2026 will bring the top 10 teams from the qualification round to compete live in Sardinia.\r\n\r\nAlongside the onsite CTF, the event will also host a cybersecurity fair and conference.",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "TBD",
+    "format_id": 1,
+    "onsite": true,
+    "restrictions": "Prequalified",
+    "url": "https://ctf.srdnlen.it/",
+    "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 405374,
+        "name": "JCOE Cyber Sentinels"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3381/",
+    "ctf_id": 1415,
+    "weight": 0.0,
+    "duration": {
+      "hours": 0,
+      "days": 1
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/tanmay_2.png",
+    "id": 3381,
+    "title": "Hacker's Gambit 2026 (Round 2 – Grand Finale)",
+    "start": "2026-10-30T06:30:00+00:00",
+    "participants": 0,
+    "location": "Jaihind College of Engineering,At Post Kuran, Taluka Junnar, Pune - 410511, Maharashtra, India  (19°09'47.2\"N 73°54'52.2\"E)",
+    "finish": "2026-10-31T06:30:00+00:00",
+    "description": "The Grand Finale is the final stage of Hackers Gambit 2026, where the Top 15 teams selected from the Online Qualifier will compete for the championship title. This 24-hour, on-site Capture The Flag (CTF) competition is designed to simulate real-world cybersecurity scenarios and evaluate participants' ability to solve complex security challenges under pressure.\r\n\r\nHosted at Jaihind College of Engineering, Kuran, the Grand Finale brings together the highest-performing teams for an intensive competition featuring advanced challenges across multiple cybersecurity domains. Participants will demonstrate their technical expertise, analytical thinking, teamwork, strategic decision-making, and adaptability while competing against some of the best cybersecurity talent.\r\n\r\nChallenges may cover domains including:\r\n\r\nWeb Security\r\nCryptography\r\nReverse Engineering\r\nDigital Forensics\r\nBinary Exploitation (Pwn)\r\nOpen Source Intelligence (OSINT)\r\nSteganography\r\nNetwork Security\r\nMiscellaneous Challenges\r\n\r\nThroughout the competition, teams will work continuously for 24 hours, solving progressively challenging problems to accumulate points on the official scoreboard. The competition will conclude with score verification by the organizing committee, followed by the official announcement of winners during the Awards & Closing Ceremony.\r\n\r\nThe Grand Finale provides participants with an opportunity to showcase their cybersecurity skills in a highly competitive environment while networking with industry professionals, sponsors, security researchers, and fellow cybersecurity enthusiasts.\r\n\r\nKey Highlights\r\nMode: Offline\r\nVenue: Jaihind College of Engineering, Kuran, Maharashtra, India\r\nDuration: 24 Hours\r\nFormat: Advanced Jeopardy-style Capture The Flag (CTF)\r\nEligibility: Top 15 teams qualified from the Online Qualifier\r\nChallenge Categories: Web Security, Cryptography, Reverse Engineering, Digital Forensics, Binary Exploitation (Pwn), OSINT, Steganography, Network Security, and Miscellaneous\r\nScoring: Points awarded based on successful flag submissions and challenge completion\r\nWinner Selection: Final rankings are determined based on the official scoreboard and verification by the organizing committee.\r\nAwards: Winners will receive cash prizes, trophies, certificates, sponsor rewards, and the title of Hackers Gambit 2026 Champion.",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "Compete for a total prize pool of ₹2,25,000, along with trophies, certificates, and exclusive sponsor rewards. Cash prizes will be awarded to the Winner, First Runner-up, and Second Runner-up, while additional awards and recognition may be announced during the event. The total prize pool is subject to change based on sponsorship commitments, funding availability, and organizer discretion. Final prize distribution and reward details will be communicated before the Grand Finale.",
+    "format_id": 1,
+    "onsite": true,
+    "restrictions": "Prequalified",
+    "url": "https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293",
+    "public_votable": false
+  },
+  {
+    "organizers": [
+      {
+        "id": 188318,
+        "name": "HiddenInvestigations"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3460/",
+    "ctf_id": 1704,
+    "weight": 0.0,
+    "duration": {
+      "hours": 0,
+      "days": 2
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/HI_Cyber_Con_2026_CTFtime_Logo.png",
+    "id": 3460,
+    "title": "HI Cyber Con 2026 CTF",
+    "start": "2026-10-30T14:00:00+00:00",
+    "participants": 14,
+    "location": "",
+    "finish": "2026-11-01T14:00:00+00:00",
+    "description": "HI Cyber Con 2026 CTF is an international 48-hour Jeopardy-style Capture The Flag competition organized by Hidden Investigations.\r\n\r\nThe competition features 70+ challenges covering web, forensics, steganography, network, crypto, binary exploitation, reverse engineering, AI/LLM, hardware, blockchain, OSINT, and misc.\r\n\r\nThe CTF is fully online and open to teams of up to 5 participants worldwide.",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "USD 2,500 Cash Prize Pool\r\n\r\n1st Place — $1,000\r\n2nd Place — $700\r\n3rd Place — $500\r\n4th Place — $200\r\n5th Place — $100\r\n\r\nAdditional sponsor rewards and community prizes may be announced during the event.\r\n\r\nPrizes are awarded to the Top 5 teams.",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Open",
+    "url": "https://ctf.hiddeninvestigations.net/",
+    "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 364644,
+        "name": "LoveFromMimic"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3459/",
+    "ctf_id": 1212,
+    "weight": 0.0,
+    "duration": {
+      "hours": 0,
+      "days": 1
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/logo_139.png",
+    "id": 3459,
+    "title": "2026 Qiangwang Challenge on Cyber Mimic Defense Qualification",
+    "start": "2026-10-31T02:00:00+00:00",
+    "participants": 7,
+    "location": "",
+    "finish": "2026-11-01T02:00:00+00:00",
+    "description": "The 2026 Qiangwang Challenge on Cyber Mimic Defense Qualification is the online qualifying round of the 9th Qiangwang International Elite Challenge on Cyber Mimic Defense.\r\n\r\nThis team-based Jeopardy CTF features standard CTF challenges and selected challenges on endogenous security. Teams can register through the official event website.\r\n\r\nEligible teams will be selected for the on-site finals, which are planned to take place in Nanjing, China. Please refer to the official website for competition rules, qualification details and further announcements.\r\n\r\nRegistration and event information:\r\nhttps://nest.pmlabs.com.cn/#/events/qiangwang-9/registration\r\n\r\nDiscord:\r\nhttps://discord.gg/Jvn67Me9na\r\n\r\nQQ group: 523854931",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "Eligible teams will qualify for the on-site finals, which are planned to take place in Nanjing, China. Qualification criteria, the number of qualifying teams and prize details will be announced on the official website.",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Open",
+    "url": "https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration",
+    "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 203499,
+        "name": "ctfcup"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3469/",
+    "ctf_id": 864,
+    "weight": 0.0,
+    "duration": {
+      "hours": 0,
+      "days": 1
+    },
+    "live_feed": "",
+    "logo": "",
+    "id": 3469,
+    "title": "Russian CTF Cup X Qualifier",
+    "start": "2026-10-31T09:00:00+00:00",
+    "participants": 11,
+    "location": "",
+    "finish": "2026-11-01T09:00:00+00:00",
+    "description": "Russian CTF Cup X, Qualifier.\r\nhttps://ctfcup.ru/registration\r\n\r\n12:00 UTC+3 (Moscow) 31 October - 12:00 UTC+3 (Moscow) 01 November. Online.\r\n\r\nThe top 10 teams from each category (academic, mixed, school, and secondary vocational) will be invited to the final in December.",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Open",
+    "url": "https://ctfcup.ru/",
+    "public_votable": false
+  },
+  {
+    "organizers": [
+      {
+        "id": 83678,
+        "name": "Black Bauhinia"
+      },
+      {
+        "id": 134746,
+        "name": "HKCERT"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3418/",
+    "ctf_id": 529,
+    "weight": 10.31,
+    "duration": {
+      "hours": 0,
+      "days": 1
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/CTF_2026_1.png",
+    "id": 3418,
+    "title": "HKCERT CTF 2026 (Qualifying Round)",
+    "start": "2026-11-06T10:00:00+00:00",
+    "participants": 24,
+    "location": "",
+    "finish": "2026-11-07T10:00:00+00:00",
+    "description": "HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong\r\nKong, featuring four categories: Secondary School, Tertiary, Open, and International.\r\n\r\nThis year there will be an online Jeopardy CTF (qualifying round) and a physical CTF with offensive and defensive challenges (Final round).\r\n\r\nPlease register at below HKCERT CTF website (Must register via the website)\r\nhttps://ctf.hkcert.org\r\n(Registration deadline: 20 Oct 2026)\r\n\r\nDiscord: https://discord.gg/2enm5Maedt",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "There are 2 rounds of the competition -> qualifying round and final round.\r\n\r\nThe top 5 teams of international category of the qualifying round will advance to the onsite final round at Hong Kong.\r\n\r\nThe prize for the winners in the final round are as below\r\n\r\nGold: HKD 16,000 ( Per Team )\r\nSilver: HKD 13,000 ( Per Team )\r\nBronze: HKD 11,000 ( Per Team )\r\n\r\nPlease register at below HKCERT CTF website\r\nhttps://ctf.hkcert.org\r\n(Registration deadline: 20 Oct 2026)\r\n",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Open",
+    "url": "https://ctf.hkcert.org/",
+    "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 89021,
+        "name": "BlackAlps"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3242/",
+    "ctf_id": 375,
+    "weight": 0.0,
+    "duration": {
+      "hours": 4,
+      "days": 0
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/black-alps-v5-logo-black_HIGH-RES.png",
+    "id": 3242,
+    "title": "BlackAlps CTF 2026",
+    "start": "2026-11-06T18:15:00+00:00",
+    "participants": 11,
+    "location": "Switzerland, Yverdon-les-Bains",
+    "finish": "2026-11-06T22:30:00+00:00",
+    "description": "The BlackAlps CTF will be held at the end of the BlackAlps conference in Yverdon-les-Bains in Switzerland. It's a CTF for all level including from beginner up to advanced team.\r\n\r\nThe CTF will last 5 hours and be on site for about 300 people.\r\n\r\nThere is no specific categories.\r\n\r\nRegistration is mandatory.\r\n\r\nWelcome at 18:45. Start at 19:00. End at 23:30. Awards ceremony at 23:45.",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "We observe that the arrival of artificial intelligence (AI) has significantly affected the spirit of CTFs.\r\nTo keep the event engaging, the #BlackAlps26 CTF is introducing a new format that reflects what CTFs mean to us: having fun, learning and sharing.\r\n\r\nFor this year we are introducing Write-up presentations: participants will be able to present their solutions on stage during the final hour and prizes will be awarded to write-up presenters. ",
+    "format_id": 1,
+    "onsite": true,
+    "restrictions": "Open",
+    "url": "https://blackalps.ch/ba-26/contest",
+    "public_votable": false
+  }
+]

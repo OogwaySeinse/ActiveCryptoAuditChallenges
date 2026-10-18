@@ -11,7 +11,7 @@
     "prize_raw": "TBA",
     "start_date": "2026-10-17T09:00:00Z",
     "end_date": "2026-10-18T21:00:00Z",
-    "days_remaining": 1,
+    "days_remaining": 0,
     "status": "ending_soon",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -36,7 +36,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T13:58:52Z"
+    "scraped_at": "2026-10-18T06:13:03Z"
   },
   {
     "id": "68c9e14757e483",
@@ -50,8 +50,8 @@
     "prize_raw": "1st Place - $300\r\n2nd Place - $200\r\n3rd Place - $100",
     "start_date": "2026-10-17T14:00:00Z",
     "end_date": "2026-10-19T00:00:00Z",
-    "days_remaining": 1,
-    "status": "upcoming",
+    "days_remaining": 0,
+    "status": "ending_soon",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
     "ecosystem": "Multi-chain / General",
@@ -67,7 +67,7 @@
     "organizer": "Cyber Hacktics",
     "difficulty": "Intermediate",
     "kyc_required": null,
-    "participants_count": 275,
+    "participants_count": 276,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -75,7 +75,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T13:58:52Z"
+    "scraped_at": "2026-10-18T06:13:03Z"
   },
   {
     "id": "0b4ac6543b13d9",
@@ -89,7 +89,7 @@
     "prize_raw": "- 1st Place: 15,000 INR\r\n- 2nd Place: 9,000 INR\r\n- 3rd Place: 6,000 INR",
     "start_date": "2026-10-23T00:30:00Z",
     "end_date": "2026-10-25T00:30:00Z",
-    "days_remaining": 7,
+    "days_remaining": 6,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -106,7 +106,7 @@
     "organizer": "CRUx BPHC",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 41,
+    "participants_count": 43,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -114,7 +114,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T13:58:52Z"
+    "scraped_at": "2026-10-18T06:13:03Z"
   },
   {
     "id": "394fbaf0a772ce",
@@ -128,7 +128,7 @@
     "prize_raw": "1st place: $8,000 USD\r\n2nd place: $4,000 USD\r\n3rd place: $2,000 USD\r\nSpecial award for Taiwan teams: $1,000 USD",
     "start_date": "2026-10-23T14:00:00Z",
     "end_date": "2026-10-25T14:00:00Z",
-    "days_remaining": 8,
+    "days_remaining": 7,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -145,7 +145,7 @@
     "organizer": "HITCON",
     "difficulty": "Advanced",
     "kyc_required": null,
-    "participants_count": 153,
+    "participants_count": 164,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -153,7 +153,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T13:58:52Z"
+    "scraped_at": "2026-10-18T06:13:03Z"
   },
   {
     "id": "ed803bfa2572ff",
@@ -167,7 +167,7 @@
     "prize_raw": "1st - RSTCON Hard Hats & Next Year Tickets\r\n2nd - Conference Shirt & Bottlecap Badge\r\n3rd - Conference Shirt",
     "start_date": "2026-10-23T17:00:00Z",
     "end_date": "2026-10-25T17:00:00Z",
-    "days_remaining": 8,
+    "days_remaining": 7,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -184,7 +184,7 @@
     "organizer": "RSTCON",
     "difficulty": "Intermediate",
     "kyc_required": null,
-    "participants_count": 37,
+    "participants_count": 39,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -192,7 +192,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T13:58:52Z"
+    "scraped_at": "2026-10-18T06:13:03Z"
   },
   {
     "id": "b21acc324fdc24",
@@ -206,7 +206,7 @@
     "prize_raw": "TBA",
     "start_date": "2026-10-23T18:00:00Z",
     "end_date": "2026-10-25T18:00:00Z",
-    "days_remaining": 8,
+    "days_remaining": 7,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -223,7 +223,7 @@
     "organizer": "FluxFingers",
     "difficulty": "Advanced",
     "kyc_required": null,
-    "participants_count": 108,
+    "participants_count": 115,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -231,7 +231,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T13:58:52Z"
+    "scraped_at": "2026-10-18T06:13:03Z"
   },
   {
     "id": "11753b833667ea",
@@ -245,7 +245,7 @@
     "prize_raw": "This year’s prize pool stands at $900 USD, along with plenty of goodies for the top 50 teams. ",
     "start_date": "2026-10-27T03:30:00Z",
     "end_date": "2026-10-28T15:30:00Z",
-    "days_remaining": 11,
+    "days_remaining": 10,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -270,7 +270,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T13:58:52Z"
+    "scraped_at": "2026-10-18T06:13:03Z"
   },
   {
     "id": "cdf9473850d484",
@@ -284,7 +284,7 @@
     "prize_raw": "USD 2,500 Cash Prize Pool\r\n\r\n1st Place — $1,000\r\n2nd Place — $700\r\n3rd Place — $500\r\n4th Place — $200\r\n5th Place — $100\r\n\r\nAdditional sponsor rewards and community prizes may be announced during the event.\r\n\r\nPrizes are awarded to the Top 5 teams.",
     "start_date": "2026-10-30T14:00:00Z",
     "end_date": "2026-11-01T14:00:00Z",
-    "days_remaining": 15,
+    "days_remaining": 14,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Blockchain CTF",
@@ -303,7 +303,7 @@
     "organizer": "HiddenInvestigations",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 14,
+    "participants_count": 15,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -311,7 +311,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T13:58:52Z"
+    "scraped_at": "2026-10-18T06:13:03Z"
   },
   {
     "id": "e101a557a587ba",
@@ -325,7 +325,7 @@
     "prize_raw": "Eligible teams will qualify for the on-site finals, which are planned to take place in Nanjing, China. Qualification criteria, the number of qualifying teams and prize details will be announced on the official website.",
     "start_date": "2026-10-31T02:00:00Z",
     "end_date": "2026-11-01T02:00:00Z",
-    "days_remaining": 14,
+    "days_remaining": 13,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -350,7 +350,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T13:58:52Z"
+    "scraped_at": "2026-10-18T06:13:03Z"
   },
   {
     "id": "e17a550e465960",
@@ -389,7 +389,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T13:58:52Z"
+    "scraped_at": "2026-10-18T06:13:03Z"
   },
   {
     "id": "527b3fa1a60850",
@@ -428,6 +428,45 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-17T13:58:52Z"
+    "scraped_at": "2026-10-18T06:13:03Z"
+  },
+  {
+    "id": "6ce31e706f0a35",
+    "title": "SpookyCTF 2026",
+    "platform": "CTFtime",
+    "source": "ctftime",
+    "url": "https://ctftime.org/event/3339/",
+    "prize": "Leaderboard / Non-cash",
+    "prize_usd": 0.0,
+    "prize_currency": "USD",
+    "prize_raw": "",
+    "start_date": "2026-11-06T17:00:00Z",
+    "end_date": "2026-11-07T17:00:00Z",
+    "days_remaining": 20,
+    "status": "upcoming",
+    "challenge_type": "ctf",
+    "category": "Cryptography & CTF",
+    "ecosystem": "Multi-chain / General",
+    "languages": [
+      "Python"
+    ],
+    "tags": [
+      "cryptography",
+      "ctftime",
+      "jeopardy"
+    ],
+    "description": "EVENT TIME HAS BEEN SHIFTED TO START AND END 4 HOURS AFTER TIME LISTED ABOVE REGISTRATION IS NOW AVAILABLE! BOO!! Welcome to SpookyCTF 2026! Organized by the New Jersey Institute of Technology's Cyber Security Network (formerly known as NICC), this is our annual Halloween CTF event, open to all! We've made this CTF beginner-friendly, with a mix of harder challenges. Our mission is to help beginners develop professio…",
+    "organizer": "NICC",
+    "difficulty": "Beginner",
+    "kyc_required": null,
+    "participants_count": 14,
+    "findings_count": null,
+    "repo_url": null,
+    "logo_url": null,
+    "first_seen_at": null,
+    "is_new": false,
+    "prize_delta_usd": 0.0,
+    "days_shift": 0,
+    "scraped_at": "2026-10-18T06:13:03Z"
   }
 ]

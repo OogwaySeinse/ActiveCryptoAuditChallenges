@@ -4384,7 +4384,8 @@
           "Vaults"
         ],
         "featured": [
-          "Launched Recently"
+          "Launched Recently",
+          "Paid Recently"
         ]
       },
       "url": "/bug-bounty/cosmos/information/",

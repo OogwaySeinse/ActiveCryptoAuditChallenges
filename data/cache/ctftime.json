@@ -146,7 +146,7 @@
     "id": 3369,
     "title": "cruXipher 2026 - ATMoS '26, BITS Hyderabad",
     "start": "2026-10-23T00:30:00+00:00",
-    "participants": 43,
+    "participants": 70,
     "location": "",
     "finish": "2026-10-25T00:30:00+00:00",
     "description": "cruXipher: A development-style Capture-the-Flag competition where teams of people come together to solve challenges that involve the skills of problem-solving, programming, cybersecurity, and general knowledge of computers to rise to the top.",
@@ -210,7 +210,7 @@
     "id": 3340,
     "title": "HITCON CTF 2026",
     "start": "2026-10-23T14:00:00+00:00",
-    "participants": 164,
+    "participants": 184,
     "location": "",
     "finish": "2026-10-25T14:00:00+00:00",
     "description": "",
@@ -242,7 +242,7 @@
     "id": 3377,
     "title": "RSTCON 2026 CTF",
     "start": "2026-10-23T17:00:00+00:00",
-    "participants": 39,
+    "participants": 45,
     "location": "",
     "finish": "2026-10-25T17:00:00+00:00",
     "description": "Online/Hybrid\r\nRSTCON CTF will available online, but there will be some challenges only available on-site at the conference.\r\n\r\nRSTCON CTF is an on-site/online competition for RSTCON, which is an annual technical security and hacking conference hosted in Charlotte, NC. RSTCON focuses on cutting-edge research, exploitation, and tradecraft in the logistics, energy, and manufacturing industries, as well as the sensors, systems, and architectures they rely on. RSTCON is home to the curious and those passionate about software and hardware security. \r\n(https://rstcon.org/)\r\n",
@@ -274,7 +274,7 @@
     "id": 3207,
     "title": "Hack.lu CTF 2026",
     "start": "2026-10-23T18:00:00+00:00",
-    "participants": 115,
+    "participants": 124,
     "location": "",
     "finish": "2026-10-25T18:00:00+00:00",
     "description": "Hack.​lu CTF is organized by FluxFingers, the CTF team of Ruhr-University Bochum (Germany). This will be the 16th edition.",
@@ -370,7 +370,7 @@
     "id": 3473,
     "title": "BSides Peoria CTF 2026",
     "start": "2026-10-24T14:45:00+00:00",
-    "participants": 2,
+    "participants": 3,
     "location": "Peoria, Illinois, USA",
     "finish": "2026-10-24T20:45:00+00:00",
     "description": "This is the BSides Peoria CTF for 2026! It is our inaugural CTF, covering web, pwn, crypto, forensics, reversing, and fullpwn. It is held exclusively on site, at Bradley University, in Peoria, IL. A conference attendee pass is needed, and can be purchased at https://bsidespeoria.com/tickets/.\r\n\r\nThe maximum team size for this competition is 2. The AI policy is under https://bsidespeoriac.tf/rules\r\n\r\nOur sponsors are listed below!\r\nPlatinum Sponsor:\r\nBrackish Security\r\nCyberDrain\r\n\r\nGold Sponsor:\r\nBishopFox\r\nThreatlocker\r\nBlumira\r\n\r\nSilver Sponsor:\r\nRocket Fuel FactoryFormal\r\nMClean Maintenance Solutions\r\nCyphn.io\r\n\r\nBronze Sponsor:\r\nCorelight\r\nPearl Technology\r\nSKB Cyber\r\nHacker Tracker\r\n",
@@ -402,7 +402,7 @@
     "id": 3443,
     "title": "Sudocrypt v16.0",
     "start": "2026-10-27T03:30:00+00:00",
-    "participants": 14,
+    "participants": 16,
     "location": "",
     "finish": "2026-10-28T15:30:00+00:00",
     "description": "The technology club of DPS RK Puram, Exun Clan is returning with its eagerly anticipated annual International Capture the Flag (CTF) x Cryptic Hunt event. Sudocrypt v16.0 is an event where individual cryptic enthusiasts come together to take on the ultimate challenge, showcasing their skills and passion for cyber and cryptic challenges. It's an event that promises excitement, learning, and the chance to test your abilities against participants from around the globe.\r\n",
@@ -530,7 +530,7 @@
     "id": 3460,
     "title": "HI Cyber Con 2026 CTF",
     "start": "2026-10-30T14:00:00+00:00",
-    "participants": 15,
+    "participants": 17,
     "location": "",
     "finish": "2026-11-01T14:00:00+00:00",
     "description": "HI Cyber Con 2026 CTF is an international 48-hour Jeopardy-style Capture The Flag competition organized by Hidden Investigations.\r\n\r\nThe competition features 70+ challenges covering web, forensics, steganography, network, crypto, binary exploitation, reverse engineering, AI/LLM, hardware, blockchain, OSINT, and misc.\r\n\r\nThe CTF is fully online and open to teams of up to 5 participants worldwide.",
@@ -562,7 +562,7 @@
     "id": 3459,
     "title": "2026 Qiangwang Challenge on Cyber Mimic Defense Qualification",
     "start": "2026-10-31T02:00:00+00:00",
-    "participants": 7,
+    "participants": 8,
     "location": "",
     "finish": "2026-11-01T02:00:00+00:00",
     "description": "The 2026 Qiangwang Challenge on Cyber Mimic Defense Qualification is the online qualifying round of the 9th Qiangwang International Elite Challenge on Cyber Mimic Defense.\r\n\r\nThis team-based Jeopardy CTF features standard CTF challenges and selected challenges on endogenous security. Teams can register through the official event website.\r\n\r\nEligible teams will be selected for the on-site finals, which are planned to take place in Nanjing, China. Please refer to the official website for competition rules, qualification details and further announcements.\r\n\r\nRegistration and event information:\r\nhttps://nest.pmlabs.com.cn/#/events/qiangwang-9/registration\r\n\r\nDiscord:\r\nhttps://discord.gg/Jvn67Me9na\r\n\r\nQQ group: 523854931",
@@ -594,7 +594,7 @@
     "id": 3469,
     "title": "Russian CTF Cup X Qualifier",
     "start": "2026-10-31T09:00:00+00:00",
-    "participants": 11,
+    "participants": 12,
     "location": "",
     "finish": "2026-11-01T09:00:00+00:00",
     "description": "Russian CTF Cup X, Qualifier.\r\nhttps://ctfcup.ru/registration\r\n\r\n12:00 UTC+3 (Moscow) 31 October - 12:00 UTC+3 (Moscow) 01 November. Online.\r\n\r\nThe top 10 teams from each category (academic, mixed, school, and secondary vocational) will be invited to the final in December.",
@@ -662,7 +662,7 @@
     "id": 3418,
     "title": "HKCERT CTF 2026 (Qualifying Round)",
     "start": "2026-11-06T10:00:00+00:00",
-    "participants": 24,
+    "participants": 25,
     "location": "",
     "finish": "2026-11-07T10:00:00+00:00",
     "description": "HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong\r\nKong, featuring four categories: Secondary School, Tertiary, Open, and International.\r\n\r\nThis year there will be an online Jeopardy CTF (qualifying round) and a physical CTF with offensive and defensive challenges (Final round).\r\n\r\nPlease register at below HKCERT CTF website (Must register via the website)\r\nhttps://ctf.hkcert.org\r\n(Registration deadline: 20 Oct 2026)\r\n\r\nDiscord: https://discord.gg/2enm5Maedt",
@@ -673,6 +673,38 @@
     "onsite": false,
     "restrictions": "Open",
     "url": "https://ctf.hkcert.org/",
+    "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 395297,
+        "name": "Mirachron"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3333/",
+    "ctf_id": 1373,
+    "weight": 0.0,
+    "duration": {
+      "hours": 0,
+      "days": 2
+    },
+    "live_feed": "",
+    "logo": "",
+    "id": 3333,
+    "title": "CSCTF 2026",
+    "start": "2026-11-06T13:00:00+00:00",
+    "participants": 21,
+    "location": "",
+    "finish": "2026-11-08T13:00:00+00:00",
+    "description": "\"CSCTF 2026: Total Warfare\" is an international, online, free jeopardy-style CTF focused on realistic cybersecurity scenarios inspired by critical infrastructure, defense, and modern adversary tactics.\r\n\r\nChallenges cover web, pwn, crypto, reverse engineering, forensics, misc, Linux, Windows, and operational security, with scenarios connected to energy, telecom, healthcare, finance, and defense environments.\r\n\r\nThe competition is somewhat beginner-friendly but realism-driven.\r\n",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "TBD",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Open",
+    "url": "https://2026.chronos-security.ro/",
     "public_votable": true
   },
   {
@@ -737,6 +769,38 @@
     "onsite": true,
     "restrictions": "Open",
     "url": "https://blackalps.ch/ba-26/contest",
+    "public_votable": false
+  },
+  {
+    "organizers": [
+      {
+        "id": 445438,
+        "name": "Rare Byte Hub"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3455/",
+    "ctf_id": 1707,
+    "weight": 0,
+    "duration": {
+      "hours": 0,
+      "days": 1
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/rare-byte-hub.png",
+    "id": 3455,
+    "title": "Mimic",
+    "start": "2026-11-07T12:00:00+00:00",
+    "participants": 1,
+    "location": "",
+    "finish": "2026-11-08T12:00:00+00:00",
+    "description": "Mimic is an online Jeopardy-style CTF by Rare Byte Hub. Some challenges are exactly what they look like, and some aren't. Figure out which is which. There's something for everyone, from beginners to experienced players. Teams of 1-4 members.",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Casual",
+    "url": "https://ctf.rarebytehub.com/events/mimic",
     "public_votable": false
   }
 ]

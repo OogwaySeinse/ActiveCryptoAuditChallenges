@@ -1376,8 +1376,8 @@
         ],
         "productType": [
           "Yield Aggregator",
-          "Liquid Restaking",
-          "Services"
+          "Services",
+          "Liquid Staking"
         ],
         "programType": [
           "Smart Contract",
@@ -1889,8 +1889,8 @@
           "L2"
         ],
         "programType": [
-          "Blockchain/DLT",
-          "Smart Contract"
+          "Smart Contract",
+          "Blockchain/DLT"
         ],
         "projectType": [
           "Blockchain"
@@ -2271,111 +2271,6 @@
       "pausedAt": null
     },
     {
-      "slug": "burrow",
-      "project": "Burrow",
-      "maxBounty": 250000,
-      "launchDate": "2023-02-08T18:00:00.000Z",
-      "kyc": true,
-      "tags": {
-        "language": null,
-        "ecosystem": null,
-        "productType": [
-          "Lending"
-        ],
-        "programType": [
-          "Smart Contract"
-        ],
-        "projectType": [
-          "Defi"
-        ],
-        "general": [
-          "Immunefi Standard",
-          "KYC Required",
-          "PoC Required"
-        ],
-        "featured": [
-          "Launched Recently"
-        ]
-      },
-      "url": "/bug-bounty/burrow/information/",
-      "pausedAt": "2026-10-05T19:36:28.792Z"
-    },
-    {
-      "slug": "decentraland",
-      "project": "Decentraland",
-      "maxBounty": 250000,
-      "launchDate": "2022-07-05T16:30:00.000Z",
-      "kyc": true,
-      "tags": {
-        "language": [
-          "Solidity"
-        ],
-        "ecosystem": [
-          "ETH",
-          "Polygon"
-        ],
-        "productType": [
-          "Gaming"
-        ],
-        "programType": [
-          "Smart Contract",
-          "Websites and Applications"
-        ],
-        "projectType": [
-          "Defi",
-          "Infrastructure"
-        ],
-        "general": [
-          "Immunefi Standard",
-          "KYC Required",
-          "PoC Required"
-        ],
-        "featured": [
-          "Launched Recently",
-          "Paid Recently"
-        ]
-      },
-      "url": "/bug-bounty/decentraland/information/",
-      "pausedAt": "2026-10-16T07:21:52.155Z"
-    },
-    {
-      "slug": "reffinance",
-      "project": "Ref Finance",
-      "maxBounty": 250000,
-      "launchDate": "2022-05-17T18:30:00.000Z",
-      "kyc": false,
-      "tags": {
-        "language": [
-          "Rust"
-        ],
-        "ecosystem": [
-          "Near"
-        ],
-        "productType": [
-          "AMM",
-          "DEX"
-        ],
-        "programType": [
-          "Smart Contract"
-        ],
-        "projectType": [
-          "Defi"
-        ],
-        "general": [
-          "Immunefi Standard",
-          "KYC Not Required",
-          "PoC Not Required",
-          "Premium Program"
-        ],
-        "featured": [
-          "Launched Recently",
-          "Paid Recently"
-        ]
-      },
-      "url": "/bug-bounty/reffinance/information/",
-      "pausedAt": "2026-10-05T19:36:08.053Z"
-    },
-    {
       "slug": "stacks",
       "project": "Stacks",
       "maxBounty": 250000,
@@ -2552,6 +2447,7 @@
           "Triaged by Immunefi",
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required",
           "Primacy of Impact",
           "Premium Program"
@@ -2708,43 +2604,6 @@
       },
       "url": "/bug-bounty/beets/information/",
       "pausedAt": null
-    },
-    {
-      "slug": "stakewise",
-      "project": "StakeWise Mainnet",
-      "maxBounty": 200000,
-      "launchDate": "2022-05-31T17:30:00.000Z",
-      "kyc": false,
-      "tags": {
-        "language": [
-          "JavaScript"
-        ],
-        "ecosystem": [
-          "ETH",
-          "xDAI / Gnosis Chain"
-        ],
-        "productType": [
-          "Staking",
-          "Yield Aggregator"
-        ],
-        "programType": [
-          "Smart Contract",
-          "Websites and Applications"
-        ],
-        "projectType": [
-          "Defi"
-        ],
-        "general": [
-          "Immunefi Standard",
-          "KYC Not Required",
-          "PoC Required"
-        ],
-        "featured": [
-          "Launched Recently"
-        ]
-      },
-      "url": "/bug-bounty/stakewise/information/",
-      "pausedAt": "2026-09-28T12:47:19.149Z"
     },
     {
       "slug": "debridge",
@@ -3805,44 +3664,6 @@
       "pausedAt": null
     },
     {
-      "slug": "linea",
-      "project": "Linea",
-      "maxBounty": 100000,
-      "launchDate": "2023-07-11T14:00:00.000Z",
-      "kyc": true,
-      "tags": {
-        "language": [
-          "Solidity"
-        ],
-        "ecosystem": [
-          "ETH",
-          "Linea"
-        ],
-        "productType": [
-          "L2"
-        ],
-        "programType": [
-          "Smart Contract"
-        ],
-        "projectType": [
-          "Blockchain"
-        ],
-        "general": [
-          "Immunefi Standard",
-          "KYC Required",
-          "Paid Submissions",
-          "PoC Required",
-          "Primacy of Impact"
-        ],
-        "featured": [
-          "Launched Recently",
-          "Paid Recently"
-        ]
-      },
-      "url": "/bug-bounty/linea/information/",
-      "pausedAt": "2026-09-04T06:26:17.073Z"
-    },
-    {
       "slug": "velodromefinance",
       "project": "Velodrome Finance",
       "maxBounty": 100000,
@@ -4049,48 +3870,6 @@
       },
       "url": "/bug-bounty/folksfinance/information/",
       "pausedAt": null
-    },
-    {
-      "slug": "mux",
-      "project": "MUX",
-      "maxBounty": 100000,
-      "launchDate": "2021-06-09T07:00:00.000Z",
-      "kyc": false,
-      "tags": {
-        "language": [
-          "Solidity"
-        ],
-        "ecosystem": [
-          "Arbitrum",
-          "Avalanche",
-          "BSC",
-          "ETH",
-          "Fantom",
-          "Optimism"
-        ],
-        "productType": [
-          "DEX",
-          "Liquid Staking"
-        ],
-        "programType": [
-          "Smart Contract",
-          "Websites and Applications"
-        ],
-        "projectType": [
-          "Defi",
-          "Exchange"
-        ],
-        "general": [
-          "Immunefi Standard",
-          "KYC Not Required",
-          "PoC Required"
-        ],
-        "featured": [
-          "Launched Recently"
-        ]
-      },
-      "url": "/bug-bounty/mux/information/",
-      "pausedAt": "2026-09-28T12:47:08.039Z"
     },
     {
       "slug": "synthetix",
@@ -4510,44 +4289,6 @@
       "pausedAt": null
     },
     {
-      "slug": "galagames",
-      "project": "Gala Games",
-      "maxBounty": 50000,
-      "launchDate": "2023-05-23T13:00:00.000Z",
-      "kyc": true,
-      "tags": {
-        "language": [
-          "JavaScript",
-          "Solidity"
-        ],
-        "ecosystem": [
-          "ETH"
-        ],
-        "productType": [
-          "Gaming",
-          "Wallet"
-        ],
-        "programType": [
-          "Smart Contract",
-          "Websites and Applications"
-        ],
-        "projectType": [
-          "Blockchain",
-          "Infrastructure",
-          "NFT"
-        ],
-        "general": [
-          "KYC Required",
-          "PoC Required"
-        ],
-        "featured": [
-          "Launched Recently"
-        ]
-      },
-      "url": "/bug-bounty/galagames/information/",
-      "pausedAt": "2026-08-19T18:55:47.282Z"
-    },
-    {
       "slug": "filecoin",
       "project": "Filecoin",
       "maxBounty": 50000,
@@ -4584,42 +4325,6 @@
       },
       "url": "/bug-bounty/filecoin/information/",
       "pausedAt": null
-    },
-    {
-      "slug": "metronome",
-      "project": "Metronome",
-      "maxBounty": 50000,
-      "launchDate": "2023-02-21T21:00:00.000Z",
-      "kyc": true,
-      "tags": {
-        "language": [
-          "Solidity"
-        ],
-        "ecosystem": [
-          "ETH",
-          "Optimism"
-        ],
-        "productType": [
-          "Synthetic Assets",
-          "Yield Aggregator"
-        ],
-        "programType": [
-          "Smart Contract",
-          "Websites and Applications"
-        ],
-        "projectType": [
-          "Defi"
-        ],
-        "general": [
-          "KYC Required",
-          "PoC Required"
-        ],
-        "featured": [
-          "Launched Recently"
-        ]
-      },
-      "url": "/bug-bounty/metronome/information/",
-      "pausedAt": "2026-09-29T17:02:15.373Z"
     },
     {
       "slug": "magpiexyz",
@@ -4735,39 +4440,6 @@
       },
       "url": "/bug-bounty/hashflow/information/",
       "pausedAt": null
-    },
-    {
-      "slug": "glodollar",
-      "project": "Glo Dollar",
-      "maxBounty": 50000,
-      "launchDate": "2022-02-14T15:00:00.000Z",
-      "kyc": true,
-      "tags": {
-        "language": null,
-        "ecosystem": [
-          "ETH",
-          "Polygon"
-        ],
-        "productType": [
-          "Stablecoin"
-        ],
-        "programType": [
-          "Smart Contract"
-        ],
-        "projectType": [
-          "Defi"
-        ],
-        "general": [
-          "Immunefi Standard",
-          "KYC Required",
-          "PoC Required"
-        ],
-        "featured": [
-          "Launched Recently"
-        ]
-      },
-      "url": "/bug-bounty/glodollar/information/",
-      "pausedAt": "2026-10-05T19:35:31.053Z"
     },
     {
       "slug": "dhedge",
@@ -4959,42 +4631,6 @@
       },
       "url": "/bug-bounty/ichi/information/",
       "pausedAt": null
-    },
-    {
-      "slug": "vesper",
-      "project": "Vesper",
-      "maxBounty": 50000,
-      "launchDate": "2021-05-06T05:00:00.000Z",
-      "kyc": false,
-      "tags": {
-        "language": [
-          "JavaScript",
-          "Solidity"
-        ],
-        "ecosystem": [
-          "ETH"
-        ],
-        "productType": [
-          "Yield Aggregator"
-        ],
-        "programType": [
-          "Smart Contract",
-          "Websites and Applications"
-        ],
-        "projectType": [
-          "Defi"
-        ],
-        "general": [
-          "Immunefi Standard",
-          "KYC Not Required",
-          "PoC Required"
-        ],
-        "featured": [
-          "Launched Recently"
-        ]
-      },
-      "url": "/bug-bounty/vesper/information/",
-      "pausedAt": "2026-09-29T17:02:29.396Z"
     },
     {
       "slug": "pareto",
@@ -5671,42 +5307,6 @@
       "pausedAt": null
     },
     {
-      "slug": "hathornetwork",
-      "project": "Hathor Network",
-      "maxBounty": 20000,
-      "launchDate": "2023-03-15T19:00:00.000Z",
-      "kyc": true,
-      "tags": {
-        "language": [
-          "JavaScript",
-          "Python"
-        ],
-        "ecosystem": [],
-        "productType": [
-          "L1",
-          "Wallet"
-        ],
-        "programType": [
-          "Websites and Applications",
-          "Blockchain/DLT"
-        ],
-        "projectType": [
-          "Blockchain"
-        ],
-        "general": [
-          "Immunefi Standard",
-          "KYC Required",
-          "PoC Required"
-        ],
-        "featured": [
-          "Launched Recently",
-          "Paid Recently"
-        ]
-      },
-      "url": "/bug-bounty/hathornetwork/information/",
-      "pausedAt": "2026-09-24T14:47:32.798Z"
-    },
-    {
       "slug": "horizen",
       "project": "Horizen",
       "maxBounty": 10000,
@@ -5773,36 +5373,6 @@
       },
       "url": "/bug-bounty/edgex/information/",
       "pausedAt": null
-    },
-    {
-      "slug": "ofza-1",
-      "project": "OFZA",
-      "maxBounty": 10000,
-      "launchDate": "2025-06-18T05:11:00.000Z",
-      "kyc": true,
-      "tags": {
-        "language": [],
-        "ecosystem": [],
-        "productType": [
-          "CEX"
-        ],
-        "programType": [
-          "Websites and Applications"
-        ],
-        "projectType": [
-          "Exchange"
-        ],
-        "general": [
-          "Immunefi Standard",
-          "KYC Required",
-          "PoC Required"
-        ],
-        "featured": [
-          "Launched Recently"
-        ]
-      },
-      "url": "/bug-bounty/ofza-1/information/",
-      "pausedAt": "2026-09-28T12:46:52.718Z"
     },
     {
       "slug": "yo-protocol",

@@ -1296,6 +1296,44 @@
       "pausedAt": null
     },
     {
+      "slug": "paxos-labs",
+      "project": "Paxos Labs",
+      "maxBounty": 500000,
+      "launchDate": "2026-10-20T07:26:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Crosschain Liquidity",
+          "Stablecoin",
+          "Token"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "KYC Required",
+          "Arbitration",
+          "Paid Submissions",
+          "PoC Required",
+          "Premium Program"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/paxos-labs/information/",
+      "pausedAt": null
+    },
+    {
       "slug": "1inch-SmartContracts",
       "project": "1inch - Smart Contracts",
       "maxBounty": 500000,

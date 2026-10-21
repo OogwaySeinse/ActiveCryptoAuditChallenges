@@ -11,7 +11,7 @@
     "prize_raw": "$<span data-currency-value>3,000</span>",
     "start_date": "2026-10-05T00:00:00Z",
     "end_date": "2026-10-25T23:59:00Z",
-    "days_remaining": 5,
+    "days_remaining": 4,
     "status": "ending_soon",
     "challenge_type": "hackathon",
     "category": "AI & Agents",
@@ -29,7 +29,7 @@
     "organizer": "IEEE Turkey",
     "difficulty": "Intermediate",
     "kyc_required": null,
-    "participants_count": 986,
+    "participants_count": 1022,
     "findings_count": null,
     "repo_url": null,
     "logo_url": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/642/899/datas/medium_square.png",
@@ -37,7 +37,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-20T06:18:29Z"
+    "scraped_at": "2026-10-21T06:19:39Z"
   },
   {
     "id": "a08c29a5d29899",
@@ -51,7 +51,7 @@
     "prize_raw": "₹ <span data-currency-value>200,000</span>",
     "start_date": "2026-10-17T00:00:00Z",
     "end_date": "2026-11-10T23:59:00Z",
-    "days_remaining": 21,
+    "days_remaining": 20,
     "status": "active",
     "challenge_type": "hackathon",
     "category": "Web3 Building (General)",
@@ -69,7 +69,7 @@
     "organizer": "Echelon institute of technology",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 13,
+    "participants_count": 20,
     "findings_count": null,
     "repo_url": null,
     "logo_url": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/553/888/datas/medium_square.png",
@@ -77,7 +77,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-20T06:18:29Z"
+    "scraped_at": "2026-10-21T06:19:39Z"
   },
   {
     "id": "3fe6f43f89f6c5",
@@ -91,7 +91,7 @@
     "prize_raw": "$<span data-currency-value>150,000</span>",
     "start_date": "2026-10-27T00:00:00Z",
     "end_date": "2026-10-28T23:59:00Z",
-    "days_remaining": 8,
+    "days_remaining": 7,
     "status": "upcoming",
     "challenge_type": "hackathon",
     "category": "Web3 Building (General)",
@@ -109,7 +109,7 @@
     "organizer": "Sharda University Greater Noida",
     "difficulty": "Intermediate",
     "kyc_required": null,
-    "participants_count": 30,
+    "participants_count": 31,
     "findings_count": null,
     "repo_url": null,
     "logo_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
@@ -117,6 +117,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-20T06:18:29Z"
+    "scraped_at": "2026-10-21T06:19:39Z"
   }
 ]

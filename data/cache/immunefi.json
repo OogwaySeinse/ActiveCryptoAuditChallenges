@@ -155,8 +155,7 @@
           "PoC Required"
         ],
         "featured": [
-          "Launched Recently",
-          "Paid Recently"
+          "Launched Recently"
         ]
       },
       "url": "/bug-bounty/sky/information/",
@@ -1323,8 +1322,7 @@
           "KYC Required",
           "Arbitration",
           "Paid Submissions",
-          "PoC Required",
-          "Premium Program"
+          "PoC Required"
         ],
         "featured": [
           "Launched Recently"
@@ -2554,8 +2552,8 @@
           "DEX"
         ],
         "programType": [
-          "Websites and Applications",
-          "Smart Contract"
+          "Smart Contract",
+          "Websites and Applications"
         ],
         "projectType": [
           "Exchange",
@@ -3340,8 +3338,7 @@
           "Primacy of Impact"
         ],
         "featured": [
-          "Launched Recently",
-          "Paid Recently"
+          "Launched Recently"
         ]
       },
       "url": "/bug-bounty/hermetica/information/",

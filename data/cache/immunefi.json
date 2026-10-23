@@ -3065,38 +3065,6 @@
       "pausedAt": null
     },
     {
-      "slug": "sp1",
-      "project": "SP1",
-      "maxBounty": 100000,
-      "launchDate": "2026-09-21T15:00:00.000Z",
-      "kyc": false,
-      "tags": {
-        "language": [
-          "Rust",
-          "Go"
-        ],
-        "ecosystem": [],
-        "productType": [
-          "Zero-Knowledge Proofs"
-        ],
-        "programType": [
-          "Blockchain/DLT"
-        ],
-        "projectType": [],
-        "general": [
-          "KYC Not Required",
-          "Paid Submissions",
-          "PoC Required",
-          "Primacy of Impact"
-        ],
-        "featured": [
-          "Launched Recently"
-        ]
-      },
-      "url": "/bug-bounty/sp1/information/",
-      "pausedAt": null
-    },
-    {
       "slug": "intuition",
       "project": "Intuition",
       "maxBounty": 100000,
@@ -5342,6 +5310,38 @@
       "pausedAt": null
     },
     {
+      "slug": "sp1",
+      "project": "SP1",
+      "maxBounty": 15000,
+      "launchDate": "2026-09-21T15:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Rust",
+          "Go"
+        ],
+        "ecosystem": [],
+        "productType": [
+          "Zero-Knowledge Proofs"
+        ],
+        "programType": [
+          "Blockchain/DLT"
+        ],
+        "projectType": [],
+        "general": [
+          "KYC Not Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/sp1/information/",
+      "pausedAt": null
+    },
+    {
       "slug": "horizen",
       "project": "Horizen",
       "maxBounty": 10000,
@@ -5402,8 +5402,7 @@
           "PoC Not Required"
         ],
         "featured": [
-          "Launched Recently",
-          "Paid Recently"
+          "Launched Recently"
         ]
       },
       "url": "/bug-bounty/edgex/information/",

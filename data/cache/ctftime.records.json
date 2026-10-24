@@ -11,7 +11,7 @@
     "prize_raw": "- 1st Place: 15,000 INR\r\n- 2nd Place: 9,000 INR\r\n- 3rd Place: 6,000 INR",
     "start_date": "2026-10-23T00:30:00Z",
     "end_date": "2026-10-25T00:30:00Z",
-    "days_remaining": 1,
+    "days_remaining": 0,
     "status": "ending_soon",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -36,7 +36,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "394fbaf0a772ce",
@@ -50,8 +50,8 @@
     "prize_raw": "1st place: $8,000 USD\r\n2nd place: $4,000 USD\r\n3rd place: $2,000 USD\r\nSpecial award for Taiwan teams: $1,000 USD",
     "start_date": "2026-10-23T14:00:00Z",
     "end_date": "2026-10-25T14:00:00Z",
-    "days_remaining": 2,
-    "status": "upcoming",
+    "days_remaining": 1,
+    "status": "ending_soon",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
     "ecosystem": "Multi-chain / General",
@@ -67,7 +67,7 @@
     "organizer": "HITCON",
     "difficulty": "Advanced",
     "kyc_required": null,
-    "participants_count": 309,
+    "participants_count": 351,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -75,7 +75,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "ed803bfa2572ff",
@@ -89,8 +89,8 @@
     "prize_raw": "1st - RSTCON Hard Hats & Next Year Tickets\r\n2nd - Conference Shirt & Bottlecap Badge\r\n3rd - Conference Shirt",
     "start_date": "2026-10-23T17:00:00Z",
     "end_date": "2026-10-25T17:00:00Z",
-    "days_remaining": 2,
-    "status": "upcoming",
+    "days_remaining": 1,
+    "status": "ending_soon",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
     "ecosystem": "Multi-chain / General",
@@ -106,7 +106,7 @@
     "organizer": "RSTCON",
     "difficulty": "Intermediate",
     "kyc_required": null,
-    "participants_count": 88,
+    "participants_count": 103,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -114,7 +114,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "b21acc324fdc24",
@@ -128,8 +128,8 @@
     "prize_raw": "TBA",
     "start_date": "2026-10-23T18:00:00Z",
     "end_date": "2026-10-25T18:00:00Z",
-    "days_remaining": 2,
-    "status": "upcoming",
+    "days_remaining": 1,
+    "status": "ending_soon",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
     "ecosystem": "Multi-chain / General",
@@ -145,7 +145,7 @@
     "organizer": "FluxFingers",
     "difficulty": "Advanced",
     "kyc_required": null,
-    "participants_count": 175,
+    "participants_count": 198,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -153,7 +153,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "11753b833667ea",
@@ -167,7 +167,7 @@
     "prize_raw": "This year’s prize pool stands at $900 USD, along with plenty of goodies for the top 50 teams. ",
     "start_date": "2026-10-27T03:30:00Z",
     "end_date": "2026-10-28T15:30:00Z",
-    "days_remaining": 5,
+    "days_remaining": 4,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -184,7 +184,7 @@
     "organizer": "exunclan",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 24,
+    "participants_count": 27,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -192,7 +192,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "cdf9473850d484",
@@ -206,7 +206,7 @@
     "prize_raw": "USD 2,500 Guaranteed Cash Prize Pool + Additional Sponsored Rewards\r\n\r\nCASH PRIZES (TOP 5 TEAMS)\r\n\r\n* 1st Place: USD 1,000\r\n* 2nd Place: USD 700\r\n* 3rd Place: USD 500\r\n* 4th Place: USD 200\r\n* 5th Place: USD 100\r\n\r\nSPONSOR-PROVIDED REWARDS\r\n\r\n* Netlas: 6-month Business subscriptions (Top 5 teams).\r\n\r\n* 13Cubed: Forensic training courses (Top 3 teams).\r\n\r\n* CyberDefenders: Pro subscriptions (Top 3 teams).\r\n   - 3 months for 1st \r\n   - 2 months for 2nd \r\n   - 1 month for 3rd\r\n\r\n* Gen.XYZ: 5 domains per team (Top 5 teams).\r\n\r\n* Hackviser: CAPT certification discounts and VIP membership benefits (Top 5 teams).\r\n   - 1st–3rd teams: 50% off CAPT certification + one month free VIP membership.\r\n   - 4th–5th teams: 30% off CAPT certification + 30% off one-month VIP membership.\r\n\r\n* Campfire Security: 1-year Unlimited Access subscriptions (Top 5 teams).\r\n\r\n* White Knight Labs: 6-month WKL Academy access and one certification course (Top 3 teams).\r\n\r\n* SweetScape: Perpetual 010 Editor commercial licenses (Top 5 teams).\r\n\r\n* Criminal IP: 6-month Starter subscriptions (Top 5 teams).\r\n\r\n* Just Hacking Training: training courses (Top 3 teams).\r\n   - 1st: Dark Web & Cybercrime Investigations\r\n   - 2nd: Beginner Level OSINT\r\n   - 3rd: OpSec – Privacy for Security Professionals\r\n\r\nBoth Human-Led and Agentic AI divisions are eligible for the same overall cash prize pool.\r\n\r\nCash prizes are awarded once per eligible winning team. Sponsored rewards are subject to their respective allocation limits, redemption terms, and winner verification.\r\n\r\nFull prize details: https://hicybercon.hiddeninvestigations.net/ctf",
     "start_date": "2026-10-30T14:00:00Z",
     "end_date": "2026-11-01T14:00:00Z",
-    "days_remaining": 9,
+    "days_remaining": 8,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Blockchain CTF",
@@ -225,7 +225,7 @@
     "organizer": "HiddenInvestigations",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 24,
+    "participants_count": 28,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -233,7 +233,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "e101a557a587ba",
@@ -247,7 +247,7 @@
     "prize_raw": "Eligible teams will qualify for the on-site finals, which are planned to take place in Nanjing, China. Qualification criteria, the number of qualifying teams and prize details will be announced on the official website.",
     "start_date": "2026-10-31T02:00:00Z",
     "end_date": "2026-11-01T02:00:00Z",
-    "days_remaining": 8,
+    "days_remaining": 7,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -272,7 +272,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "e17a550e465960",
@@ -286,7 +286,7 @@
     "prize_raw": "",
     "start_date": "2026-10-31T09:00:00Z",
     "end_date": "2026-11-01T09:00:00Z",
-    "days_remaining": 9,
+    "days_remaining": 8,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -303,7 +303,7 @@
     "organizer": "ctfcup",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 17,
+    "participants_count": 18,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -311,7 +311,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "527b3fa1a60850",
@@ -325,7 +325,7 @@
     "prize_raw": "There are 2 rounds of the competition -> qualifying round and final round.\r\n\r\nThe top 5 teams of international category of the qualifying round will advance to the onsite final round at Hong Kong.\r\n\r\nThe prize for the winners in the final round are as below\r\n\r\nGold: HKD 16,000 ( Per Team )\r\nSilver: HKD 13,000 ( Per Team )\r\nBronze: HKD 11,000 ( Per Team )\r\n\r\nPlease register at below HKCERT CTF website\r\nhttps://ctf.hkcert.org\r\n(Registration deadline: 4 Nov 2026 HKT 1200)\r\n",
     "start_date": "2026-11-06T10:00:00Z",
     "end_date": "2026-11-07T10:00:00Z",
-    "days_remaining": 15,
+    "days_remaining": 14,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -342,7 +342,7 @@
     "organizer": "Black Bauhinia, HKCERT",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 32,
+    "participants_count": 33,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -350,7 +350,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "5d7602afb19450",
@@ -364,7 +364,7 @@
     "prize_raw": "TBD\r\nEstimated 1100$ worth of prizes (including license prizes)",
     "start_date": "2026-11-06T12:00:00Z",
     "end_date": "2026-11-09T12:00:00Z",
-    "days_remaining": 17,
+    "days_remaining": 16,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -389,7 +389,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "1cf30867cd5b79",
@@ -403,7 +403,7 @@
     "prize_raw": "TBD",
     "start_date": "2026-11-06T13:00:00Z",
     "end_date": "2026-11-08T13:00:00Z",
-    "days_remaining": 16,
+    "days_remaining": 15,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -420,7 +420,7 @@
     "organizer": "Mirachron",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 24,
+    "participants_count": 25,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -428,7 +428,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "6ce31e706f0a35",
@@ -442,7 +442,7 @@
     "prize_raw": "",
     "start_date": "2026-11-06T17:00:00Z",
     "end_date": "2026-11-07T17:00:00Z",
-    "days_remaining": 15,
+    "days_remaining": 14,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -459,7 +459,7 @@
     "organizer": "NICC",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 16,
+    "participants_count": 18,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -467,6 +467,45 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
+  },
+  {
+    "id": "1cce76e9cb1d9c",
+    "title": "CSAW CTF Final Round 2026",
+    "platform": "CTFtime",
+    "source": "ctftime",
+    "url": "https://ctftime.org/event/3410/",
+    "prize": "Leaderboard / Non-cash",
+    "prize_usd": 0.0,
+    "prize_currency": "USD",
+    "prize_raw": "",
+    "start_date": "2026-11-12T17:00:00Z",
+    "end_date": "2026-11-14T05:00:00Z",
+    "days_remaining": 20,
+    "status": "upcoming",
+    "challenge_type": "ctf",
+    "category": "Cryptography & CTF",
+    "ecosystem": "Multi-chain / General",
+    "languages": [
+      "Python"
+    ],
+    "tags": [
+      "cryptography",
+      "ctftime",
+      "jeopardy"
+    ],
+    "description": "CSAW CTF is one of the oldest and biggest CTFs. Designed as an entry-level, jeopardy-style CTF, this competition is for students who are trying to break into the field of security, as well as for advanced students and industry professionals who want to practice their skills.",
+    "organizer": "NYUSEC",
+    "difficulty": "Beginner",
+    "kyc_required": null,
+    "participants_count": 12,
+    "findings_count": null,
+    "repo_url": null,
+    "logo_url": null,
+    "first_seen_at": null,
+    "is_new": false,
+    "prize_delta_usd": 0.0,
+    "days_shift": 0,
+    "scraped_at": "2026-10-24T06:15:49Z"
   }
 ]

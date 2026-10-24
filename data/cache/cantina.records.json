@@ -11,7 +11,7 @@
     "prize_raw": "50000.0 USDC",
     "start_date": "2026-10-06T18:30:00Z",
     "end_date": "2026-11-03T18:30:00Z",
-    "days_remaining": 11,
+    "days_remaining": 10,
     "status": "active",
     "challenge_type": "audit_contest",
     "category": "DEX & AMM",
@@ -29,14 +29,14 @@
     "difficulty": "Intermediate",
     "kyc_required": true,
     "participants_count": null,
-    "findings_count": 2510,
+    "findings_count": 2663,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/da92d699-1cbf-4a22-de6b-a549ad0f0600/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "c5d211e71156f2",
@@ -68,14 +68,14 @@
     "difficulty": "Expert",
     "kyc_required": true,
     "participants_count": null,
-    "findings_count": 1101,
+    "findings_count": 1105,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/996f66ba-85cb-426e-8735-30c8cd8a6300/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "ecb9c7ec31ec46",
@@ -107,14 +107,14 @@
     "difficulty": "Expert",
     "kyc_required": true,
     "participants_count": null,
-    "findings_count": 231,
+    "findings_count": 232,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/9b09e384-f489-4960-ce29-ed0ba1bd6400/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "76b295fdd6df66",
@@ -146,14 +146,14 @@
     "difficulty": "Expert",
     "kyc_required": true,
     "participants_count": null,
-    "findings_count": 1785,
+    "findings_count": 1788,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/32f837aa-461f-42b4-5c99-2aa6599cf500/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "ce2a60fb5b5ee1",
@@ -185,14 +185,14 @@
     "difficulty": "Expert",
     "kyc_required": true,
     "participants_count": null,
-    "findings_count": 1024,
+    "findings_count": 1025,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/d2ebe2eb-7c5e-474b-f255-82266f1eb800/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "5e8b811c42f3b0",
@@ -231,7 +231,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "47f43d99665e39",
@@ -270,7 +270,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "eef7b8e2256b4a",
@@ -309,7 +309,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "95ca2444a0b535",
@@ -341,14 +341,14 @@
     "difficulty": "Expert",
     "kyc_required": true,
     "participants_count": null,
-    "findings_count": 111,
+    "findings_count": 113,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/e6dee25f-7bbe-466d-69df-5cf213fbde00/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "c17dad6ed1cfe4",
@@ -387,7 +387,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "93c1624719d8f6",
@@ -419,14 +419,14 @@
     "difficulty": "Expert",
     "kyc_required": true,
     "participants_count": null,
-    "findings_count": 347,
+    "findings_count": 350,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/522fcaf3-3e38-480f-f227-670d318b2700/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "9a93d5412ba9d9",
@@ -464,7 +464,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "9e7e39f17a2bb3",
@@ -503,7 +503,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "547cf655a7cc10",
@@ -542,7 +542,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "8849c38e8d9992",
@@ -574,14 +574,14 @@
     "difficulty": "Expert",
     "kyc_required": true,
     "participants_count": null,
-    "findings_count": 635,
+    "findings_count": 636,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/19c1e9af-24f6-492d-ce33-22d3b8708800/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "17069a606ded86",
@@ -613,14 +613,14 @@
     "difficulty": "Expert",
     "kyc_required": true,
     "participants_count": null,
-    "findings_count": 1128,
+    "findings_count": 1141,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/736d6bf0-efaa-473a-cf43-3aefa9f53e00/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "6c364f011d6b57",
@@ -659,7 +659,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "169b7b7249289f",
@@ -698,7 +698,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "e0bdc4e69a5a74",
@@ -737,7 +737,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "8c0a8fa3f1a678",
@@ -769,14 +769,14 @@
     "difficulty": "Advanced",
     "kyc_required": true,
     "participants_count": null,
-    "findings_count": 929,
+    "findings_count": 934,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/02f892de-566d-4e57-522d-838879c79200/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "45102554420437",
@@ -815,7 +815,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "b246a4ce7293d5",
@@ -854,7 +854,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "28de85b9caa1c1",
@@ -893,7 +893,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "2096cd2aa6d651",
@@ -925,14 +925,14 @@
     "difficulty": "Advanced",
     "kyc_required": true,
     "participants_count": null,
-    "findings_count": 377,
+    "findings_count": 381,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/8c52cded-ce40-486f-0034-9ddbc9595600/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "18fac71f3c067b",
@@ -965,14 +965,14 @@
     "difficulty": "Advanced",
     "kyc_required": true,
     "participants_count": null,
-    "findings_count": 689,
+    "findings_count": 694,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/91b00f2f-c2ce-468a-f6b1-13298dd51200/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "ce8d82f7496e3b",
@@ -1010,7 +1010,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "e085eb46db54f2",
@@ -1049,7 +1049,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "750cf582059e1f",
@@ -1082,14 +1082,14 @@
     "difficulty": "Advanced",
     "kyc_required": true,
     "participants_count": null,
-    "findings_count": 644,
+    "findings_count": 645,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/972937de-e6ee-4072-bb58-f92703b7df00/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "1572119fb5f821",
@@ -1127,7 +1127,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "20933c96e627d0",
@@ -1166,7 +1166,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "6733dcef7a8317",
@@ -1205,7 +1205,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "4ef29930915b43",
@@ -1237,14 +1237,14 @@
     "difficulty": "Expert",
     "kyc_required": true,
     "participants_count": null,
-    "findings_count": 380,
+    "findings_count": 382,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/e0c3134f-779c-4570-53eb-8cf80aa7ff00/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "4c638a3f061ae9",
@@ -1276,14 +1276,14 @@
     "difficulty": "Intermediate",
     "kyc_required": true,
     "participants_count": null,
-    "findings_count": 564,
+    "findings_count": 565,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/f09ac833-d918-4611-a85d-14a1aed50900/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "1b770324837fcc",
@@ -1322,7 +1322,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "519f5fb33ea5cd",
@@ -1361,7 +1361,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "3e85f08c51afc7",
@@ -1392,14 +1392,14 @@
     "difficulty": "Advanced",
     "kyc_required": true,
     "participants_count": null,
-    "findings_count": 922,
+    "findings_count": 931,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/d76cdfeb-fb43-4aba-dc7c-f4171ea0ae00/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "2b23a9019e36e2",
@@ -1438,7 +1438,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "cd09da89b4fd9d",
@@ -1470,14 +1470,14 @@
     "difficulty": "Advanced",
     "kyc_required": true,
     "participants_count": null,
-    "findings_count": 183,
+    "findings_count": 184,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/7b9b34db-25d9-4cd1-34b6-cb169028fe00/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "46db655a78709c",
@@ -1516,7 +1516,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "287961b466cf9d",
@@ -1548,14 +1548,14 @@
     "difficulty": "Advanced",
     "kyc_required": true,
     "participants_count": null,
-    "findings_count": 21,
+    "findings_count": 22,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/f8b1e8f2-fd34-4940-1c9c-6193f337e900/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "7e1dfe7b7aa928",
@@ -1594,46 +1594,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
-  },
-  {
-    "id": "92fc21e3a3e378",
-    "title": "Kuru Bug Bounty",
-    "platform": "Cantina",
-    "source": "cantina",
-    "url": "https://cantina.xyz/bounties/f93c6818-141e-43a0-941f-5f56d606ad6f",
-    "prize": "$50K",
-    "prize_usd": 50000.0,
-    "prize_currency": "USD",
-    "prize_raw": "50000.0 USD",
-    "start_date": "2025-11-24T17:30:00Z",
-    "end_date": null,
-    "days_remaining": null,
-    "status": "ongoing",
-    "challenge_type": "bug_bounty",
-    "category": "DEX & AMM",
-    "ecosystem": "EVM",
-    "languages": [
-      "Solidity"
-    ],
-    "tags": [
-      "cantina",
-      "cantina-triaged",
-      "public_bounty"
-    ],
-    "description": "Introduction Kuru is a smart aggregator and fully on-chain order book decentralized exchange (DEX) built on Monad. Kuru is dedicated to building the trading hub for Monad, allowing users to access all of Monad’s liquidity with our smart aggregator, Kuru Flow, and bringing a performant central-limit orderbook to the EVM for the first time along with integrated discovery features, a trading terminal, user liquidity pr…",
-    "organizer": "Kuru Labs",
-    "difficulty": "Intermediate",
-    "kyc_required": true,
-    "participants_count": null,
-    "findings_count": 301,
-    "repo_url": null,
-    "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/729312c8-6812-4733-8744-71bd84473300/public",
-    "first_seen_at": null,
-    "is_new": false,
-    "prize_delta_usd": 0.0,
-    "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "9e9069c71beb83",
@@ -1672,7 +1633,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "346463cf540bf4",
@@ -1711,7 +1672,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "bd8eda9a473afe",
@@ -1750,7 +1711,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "178bdefe4bb459",
@@ -1789,7 +1750,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "6efedd99fc07e3",
@@ -1828,7 +1789,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "a22cd0c36f31d4",
@@ -1866,7 +1827,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "d610a0f823d00a",
@@ -1905,7 +1866,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "26fa8666bfccd3",
@@ -1944,7 +1905,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   },
   {
     "id": "ecbdf4a4ca2a43",
@@ -1976,13 +1937,13 @@
     "difficulty": "Intermediate",
     "kyc_required": false,
     "participants_count": null,
-    "findings_count": 283,
+    "findings_count": 284,
     "repo_url": null,
     "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/50b0b1d3-3d4f-4307-f880-db2ef50c9300/public",
     "first_seen_at": null,
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-23T06:19:54Z"
+    "scraped_at": "2026-10-24T06:15:49Z"
   }
 ]

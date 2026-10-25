@@ -2,102 +2,6 @@
   {
     "organizers": [
       {
-        "id": 5084,
-        "name": "Securinets"
-      }
-    ],
-    "ctftime_url": "https://ctftime.org/event/3364/",
-    "ctf_id": 105,
-    "weight": 85.12,
-    "duration": {
-      "hours": 12,
-      "days": 1
-    },
-    "live_feed": "",
-    "logo": "https://ctftime.org//media/events/logo_red_copy_1_2.jpg",
-    "id": 3364,
-    "title": "Securinets CTF Quals 2026",
-    "start": "2026-10-17T09:00:00+00:00",
-    "participants": 303,
-    "location": "",
-    "finish": "2026-10-18T21:00:00+00:00",
-    "description": "Securinets CTF Quals 2026 is an online Jeopardy-style Capture the Flag competition organized by Securinets INSAT, Tunisia.\r\n\r\nQualifiers: October 17–18, 2026 | Online | 36 hours | Jeopardy\r\nFinals: December 12–13, 2026 | Onsite at INSAT, Tunis, Tunisia\r\n\r\nQualification:\r\nThe top 10 international teams and the top 10 teams from the MENA region will qualify for the onsite finals at INSAT, Tunisia.\r\n\r\nTravel & Accommodation:\r\n- Top 2 international teams: flights and accommodation fully covered.\r\n- Top 10 teams: additional travel and accommodation coverage may be offered, depending on availability.\r\n\r\nCategories: Web, Pwn, Reverse, Crypto, Forensics, Mobile, Hardware, OSINT, Misc\r\n\r\n\r\nQualifying teams will take part in technical interviews to verify their solutions before the finals.\r\n\r\nCompete from anywhere and earn your ticket to Tunisia!\r\n\r\nRegister: https://quals.securinets.tn\r\nDiscord: https://discord.gg/X5nSDvjSyc\r\n\r\n☁️ Infrastructure sponsored by Google: https://goo.gle/ctfsponsorship",
-    "format": "Jeopardy",
-    "is_votable_now": true,
-    "prizes": "TBA",
-    "format_id": 1,
-    "onsite": false,
-    "restrictions": "Open",
-    "url": "https://ctf.securinets.tn/",
-    "public_votable": true
-  },
-  {
-    "organizers": [
-      {
-        "id": 451200,
-        "name": "SOLARCTF"
-      }
-    ],
-    "ctftime_url": "https://ctftime.org/event/3471/",
-    "ctf_id": 1723,
-    "weight": 0,
-    "duration": {
-      "hours": 0,
-      "days": 1
-    },
-    "live_feed": "",
-    "logo": "https://ctftime.org//media/events/ctf_time_4.png",
-    "id": 3471,
-    "title": "SOLAR CTF 2026",
-    "start": "2026-10-17T09:00:00+00:00",
-    "participants": 28,
-    "location": "",
-    "finish": "2026-10-18T09:00:00+00:00",
-    "description": "Registration for SolarCTF is open ☀️\r\nSolar’s first student cybersecurity competition is your chance to test your skills in practice, build a team, and compete for prizes.\r\n\r\nKey information:\r\n✦ Teams of up to 5 people\r\n✦ Start — October 17 at 12:00 PM (MSK)\r\n✦ End — October 18 at 12:00 PM (MSK)\r\n✦ 24 hours to complete the challenges\r\n\r\nDon’t have a team yet? Find teammates in the SolarCTF chat - https://t.me/+-6q5XsXtT6IxNjIy.\r\nBuild your team and register for SolarCTF ❤️\r\n\r\nhttps://solarctf.ru/",
-    "format": "Jeopardy",
-    "is_votable_now": false,
-    "prizes": "The total prize pool is ₽300,000* plus limited-edition merchandise.\r\n\r\nYou can participate if you are at least 18 years old, a student, permanently reside in Russia, and will be in Russia during the competition.\r\n\r\n---\r\n* https://solarctf.ru/static/media/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_SOLAR_CTF.8e6abcf0802a490afbf5.pdf",
-    "format_id": 1,
-    "onsite": false,
-    "restrictions": "Academic",
-    "url": "https://solarctf.ru/",
-    "public_votable": false
-  },
-  {
-    "organizers": [
-      {
-        "id": 127017,
-        "name": "Cyber Hacktics"
-      }
-    ],
-    "ctftime_url": "https://ctftime.org/event/3279/",
-    "ctf_id": 487,
-    "weight": 35.39,
-    "duration": {
-      "hours": 10,
-      "days": 1
-    },
-    "live_feed": "https://ctftime.org/live/3279/",
-    "logo": "https://ctftime.org//media/events/logo_deadface_ctf_2026.png",
-    "id": 3279,
-    "title": "DEADFACE CTF 2026",
-    "start": "2026-10-17T14:00:00+00:00",
-    "participants": 276,
-    "location": "",
-    "finish": "2026-10-19T00:00:00+00:00",
-    "description": "DEADFACE CTF features jeopardy-style challenges and is hosted by Cyber Hacktics and veterans of the United States Air Force in support of National Cyber Security Awareness Month.",
-    "format": "Jeopardy",
-    "is_votable_now": true,
-    "prizes": "1st Place - $300\r\n2nd Place - $200\r\n3rd Place - $100",
-    "format_id": 1,
-    "onsite": false,
-    "restrictions": "Open",
-    "url": "https://ctf.deadface.io/",
-    "public_votable": true
-  },
-  {
-    "organizers": [
-      {
         "id": 210132,
         "name": "Drovosec"
       },
@@ -274,7 +178,7 @@
       "days": 2
     },
     "live_feed": "",
-    "logo": "https://ctftime.org//media/events/hacklu25.jpg",
+    "logo": "https://ctftime.org//media/events/hack-round-dark.png",
     "id": 3207,
     "title": "Hack.lu CTF 2026",
     "start": "2026-10-23T18:00:00+00:00",
@@ -284,7 +188,7 @@
     "description": "Hack.​lu CTF is organized by FluxFingers, the CTF team of Ruhr-University Bochum (Germany). This will be the 16th edition.",
     "format": "Jeopardy",
     "is_votable_now": true,
-    "prizes": "TBA",
+    "prizes": "",
     "format_id": 1,
     "onsite": false,
     "restrictions": "Open",
@@ -332,7 +236,7 @@
     ],
     "ctftime_url": "https://ctftime.org/event/3094/",
     "ctf_id": 1169,
-    "weight": 0.0,
+    "weight": 0,
     "duration": {
       "hours": 0,
       "days": 1
@@ -347,7 +251,7 @@
     "finish": "2026-10-25T06:30:00+00:00",
     "description": "H7CTF v3 Finals: An onsite cyber-security challenge hosted at SRMIST, bringing together the top teams from a unified global qualification round. \r\n\r\nTeams will compete in a real-world attack-defense environment, testing their capabilities across offensive and defensive domains.",
     "format": "Attack-Defense",
-    "is_votable_now": false,
+    "is_votable_now": true,
     "prizes": "TDB",
     "format_id": 2,
     "onsite": true,
@@ -406,7 +310,7 @@
     "id": 3443,
     "title": "Sudocrypt v16.0",
     "start": "2026-10-27T03:30:00+00:00",
-    "participants": 27,
+    "participants": 35,
     "location": "",
     "finish": "2026-10-28T15:30:00+00:00",
     "description": "The technology club of DPS RK Puram, Exun Clan is returning with its eagerly anticipated annual International Capture the Flag (CTF) x Cryptic Hunt event. Sudocrypt v16.0 is an event where individual cryptic enthusiasts come together to take on the ultimate challenge, showcasing their skills and passion for cyber and cryptic challenges. It's an event that promises excitement, learning, and the chance to test your abilities against participants from around the globe.\r\n",
@@ -534,7 +438,7 @@
     "id": 3460,
     "title": "HI Cyber Con 2026 CTF",
     "start": "2026-10-30T14:00:00+00:00",
-    "participants": 28,
+    "participants": 31,
     "location": "",
     "finish": "2026-11-01T14:00:00+00:00",
     "description": "HI Cyber Con 2026 CTF is an international 48-hour Jeopardy-style Capture The Flag competition organized by Hidden Investigations.\r\n\r\nThe competition features 70+ challenges covering web, forensics, steganography, network, crypto, binary exploitation, reverse engineering, AI/LLM, hardware, blockchain, OSINT, and misc.\r\n\r\nThe CTF is fully online and open to teams of up to 5 participants worldwide.\r\n\r\nCompetition Divisions: HI Cyber Con 2026 features two divisions: Human-Led (AI permitted for reference only) and Agentic AI (AI-assisted and autonomous challenge solving permitted). Both divisions are eligible for the same overall USD 2,500 cash prize pool. Participation is free, with teams of 1–5 members.\r\n\r\nDiscord: https://discord.gg/rD2gHUWJhf",
@@ -582,6 +486,38 @@
   {
     "organizers": [
       {
+        "id": 452464,
+        "name": "HAMARC"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3491/",
+    "ctf_id": 1742,
+    "weight": 0,
+    "duration": {
+      "hours": 4,
+      "days": 0
+    },
+    "live_feed": "https://ctftime.org/live/3491/",
+    "logo": "https://ctftime.org//media/events/hamarc.png",
+    "id": 3491,
+    "title": "HAM-DEFCON",
+    "start": "2026-10-31T03:30:00+00:00",
+    "participants": 0,
+    "location": "National Institute Of Technology Warangal, Hanamkonda, Telangana, India, 505004",
+    "finish": "2026-10-31T07:30:00+00:00",
+    "description": "HAM-DEFCON is a cybersecurity competition organized by HAM-ARC club of National Institute Of Technology Warangal Telangana, India.\r\nEvent Details:\r\nFormat: Attack & Defense\r\nCategories: Web Exploitation, Binary Exploitation (Pwn), Reverse Engineering, Cryptography, and Infrastructure Hardening.\r\nTeam Size: 1–4 Members\r\nCategories: Web Security, Binary Exploitation (Pwn), Reverse Engineering, Applied Cryptography, and Service Hardening\r\n\r\nRules & Code of Conduct\r\n    On-Site & Network Access:\r\n    The competition is strictly offline at the NIT Warangal campus. All team traffic and service interactions must route exclusively through the official network access gateway.\r\n\r\n    Multi-Tiered Flagstores:\r\n    Each service hosts multiple independent flagstores (Easy, Medium, Hard). Flags are dynamically rotated and refreshed every tick (round).\r\n\r\n    Scoring Breakdown:\r\n\r\n    Attack Points: Awarded for successfully exploiting opponent services and submitting their flags to the Flag Submission endpoint.\r\n\r\n    Defense Points: Maintained by successfully patching vulnerabilities while keeping services operational.\r\n\r\n    SLA (Uptime) Points: Awarded each round your services remain healthy, responsive, and passing all automated checker functionality tests.\r\n\r\n    Scope & Infrastructure Immunity:\r\n    Only designated opponent service ports and containers are in scope. Attacking the game engine, scoring backend, automated checkers, host hypervisors, or other teams’ network credentials will result in immediate disqualification.\r\n\r\n    Fair Play & Service Integrity:\r\n    Denial-of-Service (DoS) attacks, network floods, deleting arbitrary system utilities, bricking service runtimes to prevent checker evaluation, and flag sharing or collusion between teams are strictly prohibited.",
+    "format": "Attack-Defense",
+    "is_votable_now": false,
+    "prizes": "Winners got prizes upto 10K+ INR along with claude and codex subscriptions.",
+    "format_id": 2,
+    "onsite": true,
+    "restrictions": "Casual",
+    "url": "http://defcon.hamarc.tech/",
+    "public_votable": false
+  },
+  {
+    "organizers": [
+      {
         "id": 203499,
         "name": "ctfcup"
       }
@@ -598,7 +534,7 @@
     "id": 3469,
     "title": "Russian CTF Cup X Qualifier",
     "start": "2026-10-31T09:00:00+00:00",
-    "participants": 18,
+    "participants": 21,
     "location": "",
     "finish": "2026-11-01T09:00:00+00:00",
     "description": "Russian CTF Cup X, Qualifier.\r\nhttps://ctfcup.ru/registration\r\n\r\n12:00 UTC+3 (Moscow) 31 October - 12:00 UTC+3 (Moscow) 01 November. Online.\r\n\r\nThe top 10 teams from each category (academic, mixed, school, and secondary vocational) will be invited to the final in December.",
@@ -666,7 +602,7 @@
     "id": 3418,
     "title": "HKCERT CTF 2026 (Qualifying Round)",
     "start": "2026-11-06T10:00:00+00:00",
-    "participants": 33,
+    "participants": 34,
     "location": "",
     "finish": "2026-11-07T10:00:00+00:00",
     "description": "HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong\r\nKong, featuring four categories: Secondary School, Tertiary, Open, and International.\r\n\r\nThis year there will be an online Jeopardy CTF (qualifying round) and a physical CTF with offensive and defensive challenges (Final round).\r\n\r\nPlease register at below HKCERT CTF website (Must register via the website)\r\nhttps://ctf.hkcert.org\r\n(Registration deadline:  4 Nov 2026 HKT 1200)\r\n\r\nDiscord: https://discord.gg/2enm5Maedt",
@@ -698,7 +634,7 @@
     "id": 3331,
     "title": "PINK+ CTF 2026",
     "start": "2026-11-06T12:00:00+00:00",
-    "participants": 20,
+    "participants": 21,
     "location": "",
     "finish": "2026-11-09T12:00:00+00:00",
     "description": "The first iteration of PINK+ CTF. Explore a variety of hand crafted challenges with a focus on steganography!\r\n\r\nDiscord: https://discord.gg/VuPqnhFxH4",
@@ -762,7 +698,7 @@
     "id": 3339,
     "title": "SpookyCTF 2026",
     "start": "2026-11-06T17:00:00+00:00",
-    "participants": 18,
+    "participants": 21,
     "location": "",
     "finish": "2026-11-07T17:00:00+00:00",
     "description": "EVENT TIME HAS BEEN SHIFTED TO START AND END 4 HOURS AFTER TIME LISTED ABOVE\r\n\r\nREGISTRATION IS NOW AVAILABLE!\r\n\r\nBOO!!\r\n\r\nWelcome to SpookyCTF 2026! Organized by the New Jersey Institute of Technology's Cyber Security Network (formerly known as NICC), this is our annual Halloween CTF event, open to all!\r\n\r\nWe've made this CTF beginner-friendly, with a mix of harder challenges. Our mission is to help beginners develop professionally in cybersecurity while still keeping things fun! You'll be pushed to stay curious and strengthen your reasoning skills across challenges of varying difficulty.\r\n\r\nOur challenge categories include Binary Exploitation/Reverse Engineering, Cryptography, Forensics, OSINT, Web, and Misc. Expect weird but fun challenges developed by our team at CSN.\r\n\r\nSpookyCTF is hybrid — in person at NJIT and open to virtual attendees!\r\n\r\nJoin our Discord to tap in: https://discord.gg/NeHyp5fFHW\r\n\r\nAI assistance is allowed but discouraged. Learning is part of the challenge — use your brain!\r\nAutomated AI agents for solving challenges are strictly forbidden. Any detected automated AI usage will result in disqualification.",
@@ -826,7 +762,7 @@
     "id": 3455,
     "title": "Mimic",
     "start": "2026-11-07T12:00:00+00:00",
-    "participants": 2,
+    "participants": 3,
     "location": "",
     "finish": "2026-11-08T12:00:00+00:00",
     "description": "Mimic is an online Jeopardy-style CTF by Rare Byte Hub. Some challenges are exactly what they look like, and some aren't. Figure out which is which. There's something for everyone, from beginners to experienced players. Teams of 1-4 members.",
@@ -870,5 +806,101 @@
     "restrictions": "Open",
     "url": "https://ctf.csaw.io/",
     "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 452398,
+        "name": "Tech Visions"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3486/",
+    "ctf_id": 1738,
+    "weight": 0,
+    "duration": {
+      "hours": 10,
+      "days": 0
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/photo_2026-10-17_18-01-04.jpg",
+    "id": 3486,
+    "title": "TVX CTF 2026",
+    "start": "2026-11-13T10:00:00+00:00",
+    "participants": 0,
+    "location": "",
+    "finish": "2026-11-13T20:00:00+00:00",
+    "description": "TVX CTF is a cybersecurity Capture The Flag competition organized by Tech Visions.\r\n\r\nChallenge categories include:\r\n\r\n• DFIR (Digital Forensics & Incident Response)\r\n• Cloud Security\r\n• Malware Analysis\r\n• Reverse Engineering\r\n• Pwn (Binary Exploitation)\r\n• Web Exploitation\r\n• Cryptography\r\n• OSINT (Open-Source Intelligence)\r\n\r\nTest your skills, solve real-world-inspired cybersecurity challenges, and compete with other security enthusiasts in a hands-on environment.\r\n\r\nOrganized by Tech Visions.",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "TBD",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Casual",
+    "url": "https://ctf-techvisions.com/",
+    "public_votable": false
+  },
+  {
+    "organizers": [
+      {
+        "id": 112550,
+        "name": "Platypwnies"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3082/",
+    "ctf_id": 979,
+    "weight": 37.0,
+    "duration": {
+      "hours": 18,
+      "days": 0
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/platypwnies-512_1_1.png",
+    "id": 3082,
+    "title": "Platypwn 2026",
+    "start": "2026-11-13T17:00:00+00:00",
+    "participants": 28,
+    "location": "",
+    "finish": "2026-11-14T11:00:00+00:00",
+    "description": "The Platypwn 2026 is an online Jeopardy CTF which offers easy challenges for beginners, but also medium and difficult challenges for advanced players.\r\n\r\nSee https://platypwnies.de/events/platypwn for further details.",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "See https://platypwnies.de/events/platypwn",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Open",
+    "url": "https://platypwnies.de/events/platypwn/",
+    "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 448862,
+        "name": "Hackers_In_India"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3467/",
+    "ctf_id": 1716,
+    "weight": 0,
+    "duration": {
+      "hours": 8,
+      "days": 0
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/InIt_CTF.png",
+    "id": 3467,
+    "title": "InIt CTF",
+    "start": "2026-11-14T15:30:00+00:00",
+    "participants": 5,
+    "location": "",
+    "finish": "2026-11-14T23:30:00+00:00",
+    "description": "InIt CTF is HII's (Hackers in India) beginner-focused Capture The Flag event, free and open to participants across India and internationally. 8 hours, Jeopardy-style, solo or teams of up to 4, across Web, Crypto, Forensics, OSINT, and Misc — mostly easy/medium with a couple of harder challenges for experienced players. This edition is sponsored by .xyz, who are providing free domain codes for participants, with additional sponsors being confirmed. Register at\r\n\r\nhackersinindia.com/init-ctf.",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "Finalized with sponsors — includes .xyz domain codes and vouchers/prizes from additional sponsors, confirmed closer to the event. All participants receive a certificate.",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Casual",
+    "url": "https://hackersinindia.com/init-ctf",
+    "public_votable": false
   }
 ]

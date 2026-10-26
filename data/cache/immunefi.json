@@ -78,8 +78,7 @@
           "Primacy of Impact"
         ],
         "featured": [
-          "Launched Recently",
-          "Paid Recently"
+          "Launched Recently"
         ]
       },
       "url": "/bug-bounty/layerzero/information/",
@@ -1060,8 +1059,7 @@
           "PoC Required"
         ],
         "featured": [
-          "Launched Recently",
-          "Paid Recently"
+          "Launched Recently"
         ]
       },
       "url": "/bug-bounty/balancer/information/",
@@ -3665,45 +3663,6 @@
         ]
       },
       "url": "/bug-bounty/extrafinance/information/",
-      "pausedAt": null
-    },
-    {
-      "slug": "velodromefinance",
-      "project": "Velodrome Finance",
-      "maxBounty": 100000,
-      "launchDate": "2023-06-29T09:00:00.000Z",
-      "kyc": true,
-      "tags": {
-        "language": [
-          "Solidity"
-        ],
-        "ecosystem": [
-          "Optimism"
-        ],
-        "productType": [
-          "AMM",
-          "DEX",
-          "Staking"
-        ],
-        "programType": [
-          "Smart Contract"
-        ],
-        "projectType": [
-          "Defi",
-          "NFT"
-        ],
-        "general": [
-          "Immunefi Standard",
-          "KYC Required",
-          "Paid Submissions",
-          "PoC Required",
-          "Primacy of Impact"
-        ],
-        "featured": [
-          "Launched Recently"
-        ]
-      },
-      "url": "/bug-bounty/velodromefinance/information/",
       "pausedAt": null
     },
     {

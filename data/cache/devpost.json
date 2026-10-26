@@ -1,47 +1,5 @@
 [
   {
-    "id": 29114,
-    "title": "IEEE ClimateChain Global Hackathon",
-    "displayed_location": {
-      "icon": "globe",
-      "location": "Online"
-    },
-    "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/642/899/datas/medium_square.png",
-    "analytics_identifier": "IEEE ClimateChain Global Hackathon (29114)",
-    "url": "https://ieee-climatechain-hack.devpost.com/",
-    "time_left_to_submission": "about 15 hours left",
-    "submission_period_dates": "Oct 05 - 25, 2026",
-    "themes": [
-      {
-        "id": 1,
-        "name": "Blockchain"
-      },
-      {
-        "id": 6,
-        "name": "Machine Learning/AI"
-      },
-      {
-        "id": 13,
-        "name": "Social Good"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>3,000</span>",
-    "prizes_counts": {
-      "cash": 3,
-      "other": 3
-    },
-    "registrations_count": 1172,
-    "featured": false,
-    "organization_name": "IEEE Turkey",
-    "winners_announced": false,
-    "submission_gallery_url": "https://ieee-climatechain-hack.devpost.com/project-gallery",
-    "start_a_submission_url": "https://ieee-climatechain-hack.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
     "id": 31664,
     "title": "Herhack",
     "displayed_location": {
@@ -52,7 +10,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/553/888/datas/medium_square.png",
     "analytics_identifier": "Herhack (31664)",
     "url": "https://herhack.devpost.com/",
-    "time_left_to_submission": "17 days left",
+    "time_left_to_submission": "16 days left",
     "submission_period_dates": "Oct 17 - Nov 10, 2026",
     "themes": [
       {
@@ -73,7 +31,7 @@
       "cash": 13,
       "other": 0
     },
-    "registrations_count": 60,
+    "registrations_count": 72,
     "featured": false,
     "organization_name": "Echelon institute of technology",
     "winners_announced": false,
@@ -115,7 +73,7 @@
       "cash": 1,
       "other": 0
     },
-    "registrations_count": 35,
+    "registrations_count": 38,
     "featured": false,
     "organization_name": "Sharda University Greater Noida",
     "winners_announced": false,
@@ -157,7 +115,7 @@
       "cash": 3,
       "other": 0
     },
-    "registrations_count": 10,
+    "registrations_count": 14,
     "featured": false,
     "organization_name": "Dakar Bitcoin Days",
     "winners_announced": false,

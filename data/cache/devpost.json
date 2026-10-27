@@ -10,7 +10,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/553/888/datas/medium_square.png",
     "analytics_identifier": "Herhack (31664)",
     "url": "https://herhack.devpost.com/",
-    "time_left_to_submission": "16 days left",
+    "time_left_to_submission": "15 days left",
     "submission_period_dates": "Oct 17 - Nov 10, 2026",
     "themes": [
       {
@@ -31,7 +31,7 @@
       "cash": 13,
       "other": 0
     },
-    "registrations_count": 72,
+    "registrations_count": 78,
     "featured": false,
     "organization_name": "Echelon institute of technology",
     "winners_announced": false,
@@ -48,11 +48,11 @@
       "icon": "map-marker-alt",
       "location": "Block 45, Sharda University, "
     },
-    "open_state": "upcoming",
+    "open_state": "open",
     "thumbnail_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
     "analytics_identifier": "SUSTAIN-A-THON 2.0 (31534)",
     "url": "https://sustain-a-thon-2-0-31534.devpost.com/",
-    "time_left_to_submission": "Upcoming",
+    "time_left_to_submission": "1 day left",
     "submission_period_dates": "Oct 27 - 28, 2026",
     "themes": [
       {
@@ -73,7 +73,7 @@
       "cash": 1,
       "other": 0
     },
-    "registrations_count": 38,
+    "registrations_count": 37,
     "featured": false,
     "organization_name": "Sharda University Greater Noida",
     "winners_announced": false,
@@ -90,11 +90,11 @@
       "icon": "globe",
       "location": "Online"
     },
-    "open_state": "upcoming",
+    "open_state": "open",
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
     "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
     "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "time_left_to_submission": "Upcoming",
+    "time_left_to_submission": "25 days left",
     "submission_period_dates": "Oct 26 - Nov 20, 2026",
     "themes": [
       {
@@ -112,10 +112,10 @@
     ],
     "prize_amount": "$<span data-currency-value>900</span>",
     "prizes_counts": {
-      "cash": 3,
+      "cash": 1,
       "other": 0
     },
-    "registrations_count": 14,
+    "registrations_count": 29,
     "featured": false,
     "organization_name": "Dakar Bitcoin Days",
     "winners_announced": false,

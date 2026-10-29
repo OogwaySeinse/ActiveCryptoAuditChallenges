@@ -1,127 +1,6 @@
 {
   "bounties": [
     {
-      "slug": "layerzero",
-      "project": "LayerZero",
-      "maxBounty": 15000000,
-      "launchDate": "2023-05-17T17:00:00.000Z",
-      "kyc": true,
-      "tags": {
-        "language": [
-          "Solidity"
-        ],
-        "ecosystem": [
-          "Arbitrum",
-          "Astar zkEVM",
-          "Aurora",
-          "Avalanche",
-          "BSC",
-          "Base",
-          "Blast",
-          "Canto",
-          "Celo",
-          "Conflux",
-          "DOS",
-          "ETH",
-          "Fantom",
-          "Fraxtal",
-          "Fuse",
-          "Gnosis",
-          "Harmony",
-          "Horizen EON",
-          "Injective",
-          "Kava",
-          "Linea",
-          "Manta",
-          "Mantle",
-          "Merit Circle",
-          "Metis",
-          "Mode",
-          "Moonbeam",
-          "Moonriver",
-          "Optimism",
-          "Orderly",
-          "Polygon",
-          "Polygon zkEVM",
-          "Scroll",
-          "ShimmerEVM",
-          "Telos",
-          "Tenet",
-          "Viction",
-          "XPLA",
-          "Xai",
-          "Zora",
-          "opBNB",
-          "Aptos",
-          "Cronos",
-          "Rootstock",
-          "Sei",
-          "TON"
-        ],
-        "productType": [
-          "Bridge",
-          "Crosschain Liquidity"
-        ],
-        "programType": [
-          "Smart Contract"
-        ],
-        "projectType": [
-          "Infrastructure"
-        ],
-        "general": [
-          "Triaged by Immunefi",
-          "Immunefi Standard",
-          "KYC Required",
-          "Arbitration",
-          "Paid Submissions",
-          "PoC Required",
-          "Primacy of Impact"
-        ],
-        "featured": [
-          "Launched Recently"
-        ]
-      },
-      "url": "/bug-bounty/layerzero/information/",
-      "pausedAt": null
-    },
-    {
-      "slug": "stargate",
-      "project": "Stargate",
-      "maxBounty": 10000000,
-      "launchDate": "2024-09-24T18:00:00.000Z",
-      "kyc": true,
-      "tags": {
-        "language": [
-          "Solidity"
-        ],
-        "ecosystem": [],
-        "productType": [
-          "Crosschain Liquidity"
-        ],
-        "programType": [
-          "Smart Contract"
-        ],
-        "projectType": [
-          "Defi"
-        ],
-        "general": [
-          "Triaged by Immunefi",
-          "Immunefi Standard",
-          "KYC Required",
-          "Arbitration",
-          "Paid Submissions",
-          "PoC Required",
-          "Primacy of Impact"
-        ],
-        "featured": [
-          "Launched Recently",
-          "Paid Recently"
-        ]
-      },
-      "url": "/bug-bounty/stargate/information/",
-      "pausedAt": null
-    },
-    {
       "slug": "sky",
       "project": "Sky",
       "maxBounty": 10000000,
@@ -276,6 +155,172 @@
         ]
       },
       "url": "/bug-bounty/gmx/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "stargate",
+      "project": "Stargate",
+      "maxBounty": 3500000,
+      "launchDate": "2024-09-24T18:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH",
+          "Arbitrum",
+          "Solana",
+          "Aptos",
+          "Avalanche",
+          "Base",
+          "Blast",
+          "BSC",
+          "Fantom",
+          "Fraxtal",
+          "Fuse",
+          "Horizen EON",
+          "Injective",
+          "Kava",
+          "Linea",
+          "Manta",
+          "Mantle",
+          "Moonbeam",
+          "Metis",
+          "Optimism",
+          "Orderly",
+          "Polygon",
+          "LayerZero",
+          "Sei",
+          "Scroll",
+          "Rootstock",
+          "Starknet",
+          "SUI",
+          "Telos",
+          "TON",
+          "Tron",
+          "zkSync"
+        ],
+        "productType": [
+          "Crosschain Liquidity",
+          "Bridge"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Arbitration",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/stargate/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "layerzero",
+      "project": "LayerZero",
+      "maxBounty": 3500000,
+      "launchDate": "2023-05-17T17:00:00.000Z",
+      "kyc": true,
+      "tags": {
+        "language": [
+          "Solidity",
+          "Rust",
+          "Move"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "Astar zkEVM",
+          "Aurora",
+          "Avalanche",
+          "BSC",
+          "Base",
+          "Blast",
+          "Canto",
+          "Celo",
+          "Conflux",
+          "DOS",
+          "ETH",
+          "Fantom",
+          "Fraxtal",
+          "Fuse",
+          "Gnosis",
+          "Harmony",
+          "Horizen EON",
+          "Injective",
+          "Kava",
+          "Linea",
+          "Manta",
+          "Mantle",
+          "Merit Circle",
+          "Metis",
+          "Mode",
+          "Moonbeam",
+          "Moonriver",
+          "Optimism",
+          "Orderly",
+          "Polygon",
+          "Polygon zkEVM",
+          "Scroll",
+          "ShimmerEVM",
+          "Telos",
+          "Tenet",
+          "Viction",
+          "XPLA",
+          "Xai",
+          "Zora",
+          "opBNB",
+          "Aptos",
+          "Cronos",
+          "Rootstock",
+          "Sei",
+          "TON",
+          "LayerZero",
+          "Merlin",
+          "Solana",
+          "Starknet",
+          "SUI",
+          "Tron",
+          "xDAI / Gnosis Chain",
+          "zkSync",
+          "Sonic"
+        ],
+        "productType": [
+          "Bridge",
+          "Crosschain Liquidity"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Infrastructure"
+        ],
+        "general": [
+          "Triaged by Immunefi",
+          "Immunefi Standard",
+          "KYC Required",
+          "Arbitration",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/layerzero/information/",
       "pausedAt": null
     },
     {
@@ -2768,8 +2813,7 @@
           "PoC Not Required"
         ],
         "featured": [
-          "Launched Recently",
-          "Paid Recently"
+          "Launched Recently"
         ]
       },
       "url": "/bug-bounty/yearnfinance/information/",
@@ -3556,7 +3600,7 @@
         ]
       },
       "url": "/bug-bounty/orderlynetwork/information/",
-      "pausedAt": null
+      "pausedAt": "2026-10-28T14:52:14.064Z"
     },
     {
       "slug": "stackingdao",
@@ -5365,7 +5409,8 @@
           "PoC Not Required"
         ],
         "featured": [
-          "Launched Recently"
+          "Launched Recently",
+          "Paid Recently"
         ]
       },
       "url": "/bug-bounty/edgex/information/",

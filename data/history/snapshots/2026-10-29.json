@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-29",
+  "total_active": 206,
+  "by_type": {
+    "audit_contest": 1,
+    "bug_bounty": 183,
+    "hackathon": 4,
+    "ctf": 10,
+    "practice": 8
+  },
+  "contest_prize_usd": 56047.8,
+  "new_count": 2,
+  "prize_changes": 2,
+  "deadline_changes": 0
+}

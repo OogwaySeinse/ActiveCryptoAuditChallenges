@@ -10,7 +10,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/553/888/datas/medium_square.png",
     "analytics_identifier": "Herhack (31664)",
     "url": "https://herhack.devpost.com/",
-    "time_left_to_submission": "14 days left",
+    "time_left_to_submission": "13 days left",
     "submission_period_dates": "Oct 17 - Nov 10, 2026",
     "themes": [
       {
@@ -31,7 +31,7 @@
       "cash": 13,
       "other": 0
     },
-    "registrations_count": 91,
+    "registrations_count": 98,
     "featured": false,
     "organization_name": "Echelon institute of technology",
     "winners_announced": false,
@@ -52,7 +52,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
     "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
     "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "time_left_to_submission": "24 days left",
+    "time_left_to_submission": "23 days left",
     "submission_period_dates": "Oct 26 - Nov 20, 2026",
     "themes": [
       {
@@ -73,54 +73,12 @@
       "cash": 3,
       "other": 0
     },
-    "registrations_count": 54,
+    "registrations_count": 76,
     "featured": false,
     "organization_name": "Dakar Bitcoin Days",
     "winners_announced": false,
     "submission_gallery_url": "https://dakar-bitcoin-hack-2026.devpost.com/project-gallery",
     "start_a_submission_url": "https://dakar-bitcoin-hack-2026.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
-    "id": 31534,
-    "title": "SUSTAIN-A-THON 2.0",
-    "displayed_location": {
-      "icon": "map-marker-alt",
-      "location": "Block 45, Sharda University, "
-    },
-    "open_state": "open",
-    "thumbnail_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-    "analytics_identifier": "SUSTAIN-A-THON 2.0 (31534)",
-    "url": "https://sustain-a-thon-2-0-31534.devpost.com/",
-    "time_left_to_submission": "about 8 hours left",
-    "submission_period_dates": "Oct 27 - 28, 2026",
-    "themes": [
-      {
-        "id": 1,
-        "name": "Blockchain"
-      },
-      {
-        "id": 9,
-        "name": "Cybersecurity"
-      },
-      {
-        "id": 7,
-        "name": "IoT"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>150,000</span>",
-    "prizes_counts": {
-      "cash": 1,
-      "other": 0
-    },
-    "registrations_count": 49,
-    "featured": false,
-    "organization_name": "Sharda University Greater Noida",
-    "winners_announced": false,
-    "submission_gallery_url": "https://sustain-a-thon-2-0-31534.devpost.com/project-gallery",
-    "start_a_submission_url": "https://sustain-a-thon-2-0-31534.devpost.com/challenges/start_a_submission",
     "invite_only": false,
     "eligibility_requirement_invite_only_description": null,
     "managed_by_devpost_badge": false
@@ -136,7 +94,7 @@
     "thumbnail_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
     "analytics_identifier": "Code-con (31910)",
     "url": "https://code-con.devpost.com/",
-    "time_left_to_submission": "3 days left",
+    "time_left_to_submission": "1 day left",
     "submission_period_dates": "Oct 28 - 30, 2026",
     "themes": [
       {
@@ -157,7 +115,7 @@
       "cash": 0,
       "other": 1
     },
-    "registrations_count": 1,
+    "registrations_count": 4,
     "featured": false,
     "organization_name": "Telem AI",
     "winners_announced": false,

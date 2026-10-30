@@ -3567,42 +3567,6 @@
       "pausedAt": null
     },
     {
-      "slug": "orderlynetwork",
-      "project": "Orderly Network",
-      "maxBounty": 100000,
-      "launchDate": "2024-02-27T00:05:00.000Z",
-      "kyc": false,
-      "tags": {
-        "language": [
-          "Solidity"
-        ],
-        "ecosystem": [
-          "ETH"
-        ],
-        "productType": [
-          "Derivatives"
-        ],
-        "programType": [
-          "Smart Contract",
-          "Websites and Applications"
-        ],
-        "projectType": [
-          "Defi"
-        ],
-        "general": [
-          "Immunefi Standard",
-          "KYC Not Required",
-          "PoC Required"
-        ],
-        "featured": [
-          "Launched Recently",
-          "Paid Recently"
-        ]
-      },
-      "url": "/bug-bounty/orderlynetwork/information/",
-      "pausedAt": "2026-10-28T14:52:14.064Z"
-    },
-    {
       "slug": "stackingdao",
       "project": "StackingDAO",
       "maxBounty": 100000,
@@ -4977,7 +4941,6 @@
         "projectType": [],
         "general": [
           "KYC Required",
-          "Paid Submissions",
           "PoC Not Required"
         ],
         "featured": [
@@ -5135,7 +5098,6 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
-          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [

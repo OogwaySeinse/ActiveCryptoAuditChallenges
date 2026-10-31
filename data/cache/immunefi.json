@@ -1214,7 +1214,8 @@
           "DEX"
         ],
         "programType": [
-          "Smart Contract"
+          "Smart Contract",
+          "Websites and Applications"
         ],
         "projectType": [
           "Defi"
@@ -1515,7 +1516,8 @@
           "Vaults"
         ],
         "featured": [
-          "Launched Recently"
+          "Launched Recently",
+          "Paid Recently"
         ]
       },
       "url": "/bug-bounty/dexeprotocol/information/",
@@ -5965,6 +5967,15 @@
     }
   ],
   "competitions": [
+    {
+      "slug": "plether",
+      "project": "Audit Competition | Plether",
+      "rewardsPool": 80000,
+      "launchDate": "2026-11-02T06:00:00.000Z",
+      "endDate": "2026-11-15T23:59:00.000Z",
+      "auditCompetitionStatus": "STARTING_IN",
+      "url": "/audit-competition/plether/information/"
+    },
     {
       "slug": "audit-competition-ens",
       "project": "Audit Competition | ENS",

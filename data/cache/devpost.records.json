@@ -11,7 +11,7 @@
     "prize_raw": "₹ <span data-currency-value>200,000</span>",
     "start_date": "2026-10-17T00:00:00Z",
     "end_date": "2026-11-10T23:59:00Z",
-    "days_remaining": 11,
+    "days_remaining": 10,
     "status": "active",
     "challenge_type": "hackathon",
     "category": "Web3 Building (General)",
@@ -29,7 +29,7 @@
     "organizer": "Echelon institute of technology",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 109,
+    "participants_count": 121,
     "findings_count": null,
     "repo_url": null,
     "logo_url": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/553/888/datas/medium_square.png",
@@ -37,7 +37,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-30T06:28:28Z"
+    "scraped_at": "2026-10-31T06:28:01Z"
   },
   {
     "id": "6bd4f561fc00f7",
@@ -51,7 +51,7 @@
     "prize_raw": "$<span data-currency-value>900</span>",
     "start_date": "2026-10-26T00:00:00Z",
     "end_date": "2026-11-20T23:59:00Z",
-    "days_remaining": 21,
+    "days_remaining": 20,
     "status": "active",
     "challenge_type": "hackathon",
     "category": "AI & Agents",
@@ -69,7 +69,7 @@
     "organizer": "Dakar Bitcoin Days",
     "difficulty": "Intermediate",
     "kyc_required": null,
-    "participants_count": 98,
+    "participants_count": 112,
     "findings_count": null,
     "repo_url": null,
     "logo_url": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
@@ -77,7 +77,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-30T06:28:28Z"
+    "scraped_at": "2026-10-31T06:28:01Z"
   },
   {
     "id": "30ace7dd989ce6",
@@ -91,7 +91,7 @@
     "prize_raw": "$<span data-currency-value>0</span>",
     "start_date": "2026-11-16T00:00:00Z",
     "end_date": "2026-11-17T23:59:00Z",
-    "days_remaining": 18,
+    "days_remaining": 17,
     "status": "upcoming",
     "challenge_type": "hackathon",
     "category": "Web3 Building (General)",
@@ -117,6 +117,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-10-30T06:28:28Z"
+    "scraped_at": "2026-10-31T06:28:01Z"
   }
 ]

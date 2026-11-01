@@ -2,70 +2,6 @@
   {
     "organizers": [
       {
-        "id": 281844,
-        "name": "H7Tex"
-      }
-    ],
-    "ctftime_url": "https://ctftime.org/event/3094/",
-    "ctf_id": 1169,
-    "weight": 0,
-    "duration": {
-      "hours": 0,
-      "days": 1
-    },
-    "live_feed": "",
-    "logo": "https://ctftime.org//media/events/87939ee617d4b7c6287bebf8cd7a620c.jpg",
-    "id": 3094,
-    "title": "H7CTF 2026 Finals",
-    "start": "2026-10-24T06:30:00+00:00",
-    "participants": 11,
-    "location": "Chennai, Tamil Nadu",
-    "finish": "2026-10-25T06:30:00+00:00",
-    "description": "H7CTF v3 Finals: An onsite cyber-security challenge hosted at SRMIST, bringing together the top teams from a unified global qualification round. \r\n\r\nTeams will compete in a real-world attack-defense environment, testing their capabilities across offensive and defensive domains.",
-    "format": "Attack-Defense",
-    "is_votable_now": true,
-    "prizes": "TDB",
-    "format_id": 2,
-    "onsite": true,
-    "restrictions": "Prequalified",
-    "url": "https://2026.h7tex.com/",
-    "public_votable": true
-  },
-  {
-    "organizers": [
-      {
-        "id": 444079,
-        "name": "BSides Peoria CTF Village"
-      }
-    ],
-    "ctftime_url": "https://ctftime.org/event/3473/",
-    "ctf_id": 1718,
-    "weight": 0,
-    "duration": {
-      "hours": 6,
-      "days": 0
-    },
-    "live_feed": "https://ctftime.org/live/3473/",
-    "logo": "https://ctftime.org//media/events/cropped-BSIDES_PEORIA-2026_10pct.png",
-    "id": 3473,
-    "title": "BSides Peoria CTF 2026",
-    "start": "2026-10-24T14:45:00+00:00",
-    "participants": 6,
-    "location": "Peoria, Illinois, USA",
-    "finish": "2026-10-24T20:45:00+00:00",
-    "description": "This is the BSides Peoria CTF for 2026! It is our inaugural CTF, covering web, pwn, crypto, forensics, reversing, and fullpwn. It is held exclusively on site, at Bradley University, in Peoria, IL. A conference attendee pass is needed, and can be purchased at https://bsidespeoria.com/tickets/.\r\n\r\nThe maximum team size for this competition is 2. The AI policy is under https://bsidespeoriac.tf/rules\r\n\r\nOur sponsors are listed below!\r\nPlatinum Sponsor:\r\nBrackish Security\r\nCyberDrain\r\n\r\nGold Sponsor:\r\nBishopFox\r\nThreatlocker\r\nBlumira\r\n\r\nSilver Sponsor:\r\nRocket Fuel FactoryFormal\r\nMClean Maintenance Solutions\r\nCyphn.io\r\n\r\nBronze Sponsor:\r\nCorelight\r\nPearl Technology\r\nSKB Cyber\r\nHacker Tracker\r\n",
-    "format": "Jeopardy",
-    "is_votable_now": false,
-    "prizes": "2x Black Badges to the conference.",
-    "format_id": 1,
-    "onsite": true,
-    "restrictions": "Casual",
-    "url": "https://bsidespeoriac.tf/",
-    "public_votable": false
-  },
-  {
-    "organizers": [
-      {
         "id": 83987,
         "name": "exunclan"
       }
@@ -306,7 +242,7 @@
     "id": 3469,
     "title": "Russian CTF Cup X Qualifier",
     "start": "2026-10-31T09:00:00+00:00",
-    "participants": 48,
+    "participants": 51,
     "location": "",
     "finish": "2026-11-01T09:00:00+00:00",
     "description": "Russian CTF Cup X, Qualifier.\r\nhttps://ctfcup.ru/registration\r\n\r\n12:00 UTC+3 (Moscow) 31 October - 12:00 UTC+3 (Moscow) 01 November. Online.\r\n\r\nThe top 10 teams from each category (academic, mixed, school, and secondary vocational) will be invited to the final in December.",
@@ -374,7 +310,7 @@
     "id": 3418,
     "title": "HKCERT CTF 2026 (Qualifying Round)",
     "start": "2026-11-06T10:00:00+00:00",
-    "participants": 54,
+    "participants": 63,
     "location": "",
     "finish": "2026-11-07T10:00:00+00:00",
     "description": "HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong\r\nKong, featuring four categories: Secondary School, Tertiary, Open, and International.\r\n\r\nThis year there will be an online Jeopardy CTF (qualifying round) and a physical CTF with offensive and defensive challenges (Final round).\r\n\r\nPlease register at below HKCERT CTF website (Must register via the website)\r\nhttps://ctf.hkcert.org\r\n(Registration deadline:  4 Nov 2026 HKT 1200)\r\n\r\nDiscord: https://discord.gg/2enm5Maedt",
@@ -406,7 +342,7 @@
     "id": 3331,
     "title": "PINK+ CTF 2026",
     "start": "2026-11-06T12:00:00+00:00",
-    "participants": 30,
+    "participants": 35,
     "location": "",
     "finish": "2026-11-09T12:00:00+00:00",
     "description": "The first iteration of PINK+ CTF. Explore a variety of hand crafted challenges with a focus on steganography!\r\n\r\nDiscord: https://discord.gg/VuPqnhFxH4",
@@ -438,7 +374,7 @@
     "id": 3333,
     "title": "CSCTF 2026",
     "start": "2026-11-06T13:00:00+00:00",
-    "participants": 38,
+    "participants": 44,
     "location": "",
     "finish": "2026-11-08T13:00:00+00:00",
     "description": "\"CSCTF 2026: Total Warfare\" is an international, online, free jeopardy-style CTF focused on realistic cybersecurity scenarios inspired by critical infrastructure, defense, and modern adversary tactics.\r\n\r\nChallenges cover web, pwn, crypto, reverse engineering, forensics, misc, Linux, Windows, and operational security, with scenarios connected to energy, telecom, healthcare, finance, and defense environments.\r\n\r\nThe competition is somewhat beginner-friendly but realism-driven.\r\n",
@@ -470,7 +406,7 @@
     "id": 3339,
     "title": "SpookyCTF 2026",
     "start": "2026-11-06T17:00:00+00:00",
-    "participants": 35,
+    "participants": 39,
     "location": "",
     "finish": "2026-11-07T17:00:00+00:00",
     "description": "EVENT TIME HAS BEEN SHIFTED TO START AND END 2 HOURS AFTER TIME LISTED ABOVE\r\n\r\nREGISTRATION IS NOW AVAILABLE!\r\n\r\nBOO!!\r\n\r\nWelcome to SpookyCTF 2026! Organized by the New Jersey Institute of Technology's Cyber Security Network (formerly known as NICC), this is our annual Halloween CTF event, open to all!\r\n\r\nWe've made this CTF beginner-friendly, with a mix of harder challenges. Our mission is to help beginners develop professionally in cybersecurity while still keeping things fun! You'll be pushed to stay curious and strengthen your reasoning skills across challenges of varying difficulty.\r\n\r\nOur challenge categories include Binary Exploitation/Reverse Engineering, Cryptography, Forensics, OSINT, Web, and Misc. Expect weird but fun challenges developed by our team at CSN.\r\n\r\nSpookyCTF is hybrid — in person at NJIT and open to virtual attendees!\r\n\r\nJoin our Discord to tap in: https://discord.gg/NeHyp5fFHW\r\n\r\nAI assistance is allowed but discouraged. Learning is part of the challenge — use your brain!\r\nAutomated AI agents for solving challenges are strictly forbidden. Any detected automated AI usage will result in disqualification.",
@@ -502,7 +438,7 @@
     "id": 3242,
     "title": "BlackAlps CTF 2026",
     "start": "2026-11-06T18:15:00+00:00",
-    "participants": 11,
+    "participants": 12,
     "location": "Switzerland, Yverdon-les-Bains",
     "finish": "2026-11-06T22:30:00+00:00",
     "description": "The BlackAlps CTF will be held at the end of the BlackAlps conference in Yverdon-les-Bains in Switzerland. It's a CTF for all level including from beginner up to advanced team.\r\n\r\nThe CTF will last 5 hours and be on site for about 300 people.\r\n\r\nThere is no specific categories.\r\n\r\nRegistration is mandatory.\r\n\r\nWelcome at 18:45. Start at 19:00. End at 23:30. Awards ceremony at 23:45.",
@@ -598,7 +534,7 @@
     "id": 3486,
     "title": "TVX CTF 2026",
     "start": "2026-11-13T10:00:00+00:00",
-    "participants": 9,
+    "participants": 10,
     "location": "",
     "finish": "2026-11-13T20:00:00+00:00",
     "description": "TVX CTF is a cybersecurity Capture The Flag competition organized by Tech Visions.\r\n\r\nChallenge categories include:\r\n\r\n• DFIR (Digital Forensics & Incident Response)\r\n• Cloud Security\r\n• Malware Analysis\r\n• Reverse Engineering\r\n• Pwn (Binary Exploitation)\r\n• Web Exploitation\r\n• Cryptography\r\n• OSINT (Open-Source Intelligence)\r\n\r\nTest your skills, solve real-world-inspired cybersecurity challenges, and compete with other security enthusiasts in a hands-on environment.\r\n\r\nOrganized by Tech Visions.",
@@ -630,7 +566,7 @@
     "id": 3082,
     "title": "Platypwn 2026",
     "start": "2026-11-13T17:00:00+00:00",
-    "participants": 36,
+    "participants": 38,
     "location": "",
     "finish": "2026-11-14T11:00:00+00:00",
     "description": "The Platypwn 2026 is an online Jeopardy CTF which offers easy challenges for beginners, but also medium and difficult challenges for advanced players.\r\n\r\nSee https://platypwnies.de/events/platypwn for further details.",
@@ -662,7 +598,7 @@
     "id": 3049,
     "title": "WolvCTF 2026",
     "start": "2026-11-13T23:00:00+00:00",
-    "participants": 85,
+    "participants": 86,
     "location": "",
     "finish": "2026-11-15T23:00:00+00:00",
     "description": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). \r\n\r\nThere are two divisions, Open and University of Michigan students. No team limit sizes.\r\n\r\nThank you to our sponsors!\r\nBinary Ninja: https://binary.ninja/\r\n\r\n**Note: This event has been postponed to November 2026**",
@@ -705,6 +641,166 @@
     "onsite": false,
     "restrictions": "Casual",
     "url": "https://hackersinindia.com/init-ctf",
+    "public_votable": false
+  },
+  {
+    "organizers": [
+      {
+        "id": 8323,
+        "name": "LosFuzzys"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3337/",
+    "ctf_id": 863,
+    "weight": 73.17,
+    "duration": {
+      "hours": 0,
+      "days": 1
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/glacierlogo_1.png",
+    "id": 3337,
+    "title": "GlacierCTF 2026",
+    "start": "2026-11-20T18:00:00+00:00",
+    "participants": 54,
+    "location": "",
+    "finish": "2026-11-21T18:00:00+00:00",
+    "description": "We're excited to announce GlacierCTF 2026 for its fifth edition, a 24-hour jeopardy CTF organized by LosFuzzys.\r\n\r\nJoin our discord at:\r\nhttps://discord.gg/DFYnRAME23\r\n\r\nInfra sponsored by goo.gle/ctfsponsorship",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "TBA",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Open",
+    "url": "https://glacierctf.com/",
+    "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 446734,
+        "name": "HSCC"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3425/",
+    "ctf_id": 1683,
+    "weight": 0.0,
+    "duration": {
+      "hours": 0,
+      "days": 1
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/logo_137.png",
+    "id": 3425,
+    "title": "Outback Overflow",
+    "start": "2026-11-20T23:00:00+00:00",
+    "participants": 5,
+    "location": "",
+    "finish": "2026-11-21T23:00:00+00:00",
+    "description": "Outback Overflow is a free online jeopardy-style CTF built for high schoolers across Australia. Run by the High School Cybersecurity Community, it's designed to be a stepping stone for students getting into cyber security, whether you've never touched a terminal or you're already popping shells.\r\n\r\nOur goal is simple: grow the number of young people in cyber security and give Australian high schoolers a CTF they can call their own.\r\n\r\nSponsors: \r\nBinaryLane (binarylane.com.au)\r\nUTS:CSEC (utscyber.org)\r\nXYZ (gen.xyz)\r\n\r\n(if you would like to sponsor please reach out to outreach@hscyber.org or join our discord!)\r\n\r\nJoin our discord to talk to other players!\r\nhttps://discord.gg/xWPndqMCfA",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "More TBA\r\n\r\n1 year .xyz domains pp",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Open",
+    "url": "https://outbackoverflow26.hscyber.org/",
+    "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 442848,
+        "name": "Seize da Flaq"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3408/",
+    "ctf_id": 1657,
+    "weight": 0,
+    "duration": {
+      "hours": 20,
+      "days": 0
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/SDF_1.jpeg",
+    "id": 3408,
+    "title": "Seize da Flaq",
+    "start": "2026-11-21T06:30:00+00:00",
+    "participants": 17,
+    "location": "Mathura, Uttar Pradesh, India",
+    "finish": "2026-11-22T02:30:00+00:00",
+    "description": "Seize Da Flaq is the flagship national-level Capture The Flag (CTF) competition organized by Cyberonites Club, GLA University. The event is designed to challenge and showcase cybersecurity talent through real-world, hands-on security challenges across domains such as Web Security, Cryptography, Reverse Engineering, Binary Exploitation, Digital Forensics, OSINT, and Miscellaneous.",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "Overall Pool Prize - 5,00,000 INR\r\nCash Prizes - 30,000 INR\r\nCertificates, Swags, & Goodies",
+    "format_id": 1,
+    "onsite": true,
+    "restrictions": "Casual",
+    "url": "https://seizedaflaq.cyberonites.com/",
+    "public_votable": false
+  },
+  {
+    "organizers": [
+      {
+        "id": 352250,
+        "name": "Crate-CTF"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3336/",
+    "ctf_id": 1172,
+    "weight": 37.0,
+    "duration": {
+      "hours": 8,
+      "days": 0
+    },
+    "live_feed": "https://ctftime.org/live/3336/",
+    "logo": "https://ctftime.org//media/events/CTF_2026_2.png",
+    "id": 3336,
+    "title": "Crate-CTF 2026",
+    "start": "2026-11-21T13:00:00+00:00",
+    "participants": 19,
+    "location": "",
+    "finish": "2026-11-21T21:00:00+00:00",
+    "description": "Crate-CTF is an annual Capture The Flag (CTF) competition organised by the Swedish Defence Research Agency in collaboration with the Swedish Armed Forces, designed to introduce high school and university students to the field of cybersecurity. This year we return for our seventh CTF, with challenges for all skill levels from beginners to seasoned CTF players. The challenges are categorised into web exploitation, reverse engineering, binary exploitation, cryptography, forensics, OSINT, networking and the all-encompassing \"other\".\r\n\r\nWhile the event will be conducted in Swedish, international participants are also welcome to join (using translation tools as needed). Communication with challenge authors and administrators can be conducted in English.",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Open",
+    "url": "https://foi.se/cratectf",
+    "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 157536,
+        "name": "CyberSciOrganizers"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3436/",
+    "ctf_id": 643,
+    "weight": 0,
+    "duration": {
+      "hours": 7,
+      "days": 0
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/9f5bd4404f2ff231cca6e261cdcd0419.jpg",
+    "id": 3436,
+    "title": "CyberSci Regional Qualifiers 2026-27",
+    "start": "2026-11-21T15:00:00+00:00",
+    "participants": 6,
+    "location": "Onsite at 6 locations in Canada",
+    "finish": "2026-11-21T22:00:00+00:00",
+    "description": "CyberSci is Canada's national Cyber Security Challenge for university and college students.\r\n- Think you've got an elite team of students? Come and prove it. Our winners will go on to compete against the best in the world.\r\n- Just starting out? This is the best way to learn and rise to the top.\r\n- Annual in-person events since 2016. (Online during Covid.) Over 500 students so far.\r\n\r\nFormat:\r\n- Modified jeopardy style. Realistic IT environment.\r\n- Regional qualifiers are held in Nov-Dec each year.\r\n- National finals are the following July.\r\n- Winning teams represent Canada at international events in the Fall.\r\n\r\nFor Regionals (qualifiers):\r\nWe do hacking in the morning, interviews in the afternoon, and job offers by supper (for intern/summer/coop jobs).\r\n- Full-time job offers take a few more days.\r\n- Students register their team through their school instructor or computer club. Max 2 teams per school.\r\n\r\nFor nationals:\r\nParticipants will be the winning team from each regional/qualifier\r\n- PLUS one all-juniors (19 and under)\r\n- AND one all-women team (chosen from participants at the Regionals).\r\nTwo-day event. ",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "Winners at Regionals get instant interviews and sometimes same-day job offers.\r\n\r\nWinners at Nationals will represent Canada at international events in the Fall.",
+    "format_id": 1,
+    "onsite": true,
+    "restrictions": "Academic",
+    "url": "https://cybersecuritychallenge.ca/",
     "public_votable": false
   }
 ]

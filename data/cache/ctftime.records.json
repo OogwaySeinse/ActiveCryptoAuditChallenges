@@ -1,85 +1,5 @@
 [
   {
-    "id": "cdf9473850d484",
-    "title": "HI Cyber Con 2026 CTF",
-    "platform": "CTFtime",
-    "source": "ctftime",
-    "url": "https://ctftime.org/event/3460/",
-    "prize": "$2.5K",
-    "prize_usd": 2500.0,
-    "prize_currency": "USD",
-    "prize_raw": "USD 2,500 Guaranteed Cash Prize Pool + Additional Sponsored Rewards\r\n\r\nCASH PRIZES (TOP 5 TEAMS)\r\n\r\n* 1st Place: USD 1,000\r\n* 2nd Place: USD 700\r\n* 3rd Place: USD 500\r\n* 4th Place: USD 200\r\n* 5th Place: USD 100\r\n\r\nSPONSOR-PROVIDED REWARDS\r\n\r\n* Netlas: 6-month Business subscriptions (Top 5 teams).\r\n\r\n* 13Cubed: Forensic training courses (Top 3 teams).\r\n\r\n* CyberDefenders: Pro subscriptions (Top 3 teams).\r\n   - 3 months for 1st \r\n   - 2 months for 2nd \r\n   - 1 month for 3rd\r\n\r\n* Gen.XYZ: 5 domains per team (Top 5 teams).\r\n\r\n* Hackviser: CAPT certification discounts and VIP membership benefits (Top 5 teams).\r\n   - 1st–3rd teams: 50% off CAPT certification + one month free VIP membership.\r\n   - 4th–5th teams: 30% off CAPT certification + 30% off one-month VIP membership.\r\n\r\n* Campfire Security: 1-year Unlimited Access subscriptions (Top 5 teams).\r\n\r\n* White Knight Labs: 6-month WKL Academy access and one certification course (Top 3 teams).\r\n\r\n* SweetScape: Perpetual 010 Editor commercial licenses (Top 5 teams).\r\n\r\n* Criminal IP: 6-month Starter subscriptions (Top 5 teams).\r\n\r\n* Just Hacking Training: training courses (Top 3 teams).\r\n   - 1st: Dark Web & Cybercrime Investigations\r\n   - 2nd: Beginner Level OSINT\r\n   - 3rd: OpSec – Privacy for Security Professionals\r\n\r\n* Caido: Licenses (Top 3 Teams)\r\n   - 1st place Up to 5 × 6-month licences\r\n   - 2nd place Up to 5 × 3-month licences\r\n   - 3rd place Up to 5 × 2-month licences\r\n\r\n* SkillBit: Labs vouchers\r\n   - 6-month access: 4 vouchers\r\n   - 3-month access: 4 vouchers\r\n   - 1-month access: 4 vouchers\r\n\r\nBoth Human-Led and Agentic AI divisions are eligible for the same overall cash prize pool.\r\n\r\nCash prizes are awarded once per eligible winning team. Sponsored rewards are subject to their respective allocation limits, redemption terms, and winner verification.\r\n\r\nFull prize details: https://hicybercon.hiddeninvestigations.net/ctf",
-    "start_date": "2026-10-30T14:00:00Z",
-    "end_date": "2026-11-01T14:00:00Z",
-    "days_remaining": 0,
-    "status": "ending_soon",
-    "challenge_type": "ctf",
-    "category": "Blockchain CTF",
-    "ecosystem": "Multi-chain / General",
-    "languages": [
-      "Python",
-      "Solidity"
-    ],
-    "tags": [
-      "blockchain",
-      "cryptography",
-      "ctftime",
-      "jeopardy"
-    ],
-    "description": "HI Cyber Con 2026 CTF is an international 48-hour Jeopardy-style Capture The Flag competition organized by Hidden Investigations. The competition features 70+ challenges covering web, forensics, steganography, network, crypto, binary exploitation, reverse engineering, AI/LLM, hardware, blockchain, OSINT, and misc. The CTF is fully online and open to teams of up to 5 participants worldwide. Competition Divisions: HI …",
-    "organizer": "HiddenInvestigations",
-    "difficulty": "Beginner",
-    "kyc_required": null,
-    "participants_count": 163,
-    "findings_count": null,
-    "repo_url": null,
-    "logo_url": null,
-    "first_seen_at": null,
-    "is_new": false,
-    "prize_delta_usd": 0.0,
-    "days_shift": 0,
-    "scraped_at": "2026-11-01T06:32:00Z"
-  },
-  {
-    "id": "e17a550e465960",
-    "title": "Russian CTF Cup X Qualifier",
-    "platform": "CTFtime",
-    "source": "ctftime",
-    "url": "https://ctftime.org/event/3469/",
-    "prize": "Leaderboard / Non-cash",
-    "prize_usd": 0.0,
-    "prize_currency": "USD",
-    "prize_raw": "",
-    "start_date": "2026-10-31T09:00:00Z",
-    "end_date": "2026-11-01T09:00:00Z",
-    "days_remaining": 0,
-    "status": "ending_soon",
-    "challenge_type": "ctf",
-    "category": "Cryptography & CTF",
-    "ecosystem": "Multi-chain / General",
-    "languages": [
-      "Python"
-    ],
-    "tags": [
-      "cryptography",
-      "ctftime",
-      "jeopardy"
-    ],
-    "description": "Russian CTF Cup X, Qualifier. https://ctfcup.ru/registration 12:00 UTC+3 (Moscow) 31 October - 12:00 UTC+3 (Moscow) 01 November. Online. The top 10 teams from each category (academic, mixed, school, and secondary vocational) will be invited to the final in December.",
-    "organizer": "ctfcup",
-    "difficulty": "Beginner",
-    "kyc_required": null,
-    "participants_count": 51,
-    "findings_count": null,
-    "repo_url": null,
-    "logo_url": null,
-    "first_seen_at": null,
-    "is_new": false,
-    "prize_delta_usd": 0.0,
-    "days_shift": 0,
-    "scraped_at": "2026-11-01T06:32:00Z"
-  },
-  {
     "id": "527b3fa1a60850",
     "title": "HKCERT CTF 2026 (Qualifying Round)",
     "platform": "CTFtime",
@@ -91,7 +11,7 @@
     "prize_raw": "There are 2 rounds of the competition -> qualifying round and final round.\r\n\r\nThe top 5 teams of international category of the qualifying round will advance to the onsite final round at Hong Kong.\r\n\r\nThe prize for the winners in the final round are as below\r\n\r\nGold: HKD 16,000 ( Per Team )\r\nSilver: HKD 13,000 ( Per Team )\r\nBronze: HKD 11,000 ( Per Team )\r\n\r\nPlease register at below HKCERT CTF website\r\nhttps://ctf.hkcert.org\r\n(Registration deadline: 4 Nov 2026 HKT 1200, No late for the registration)\r\n",
     "start_date": "2026-11-06T10:00:00Z",
     "end_date": "2026-11-07T10:00:00Z",
-    "days_remaining": 6,
+    "days_remaining": 5,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -108,7 +28,7 @@
     "organizer": "Black Bauhinia, HKCERT",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 63,
+    "participants_count": 79,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -116,7 +36,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-01T06:32:00Z"
+    "scraped_at": "2026-11-02T06:54:18Z"
   },
   {
     "id": "5d7602afb19450",
@@ -130,7 +50,7 @@
     "prize_raw": "1st Place: 25$ + 6 Month Caido License per Member (Worth ~$545) + 4 .xyz Domains\r\n2nd Place: 15$ + 3 Month Caido License per Member (Worth ~$272) + 2 .xyz Domains\r\n3nd Place: 10$ + 2 Month Caido License per Member (Worth ~$181) + 2 .xyz Domains\r\n4th Place: 1 .xyz Domain\r\n5th Place: 1 .xyz Domain",
     "start_date": "2026-11-06T12:00:00Z",
     "end_date": "2026-11-09T12:00:00Z",
-    "days_remaining": 8,
+    "days_remaining": 7,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -147,7 +67,7 @@
     "organizer": "PINK+",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 35,
+    "participants_count": 45,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -155,7 +75,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-01T06:32:00Z"
+    "scraped_at": "2026-11-02T06:54:18Z"
   },
   {
     "id": "1cf30867cd5b79",
@@ -169,7 +89,7 @@
     "prize_raw": "TBD",
     "start_date": "2026-11-06T13:00:00Z",
     "end_date": "2026-11-08T13:00:00Z",
-    "days_remaining": 7,
+    "days_remaining": 6,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -186,7 +106,7 @@
     "organizer": "Mirachron",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 44,
+    "participants_count": 52,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -194,7 +114,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-01T06:32:00Z"
+    "scraped_at": "2026-11-02T06:54:18Z"
   },
   {
     "id": "6ce31e706f0a35",
@@ -208,7 +128,7 @@
     "prize_raw": "Open Division: (Online + In-person)\r\n1st - 100$\r\n2nd - 50$\r\n3rd - 25$\r\n\r\nIn-Person:\r\n1st - 100$ ",
     "start_date": "2026-11-06T17:00:00Z",
     "end_date": "2026-11-07T17:00:00Z",
-    "days_remaining": 6,
+    "days_remaining": 5,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -225,7 +145,7 @@
     "organizer": "NICC",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 39,
+    "participants_count": 47,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -233,7 +153,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-01T06:32:00Z"
+    "scraped_at": "2026-11-02T06:54:18Z"
   },
   {
     "id": "1cce76e9cb1d9c",
@@ -247,7 +167,7 @@
     "prize_raw": "",
     "start_date": "2026-11-12T17:00:00Z",
     "end_date": "2026-11-14T05:00:00Z",
-    "days_remaining": 12,
+    "days_remaining": 11,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -272,7 +192,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-01T06:32:00Z"
+    "scraped_at": "2026-11-02T06:54:18Z"
   },
   {
     "id": "2b20aa05d58e52",
@@ -286,7 +206,7 @@
     "prize_raw": "See https://platypwnies.de/events/platypwn",
     "start_date": "2026-11-13T17:00:00Z",
     "end_date": "2026-11-14T11:00:00Z",
-    "days_remaining": 13,
+    "days_remaining": 12,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -303,7 +223,7 @@
     "organizer": "Platypwnies",
     "difficulty": "Intermediate",
     "kyc_required": null,
-    "participants_count": 38,
+    "participants_count": 41,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -311,7 +231,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-01T06:32:00Z"
+    "scraped_at": "2026-11-02T06:54:18Z"
   },
   {
     "id": "90fe4f56bb0411",
@@ -325,7 +245,7 @@
     "prize_raw": "To be announced!",
     "start_date": "2026-11-13T23:00:00Z",
     "end_date": "2026-11-15T23:00:00Z",
-    "days_remaining": 14,
+    "days_remaining": 13,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -342,7 +262,7 @@
     "organizer": "w01verines",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 86,
+    "participants_count": 87,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -350,20 +270,20 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-01T06:32:00Z"
+    "scraped_at": "2026-11-02T06:54:18Z"
   },
   {
-    "id": "3d2f939328d64c",
-    "title": "GlacierCTF 2026",
+    "id": "7c9be6e88b8228",
+    "title": "EyesOpenCTF 7th edition",
     "platform": "CTFtime",
     "source": "ctftime",
-    "url": "https://ctftime.org/event/3337/",
-    "prize": "TBA",
-    "prize_usd": 0.0,
+    "url": "https://ctftime.org/event/3419/",
+    "prize": "$500",
+    "prize_usd": 500.0,
     "prize_currency": "USD",
-    "prize_raw": "TBA",
-    "start_date": "2026-11-20T18:00:00Z",
-    "end_date": "2026-11-21T18:00:00Z",
+    "prize_raw": "1st: 300 USD + 1 year ExamBoot subscription. (500 USD dedicated for the 1st Cameroonian local on the scoreboard) \r\n3-month BlueYard Pro subscription, 1 Free annual personal subscriptions to a chosen JetBrains IDE.\r\n\r\n2nd: 1 year ExamBoot subscription. 2-month BlueYard Pro subscription. 1 Free annual personal subscriptions to a chosen JetBrains IDE.\r\n\r\n3rd: 6 month ExamBoot subscription. 1 Free annual personal subscriptions to a chosen JetBrains IDE.\r\n\r\n",
+    "start_date": "2026-11-20T10:00:00Z",
+    "end_date": "2026-11-22T10:00:00Z",
     "days_remaining": 20,
     "status": "upcoming",
     "challenge_type": "ctf",
@@ -377,11 +297,11 @@
       "ctftime",
       "jeopardy"
     ],
-    "description": "We're excited to announce GlacierCTF 2026 for its fifth edition, a 24-hour jeopardy CTF organized by LosFuzzys. Join our discord at: https://discord.gg/DFYnRAME23 Infra sponsored by goo.gle/ctfsponsorship",
-    "organizer": "LosFuzzys",
-    "difficulty": "Advanced",
+    "description": "EyesOpenCTF 2026 is a FREE CTF competition organized as part of the 7th edition of EOCON. This year, the competition goes far beyond a traditional CTF. You are not simply joining to solve isolated challenges. You are entering The Convergence, a live 48-hour cyber adventure in which reality itself is beginning to fracture. Across more than 40 challenges and 8 disciplines, teams will investigate corrupted systems, rec…",
+    "organizer": "EyesOpen_Security",
+    "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 54,
+    "participants_count": 12,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -389,7 +309,46 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-01T06:32:00Z"
+    "scraped_at": "2026-11-02T06:54:18Z"
+  },
+  {
+    "id": "3d2f939328d64c",
+    "title": "GlacierCTF 2026",
+    "platform": "CTFtime",
+    "source": "ctftime",
+    "url": "https://ctftime.org/event/3337/",
+    "prize": "TBA",
+    "prize_usd": 0.0,
+    "prize_currency": "USD",
+    "prize_raw": "TBA",
+    "start_date": "2026-11-20T18:00:00Z",
+    "end_date": "2026-11-21T18:00:00Z",
+    "days_remaining": 19,
+    "status": "upcoming",
+    "challenge_type": "ctf",
+    "category": "Cryptography & CTF",
+    "ecosystem": "Multi-chain / General",
+    "languages": [
+      "Python"
+    ],
+    "tags": [
+      "cryptography",
+      "ctftime",
+      "jeopardy"
+    ],
+    "description": "We're excited to announce GlacierCTF 2026 for its fifth edition, a 24-hour jeopardy CTF organized by LosFuzzys. Join our discord at: https://discord.gg/DFYnRAME23 - Hex-Rays (hex-rays.com) - ISEC @ Graz University of Technology (isec.tugraz.at) Infra sponsored by goo.gle/ctfsponsorship",
+    "organizer": "LosFuzzys",
+    "difficulty": "Advanced",
+    "kyc_required": null,
+    "participants_count": 55,
+    "findings_count": null,
+    "repo_url": null,
+    "logo_url": null,
+    "first_seen_at": null,
+    "is_new": false,
+    "prize_delta_usd": 0.0,
+    "days_shift": 0,
+    "scraped_at": "2026-11-02T06:54:18Z"
   },
   {
     "id": "7878b44c8d3246",
@@ -403,7 +362,7 @@
     "prize_raw": "More TBA\r\n\r\n1 year .xyz domains pp",
     "start_date": "2026-11-20T23:00:00Z",
     "end_date": "2026-11-21T23:00:00Z",
-    "days_remaining": 20,
+    "days_remaining": 19,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -420,7 +379,7 @@
     "organizer": "HSCC",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 5,
+    "participants_count": 6,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -428,7 +387,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-01T06:32:00Z"
+    "scraped_at": "2026-11-02T06:54:18Z"
   },
   {
     "id": "a888db9720adcf",
@@ -442,7 +401,7 @@
     "prize_raw": "",
     "start_date": "2026-11-21T13:00:00Z",
     "end_date": "2026-11-21T21:00:00Z",
-    "days_remaining": 20,
+    "days_remaining": 19,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -459,7 +418,7 @@
     "organizer": "Crate-CTF",
     "difficulty": "Intermediate",
     "kyc_required": null,
-    "participants_count": 19,
+    "participants_count": 21,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -467,6 +426,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-01T06:32:00Z"
+    "scraped_at": "2026-11-02T06:54:18Z"
   }
 ]

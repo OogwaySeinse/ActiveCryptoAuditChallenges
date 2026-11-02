@@ -10,7 +10,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/553/888/datas/medium_square.png",
     "analytics_identifier": "Herhack (31664)",
     "url": "https://herhack.devpost.com/",
-    "time_left_to_submission": "10 days left",
+    "time_left_to_submission": "9 days left",
     "submission_period_dates": "Oct 17 - Nov 10, 2026",
     "themes": [
       {
@@ -31,7 +31,7 @@
       "cash": 13,
       "other": 0
     },
-    "registrations_count": 139,
+    "registrations_count": 156,
     "featured": false,
     "organization_name": "Echelon institute of technology",
     "winners_announced": false,
@@ -52,7 +52,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
     "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
     "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "time_left_to_submission": "20 days left",
+    "time_left_to_submission": "19 days left",
     "submission_period_dates": "Oct 26 - Nov 20, 2026",
     "themes": [
       {
@@ -73,7 +73,7 @@
       "cash": 3,
       "other": 0
     },
-    "registrations_count": 119,
+    "registrations_count": 129,
     "featured": false,
     "organization_name": "Dakar Bitcoin Days",
     "winners_announced": false,
@@ -112,10 +112,10 @@
     ],
     "prize_amount": "$<span data-currency-value>0</span>",
     "prizes_counts": {
-      "cash": 0,
-      "other": 1
+      "cash": 1,
+      "other": 0
     },
-    "registrations_count": 2,
+    "registrations_count": 7,
     "featured": false,
     "organization_name": "Hackers Unity",
     "winners_announced": false,
@@ -123,6 +123,48 @@
     "start_a_submission_url": "https://bharat-builds-tour.devpost.com/challenges/start_a_submission",
     "invite_only": false,
     "eligibility_requirement_invite_only_description": null,
+    "managed_by_devpost_badge": false
+  },
+  {
+    "id": 31746,
+    "title": "University Blockchain Conference Hackathon 2026",
+    "displayed_location": {
+      "icon": "map-marker-alt",
+      "location": "University of Texas at Austin"
+    },
+    "open_state": "upcoming",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/585/747/datas/medium_square.png",
+    "analytics_identifier": "University Blockchain Conference Hackathon 2026 (31746)",
+    "url": "https://ubc-hackathon-2026.devpost.com/",
+    "time_left_to_submission": "Upcoming",
+    "submission_period_dates": "Nov 13 - 20, 2026",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Blockchain"
+      },
+      {
+        "id": 3,
+        "name": "Fintech"
+      },
+      {
+        "id": 6,
+        "name": "Machine Learning/AI"
+      }
+    ],
+    "prize_amount": "$<span data-currency-value>22,000</span>",
+    "prizes_counts": {
+      "cash": 16,
+      "other": 3
+    },
+    "registrations_count": 2,
+    "featured": false,
+    "organization_name": "college.xyz",
+    "winners_announced": false,
+    "submission_gallery_url": "https://ubc-hackathon-2026.devpost.com/project-gallery",
+    "start_a_submission_url": "https://ubc-hackathon-2026.devpost.com/challenges/start_a_submission",
+    "invite_only": true,
+    "eligibility_requirement_invite_only_description": "Only UBC particpants can attend this hackathon",
     "managed_by_devpost_badge": false
   }
 ]

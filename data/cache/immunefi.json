@@ -2793,10 +2793,7 @@
           "Solidity"
         ],
         "ecosystem": [
-          "Arbitrum",
-          "ETH",
-          "Fantom",
-          "Optimism"
+          "ETH"
         ],
         "productType": [
           "Lending",
@@ -2812,7 +2809,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
-          "PoC Not Required"
+          "PoC Required"
         ],
         "featured": [
           "Launched Recently"
@@ -5974,7 +5971,7 @@
       "rewardsPool": 80000,
       "launchDate": "2026-11-02T14:00:00.000Z",
       "endDate": "2026-11-16T10:00:00.000Z",
-      "auditCompetitionStatus": "STARTING_IN",
+      "auditCompetitionStatus": "LIVE",
       "url": "/audit-competition/plether/information/"
     },
     {

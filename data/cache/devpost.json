@@ -10,7 +10,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/553/888/datas/medium_square.png",
     "analytics_identifier": "Herhack (31664)",
     "url": "https://herhack.devpost.com/",
-    "time_left_to_submission": "8 days left",
+    "time_left_to_submission": "7 days left",
     "submission_period_dates": "Oct 17 - Nov 10, 2026",
     "themes": [
       {
@@ -31,7 +31,7 @@
       "cash": 13,
       "other": 0
     },
-    "registrations_count": 172,
+    "registrations_count": 190,
     "featured": false,
     "organization_name": "Echelon institute of technology",
     "winners_announced": false,
@@ -52,7 +52,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
     "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
     "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "time_left_to_submission": "18 days left",
+    "time_left_to_submission": "17 days left",
     "submission_period_dates": "Oct 26 - Nov 20, 2026",
     "themes": [
       {
@@ -73,96 +73,12 @@
       "cash": 3,
       "other": 0
     },
-    "registrations_count": 144,
+    "registrations_count": 158,
     "featured": false,
     "organization_name": "Dakar Bitcoin Days",
     "winners_announced": false,
     "submission_gallery_url": "https://dakar-bitcoin-hack-2026.devpost.com/project-gallery",
     "start_a_submission_url": "https://dakar-bitcoin-hack-2026.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
-    "id": 31970,
-    "title": "United Arab Emirates vs United States Of America",
-    "displayed_location": {
-      "icon": "map-marker-alt",
-      "location": "Abu Dhabi "
-    },
-    "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/776/824/datas/medium_square.jpg",
-    "analytics_identifier": "United Arab Emirates vs United States Of America (31970)",
-    "url": "https://uaevsusa.devpost.com/",
-    "time_left_to_submission": "about 5 hours left",
-    "submission_period_dates": "Nov 02 - 03, 2026",
-    "themes": [
-      {
-        "id": 1,
-        "name": "Blockchain"
-      },
-      {
-        "id": 9,
-        "name": "Cybersecurity"
-      },
-      {
-        "id": 2,
-        "name": "DevOps"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>10,000</span>",
-    "prizes_counts": {
-      "cash": 1,
-      "other": 0
-    },
-    "registrations_count": 6,
-    "featured": false,
-    "organization_name": "World Hackathon Federation",
-    "winners_announced": false,
-    "submission_gallery_url": "https://uaevsusa.devpost.com/project-gallery",
-    "start_a_submission_url": "https://uaevsusa.devpost.com/challenges/start_a_submission",
-    "invite_only": true,
-    "eligibility_requirement_invite_only_description": "UAE AND USA NATIONAL TEAM",
-    "managed_by_devpost_badge": false
-  },
-  {
-    "id": 31903,
-    "title": "Bharat Builds Tour",
-    "displayed_location": {
-      "icon": "map-marker-alt",
-      "location": "jaipur"
-    },
-    "open_state": "upcoming",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/719/270/datas/medium_square.png",
-    "analytics_identifier": "Bharat Builds Tour (31903)",
-    "url": "https://bharat-builds-tour.devpost.com/",
-    "time_left_to_submission": "Upcoming",
-    "submission_period_dates": "Nov 16 - 17, 2026",
-    "themes": [
-      {
-        "id": 1,
-        "name": "Blockchain"
-      },
-      {
-        "id": 9,
-        "name": "Cybersecurity"
-      },
-      {
-        "id": 2,
-        "name": "DevOps"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>0</span>",
-    "prizes_counts": {
-      "cash": 0,
-      "other": 1
-    },
-    "registrations_count": 9,
-    "featured": false,
-    "organization_name": "Hackers Unity",
-    "winners_announced": false,
-    "submission_gallery_url": "https://bharat-builds-tour.devpost.com/project-gallery",
-    "start_a_submission_url": "https://bharat-builds-tour.devpost.com/challenges/start_a_submission",
     "invite_only": false,
     "eligibility_requirement_invite_only_description": null,
     "managed_by_devpost_badge": false
@@ -196,10 +112,10 @@
     ],
     "prize_amount": "$<span data-currency-value>22,000</span>",
     "prizes_counts": {
-      "cash": 1,
-      "other": 0
+      "cash": 16,
+      "other": 3
     },
-    "registrations_count": 8,
+    "registrations_count": 19,
     "featured": false,
     "organization_name": "college.xyz",
     "winners_announced": false,
@@ -207,6 +123,90 @@
     "start_a_submission_url": "https://ubc-hackathon-2026.devpost.com/challenges/start_a_submission",
     "invite_only": true,
     "eligibility_requirement_invite_only_description": "Only UBC particpants can attend this hackathon",
+    "managed_by_devpost_badge": false
+  },
+  {
+    "id": 31903,
+    "title": "Bharat Builds Tour",
+    "displayed_location": {
+      "icon": "map-marker-alt",
+      "location": "jaipur"
+    },
+    "open_state": "upcoming",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/719/270/datas/medium_square.png",
+    "analytics_identifier": "Bharat Builds Tour (31903)",
+    "url": "https://bharat-builds-tour.devpost.com/",
+    "time_left_to_submission": "Upcoming",
+    "submission_period_dates": "Nov 16 - 17, 2026",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Blockchain"
+      },
+      {
+        "id": 9,
+        "name": "Cybersecurity"
+      },
+      {
+        "id": 2,
+        "name": "DevOps"
+      }
+    ],
+    "prize_amount": "$<span data-currency-value>0</span>",
+    "prizes_counts": {
+      "cash": 1,
+      "other": 0
+    },
+    "registrations_count": 9,
+    "featured": false,
+    "organization_name": "Hackers Unity",
+    "winners_announced": false,
+    "submission_gallery_url": "https://bharat-builds-tour.devpost.com/project-gallery",
+    "start_a_submission_url": "https://bharat-builds-tour.devpost.com/challenges/start_a_submission",
+    "invite_only": false,
+    "eligibility_requirement_invite_only_description": null,
+    "managed_by_devpost_badge": false
+  },
+  {
+    "id": 31984,
+    "title": "United Arab Emirates vs China",
+    "displayed_location": {
+      "icon": "map-marker-alt",
+      "location": "Abu Dhabi "
+    },
+    "open_state": "upcoming",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/783/847/datas/medium_square.jpg",
+    "analytics_identifier": "United Arab Emirates vs China (31984)",
+    "url": "https://uaevschn.devpost.com/",
+    "time_left_to_submission": "Upcoming",
+    "submission_period_dates": "Nov 04, 2026",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Blockchain"
+      },
+      {
+        "id": 9,
+        "name": "Cybersecurity"
+      },
+      {
+        "id": 2,
+        "name": "DevOps"
+      }
+    ],
+    "prize_amount": "$<span data-currency-value>10,000</span>",
+    "prizes_counts": {
+      "cash": 1,
+      "other": 0
+    },
+    "registrations_count": 1,
+    "featured": false,
+    "organization_name": "World Hackathon Federation",
+    "winners_announced": false,
+    "submission_gallery_url": "https://uaevschn.devpost.com/project-gallery",
+    "start_a_submission_url": "https://uaevschn.devpost.com/challenges/start_a_submission",
+    "invite_only": true,
+    "eligibility_requirement_invite_only_description": "UAE TEAM AND CHINA NATIONAL TEAM",
     "managed_by_devpost_badge": false
   }
 ]

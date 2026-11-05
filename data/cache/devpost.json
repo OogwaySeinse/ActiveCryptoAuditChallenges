@@ -10,7 +10,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/553/888/datas/medium_square.png",
     "analytics_identifier": "Herhack (31664)",
     "url": "https://herhack.devpost.com/",
-    "time_left_to_submission": "7 days left",
+    "time_left_to_submission": "6 days left",
     "submission_period_dates": "Oct 17 - Nov 10, 2026",
     "themes": [
       {
@@ -31,7 +31,7 @@
       "cash": 13,
       "other": 0
     },
-    "registrations_count": 190,
+    "registrations_count": 208,
     "featured": false,
     "organization_name": "Echelon institute of technology",
     "winners_announced": false,
@@ -52,7 +52,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
     "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
     "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "time_left_to_submission": "17 days left",
+    "time_left_to_submission": "16 days left",
     "submission_period_dates": "Oct 26 - Nov 20, 2026",
     "themes": [
       {
@@ -73,7 +73,7 @@
       "cash": 3,
       "other": 0
     },
-    "registrations_count": 158,
+    "registrations_count": 163,
     "featured": false,
     "organization_name": "Dakar Bitcoin Days",
     "winners_announced": false,
@@ -115,7 +115,7 @@
       "cash": 16,
       "other": 3
     },
-    "registrations_count": 19,
+    "registrations_count": 28,
     "featured": false,
     "organization_name": "college.xyz",
     "winners_announced": false,
@@ -154,10 +154,10 @@
     ],
     "prize_amount": "$<span data-currency-value>0</span>",
     "prizes_counts": {
-      "cash": 1,
-      "other": 0
+      "cash": 0,
+      "other": 1
     },
-    "registrations_count": 9,
+    "registrations_count": 10,
     "featured": false,
     "organization_name": "Hackers Unity",
     "winners_announced": false,
@@ -165,48 +165,6 @@
     "start_a_submission_url": "https://bharat-builds-tour.devpost.com/challenges/start_a_submission",
     "invite_only": false,
     "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
-    "id": 31984,
-    "title": "United Arab Emirates vs China",
-    "displayed_location": {
-      "icon": "map-marker-alt",
-      "location": "Abu Dhabi "
-    },
-    "open_state": "upcoming",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/783/847/datas/medium_square.jpg",
-    "analytics_identifier": "United Arab Emirates vs China (31984)",
-    "url": "https://uaevschn.devpost.com/",
-    "time_left_to_submission": "Upcoming",
-    "submission_period_dates": "Nov 04, 2026",
-    "themes": [
-      {
-        "id": 1,
-        "name": "Blockchain"
-      },
-      {
-        "id": 9,
-        "name": "Cybersecurity"
-      },
-      {
-        "id": 2,
-        "name": "DevOps"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>10,000</span>",
-    "prizes_counts": {
-      "cash": 1,
-      "other": 0
-    },
-    "registrations_count": 1,
-    "featured": false,
-    "organization_name": "World Hackathon Federation",
-    "winners_announced": false,
-    "submission_gallery_url": "https://uaevschn.devpost.com/project-gallery",
-    "start_a_submission_url": "https://uaevschn.devpost.com/challenges/start_a_submission",
-    "invite_only": true,
-    "eligibility_requirement_invite_only_description": "UAE TEAM AND CHINA NATIONAL TEAM",
     "managed_by_devpost_badge": false
   }
 ]

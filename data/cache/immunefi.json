@@ -1028,6 +1028,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -5891,7 +5892,7 @@
         ]
       },
       "url": "/bug-bounty/unstoppablewallet/information/",
-      "pausedAt": null
+      "pausedAt": "2026-11-04T12:52:10.894Z"
     },
     {
       "slug": "acala",

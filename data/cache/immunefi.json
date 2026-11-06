@@ -656,6 +656,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -1140,6 +1141,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -2302,6 +2304,7 @@
           "Triaged by Immunefi",
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required",
           "Primacy of Impact",
           "Vaults"
@@ -2847,6 +2850,7 @@
           "Safe Harbor",
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -2992,6 +2996,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -3166,6 +3171,7 @@
         ],
         "general": [
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Not Required"
         ],
         "featured": [
@@ -4942,6 +4948,7 @@
         "projectType": [],
         "general": [
           "KYC Required",
+          "Paid Submissions",
           "PoC Not Required"
         ],
         "featured": [
@@ -5099,6 +5106,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -5887,8 +5895,7 @@
           "PoC Required"
         ],
         "featured": [
-          "Launched Recently",
-          "Paid Recently"
+          "Launched Recently"
         ]
       },
       "url": "/bug-bounty/unstoppablewallet/information/",

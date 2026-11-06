@@ -11,8 +11,8 @@
     "prize_raw": "There are 2 rounds of the competition -> qualifying round and final round.\r\n\r\nThe top 5 teams of international category of the qualifying round will advance to the onsite final round at Hong Kong.\r\n\r\nThe prize for the winners in the final round are as below\r\n\r\nGold: HKD 16,000 ( Per Team )\r\nSilver: HKD 13,000 ( Per Team )\r\nBronze: HKD 11,000 ( Per Team )\r\n\r\nPlease register at below HKCERT CTF website\r\nhttps://ctf.hkcert.org\r\n(Registration deadline: 4 Nov 2026 HKT 1200, No late for the registration)\r\n",
     "start_date": "2026-11-06T10:00:00Z",
     "end_date": "2026-11-07T10:00:00Z",
-    "days_remaining": 2,
-    "status": "upcoming",
+    "days_remaining": 0,
+    "status": "ending_soon",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
     "ecosystem": "Multi-chain / General",
@@ -28,7 +28,7 @@
     "organizer": "Black Bauhinia, HKCERT",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 131,
+    "participants_count": 142,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -36,7 +36,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-05T06:51:55Z"
+    "scraped_at": "2026-11-06T13:24:52Z"
   },
   {
     "id": "5d7602afb19450",
@@ -50,8 +50,8 @@
     "prize_raw": "1st Place: 25$ + 6 Month Caido License per Member (Worth ~$545) + 4 .xyz Domains\r\n2nd Place: 15$ + 3 Month Caido License per Member (Worth ~$272) + 2 .xyz Domains\r\n3nd Place: 10$ + 2 Month Caido License per Member (Worth ~$181) + 2 .xyz Domains\r\n4th Place: 1 .xyz Domain\r\n5th Place: 1 .xyz Domain",
     "start_date": "2026-11-06T12:00:00Z",
     "end_date": "2026-11-09T12:00:00Z",
-    "days_remaining": 4,
-    "status": "upcoming",
+    "days_remaining": 2,
+    "status": "ending_soon",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
     "ecosystem": "Multi-chain / General",
@@ -67,7 +67,7 @@
     "organizer": "PINK+",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 66,
+    "participants_count": 94,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -75,7 +75,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-05T06:51:55Z"
+    "scraped_at": "2026-11-06T13:24:52Z"
   },
   {
     "id": "1cf30867cd5b79",
@@ -89,8 +89,8 @@
     "prize_raw": "Three months of PIECE Elite for every verified participant with a positive score, plus certifications, training access, YubiKeys, Ubuntu exam vouchers and prize packs. \r\n\r\nFull prize map: https://2026.chronos-security.ro/prizes\r\n",
     "start_date": "2026-11-06T13:00:00Z",
     "end_date": "2026-11-08T13:00:00Z",
-    "days_remaining": 3,
-    "status": "upcoming",
+    "days_remaining": 1,
+    "status": "ending_soon",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
     "ecosystem": "Multi-chain / General",
@@ -106,7 +106,7 @@
     "organizer": "Mirachron",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 90,
+    "participants_count": 122,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -114,7 +114,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-05T06:51:55Z"
+    "scraped_at": "2026-11-06T13:24:52Z"
   },
   {
     "id": "6ce31e706f0a35",
@@ -128,7 +128,7 @@
     "prize_raw": "Open Division: (Online + In-person)\r\n1st - 100$\r\n2nd - 50$\r\n3rd - 25$\r\n\r\nIn-Person:\r\n1st - 100$ ",
     "start_date": "2026-11-06T17:00:00Z",
     "end_date": "2026-11-07T17:00:00Z",
-    "days_remaining": 2,
+    "days_remaining": 1,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -145,7 +145,7 @@
     "organizer": "NICC",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 91,
+    "participants_count": 124,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -153,7 +153,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-05T06:51:55Z"
+    "scraped_at": "2026-11-06T13:24:52Z"
   },
   {
     "id": "1cce76e9cb1d9c",
@@ -167,7 +167,7 @@
     "prize_raw": "",
     "start_date": "2026-11-12T17:00:00Z",
     "end_date": "2026-11-14T05:00:00Z",
-    "days_remaining": 8,
+    "days_remaining": 7,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -184,7 +184,7 @@
     "organizer": "NYUSEC",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 20,
+    "participants_count": 21,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -192,7 +192,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-05T06:51:55Z"
+    "scraped_at": "2026-11-06T13:24:52Z"
   },
   {
     "id": "2b20aa05d58e52",
@@ -206,7 +206,7 @@
     "prize_raw": "See https://platypwnies.de/events/platypwn",
     "start_date": "2026-11-13T17:00:00Z",
     "end_date": "2026-11-14T11:00:00Z",
-    "days_remaining": 9,
+    "days_remaining": 7,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -223,7 +223,7 @@
     "organizer": "Platypwnies",
     "difficulty": "Intermediate",
     "kyc_required": null,
-    "participants_count": 49,
+    "participants_count": 50,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -231,7 +231,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-05T06:51:55Z"
+    "scraped_at": "2026-11-06T13:24:52Z"
   },
   {
     "id": "90fe4f56bb0411",
@@ -245,7 +245,7 @@
     "prize_raw": "To be announced!",
     "start_date": "2026-11-13T23:00:00Z",
     "end_date": "2026-11-15T23:00:00Z",
-    "days_remaining": 10,
+    "days_remaining": 9,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -262,7 +262,7 @@
     "organizer": "w01verines",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 95,
+    "participants_count": 97,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -270,7 +270,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-05T06:51:55Z"
+    "scraped_at": "2026-11-06T13:24:52Z"
   },
   {
     "id": "c4848146656609",
@@ -284,7 +284,7 @@
     "prize_raw": "The total prize pool for h4ckc0n is ₹10,000 INR, distributed among the top three teams: \r\n1st Place\t- ₹5,000\r\n2nd Place - ₹3,000\r\n3rd Place\t - ₹2,000\r\n(only applicable for Teams with an Indian bank account)\r\n\r\nPrizes are awarded based on the final leaderboard at the end of the 24-hour competition.",
     "start_date": "2026-11-14T15:30:00Z",
     "end_date": "2026-11-15T15:30:00Z",
-    "days_remaining": 10,
+    "days_remaining": 9,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Blockchain CTF",
@@ -303,7 +303,7 @@
     "organizer": "d4rkc0de",
     "difficulty": "Intermediate",
     "kyc_required": null,
-    "participants_count": 11,
+    "participants_count": 12,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -311,7 +311,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-05T06:51:55Z"
+    "scraped_at": "2026-11-06T13:24:52Z"
   },
   {
     "id": "7c9be6e88b8228",
@@ -325,7 +325,7 @@
     "prize_raw": "1st: 300 USD + 1 year ExamBoot subscription. (500 USD dedicated for the 1st Cameroonian local on the scoreboard) \r\n3-month BlueYard Pro subscription, 1 Free annual personal subscriptions to a chosen JetBrains IDE.\r\n\r\n2nd: 1 year ExamBoot subscription. 2-month BlueYard Pro subscription. 1 Free annual personal subscriptions to a chosen JetBrains IDE.\r\n\r\n3rd: 6 month ExamBoot subscription. 1 Free annual personal subscriptions to a chosen JetBrains IDE.\r\n\r\n",
     "start_date": "2026-11-20T10:00:00Z",
     "end_date": "2026-11-22T10:00:00Z",
-    "days_remaining": 17,
+    "days_remaining": 15,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -350,7 +350,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-05T06:51:55Z"
+    "scraped_at": "2026-11-06T13:24:52Z"
   },
   {
     "id": "3d2f939328d64c",
@@ -364,7 +364,7 @@
     "prize_raw": "TBA",
     "start_date": "2026-11-20T18:00:00Z",
     "end_date": "2026-11-21T18:00:00Z",
-    "days_remaining": 16,
+    "days_remaining": 15,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -381,7 +381,7 @@
     "organizer": "LosFuzzys",
     "difficulty": "Advanced",
     "kyc_required": null,
-    "participants_count": 65,
+    "participants_count": 68,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -389,7 +389,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-05T06:51:55Z"
+    "scraped_at": "2026-11-06T13:24:52Z"
   },
   {
     "id": "7878b44c8d3246",
@@ -403,7 +403,7 @@
     "prize_raw": "More TBA\r\n\r\n1 year .xyz domains pp",
     "start_date": "2026-11-20T23:00:00Z",
     "end_date": "2026-11-21T23:00:00Z",
-    "days_remaining": 16,
+    "days_remaining": 15,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -428,7 +428,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-05T06:51:55Z"
+    "scraped_at": "2026-11-06T13:24:52Z"
   },
   {
     "id": "a888db9720adcf",
@@ -442,7 +442,7 @@
     "prize_raw": "",
     "start_date": "2026-11-21T13:00:00Z",
     "end_date": "2026-11-21T21:00:00Z",
-    "days_remaining": 16,
+    "days_remaining": 15,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -459,7 +459,7 @@
     "organizer": "Crate-CTF",
     "difficulty": "Intermediate",
     "kyc_required": null,
-    "participants_count": 28,
+    "participants_count": 30,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -467,6 +467,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-05T06:51:55Z"
+    "scraped_at": "2026-11-06T13:24:52Z"
   }
 ]

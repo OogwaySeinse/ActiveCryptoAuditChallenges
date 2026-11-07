@@ -2,134 +2,6 @@
   {
     "organizers": [
       {
-        "id": 188318,
-        "name": "HiddenInvestigations"
-      }
-    ],
-    "ctftime_url": "https://ctftime.org/event/3460/",
-    "ctf_id": 1704,
-    "weight": 0,
-    "duration": {
-      "hours": 0,
-      "days": 2
-    },
-    "live_feed": "",
-    "logo": "https://ctftime.org//media/events/HI_Cyber_Con_2026__CTFtime_Logo__Transparent.png",
-    "id": 3460,
-    "title": "HI Cyber Con 2026 CTF",
-    "start": "2026-10-30T14:00:00+00:00",
-    "participants": 163,
-    "location": "",
-    "finish": "2026-11-01T14:00:00+00:00",
-    "description": "HI Cyber Con 2026 CTF is an international 48-hour Jeopardy-style Capture The Flag competition organized by Hidden Investigations.\r\n\r\nThe competition features 70+ challenges covering web, forensics, steganography, network, crypto, binary exploitation, reverse engineering, AI/LLM, hardware, blockchain, OSINT, and misc.\r\n\r\nThe CTF is fully online and open to teams of up to 5 participants worldwide.\r\n\r\nCompetition Divisions: HI Cyber Con 2026 features two divisions: Human-Led (AI permitted for reference only) and Agentic AI (AI-assisted and autonomous challenge solving permitted). Both divisions are eligible for the same overall USD 2,500 cash prize pool. Participation is free, with teams of 1–5 members.\r\n\r\nDiscord: https://discord.gg/rD2gHUWJhf",
-    "format": "Jeopardy",
-    "is_votable_now": true,
-    "prizes": "USD 2,500 Guaranteed Cash Prize Pool + Additional Sponsored Rewards\r\n\r\nCASH PRIZES (TOP 5 TEAMS)\r\n\r\n* 1st Place: USD 1,000\r\n* 2nd Place: USD 700\r\n* 3rd Place: USD 500\r\n* 4th Place: USD 200\r\n* 5th Place: USD 100\r\n\r\nSPONSOR-PROVIDED REWARDS\r\n\r\n* Netlas: 6-month Business subscriptions (Top 5 teams).\r\n\r\n* 13Cubed: Forensic training courses (Top 3 teams).\r\n\r\n* CyberDefenders: Pro subscriptions (Top 3 teams).\r\n   - 3 months for 1st \r\n   - 2 months for 2nd \r\n   - 1 month for 3rd\r\n\r\n* Gen.XYZ: 5 domains per team (Top 5 teams).\r\n\r\n* Hackviser: CAPT certification discounts and VIP membership benefits (Top 5 teams).\r\n   - 1st–3rd teams: 50% off CAPT certification + one month free VIP membership.\r\n   - 4th–5th teams: 30% off CAPT certification + 30% off one-month VIP membership.\r\n\r\n* Campfire Security: 1-year Unlimited Access subscriptions (Top 5 teams).\r\n\r\n* White Knight Labs: 6-month WKL Academy access and one certification course (Top 3 teams).\r\n\r\n* SweetScape: Perpetual 010 Editor commercial licenses (Top 5 teams).\r\n\r\n* Criminal IP: 6-month Starter subscriptions (Top 5 teams).\r\n\r\n* Just Hacking Training: training courses (Top 3 teams).\r\n   - 1st: Dark Web & Cybercrime Investigations\r\n   - 2nd: Beginner Level OSINT\r\n   - 3rd: OpSec – Privacy for Security Professionals\r\n\r\n* Caido: Licenses (Top 3 Teams)\r\n   - 1st place Up to 5 × 6-month licences\r\n   - 2nd place Up to 5 × 3-month licences\r\n   - 3rd place Up to 5 × 2-month licences\r\n\r\n* SkillBit: Labs vouchers\r\n   - 6-month access: 4 vouchers\r\n   - 3-month access: 4 vouchers\r\n   - 1-month access: 4 vouchers\r\n\r\nBoth Human-Led and Agentic AI divisions are eligible for the same overall cash prize pool.\r\n\r\nCash prizes are awarded once per eligible winning team. Sponsored rewards are subject to their respective allocation limits, redemption terms, and winner verification.\r\n\r\nFull prize details: https://hicybercon.hiddeninvestigations.net/ctf",
-    "format_id": 1,
-    "onsite": false,
-    "restrictions": "Open",
-    "url": "https://ctf.hiddeninvestigations.net/",
-    "public_votable": true
-  },
-  {
-    "organizers": [
-      {
-        "id": 364644,
-        "name": "LoveFromMimic"
-      }
-    ],
-    "ctftime_url": "https://ctftime.org/event/3459/",
-    "ctf_id": 1212,
-    "weight": 0,
-    "duration": {
-      "hours": 0,
-      "days": 1
-    },
-    "live_feed": "",
-    "logo": "https://ctftime.org//media/events/logo_139.png",
-    "id": 3459,
-    "title": "2026 Qiangwang Challenge on Cyber Mimic Defense Qualification",
-    "start": "2026-10-31T02:00:00+00:00",
-    "participants": 39,
-    "location": "",
-    "finish": "2026-11-01T02:00:00+00:00",
-    "description": "The 2026 Qiangwang Challenge on Cyber Mimic Defense Qualification is the online qualifying round of the 9th Qiangwang International Elite Challenge on Cyber Mimic Defense.\r\n\r\nThis team-based Jeopardy CTF features standard CTF challenges and selected challenges on endogenous security. Teams can register through the official event website.\r\n\r\nEligible teams will be selected for the on-site finals, which are planned to take place in Nanjing, China. Please refer to the official website for competition rules, qualification details and further announcements.\r\n\r\nRegistration and event information:\r\nhttps://nest.pmlabs.com.cn/#/events/qiangwang-9/registration\r\n\r\nDiscord:\r\nhttps://discord.gg/Jvn67Me9na\r\n\r\nQQ group: 523854931",
-    "format": "Jeopardy",
-    "is_votable_now": true,
-    "prizes": "Eligible teams will qualify for the on-site finals, which are planned to take place in Nanjing, China. Qualification criteria, the number of qualifying teams and prize details will be announced on the official website.",
-    "format_id": 1,
-    "onsite": false,
-    "restrictions": "Open",
-    "url": "https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration",
-    "public_votable": true
-  },
-  {
-    "organizers": [
-      {
-        "id": 452464,
-        "name": "HAMARC"
-      }
-    ],
-    "ctftime_url": "https://ctftime.org/event/3491/",
-    "ctf_id": 1742,
-    "weight": 0,
-    "duration": {
-      "hours": 4,
-      "days": 0
-    },
-    "live_feed": "https://ctftime.org/live/3491/",
-    "logo": "https://ctftime.org//media/events/hamarc.png",
-    "id": 3491,
-    "title": "HAM-DEFCON",
-    "start": "2026-10-31T03:30:00+00:00",
-    "participants": 10,
-    "location": "National Institute Of Technology Warangal, Hanamkonda, Telangana, India, 505004",
-    "finish": "2026-10-31T07:30:00+00:00",
-    "description": "HAM-DEFCON is a cybersecurity competition organized by HAM-ARC club of National Institute Of Technology Warangal Telangana, India.\r\nEvent Details:\r\nFormat: Attack & Defense\r\nCategories: Web Exploitation, Binary Exploitation (Pwn), Reverse Engineering, Cryptography, and Infrastructure Hardening.\r\nTeam Size: 1–4 Members\r\nCategories: Web Security, Binary Exploitation (Pwn), Reverse Engineering, Applied Cryptography, and Service Hardening\r\n\r\nRules & Code of Conduct\r\n    On-Site & Network Access:\r\n    The competition is strictly offline at the NIT Warangal campus. All team traffic and service interactions must route exclusively through the official network access gateway.\r\n\r\n    Multi-Tiered Flagstores:\r\n    Each service hosts multiple independent flagstores (Easy, Medium, Hard). Flags are dynamically rotated and refreshed every tick (round).\r\n\r\n    Scoring Breakdown:\r\n\r\n    Attack Points: Awarded for successfully exploiting opponent services and submitting their flags to the Flag Submission endpoint.\r\n\r\n    Defense Points: Maintained by successfully patching vulnerabilities while keeping services operational.\r\n\r\n    SLA (Uptime) Points: Awarded each round your services remain healthy, responsive, and passing all automated checker functionality tests.\r\n\r\n    Scope & Infrastructure Immunity:\r\n    Only designated opponent service ports and containers are in scope. Attacking the game engine, scoring backend, automated checkers, host hypervisors, or other teams’ network credentials will result in immediate disqualification.\r\n\r\n    Fair Play & Service Integrity:\r\n    Denial-of-Service (DoS) attacks, network floods, deleting arbitrary system utilities, bricking service runtimes to prevent checker evaluation, and flag sharing or collusion between teams are strictly prohibited.",
-    "format": "Attack-Defense",
-    "is_votable_now": false,
-    "prizes": "Winners got prizes upto 10K+ INR along with claude and codex subscriptions.",
-    "format_id": 2,
-    "onsite": true,
-    "restrictions": "Casual",
-    "url": "http://defcon.hamarc.tech/",
-    "public_votable": false
-  },
-  {
-    "organizers": [
-      {
-        "id": 203499,
-        "name": "ctfcup"
-      }
-    ],
-    "ctftime_url": "https://ctftime.org/event/3469/",
-    "ctf_id": 864,
-    "weight": 0.0,
-    "duration": {
-      "hours": 0,
-      "days": 1
-    },
-    "live_feed": "",
-    "logo": "",
-    "id": 3469,
-    "title": "Russian CTF Cup X Qualifier",
-    "start": "2026-10-31T09:00:00+00:00",
-    "participants": 51,
-    "location": "",
-    "finish": "2026-11-01T09:00:00+00:00",
-    "description": "Russian CTF Cup X, Qualifier.\r\nhttps://ctfcup.ru/registration\r\n\r\n12:00 UTC+3 (Moscow) 31 October - 12:00 UTC+3 (Moscow) 01 November. Online.\r\n\r\nThe top 10 teams from each category (academic, mixed, school, and secondary vocational) will be invited to the final in December.",
-    "format": "Jeopardy",
-    "is_votable_now": false,
-    "prizes": "",
-    "format_id": 1,
-    "onsite": false,
-    "restrictions": "Open",
-    "url": "https://ctfcup.ru/",
-    "public_votable": false
-  },
-  {
-    "organizers": [
-      {
         "id": 104949,
         "name": "0x01DA"
       }
@@ -268,7 +140,7 @@
     ],
     "ctftime_url": "https://ctftime.org/event/3339/",
     "ctf_id": 987,
-    "weight": 0.0,
+    "weight": 0,
     "duration": {
       "hours": 0,
       "days": 1
@@ -278,12 +150,12 @@
     "id": 3339,
     "title": "SpookyCTF 2026",
     "start": "2026-11-06T17:00:00+00:00",
-    "participants": 124,
+    "participants": 131,
     "location": "",
     "finish": "2026-11-07T17:00:00+00:00",
     "description": "EVENT TIME HAS BEEN SHIFTED TO START AND END 2 HOURS AFTER TIME LISTED ABOVE\r\n\r\nREGISTRATION IS NOW AVAILABLE!\r\n\r\nBOO!!\r\n\r\nWelcome to SpookyCTF 2026! Organized by the New Jersey Institute of Technology's Cyber Security Network (formerly known as NICC), this is our annual Halloween CTF event, open to all!\r\n\r\nWe've made this CTF beginner-friendly, with a mix of harder challenges. Our mission is to help beginners develop professionally in cybersecurity while still keeping things fun! You'll be pushed to stay curious and strengthen your reasoning skills across challenges of varying difficulty.\r\n\r\nOur challenge categories include Binary Exploitation/Reverse Engineering, Cryptography, Forensics, OSINT, Web, and Misc. Expect weird but fun challenges developed by our team at CSN.\r\n\r\nSpookyCTF is hybrid — in person at NJIT and open to virtual attendees!\r\n\r\nJoin our Discord to tap in: https://discord.gg/NeHyp5fFHW\r\n\r\nAI assistance is allowed but discouraged. Learning is part of the challenge — use your brain!\r\nAutomated AI agents for solving challenges are strictly forbidden. Any detected automated AI usage will result in disqualification.",
     "format": "Jeopardy",
-    "is_votable_now": false,
+    "is_votable_now": true,
     "prizes": "Open Division: (Online + In-person)\r\n1st - 100$\r\n2nd - 50$\r\n3rd - 25$\r\n\r\nIn-Person:\r\n1st - 100$ ",
     "format_id": 1,
     "onsite": false,
@@ -310,7 +182,7 @@
     "id": 3242,
     "title": "BlackAlps CTF 2026",
     "start": "2026-11-06T18:15:00+00:00",
-    "participants": 25,
+    "participants": 26,
     "location": "Switzerland, Yverdon-les-Bains",
     "finish": "2026-11-06T22:30:00+00:00",
     "description": "The BlackAlps CTF will be held at the end of the BlackAlps conference in Yverdon-les-Bains in Switzerland. It's a CTF for all level including from beginner up to advanced team.\r\n\r\nThe CTF will last 5 hours and be on site for about 300 people.\r\n\r\nThere is no specific categories.\r\n\r\nRegistration is mandatory.\r\n\r\nWelcome at 18:45. Start at 19:00. End at 23:30. Awards ceremony at 23:45.",
@@ -342,7 +214,7 @@
     "id": 3455,
     "title": "Mimic",
     "start": "2026-11-07T12:00:00+00:00",
-    "participants": 24,
+    "participants": 42,
     "location": "",
     "finish": "2026-11-08T12:00:00+00:00",
     "description": "Mimic is an online Jeopardy-style CTF by Rare Byte Hub. Some challenges are exactly what they look like, and some aren't. Figure out which is which. There's something for everyone, from beginners to experienced players. Teams of 1-4 members.",
@@ -353,6 +225,38 @@
     "onsite": false,
     "restrictions": "Casual",
     "url": "https://ctf.rarebytehub.com/events/mimic",
+    "public_votable": false
+  },
+  {
+    "organizers": [
+      {
+        "id": 453537,
+        "name": "CyberZerk"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3499/",
+    "ctf_id": 1754,
+    "weight": 0,
+    "duration": {
+      "hours": 4,
+      "days": 13
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/cyberzerk-logo-complet-blanc.png",
+    "id": 3499,
+    "title": "CyberZerk CTF 2026",
+    "start": "2026-11-09T13:00:00+00:00",
+    "participants": 0,
+    "location": "",
+    "finish": "2026-11-22T17:00:00+00:00",
+    "description": "CyberZerk CTF 2026 is a free, online Jeopardy-style CTF for all skill levels, organized by the CyberZerk association. It runs from November 9 (14:00 CET) to November 22 (18:00 CET). Challenges cover web, crypto, forensics, steganography and social engineering. Registration is individual. Donations to the association are optional and never required to play. Rules and registration: https://ctf.cyberzerk.fr",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "none announced yet",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Individual",
+    "url": "https://ctf.cyberzerk.fr/",
     "public_votable": false
   },
   {
@@ -374,7 +278,7 @@
     "id": 3410,
     "title": "CSAW CTF Final Round 2026",
     "start": "2026-11-12T17:00:00+00:00",
-    "participants": 21,
+    "participants": 24,
     "location": "",
     "finish": "2026-11-14T05:00:00+00:00",
     "description": "CSAW CTF is one of the oldest and biggest CTFs. Designed as an entry-level, jeopardy-style CTF, this competition is for students who are trying to break into the field of security, as well as for advanced students and industry professionals who want to practice their skills.",
@@ -406,7 +310,7 @@
     "id": 3486,
     "title": "TVX CTF 2026",
     "start": "2026-11-13T10:00:00+00:00",
-    "participants": 18,
+    "participants": 22,
     "location": "",
     "finish": "2026-11-13T20:00:00+00:00",
     "description": "TVX CTF is a cybersecurity Capture The Flag competition organized by Tech Visions.\r\n\r\nChallenge categories include:\r\n\r\n• DFIR (Digital Forensics & Incident Response)\r\n• Cloud Security\r\n• Malware Analysis\r\n• Reverse Engineering\r\n• Pwn (Binary Exploitation)\r\n• Web Exploitation\r\n• Cryptography\r\n• OSINT (Open-Source Intelligence)\r\n\r\nTest your skills, solve real-world-inspired cybersecurity challenges, and compete with other security enthusiasts in a hands-on environment.\r\n\r\nOrganized by Tech Visions.",
@@ -438,7 +342,7 @@
     "id": 3082,
     "title": "Platypwn 2026",
     "start": "2026-11-13T17:00:00+00:00",
-    "participants": 50,
+    "participants": 58,
     "location": "",
     "finish": "2026-11-14T11:00:00+00:00",
     "description": "The Platypwn 2026 is an online Jeopardy CTF which offers easy challenges for beginners, but also medium and difficult challenges for advanced players.\r\n\r\nSee https://platypwnies.de/events/platypwn for further details.",
@@ -470,7 +374,7 @@
     "id": 3049,
     "title": "WolvCTF 2026",
     "start": "2026-11-13T23:00:00+00:00",
-    "participants": 97,
+    "participants": 102,
     "location": "",
     "finish": "2026-11-15T23:00:00+00:00",
     "description": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). \r\n\r\nThere are two divisions, Open and University of Michigan students. No team limit sizes.\r\n\r\nThank you to our sponsors!\r\nBinary Ninja: https://binary.ninja/\r\n\r\n**Note: This event has been postponed to November 2026**",
@@ -534,7 +438,7 @@
     "id": 3467,
     "title": "InIt CTF",
     "start": "2026-11-14T15:30:00+00:00",
-    "participants": 15,
+    "participants": 16,
     "location": "",
     "finish": "2026-11-14T23:30:00+00:00",
     "description": "InIt CTF is HII's (Hackers in India) beginner-focused Capture The Flag event, free and open to participants across India and internationally. 8 hours, Jeopardy-style, solo or teams of up to 4, across Web, Crypto, Forensics, OSINT, and Misc — mostly easy/medium with a couple of harder challenges for experienced players. This edition is sponsored by .xyz, who are providing free domain codes for participants, with additional sponsors being confirmed. Register at\r\n\r\nhackersinindia.com/init-ctf.",
@@ -598,7 +502,7 @@
     "id": 3337,
     "title": "GlacierCTF 2026",
     "start": "2026-11-20T18:00:00+00:00",
-    "participants": 68,
+    "participants": 70,
     "location": "",
     "finish": "2026-11-21T18:00:00+00:00",
     "description": "We're excited to announce GlacierCTF 2026 for its fifth edition, a 24-hour jeopardy CTF organized by LosFuzzys.\r\n\r\nJoin our discord at:\r\nhttps://discord.gg/DFYnRAME23\r\n\r\n- Hex-Rays (hex-rays.com)\r\n- ISEC @ Graz University of Technology (isec.tugraz.at)\r\n\r\nInfra sponsored by goo.gle/ctfsponsorship",
@@ -694,7 +598,7 @@
     "id": 3336,
     "title": "Crate-CTF 2026",
     "start": "2026-11-21T13:00:00+00:00",
-    "participants": 30,
+    "participants": 32,
     "location": "",
     "finish": "2026-11-21T21:00:00+00:00",
     "description": "Crate-CTF is an annual Capture The Flag (CTF) competition organised by the Swedish Defence Research Agency in collaboration with the Swedish Armed Forces, designed to introduce high school and university students to the field of cybersecurity. This year we return for our seventh CTF, with challenges for all skill levels from beginners to seasoned CTF players. The challenges are categorised into web exploitation, reverse engineering, binary exploitation, cryptography, forensics, OSINT, networking and the all-encompassing \"other\".\r\n\r\nWhile the event will be conducted in Swedish, international participants are also welcome to join (using translation tools as needed). Communication with challenge authors and administrators can be conducted in English.",

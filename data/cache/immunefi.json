@@ -916,6 +916,7 @@
           "Immunefi Standard",
           "KYC Required",
           "Arbitration",
+          "Paid Submissions",
           "PoC Required",
           "Primacy of Impact"
         ],
@@ -1186,6 +1187,7 @@
           "Immunefi Standard",
           "KYC Not Required",
           "Arbitration",
+          "Paid Submissions",
           "PoC Required",
           "Primacy of Impact",
           "Vaults"
@@ -1872,6 +1874,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -1936,8 +1939,8 @@
           "Asset Management"
         ],
         "programType": [
-          "Smart Contract",
-          "Websites and Applications"
+          "Websites and Applications",
+          "Smart Contract"
         ],
         "projectType": [
           "Defi"
@@ -1945,6 +1948,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -3033,6 +3037,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required",
           "Primacy of Impact"
         ],
@@ -3069,6 +3074,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -3103,6 +3109,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -4637,6 +4644,7 @@
         ],
         "general": [
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -4892,6 +4900,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required",
           "Primacy of Impact"
         ],
@@ -5142,6 +5151,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required",
           "Primacy of Impact"
         ],

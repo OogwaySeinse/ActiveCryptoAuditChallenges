@@ -10,7 +10,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/553/888/datas/medium_square.png",
     "analytics_identifier": "Herhack (31664)",
     "url": "https://herhack.devpost.com/",
-    "time_left_to_submission": "4 days left",
+    "time_left_to_submission": "3 days left",
     "submission_period_dates": "Oct 17 - Nov 10, 2026",
     "themes": [
       {
@@ -31,7 +31,7 @@
       "cash": 13,
       "other": 0
     },
-    "registrations_count": 236,
+    "registrations_count": 244,
     "featured": false,
     "organization_name": "Echelon institute of technology",
     "winners_announced": false,
@@ -52,7 +52,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
     "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
     "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "time_left_to_submission": "13 days left",
+    "time_left_to_submission": "12 days left",
     "submission_period_dates": "Oct 26 - Nov 20, 2026",
     "themes": [
       {
@@ -70,10 +70,10 @@
     ],
     "prize_amount": "$<span data-currency-value>900</span>",
     "prizes_counts": {
-      "cash": 1,
+      "cash": 3,
       "other": 0
     },
-    "registrations_count": 177,
+    "registrations_count": 186,
     "featured": false,
     "organization_name": "Dakar Bitcoin Days",
     "winners_announced": false,
@@ -111,7 +111,7 @@
       "cash": 1,
       "other": 0
     },
-    "registrations_count": 8,
+    "registrations_count": 9,
     "featured": false,
     "organization_name": "University of Waterloo",
     "winners_announced": false,
@@ -150,10 +150,10 @@
     ],
     "prize_amount": "$<span data-currency-value>22,000</span>",
     "prizes_counts": {
-      "cash": 16,
-      "other": 3
+      "cash": 1,
+      "other": 0
     },
-    "registrations_count": 66,
+    "registrations_count": 76,
     "featured": false,
     "organization_name": "college.xyz",
     "winners_announced": false,
@@ -192,10 +192,10 @@
     ],
     "prize_amount": "$<span data-currency-value>0</span>",
     "prizes_counts": {
-      "cash": 0,
-      "other": 1
+      "cash": 1,
+      "other": 0
     },
-    "registrations_count": 14,
+    "registrations_count": 15,
     "featured": false,
     "organization_name": "Hackers Unity",
     "winners_announced": false,

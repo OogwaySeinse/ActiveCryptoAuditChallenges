@@ -1,20 +1,74 @@
 [
   {
-    "name": "ETHGlobal Mumbai",
-    "slug": "mumbai",
+    "name": "ETHGlobal Lisbon 2027",
+    "slug": "lisbon2027",
     "medium": "physical",
-    "startTime": "2026-11-05T00:00:00.000Z",
-    "endTime": "2026-11-07T00:00:00.000Z",
+    "startTime": "2027-10-13T10:24:00.000Z",
+    "endTime": "2027-10-15T10:24:00.000Z",
     "status": "future",
     "tagline": null,
     "city": {
-      "id": 11199,
-      "name": "Mumbai",
+      "id": 17153,
+      "name": "Lisbon",
       "country": {
-        "id": 105,
-        "name": "India"
+        "id": 180,
+        "name": "Portugal"
       },
-      "countryCode": "IN"
+      "countryCode": "PT"
+    }
+  },
+  {
+    "name": "ETHGlobal Tokyo 2027",
+    "slug": "tokyo2027",
+    "medium": "physical",
+    "startTime": "2027-08-23T10:19:00.000Z",
+    "endTime": "2027-08-25T10:19:00.000Z",
+    "status": "future",
+    "tagline": null,
+    "city": {
+      "id": 12664,
+      "name": "Tokyo",
+      "country": {
+        "id": 114,
+        "name": "Japan"
+      },
+      "countryCode": "JP"
+    }
+  },
+  {
+    "name": "ETHGlobal New York 2027",
+    "slug": "newyork2027",
+    "medium": "physical",
+    "startTime": "2027-06-14T11:07:00.000Z",
+    "endTime": "2027-06-16T11:07:00.000Z",
+    "status": "future",
+    "tagline": null,
+    "city": {
+      "id": 22416,
+      "name": "New York City",
+      "country": {
+        "id": 239,
+        "name": "United States"
+      },
+      "countryCode": "US"
+    }
+  },
+  {
+    "name": "ETHGlobal Cannes 2027",
+    "slug": "cannes2027",
+    "medium": "physical",
+    "startTime": "2027-04-14T10:36:00.000Z",
+    "endTime": "2027-04-16T10:36:00.000Z",
+    "status": "future",
+    "tagline": null,
+    "city": {
+      "id": 7317,
+      "name": "Cannes",
+      "country": {
+        "id": 78,
+        "name": "France"
+      },
+      "countryCode": "FR"
     }
   }
 ]

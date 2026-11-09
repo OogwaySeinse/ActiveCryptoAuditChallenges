@@ -11,7 +11,7 @@
     "prize_raw": "Sponsor prize pool",
     "start_date": "2027-10-13T10:24:00Z",
     "end_date": "2027-10-15T10:24:00Z",
-    "days_remaining": 340,
+    "days_remaining": 339,
     "status": "upcoming",
     "challenge_type": "hackathon",
     "category": "Web3 Building (General)",
@@ -38,7 +38,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-08T12:24:04Z"
+    "scraped_at": "2026-11-09T14:38:45Z"
   },
   {
     "id": "90d12f3c79f62c",
@@ -52,7 +52,7 @@
     "prize_raw": "Sponsor prize pool",
     "start_date": "2027-08-23T10:19:00Z",
     "end_date": "2027-08-25T10:19:00Z",
-    "days_remaining": 289,
+    "days_remaining": 288,
     "status": "upcoming",
     "challenge_type": "hackathon",
     "category": "Web3 Building (General)",
@@ -79,7 +79,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-08T12:24:04Z"
+    "scraped_at": "2026-11-09T14:38:45Z"
   },
   {
     "id": "ce0a10c9ee020a",
@@ -93,7 +93,7 @@
     "prize_raw": "Sponsor prize pool",
     "start_date": "2027-06-14T11:07:00Z",
     "end_date": "2027-06-16T11:07:00Z",
-    "days_remaining": 219,
+    "days_remaining": 218,
     "status": "upcoming",
     "challenge_type": "hackathon",
     "category": "Web3 Building (General)",
@@ -120,7 +120,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-08T12:24:04Z"
+    "scraped_at": "2026-11-09T14:38:45Z"
   },
   {
     "id": "efd8684e6890ad",
@@ -134,7 +134,7 @@
     "prize_raw": "Sponsor prize pool",
     "start_date": "2027-04-14T10:36:00Z",
     "end_date": "2027-04-16T10:36:00Z",
-    "days_remaining": 158,
+    "days_remaining": 157,
     "status": "upcoming",
     "challenge_type": "hackathon",
     "category": "Web3 Building (General)",
@@ -161,6 +161,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-08T12:24:04Z"
+    "scraped_at": "2026-11-09T14:38:45Z"
   }
 ]

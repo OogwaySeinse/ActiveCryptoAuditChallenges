@@ -4187,34 +4187,6 @@
       "pausedAt": null
     },
     {
-      "slug": "KAST",
-      "project": "KAST",
-      "maxBounty": 50000,
-      "launchDate": "2026-04-20T04:48:00.000Z",
-      "kyc": true,
-      "tags": {
-        "language": [],
-        "ecosystem": [],
-        "productType": [],
-        "programType": [
-          "Smart Contract"
-        ],
-        "projectType": [],
-        "general": [
-          "Triaged by Immunefi",
-          "Safe Harbor",
-          "Immunefi Standard",
-          "KYC Required",
-          "PoC Required"
-        ],
-        "featured": [
-          "Launched Recently"
-        ]
-      },
-      "url": "/bug-bounty/KAST/information/",
-      "pausedAt": null
-    },
-    {
       "slug": "kleidi",
       "project": "Kleidi",
       "maxBounty": 50000,

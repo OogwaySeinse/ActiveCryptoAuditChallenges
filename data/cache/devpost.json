@@ -1,47 +1,5 @@
 [
   {
-    "id": 31664,
-    "title": "Herhack",
-    "displayed_location": {
-      "icon": "globe",
-      "location": "Online"
-    },
-    "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/553/888/datas/medium_square.png",
-    "analytics_identifier": "Herhack (31664)",
-    "url": "https://herhack.devpost.com/",
-    "time_left_to_submission": "about 15 hours left",
-    "submission_period_dates": "Oct 17 - Nov 10, 2026",
-    "themes": [
-      {
-        "id": 23,
-        "name": "Beginner Friendly"
-      },
-      {
-        "id": 1,
-        "name": "Blockchain"
-      },
-      {
-        "id": 22,
-        "name": "Open Ended"
-      }
-    ],
-    "prize_amount": "₹ <span data-currency-value>200,000</span>",
-    "prizes_counts": {
-      "cash": 13,
-      "other": 0
-    },
-    "registrations_count": 282,
-    "featured": false,
-    "organization_name": "Echelon institute of technology",
-    "winners_announced": false,
-    "submission_gallery_url": "https://herhack.devpost.com/project-gallery",
-    "start_a_submission_url": "https://herhack.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
     "id": 26475,
     "title": "Dakar Bitcoin Hack by BTrust",
     "displayed_location": {
@@ -52,7 +10,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
     "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
     "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "time_left_to_submission": "10 days left",
+    "time_left_to_submission": "9 days left",
     "submission_period_dates": "Oct 26 - Nov 20, 2026",
     "themes": [
       {
@@ -73,7 +31,7 @@
       "cash": 3,
       "other": 0
     },
-    "registrations_count": 216,
+    "registrations_count": 229,
     "featured": false,
     "organization_name": "Dakar Bitcoin Days",
     "winners_announced": false,
@@ -94,7 +52,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/795/760/datas/medium_square.png",
     "analytics_identifier": "Blockchain Innovation Challenge powered by Stellar (31890)",
     "url": "https://blockchain-stellar-ic.devpost.com/",
-    "time_left_to_submission": "3 days left",
+    "time_left_to_submission": "2 days left",
     "submission_period_dates": "Nov 06 - 13, 2026",
     "themes": [
       {
@@ -111,7 +69,7 @@
       "cash": 1,
       "other": 0
     },
-    "registrations_count": 22,
+    "registrations_count": 25,
     "featured": false,
     "organization_name": "University of Waterloo",
     "winners_announced": false,
@@ -153,7 +111,7 @@
       "cash": 16,
       "other": 3
     },
-    "registrations_count": 121,
+    "registrations_count": 160,
     "featured": false,
     "organization_name": "college.xyz",
     "winners_announced": false,
@@ -192,10 +150,10 @@
     ],
     "prize_amount": "$<span data-currency-value>0</span>",
     "prizes_counts": {
-      "cash": 1,
-      "other": 0
+      "cash": 0,
+      "other": 1
     },
-    "registrations_count": 15,
+    "registrations_count": 16,
     "featured": false,
     "organization_name": "Hackers Unity",
     "winners_announced": false,

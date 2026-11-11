@@ -1345,6 +1345,42 @@
       "pausedAt": null
     },
     {
+      "slug": "metric",
+      "project": "Metric",
+      "maxBounty": 500000,
+      "launchDate": "2026-11-10T13:10:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity"
+        ],
+        "ecosystem": [
+          "ETH",
+          "BSC"
+        ],
+        "productType": [
+          "DEX"
+        ],
+        "programType": [
+          "Smart Contract"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "KYC Not Required",
+          "Paid Submissions",
+          "PoC Required",
+          "Primacy of Impact"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/metric/information/",
+      "pausedAt": null
+    },
+    {
       "slug": "paxos-labs",
       "project": "Paxos Labs",
       "maxBounty": 500000,
@@ -3509,8 +3545,7 @@
           "PoC Required"
         ],
         "featured": [
-          "Launched Recently",
-          "Paid Recently"
+          "Launched Recently"
         ]
       },
       "url": "/bug-bounty/berachain/information/",
@@ -5222,8 +5257,7 @@
           "PoC Required"
         ],
         "featured": [
-          "Launched Recently",
-          "Paid Recently"
+          "Launched Recently"
         ]
       },
       "url": "/bug-bounty/hibachi/information/",

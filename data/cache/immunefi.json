@@ -749,35 +749,6 @@
       "pausedAt": "2026-11-02T05:58:12.932Z"
     },
     {
-      "slug": "veda",
-      "project": "Veda",
-      "maxBounty": 1000000,
-      "launchDate": "2026-01-21T15:00:08.000Z",
-      "kyc": true,
-      "tags": {
-        "language": [],
-        "ecosystem": [],
-        "productType": [],
-        "programType": [
-          "Smart Contract"
-        ],
-        "projectType": [],
-        "general": [
-          "Triaged by Immunefi",
-          "Safe Harbor",
-          "Immunefi Standard",
-          "KYC Required",
-          "PoC Required"
-        ],
-        "featured": [
-          "Launched Recently",
-          "Paid Recently"
-        ]
-      },
-      "url": "/bug-bounty/veda/information/",
-      "pausedAt": null
-    },
-    {
       "slug": "capyfi",
       "project": "CapyFi",
       "maxBounty": 1000000,

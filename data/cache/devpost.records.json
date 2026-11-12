@@ -11,7 +11,7 @@
     "prize_raw": "$<span data-currency-value>900</span>",
     "start_date": "2026-10-26T00:00:00Z",
     "end_date": "2026-11-20T23:59:00Z",
-    "days_remaining": 9,
+    "days_remaining": 8,
     "status": "active",
     "challenge_type": "hackathon",
     "category": "AI & Agents",
@@ -29,7 +29,7 @@
     "organizer": "Dakar Bitcoin Days",
     "difficulty": "Intermediate",
     "kyc_required": null,
-    "participants_count": 229,
+    "participants_count": 239,
     "findings_count": null,
     "repo_url": null,
     "logo_url": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
@@ -37,7 +37,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-11T13:09:03Z"
+    "scraped_at": "2026-11-12T14:11:50Z"
   },
   {
     "id": "30ace7dd989ce6",
@@ -51,7 +51,7 @@
     "prize_raw": "$<span data-currency-value>0</span>",
     "start_date": "2026-11-16T00:00:00Z",
     "end_date": "2026-11-17T23:59:00Z",
-    "days_remaining": 6,
+    "days_remaining": 5,
     "status": "upcoming",
     "challenge_type": "hackathon",
     "category": "Web3 Building (General)",
@@ -69,7 +69,7 @@
     "organizer": "Hackers Unity",
     "difficulty": "Intermediate",
     "kyc_required": null,
-    "participants_count": 16,
+    "participants_count": 17,
     "findings_count": null,
     "repo_url": null,
     "logo_url": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/719/270/datas/medium_square.png",
@@ -77,6 +77,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-11T13:09:03Z"
+    "scraped_at": "2026-11-12T14:11:50Z"
   }
 ]

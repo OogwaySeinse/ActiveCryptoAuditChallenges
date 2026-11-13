@@ -92,8 +92,8 @@
           "Lending"
         ],
         "programType": [
-          "Smart Contract",
-          "Websites and Applications"
+          "Websites and Applications",
+          "Smart Contract"
         ],
         "projectType": [
           "Defi"
@@ -491,6 +491,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -964,6 +965,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required",
           "Primacy of Impact"
         ],
@@ -1009,7 +1011,7 @@
         ]
       },
       "url": "/bug-bounty/ondofinance/information/",
-      "pausedAt": null
+      "pausedAt": "2026-11-13T06:14:23.093Z"
     },
     {
       "slug": "listadao",
@@ -1199,6 +1201,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -1305,6 +1308,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -1642,7 +1646,8 @@
           "PoC Required"
         ],
         "featured": [
-          "Launched Recently"
+          "Launched Recently",
+          "Paid Recently"
         ]
       },
       "url": "/bug-bounty/aera/information/",
@@ -1710,6 +1715,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -1804,6 +1810,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -2584,6 +2591,7 @@
           "Triaged by Immunefi",
           "Safe Harbor",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required",
           "Primacy of Impact"
         ],
@@ -2824,6 +2832,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -3308,6 +3317,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -3513,6 +3523,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -3683,6 +3694,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required",
           "Primacy of Impact"
         ],
@@ -3853,6 +3865,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -3934,6 +3947,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -4107,6 +4121,7 @@
         ],
         "general": [
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -4808,6 +4823,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -5576,6 +5592,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required",
           "Primacy of Impact"
         ],
@@ -5799,6 +5816,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [

@@ -10,7 +10,7 @@
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
     "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
     "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "time_left_to_submission": "8 days left",
+    "time_left_to_submission": "7 days left",
     "submission_period_dates": "Oct 26 - Nov 20, 2026",
     "themes": [
       {
@@ -31,7 +31,7 @@
       "cash": 3,
       "other": 0
     },
-    "registrations_count": 239,
+    "registrations_count": 249,
     "featured": false,
     "organization_name": "Dakar Bitcoin Days",
     "winners_announced": false,
@@ -39,44 +39,6 @@
     "start_a_submission_url": "https://dakar-bitcoin-hack-2026.devpost.com/challenges/start_a_submission",
     "invite_only": false,
     "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
-    "id": 31890,
-    "title": "Blockchain Innovation Challenge powered by Stellar",
-    "displayed_location": {
-      "icon": "map-marker-alt",
-      "location": "Velocity, Innovation Arena"
-    },
-    "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/795/760/datas/medium_square.png",
-    "analytics_identifier": "Blockchain Innovation Challenge powered by Stellar (31890)",
-    "url": "https://blockchain-stellar-ic.devpost.com/",
-    "time_left_to_submission": "1 day left",
-    "submission_period_dates": "Nov 06 - 13, 2026",
-    "themes": [
-      {
-        "id": 1,
-        "name": "Blockchain"
-      },
-      {
-        "id": 3,
-        "name": "Fintech"
-      }
-    ],
-    "prize_amount": "$CAD <span data-currency-value>15,000</span>",
-    "prizes_counts": {
-      "cash": 1,
-      "other": 0
-    },
-    "registrations_count": 40,
-    "featured": false,
-    "organization_name": "University of Waterloo",
-    "winners_announced": false,
-    "submission_gallery_url": "https://blockchain-stellar-ic.devpost.com/project-gallery",
-    "start_a_submission_url": "https://blockchain-stellar-ic.devpost.com/challenges/start_a_submission",
-    "invite_only": true,
-    "eligibility_requirement_invite_only_description": "University of Waterloo students",
     "managed_by_devpost_badge": false
   },
   {
@@ -111,7 +73,7 @@
       "cash": 16,
       "other": 3
     },
-    "registrations_count": 184,
+    "registrations_count": 252,
     "featured": false,
     "organization_name": "college.xyz",
     "winners_announced": false,
@@ -150,10 +112,10 @@
     ],
     "prize_amount": "$<span data-currency-value>0</span>",
     "prizes_counts": {
-      "cash": 1,
-      "other": 0
+      "cash": 0,
+      "other": 1
     },
-    "registrations_count": 17,
+    "registrations_count": 20,
     "featured": false,
     "organization_name": "Hackers Unity",
     "winners_announced": false,

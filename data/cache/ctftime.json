@@ -2,106 +2,6 @@
   {
     "organizers": [
       {
-        "id": 83678,
-        "name": "Black Bauhinia"
-      },
-      {
-        "id": 134746,
-        "name": "HKCERT"
-      }
-    ],
-    "ctftime_url": "https://ctftime.org/event/3418/",
-    "ctf_id": 529,
-    "weight": 10.31,
-    "duration": {
-      "hours": 0,
-      "days": 1
-    },
-    "live_feed": "",
-    "logo": "https://ctftime.org//media/events/CTF_2026_1.png",
-    "id": 3418,
-    "title": "HKCERT CTF 2026 (Qualifying Round)",
-    "start": "2026-11-06T10:00:00+00:00",
-    "participants": 142,
-    "location": "",
-    "finish": "2026-11-07T10:00:00+00:00",
-    "description": "HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong\r\nKong, featuring four categories: Secondary School, Tertiary, Open, and International.\r\n\r\nThis year there will be an online Jeopardy CTF (qualifying round) and a physical CTF with offensive and defensive challenges (Final round).\r\n\r\nPlease register at below HKCERT CTF website (Must register via the website)\r\nhttps://ctf.hkcert.org\r\n(Registration deadline:  4 Nov 2026 HKT 1200)\r\n\r\nDiscord: https://discord.gg/2enm5Maedt",
-    "format": "Jeopardy",
-    "is_votable_now": true,
-    "prizes": "There are 2 rounds of the competition -> qualifying round and final round.\r\n\r\nThe top 5 teams of international category of the qualifying round will advance to the onsite final round at Hong Kong.\r\n\r\nThe prize for the winners in the final round are as below\r\n\r\nGold: HKD 16,000 ( Per Team )\r\nSilver: HKD 13,000 ( Per Team )\r\nBronze: HKD 11,000 ( Per Team )\r\n\r\nPlease register at below HKCERT CTF website\r\nhttps://ctf.hkcert.org\r\n(Registration deadline: 4 Nov 2026 HKT 1200, No late for the registration)\r\n",
-    "format_id": 1,
-    "onsite": false,
-    "restrictions": "Open",
-    "url": "https://ctf.hkcert.org/",
-    "public_votable": true
-  },
-  {
-    "organizers": [
-      {
-        "id": 438626,
-        "name": "PINK+"
-      }
-    ],
-    "ctftime_url": "https://ctftime.org/event/3331/",
-    "ctf_id": 1624,
-    "weight": 0,
-    "duration": {
-      "hours": 0,
-      "days": 3
-    },
-    "live_feed": "",
-    "logo": "",
-    "id": 3331,
-    "title": "PINK+ CTF 2026",
-    "start": "2026-11-06T12:00:00+00:00",
-    "participants": 94,
-    "location": "",
-    "finish": "2026-11-09T12:00:00+00:00",
-    "description": "The first iteration of PINK+ CTF. Explore a variety of hand crafted challenges with a focus on steganography!\r\n\r\nDiscord: https://discord.gg/VuPqnhFxH4",
-    "format": "Jeopardy",
-    "is_votable_now": true,
-    "prizes": "1st Place: 25$ + 6 Month Caido License per Member (Worth ~$545) + 4 .xyz Domains\r\n2nd Place: 15$ + 3 Month Caido License per Member (Worth ~$272) + 2 .xyz Domains\r\n3nd Place: 10$ + 2 Month Caido License per Member (Worth ~$181) + 2 .xyz Domains\r\n4th Place: 1 .xyz Domain\r\n5th Place: 1 .xyz Domain",
-    "format_id": 1,
-    "onsite": false,
-    "restrictions": "Open",
-    "url": "https://ctf.pink.bayern/",
-    "public_votable": true
-  },
-  {
-    "organizers": [
-      {
-        "id": 395297,
-        "name": "Mirachron"
-      }
-    ],
-    "ctftime_url": "https://ctftime.org/event/3333/",
-    "ctf_id": 1373,
-    "weight": 0,
-    "duration": {
-      "hours": 0,
-      "days": 2
-    },
-    "live_feed": "https://ctftime.org/live/3333/",
-    "logo": "",
-    "id": 3333,
-    "title": "CSCTF 2026",
-    "start": "2026-11-06T13:00:00+00:00",
-    "participants": 122,
-    "location": "",
-    "finish": "2026-11-08T13:00:00+00:00",
-    "description": "CSCTF 2026: Total Warfare is a free, international, 48-hour online Jeopardy-style CTF.\r\n\r\nThis is the second edition of CSCTF. Last year's competition brought together 600+ players from more than 10 countries.\r\n\r\nThe event is built around realistic cybersecurity scenarios inspired by critical infrastructure, defence and modern adversary tactics. \r\nExpect 40+ challenges across web, pwn, crypto, reverse engineering, forensics, misc, Linux, Windows and operational security, with scenarios involving energy, telecom, finance, healthcare and defence.\r\n\r\nThe competition is welcoming to newer players while still rewarding strong methodology and technical depth. \r\nPlayers compete in Junior, Senior and Fighters divisions. Squads can have one to five players, and solo players are fully eligible for prizes.\r\n\r\nChallenges open in two waves:\r\nWave 1: 6 November, 15:00 EET\r\nWave 2: 7 November, 15:00 EET\r\n\r\nPrize and infrastructure support comes from Hack The Box, Covert Security, ThunderCipher, TryHackMe, Canonical, Yubico, Altered Security, CyberDefenders and Visma.\r\n\r\nRegistration and full details: https://2026.chronos-security.ro/\r\nPrizes: https://2026.chronos-security.ro/prizes\r\nRules: https://2026.chronos-security.ro/rules\r\nDiscord: https://discord.chronos-security.ro/\r\n",
-    "format": "Jeopardy",
-    "is_votable_now": true,
-    "prizes": "Three months of PIECE Elite for every verified participant with a positive score, plus certifications, training access, YubiKeys, Ubuntu exam vouchers and prize packs. \r\n\r\nFull prize map: https://2026.chronos-security.ro/prizes\r\n",
-    "format_id": 1,
-    "onsite": false,
-    "restrictions": "Open",
-    "url": "https://2026.chronos-security.ro/",
-    "public_votable": true
-  },
-  {
-    "organizers": [
-      {
         "id": 214936,
         "name": "NICC"
       }
@@ -246,12 +146,12 @@
     "id": 3410,
     "title": "CSAW CTF Final Round 2026",
     "start": "2026-11-12T17:00:00+00:00",
-    "participants": 69,
+    "participants": 73,
     "location": "",
     "finish": "2026-11-14T05:00:00+00:00",
     "description": "CSAW CTF is one of the oldest and biggest CTFs. Designed as an entry-level, jeopardy-style CTF, this competition is for students who are trying to break into the field of security, as well as for advanced students and industry professionals who want to practice their skills.",
     "format": "Jeopardy",
-    "is_votable_now": false,
+    "is_votable_now": true,
     "prizes": "",
     "format_id": 1,
     "onsite": false,
@@ -278,7 +178,7 @@
     "id": 3486,
     "title": "TVX CTF 2026",
     "start": "2026-11-13T10:00:00+00:00",
-    "participants": 72,
+    "participants": 96,
     "location": "",
     "finish": "2026-11-13T20:00:00+00:00",
     "description": "TVX CTF is a cybersecurity Capture The Flag competition organized by Tech Visions.\r\n\r\nChallenge categories include:\r\n\r\n• DFIR (Digital Forensics & Incident Response)\r\n• Cloud Security\r\n• Malware Analysis\r\n• Reverse Engineering\r\n• Pwn (Binary Exploitation)\r\n• Web Exploitation\r\n• Cryptography\r\n• OSINT (Open-Source Intelligence)\r\n\r\nTest your skills, solve real-world-inspired cybersecurity challenges, and compete with other security enthusiasts in a hands-on environment.\r\n\r\nOrganized by Tech Visions.",
@@ -310,7 +210,7 @@
     "id": 3082,
     "title": "Platypwn 2026",
     "start": "2026-11-13T17:00:00+00:00",
-    "participants": 131,
+    "participants": 160,
     "location": "",
     "finish": "2026-11-14T11:00:00+00:00",
     "description": "The Platypwn 2026 is an online Jeopardy CTF which offers easy challenges for beginners, but also medium and difficult challenges for advanced players.\r\n\r\nSee https://platypwnies.de/events/platypwn for further details.",
@@ -320,7 +220,7 @@
     "format_id": 1,
     "onsite": false,
     "restrictions": "Open",
-    "url": "https://platypwnies.de/events/platypwn/",
+    "url": "https://platypwn.ctf.platypwnies.de/",
     "public_votable": true
   },
   {
@@ -342,7 +242,7 @@
     "id": 3049,
     "title": "WolvCTF 2026",
     "start": "2026-11-13T23:00:00+00:00",
-    "participants": 160,
+    "participants": 172,
     "location": "",
     "finish": "2026-11-15T23:00:00+00:00",
     "description": "This event will be postponed to Fri, 20 Nov. 2026, 18:00 EST — Sun, 22 Nov. 2026, 18:00 EST\r\n\r\nOur challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). \r\n\r\nThere are two divisions, Open and University of Michigan students. No team limit sizes.\r\n\r\nThank you to our sponsors!\r\nBinary Ninja: https://binary.ninja/",
@@ -374,7 +274,7 @@
     "id": 3464,
     "title": "h4ckc0n 2026",
     "start": "2026-11-14T15:30:00+00:00",
-    "participants": 74,
+    "participants": 92,
     "location": "",
     "finish": "2026-11-15T15:30:00+00:00",
     "description": "h4ckc0n is a 24-hour international Jeopardy-style Capture The Flag competition.\r\n\r\nEVENT URL UP! REGISTER NOW!\r\n\r\nCategories: Reverse Engineering, Web-exploitation, Forensics, AI/ML, Web3, OSINT, PWN, Cryptography, Miscellaneous\r\n\r\nThe competition is designed to accommodate teams of varying skill levels, with a diverse challenge set covering multiple areas of cybersecurity.\r\n\r\nDuration: 24 hours\r\nFormat: Jeopardy-style CTF\r\nMode: Online\r\nTeam-based: Yes\r\n\r\nJoin the discord server: https://discord.gg/kw8J5r2ZWh\r\n\r\n",
@@ -406,7 +306,7 @@
     "id": 3467,
     "title": "InIt CTF",
     "start": "2026-11-14T15:30:00+00:00",
-    "participants": 30,
+    "participants": 35,
     "location": "",
     "finish": "2026-11-14T23:30:00+00:00",
     "description": "InIt CTF is HII's (Hackers in India) beginner-focused Capture The Flag event, free and open to participants across India and internationally. 8 hours, Jeopardy-style, solo or teams of up to 4, across Web, Crypto, Forensics, OSINT, and Misc — mostly easy/medium with a couple of harder challenges for experienced players. This edition is sponsored by .xyz, who are providing free domain codes for participants, with additional sponsors being confirmed. Register at\r\n\r\nhackersinindia.com/init-ctf.",
@@ -438,7 +338,7 @@
     "id": 3419,
     "title": "EyesOpenCTF 7th edition",
     "start": "2026-11-20T10:00:00+00:00",
-    "participants": 25,
+    "participants": 27,
     "location": "",
     "finish": "2026-11-22T10:00:00+00:00",
     "description": "EyesOpenCTF 2026 is a FREE CTF competition organized as part of the 7th edition of EOCON.\r\n\r\nThis year, the competition goes far beyond a traditional CTF.\r\nYou are not simply joining to solve isolated challenges. You are entering The Convergence, a live 48-hour cyber adventure in which reality itself is beginning to fracture.\r\nAcross more than 40 challenges and 8 disciplines, teams will investigate corrupted systems, recover hidden Reality Fragments, unlock classified dossiers, expose compromised actors, and gradually reconstruct the truth behind a phenomenon threatening the entire world.\r\n\r\nEvery flag matters.\r\nEach solved challenge can reveal new intelligence, unlock characters and locations, alter the mission briefing, and move the story forward in real time. The competition platform becomes a living investigation that evolves with the progress of the Operators.\r\n\r\nExpect  : \r\n- web exploitation, \r\n- digital forensics, \r\n- reverse engineering, \r\n- binary exploitation, \r\n- cryptography, \r\n- OSINT, \r\n- AI security, and more—woven into a single coherent mission unlike any previous EyesOpenCTF.\r\n\r\nBuilt for teams from around the world and open to different experience levels, EyesOpenCTF is both a proving ground and an immersive narrative experience where competitors can learn, compete, get noticed, and join a fast-growing international cybersecurity community.\r\n\r\nAs part of EOCON, the competition also connects participants with experts, researchers, recruiters, entrepreneurs, and emerging talent from Africa and beyond. It is a place where technical ability meets storytelling, where discoveries change the mission, and where tomorrow’s collaborations, careers, and opportunities begin.\r\n\r\nForm your team. Enter the Protocol. Recover the Fragments.\r\n\r\nRegister: https://eyesopensecurity.com/ctf-briefing.html\r\n\r\nDirect Form: https://eyesopensecurity.com/?modal=ctf\r\n\r\nSPONSORS :\r\n- CyberDefenders (https://cyberdefenders.org)\r\n- JetBrains (https://jetbrains.com)\r\n- Netticket (https://netticket.net)\r\n- ExamBoot (https://examboot.net)",
@@ -470,7 +370,7 @@
     "id": 3337,
     "title": "GlacierCTF 2026",
     "start": "2026-11-20T18:00:00+00:00",
-    "participants": 83,
+    "participants": 86,
     "location": "",
     "finish": "2026-11-21T18:00:00+00:00",
     "description": "We're excited to announce GlacierCTF 2026 for its fifth edition, a 24-hour jeopardy CTF organized by LosFuzzys.\r\n\r\nJoin our discord at:\r\nhttps://discord.gg/DFYnRAME23\r\n\r\n- Hex-Rays (hex-rays.com)\r\n- ISEC @ Graz University of Technology (isec.tugraz.at)\r\n\r\nInfra sponsored by goo.gle/ctfsponsorship",
@@ -502,7 +402,7 @@
     "id": 3425,
     "title": "Outback Overflow",
     "start": "2026-11-20T23:00:00+00:00",
-    "participants": 11,
+    "participants": 12,
     "location": "",
     "finish": "2026-11-21T23:00:00+00:00",
     "description": "Outback Overflow is a free online jeopardy-style CTF built for high schoolers across Australia. Run by the High School Cybersecurity Community, it's designed to be a stepping stone for students getting into cyber security, whether you've never touched a terminal or you're already popping shells.\r\n\r\nOur goal is simple: grow the number of young people in cyber security and give Australian high schoolers a CTF they can call their own.\r\n\r\nGold Sponsors: \r\n* Tanto Security (https://tantosec.com)\r\n* Try Hack Me (https://tryhackme.com)\r\n\r\nSilver Sponsors\r\n* gen.xyz (https://gen.xyz)\r\n* UTS CSEC (https://utscyber.org)\r\n* Skillbit (https://skillbit.com)\r\n* Active IT prep (https://activeitprep.com)\r\n\r\nHosting Partners:\r\n* Binary Lane (https://www.binarylane.com.au)\r\n\r\nUniversity Supports:\r\n* UNSW Security Society (https://unswsecurity.com)\r\n\r\n(if you would like to sponsor please reach out to outreach@hscyber.org or join our discord!)\r\n\r\nJoin our discord to talk to other players!\r\nhttps://discord.gg/xWPndqMCfA\r\n\r\nEvent Site:\r\nhttps://oo26.hscyber.org/",
@@ -630,7 +530,7 @@
     "id": 3474,
     "title": "LakeCTF Quals 26-27",
     "start": "2026-11-27T18:00:00+00:00",
-    "participants": 37,
+    "participants": 40,
     "location": "",
     "finish": "2026-11-28T18:00:00+00:00",
     "description": "Qualifications for fifth edition of LakeCTF\r\n\r\nold discord server here for discussion: https://discord.gg/8FHmzT5aGM \r\n\r\nnew discord server in your invite email",
@@ -662,7 +562,7 @@
     "id": 3485,
     "title": "L3m0n CTF 2026 (Quals)",
     "start": "2026-11-28T04:30:00+00:00",
-    "participants": 26,
+    "participants": 28,
     "location": "",
     "finish": "2026-11-28T16:30:00+00:00",
     "description": "L3m0n CTF is the annual flagship capture-the-flag competition of Amrita Vishwa Vidyapeetham, Coimbatore, hosted by TIFAC-CORE in Cyber Security. This is a team-based event: teams of 1 to 4 players. The online prelims is Jeopardy-style and run for 12 hours (10:00 to 22:00 IST, 04:30 to 16:30 UTC, on 28 November 2026). The top teams are invited to on-campus finals in Coimbatore. Challenges span web, pwn, reverse engineering, cryptography, forensics, OSINT and miscellaneous, with extra tracks in AI and LLM security, Web3 and hardware, IoT and RF. This edition is a broadcast themed on the cartoons we grew up with. Open to all, with a beginner category that teaches the basics. Registration opens soon on l3m0nctf.xyz.",
@@ -706,5 +606,37 @@
     "restrictions": "Academic",
     "url": "https://quals.sslctf.ru/",
     "public_votable": false
+  },
+  {
+    "organizers": [
+      {
+        "id": 54707,
+        "name": "SAFCSP"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3386/",
+    "ctf_id": 826,
+    "weight": 0.0,
+    "duration": {
+      "hours": 0,
+      "days": 2
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/9f419586e0dedbff0130e6f487ddc54c_1.png",
+    "id": 3386,
+    "title": "BlackHat MEA CTF Final 2026",
+    "start": "2026-12-01T15:14:59+00:00",
+    "participants": 0,
+    "location": "Riyadh, Saudi Arabia",
+    "finish": "2026-12-03T15:14:59+00:00",
+    "description": "Black Hat MEA Capture The Flag (CTF) 2026 ?\r\n\r\nThe Black Hat MEA Capture The Flag (CTF) is the largest cybersecurity competition in the region and officially the largest Capture The Flag competition in the world, recognized with a Guinness World Record. Organized by the Saudi Federation for Cybersecurity, Programming and Drones (SAFCSP) in collaboration with Black Hat MEA, the competition brings together thousands of cybersecurity professionals, researchers, students, and enthusiasts from around the globe.\r\n\r\nPowered by the FlagYard platform, the competition follows a Jeopardy-style format, where teams of 3–5 players compete across a range of cybersecurity challenges, including Web Exploitation, PWN, Digital Forensics, Reverse Engineering, Cryptography, and AI Hacking.\r\n\r\nCompetition Timeline\r\n\r\nRegistration: June 3 – August 29, 2026\r\n\r\nOnline Qualifiers: August 29, 2026 | 10:00 AM KSA (GMT+3) | Online\r\n\r\nThousands of participants will compete globally in teams of 3–5 members, with the top 150 teams qualifying for the final stage.\r\n\r\nOn-site Finals\r\n\r\nThe top 150 teams will be invited to Riyadh, Saudi Arabia for a 3-day final competition during Black Hat MEA, taking place from December 1–3, 2026.\r\n\r\nRegister Now:\r\nhttps://flagyard.com/events/3468f495-a92c-498b-90c2-994dfb99ea0b\r\n\r\nSupport: blackhatctf@safcsp.org.sa",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "Prize Pool\r\n\r\nTotal Prize Pool: SAR 790,000 (Approx. USD 210,000)\r\n\r\nOverall Winners\r\n\r\n1st Place: SAR 300,000 (Approx. USD 80,000)\r\n2nd Place: SAR 200,000 (Approx. USD 53,500)\r\n3rd Place: SAR 100,000 (Approx. USD 26,500)\r\n4th Place: SAR 60,000 (Approx. USD 16,000)\r\n5th Place: SAR 40,000 (Approx. USD 10,500)\r\n\r\nLocal Team Awards\r\n\r\n1st Local Team: SAR 40,000 (Approx. USD 10,500)\r\n2nd Local Team: SAR 30,000 (Approx. USD 8,000)\r\n3rd Local Team: SAR 20,000 (Approx. USD 5,300)",
+    "format_id": 1,
+    "onsite": true,
+    "restrictions": "Prequalified",
+    "url": "https://blackhatmea.com/capture-the-flag",
+    "public_votable": true
   }
 ]

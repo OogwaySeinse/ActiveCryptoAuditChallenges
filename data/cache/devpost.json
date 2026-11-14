@@ -1,58 +1,16 @@
 [
   {
-    "id": 26475,
-    "title": "Dakar Bitcoin Hack by BTrust",
-    "displayed_location": {
-      "icon": "globe",
-      "location": "Online"
-    },
-    "open_state": "open",
-    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
-    "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
-    "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "time_left_to_submission": "7 days left",
-    "submission_period_dates": "Oct 26 - Nov 20, 2026",
-    "themes": [
-      {
-        "id": 1,
-        "name": "Blockchain"
-      },
-      {
-        "id": 3,
-        "name": "Fintech"
-      },
-      {
-        "id": 6,
-        "name": "Machine Learning/AI"
-      }
-    ],
-    "prize_amount": "$<span data-currency-value>900</span>",
-    "prizes_counts": {
-      "cash": 3,
-      "other": 0
-    },
-    "registrations_count": 249,
-    "featured": false,
-    "organization_name": "Dakar Bitcoin Days",
-    "winners_announced": false,
-    "submission_gallery_url": "https://dakar-bitcoin-hack-2026.devpost.com/project-gallery",
-    "start_a_submission_url": "https://dakar-bitcoin-hack-2026.devpost.com/challenges/start_a_submission",
-    "invite_only": false,
-    "eligibility_requirement_invite_only_description": null,
-    "managed_by_devpost_badge": false
-  },
-  {
     "id": 31746,
     "title": "University Blockchain Conference Hackathon 2026",
     "displayed_location": {
       "icon": "map-marker-alt",
       "location": "University of Texas at Austin"
     },
-    "open_state": "upcoming",
+    "open_state": "open",
     "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/585/747/datas/medium_square.png",
     "analytics_identifier": "University Blockchain Conference Hackathon 2026 (31746)",
     "url": "https://ubc-hackathon-2026.devpost.com/",
-    "time_left_to_submission": "Upcoming",
+    "time_left_to_submission": "6 days left",
     "submission_period_dates": "Nov 13 - 20, 2026",
     "themes": [
       {
@@ -73,7 +31,7 @@
       "cash": 16,
       "other": 3
     },
-    "registrations_count": 252,
+    "registrations_count": 289,
     "featured": false,
     "organization_name": "college.xyz",
     "winners_announced": false,
@@ -81,6 +39,48 @@
     "start_a_submission_url": "https://ubc-hackathon-2026.devpost.com/challenges/start_a_submission",
     "invite_only": true,
     "eligibility_requirement_invite_only_description": "Only UBC particpants can attend this hackathon",
+    "managed_by_devpost_badge": false
+  },
+  {
+    "id": 26475,
+    "title": "Dakar Bitcoin Hack by BTrust",
+    "displayed_location": {
+      "icon": "globe",
+      "location": "Online"
+    },
+    "open_state": "open",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/640/846/datas/medium_square.jpg",
+    "analytics_identifier": "Dakar Bitcoin Hack by BTrust (26475)",
+    "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
+    "time_left_to_submission": "6 days left",
+    "submission_period_dates": "Oct 26 - Nov 20, 2026",
+    "themes": [
+      {
+        "id": 1,
+        "name": "Blockchain"
+      },
+      {
+        "id": 3,
+        "name": "Fintech"
+      },
+      {
+        "id": 6,
+        "name": "Machine Learning/AI"
+      }
+    ],
+    "prize_amount": "$<span data-currency-value>900</span>",
+    "prizes_counts": {
+      "cash": 3,
+      "other": 0
+    },
+    "registrations_count": 257,
+    "featured": false,
+    "organization_name": "Dakar Bitcoin Days",
+    "winners_announced": false,
+    "submission_gallery_url": "https://dakar-bitcoin-hack-2026.devpost.com/project-gallery",
+    "start_a_submission_url": "https://dakar-bitcoin-hack-2026.devpost.com/challenges/start_a_submission",
+    "invite_only": false,
+    "eligibility_requirement_invite_only_description": null,
     "managed_by_devpost_badge": false
   },
   {

@@ -977,43 +977,6 @@
       "pausedAt": null
     },
     {
-      "slug": "ondofinance",
-      "project": "Ondo Finance",
-      "maxBounty": 1000000,
-      "launchDate": "2023-03-07T21:00:00.000Z",
-      "kyc": true,
-      "tags": {
-        "language": [
-          "Solidity",
-          "Rust"
-        ],
-        "ecosystem": [
-          "ETH",
-          "Solana"
-        ],
-        "productType": [
-          "Yield Aggregator"
-        ],
-        "programType": [
-          "Smart Contract"
-        ],
-        "projectType": [
-          "Defi"
-        ],
-        "general": [
-          "Immunefi Standard",
-          "KYC Required",
-          "Paid Submissions",
-          "PoC Required"
-        ],
-        "featured": [
-          "Launched Recently"
-        ]
-      },
-      "url": "/bug-bounty/ondofinance/information/",
-      "pausedAt": "2026-11-13T06:14:23.093Z"
-    },
-    {
       "slug": "listadao",
       "project": "Lista DAO",
       "maxBounty": 1000000,

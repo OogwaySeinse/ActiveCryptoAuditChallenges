@@ -3981,8 +3981,7 @@
           "Premium Program"
         ],
         "featured": [
-          "Launched Recently",
-          "Paid Recently"
+          "Launched Recently"
         ]
       },
       "url": "/bug-bounty/katana/information/",
@@ -5951,7 +5950,7 @@
       "rewardsPool": 80000,
       "launchDate": "2026-11-02T14:00:00.000Z",
       "endDate": "2026-11-16T08:30:00.000Z",
-      "auditCompetitionStatus": "LIVE",
+      "auditCompetitionStatus": "EVALUATING",
       "url": "/audit-competition/plether/information/"
     },
     {

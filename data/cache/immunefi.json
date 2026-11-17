@@ -1004,14 +1004,15 @@
           "Immunefi Standard",
           "KYC Required",
           "Paid Submissions",
-          "PoC Required"
+          "PoC Required",
+          "Premium Program"
         ],
         "featured": [
           "Launched Recently"
         ]
       },
       "url": "/bug-bounty/ondofinance/information/",
-      "pausedAt": "2026-11-15T10:38:31.145Z"
+      "pausedAt": null
     },
     {
       "slug": "listadao",
@@ -5244,7 +5245,8 @@
           "PoC Required"
         ],
         "featured": [
-          "Launched Recently"
+          "Launched Recently",
+          "Paid Recently"
         ]
       },
       "url": "/bug-bounty/hibachi/information/",

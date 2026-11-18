@@ -621,6 +621,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -1008,7 +1009,8 @@
           "Premium Program"
         ],
         "featured": [
-          "Launched Recently"
+          "Launched Recently",
+          "Paid Recently"
         ]
       },
       "url": "/bug-bounty/ondofinance/information/",
@@ -1929,6 +1931,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -4224,6 +4227,7 @@
         "projectType": [],
         "general": [
           "KYC Required",
+          "Paid Submissions",
           "PoC Required",
           "Primacy of Impact"
         ],
@@ -4961,44 +4965,6 @@
         ]
       },
       "url": "/bug-bounty/openzeppelin-stellar/information/",
-      "pausedAt": null
-    },
-    {
-      "slug": "exactly",
-      "project": "Exactly",
-      "maxBounty": 25000,
-      "launchDate": "2022-12-08T21:00:00.000Z",
-      "kyc": true,
-      "tags": {
-        "language": [
-          "Solidity"
-        ],
-        "ecosystem": [
-          "Optimism"
-        ],
-        "productType": [
-          "Lending"
-        ],
-        "programType": [
-          "Smart Contract"
-        ],
-        "projectType": [
-          "Defi"
-        ],
-        "general": [
-          "Immunefi Standard",
-          "KYC Required",
-          "Paid Submissions",
-          "PoC Required",
-          "Primacy of Impact",
-          "Premium Program"
-        ],
-        "featured": [
-          "Launched Recently",
-          "Paid Recently"
-        ]
-      },
-      "url": "/bug-bounty/exactly/information/",
       "pausedAt": null
     },
     {

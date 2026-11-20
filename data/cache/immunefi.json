@@ -1675,7 +1675,7 @@
         "programType": [
           "Smart Contract"
         ],
-        "projectType": null,
+        "projectType": [],
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
@@ -3576,7 +3576,7 @@
         "language": [
           "Clarity"
         ],
-        "ecosystem": null,
+        "ecosystem": [],
         "productType": [
           "Stablecoin"
         ],
@@ -4042,8 +4042,8 @@
           "Yield Aggregator"
         ],
         "programType": [
-          "Smart Contract",
-          "Websites and Applications"
+          "Websites and Applications",
+          "Smart Contract"
         ],
         "projectType": [
           "Defi"
@@ -5911,6 +5911,15 @@
     }
   ],
   "competitions": [
+    {
+      "slug": "audit-comp-base-everest",
+      "project": "Audit Comp | Base Everest",
+      "rewardsPool": 250000,
+      "launchDate": "2026-11-19T17:00:00.000Z",
+      "endDate": "2026-12-01T12:00:00.000Z",
+      "auditCompetitionStatus": "LIVE",
+      "url": "/audit-competition/audit-comp-base-everest/information/"
+    },
     {
       "slug": "plether",
       "project": "Audit Competition | Plether",

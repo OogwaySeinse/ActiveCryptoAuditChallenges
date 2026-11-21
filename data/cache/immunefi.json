@@ -800,6 +800,7 @@
           "Triaged by Immunefi",
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required",
           "Primacy of Impact"
         ],
@@ -930,8 +931,8 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
-          "PoC Required",
-          "Primacy of Impact"
+          "Paid Submissions",
+          "PoC Required"
         ],
         "featured": [
           "Launched Recently",
@@ -1044,6 +1045,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -1352,7 +1354,8 @@
           "Premium Program"
         ],
         "featured": [
-          "Launched Recently"
+          "Launched Recently",
+          "Paid Recently"
         ]
       },
       "url": "/bug-bounty/metric/information/",
@@ -2925,6 +2928,7 @@
         ],
         "general": [
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -3778,6 +3782,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required",
           "Primacy of Impact"
         ],
@@ -4263,6 +4268,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required",
           "Primacy of Impact"
         ],
@@ -4341,6 +4347,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required",
           "Primacy of Impact"
         ],
@@ -4529,7 +4536,9 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
-          "PoC Required"
+          "Paid Submissions",
+          "PoC Required",
+          "Premium Program"
         ],
         "featured": [
           "Launched Recently",
@@ -5414,6 +5423,7 @@
           "Triaged by Immunefi",
           "Immunefi Standard",
           "KYC Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -5597,6 +5607,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -5684,6 +5695,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [
@@ -5900,6 +5912,7 @@
         "general": [
           "Immunefi Standard",
           "KYC Not Required",
+          "Paid Submissions",
           "PoC Required"
         ],
         "featured": [

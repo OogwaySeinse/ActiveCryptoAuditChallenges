@@ -70,5 +70,15 @@
       },
       "countryCode": "FR"
     }
+  },
+  {
+    "name": "Agentic Markets",
+    "slug": "agenticmarkets",
+    "medium": "virtual",
+    "startTime": "2026-12-03T05:00:00.000Z",
+    "endTime": "2026-12-10T05:00:00.000Z",
+    "status": "future",
+    "tagline": null,
+    "city": null
   }
 ]

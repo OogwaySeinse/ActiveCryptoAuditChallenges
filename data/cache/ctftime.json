@@ -2,70 +2,6 @@
   {
     "organizers": [
       {
-        "id": 15154,
-        "name": "d4rkc0de"
-      }
-    ],
-    "ctftime_url": "https://ctftime.org/event/3464/",
-    "ctf_id": 115,
-    "weight": 24.23,
-    "duration": {
-      "hours": 0,
-      "days": 1
-    },
-    "live_feed": "",
-    "logo": "https://ctftime.org//media/events/images_1.jpeg",
-    "id": 3464,
-    "title": "h4ckc0n 2026",
-    "start": "2026-11-14T15:30:00+00:00",
-    "participants": 130,
-    "location": "",
-    "finish": "2026-11-15T15:30:00+00:00",
-    "description": "h4ckc0n is a 24-hour international Jeopardy-style Capture The Flag competition.\r\n\r\nEVENT URL UP! REGISTER NOW!\r\n\r\nCategories: Reverse Engineering, Web-exploitation, Forensics, AI/ML, Web3, OSINT, PWN, Cryptography, Miscellaneous\r\n\r\nThe competition is designed to accommodate teams of varying skill levels, with a diverse challenge set covering multiple areas of cybersecurity.\r\n\r\nDuration: 24 hours\r\nFormat: Jeopardy-style CTF\r\nMode: Online\r\nTeam-based: Yes\r\n\r\nJoin the discord server: https://discord.gg/kw8J5r2ZWh\r\n\r\n",
-    "format": "Jeopardy",
-    "is_votable_now": true,
-    "prizes": "The total prize pool for h4ckc0n is ₹10,000 INR, distributed among the top three teams: \r\n1st Place\t- ₹5,000\r\n2nd Place - ₹3,000\r\n3rd Place\t - ₹2,000\r\n(only applicable for Teams with an Indian bank account)\r\n\r\nPrizes are awarded based on the final leaderboard at the end of the 24-hour competition.",
-    "format_id": 1,
-    "onsite": false,
-    "restrictions": "Open",
-    "url": "http://h4ckc0n.centralindia.cloudapp.azure.com/",
-    "public_votable": true
-  },
-  {
-    "organizers": [
-      {
-        "id": 448862,
-        "name": "Hackers_In_India"
-      }
-    ],
-    "ctftime_url": "https://ctftime.org/event/3467/",
-    "ctf_id": 1716,
-    "weight": 0,
-    "duration": {
-      "hours": 8,
-      "days": 0
-    },
-    "live_feed": "https://ctftime.org/live/3467/",
-    "logo": "https://ctftime.org//media/events/InIt_CTF.png",
-    "id": 3467,
-    "title": "InIt CTF",
-    "start": "2026-11-14T15:30:00+00:00",
-    "participants": 49,
-    "location": "",
-    "finish": "2026-11-14T23:30:00+00:00",
-    "description": "InIt CTF is HII's (Hackers in India) beginner-focused Capture The Flag event, free and open to participants across India and internationally. 8 hours, Jeopardy-style, solo or teams of up to 4, across Web, Crypto, Forensics, OSINT, and Misc — mostly easy/medium with a couple of harder challenges for experienced players. This edition is sponsored by .xyz, who are providing free domain codes for participants, with additional sponsors being confirmed. Register at\r\n\r\nhackersinindia.com/init-ctf.",
-    "format": "Jeopardy",
-    "is_votable_now": false,
-    "prizes": "Finalized with sponsors — includes .xyz domain codes and vouchers/prizes from additional sponsors, confirmed closer to the event. All participants receive a certificate.",
-    "format_id": 1,
-    "onsite": false,
-    "restrictions": "Casual",
-    "url": "https://hackersinindia.com/init-ctf",
-    "public_votable": false
-  },
-  {
-    "organizers": [
-      {
         "id": 200580,
         "name": "EyesOpen_Security"
       }
@@ -306,7 +242,7 @@
     "id": 3502,
     "title": "RedReaper CTF",
     "start": "2026-11-27T11:00:00+00:00",
-    "participants": 16,
+    "participants": 29,
     "location": "",
     "finish": "2026-11-27T19:00:00+00:00",
     "description": "RedReaper CTF\r\n\r\nWelcome to RedReaper CTF, a cybersecurity Capture The Flag competition organized by RedX & Reaper \r\n\r\nEnter a dark world of cybersecurity challenges, where technical knowledge, creativity, and problem-solving skills will determine who survives the hunt.\r\n\r\nTest your skills across multiple cybersecurity domains, solve challenges, uncover hidden flags, and compete against other participants.\r\n\r\nChallenge Categories\r\n- Forensics\r\n- Crypto\r\n- Misc\r\n- Reverse Engineering\r\n- Web\r\n- AI Hacking\r\n- Pwn\r\n- OSINT\r\n- Automation\r\n\r\nEvent Information\r\n- Organizer: RedX & Reaper \r\n- Official Website: https://qualification.redx.site/\r\n- social Media: https://qualification.redx.site/socials\r\n- RedX Platform: https://redx.site\r\n\r\n\r\nSharpen your skills, trust your knowledge, and prepare for the hunt.\r\n\r\nThe Reaper is waiting.",
@@ -338,7 +274,7 @@
     "id": 3512,
     "title": "N0v4CTF 2026",
     "start": "2026-11-27T17:00:00+00:00",
-    "participants": 8,
+    "participants": 13,
     "location": "",
     "finish": "2026-11-28T17:00:00+00:00",
     "description": "N0v4CTF 2026 is a free, 24-hour online Jeopardy-style Capture the Flag competition open to teams worldwide.\r\n\r\nChallenges cover Web Exploitation, Pwn (Binary Exploitation), Reverse Engineering, Cryptography, Digital Forensics, and Miscellaneous. Teams can investigate digital evidence, recover hidden messages, and figure out how unfamiliar programs work. The challenge set includes beginner-friendly puzzles and tougher problems for experienced players.\r\n\r\nTeams earn points by submitting correct flags. A live scoreboard tracks team rankings throughout the competition.\r\n\r\nThe event runs from 17:00 UTC on November 27 to 17:00 UTC on November 28, 2026. In Vietnam, that is midnight at the start of November 27 to midnight at the start of November 28 (UTC+7).",
@@ -370,7 +306,7 @@
     "id": 3474,
     "title": "LakeCTF Quals 26-27",
     "start": "2026-11-27T18:00:00+00:00",
-    "participants": 66,
+    "participants": 74,
     "location": "",
     "finish": "2026-11-28T18:00:00+00:00",
     "description": "Qualifications for fifth edition of LakeCTF\r\n\r\nold discord server here for discussion: https://discord.gg/8FHmzT5aGM \r\n\r\nnew discord server in your invite email",
@@ -402,7 +338,7 @@
     "id": 3485,
     "title": "L3m0n CTF 2026 (Quals)",
     "start": "2026-11-28T04:30:00+00:00",
-    "participants": 53,
+    "participants": 61,
     "location": "",
     "finish": "2026-11-28T16:30:00+00:00",
     "description": "TIFAC-CORE, Amrita Vishwa Vidyapeetham, Coimbatore, invites you to \"L3m0n CTF 2026\", our annual flagship Capture The Flag competition!\r\n\r\n- 12-hour Jeopardy-style online qualifiers.\r\n- Open to teams of 1–4 participants.\r\n- Challenges across Web, Pwn, Cryptography, AI/LLM, Forensics, OSINT and more.\r\n- Beginner-friendly category for newcomers.\r\n- Top teams advance to the on-campus finals at Coimbatore to be held on December 12th, 2026.\r\n\r\nQualifiers Date: November 28th, 2026  \r\nTime: 4:30 AM – 4:30 PM GMT\r\n\r\nRegister and stay tuned for updates: https://l3m0nctf.xyz",
@@ -434,7 +370,7 @@
     "id": 3489,
     "title": "CyberNSK2027-Qualifier",
     "start": "2026-11-28T09:00:00+00:00",
-    "participants": 15,
+    "participants": 17,
     "location": "Russia",
     "finish": "2026-11-28T21:00:00+00:00",
     "description": "CyberNSK 2027 is one of the largest cybersecurity competitions in Siberia, organized by Siberian Security League in collaboration with Novosibirsk State Technical University (NSTU NETI), Department of Information Security.\r\n\r\nThe online qualification round is a 12-hour Jeopardy-style CTF. Teams of up to 5 participants (school and university students) compete by solving practical security challenges and submitting flags.\r\n\r\n✦ Start — November 28 at 12:00 PM (MSK)✦\r\n✦ End — November 29 at 00:00 PM (MSK)✦\r\n\r\nTeams that have passed the qualifying stage and reside in CIS countries or China are invited to the in-person final.\r\n\r\nThe competition uses a dynamic scoring system: the fewer teams solve a task, the more points it is worth.\r\n\r\nCategories include:\r\n\r\nWeb\r\n\r\nCrypto\r\n\r\nReverse Engineering\r\n\r\nPwn\r\n\r\nForensics\r\n\r\nAI\r\n\r\nHardware\r\n\r\nand others",
@@ -466,7 +402,7 @@
     "id": 3510,
     "title": "Black Hat India 2026 Official CTF",
     "start": "2026-11-28T14:00:00+00:00",
-    "participants": 17,
+    "participants": 24,
     "location": "",
     "finish": "2026-11-29T14:00:00+00:00",
     "description": "Black Hat India 2026 Official CTF is a 24-hour online Jeopardy-style CTF with 200 original challenges. The top 3 teams each win 3 Briefings passes (9 in total, each worth ₹85,000) to attend Black Hat India 2027 in Hyderabad. Dates for Black Hat India 2027 are yet to be announced.\r\n\r\nCategories: Web3, Smart Contract Exploitation, LLM Security, AI Security, IAM, SSO, DFIR, Cloud Native Security, Mobile Security, FinTech Security, Linux Security, Active Directory, DevSecOps, Binary Exploitation, Reverse Engineering, Web Security, Cryptography, OSINT, Steganography, Miscellaneous, and a Beginner Jeopardy Track.\r\n\r\nTeam size: up to 3. Scheduled start: 28 Nov, 7:30 PM IST.\r\n\r\nPlatform sponsor and CTF host: CTF7 (https://ctf7.com) - the platform running this CTF.\r\n\r\nWebsite: https://ctf.blackhat-india.com/",
@@ -626,7 +562,7 @@
     "id": 3480,
     "title": "bi0sCTF 2026",
     "start": "2026-12-05T05:00:00+00:00",
-    "participants": 42,
+    "participants": 43,
     "location": "",
     "finish": "2026-12-06T17:00:00+00:00",
     "description": "Team bi0s invites you to our prestigious bi0sCTF 2026, a premier hacking event designed for hackers of all generations. We are dedicated to crafting challenges that incorporate the latest vulnerabilities, responsibly pushing the boundaries of innovation to ensure a delightful and enriching experience for all participants.\r\n\r\nStay tuned for official updates by following us on https://twitter.com/teambi0s.",
@@ -638,5 +574,101 @@
     "restrictions": "Open",
     "url": "https://ctf.bi0s.in/",
     "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 62713,
+        "name": "Cryptonite"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3367/",
+    "ctf_id": 663,
+    "weight": 59.0,
+    "duration": {
+      "hours": 0,
+      "days": 2
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/nitectf_2.png",
+    "id": 3367,
+    "title": "niteCTF 2026",
+    "start": "2026-12-11T12:00:00+00:00",
+    "participants": 79,
+    "location": "",
+    "finish": "2026-12-13T12:00:00+00:00",
+    "description": "niteCTF, hosted by Cryptonite, is designed to help students explore new & diverse areas of cybersecurity while providing a platform for experienced players to sharpen their skills. The CTF features a wide range of challenges spanning multiple domains including Hardware Security, Cryptography, Web Exploitation, Digital Forensics, Binary Exploitation, Reverse Engineering, and more!\r\n\r\n~ hosted by <a href=\"https://cryptonitemit.in\" target=\"_blank\">Cryptonite</a>\r\n\r\nIndustry Sponsor: <a href=\"https://hex-rays.com/\">Hex-Rays</a>\r\n\r\nInfra sponsored by <a href=\"https://goo.gle/ctfsponsorship\" target=\"_blank\">goo.gle/ctfsponsorship</a>",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "TBA",
+    "format_id": 1,
+    "onsite": false,
+    "restrictions": "Open",
+    "url": "https://nitectf.cryptonitemit.in/",
+    "public_votable": true
+  },
+  {
+    "organizers": [
+      {
+        "id": 453781,
+        "name": "SanguineChameleon"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3498/",
+    "ctf_id": 1757,
+    "weight": 0,
+    "duration": {
+      "hours": 0,
+      "days": 1
+    },
+    "live_feed": "",
+    "logo": "https://ctftime.org//media/events/this-is-not-a-clue.png",
+    "id": 3498,
+    "title": "Leo's 20th Birthday Bash",
+    "start": "2026-12-12T01:00:00+00:00",
+    "participants": 5,
+    "location": "",
+    "finish": "2026-12-13T01:00:00+00:00",
+    "description": "Hey! You there! Do you like programming? Do you like puzzles? Do you like... money?\r\n\r\nLeo's 20th Birthday Bash is a 24-hour online team contest that's competitive-programming-ish, CTF-ish, math-olympiad-ish, and puzzle-hunt-ish, all wrapped into one.\r\n\r\nThe contest runs on DMOJ, an online judge for competitive programming, and each team shares one DMOJ account to submit from. Teams can have 1 to 10 members (6 to 8 recommended).\r\n\r\nSome problems are CTF-ish, but DMOJ itself is not part of the contest, so please do not attack, probe, or abuse it. The people at DMOJ are hosting this for free >.<\r\n\r\nThis contest has no sponsors, so all the prize money is from yours truly ;)\r\n\r\nMake sure you've read all the rules (see the contest page). In particular, interactive generative AI is not allowed, because it is stinky.\r\n\r\nSee you there!",
+    "format": "Hack quest",
+    "is_votable_now": false,
+    "prizes": "1st place: USD 512\r\n2nd place: USD 256\r\n3rd place: USD 128\r\nBounty: USD 64 for the first team to fully solve problem T during the contest",
+    "format_id": 3,
+    "onsite": false,
+    "restrictions": "Casual",
+    "url": "https://dmoj.ca/contest/leo20",
+    "public_votable": false
+  },
+  {
+    "organizers": [
+      {
+        "id": 190074,
+        "name": "OteriHack"
+      }
+    ],
+    "ctftime_url": "https://ctftime.org/event/3505/",
+    "ctf_id": 1740,
+    "weight": 0,
+    "duration": {
+      "hours": 8,
+      "days": 0
+    },
+    "live_feed": "",
+    "logo": "",
+    "id": 3505,
+    "title": "OTERIA Cyber Cup #4",
+    "start": "2026-12-12T09:00:00+00:00",
+    "participants": 1,
+    "location": "France, Gennevilliers",
+    "finish": "2026-12-12T17:00:00+00:00",
+    "description": "# OTERIA Cyber ​​Cup #4\r\n\r\nRejoignez-nous le 12 décembre 2026 pour la quatrième édition de l'OTERIA Cyber ​​Cup, une compétition de type « Capture The Flag » (CTF) destinée aux étudiants, organisée par l'OTERIA Cyber ​​School à Gennevilliers, en France.\r\n\r\nDétails de l'événement\r\n- Date : 12 décembre 2026\r\n- Lieu : OTERIA Cyber ​​School, 1 Rue du 19 Mars 1962, 92230 Gennevilliers, France\r\n- Format : CTF de type « Jeopardy » (à confirmer)\r\n- Durée : 6 heures\r\n- Participation : Gratuite\r\n- Éligibilité : Étudiants, du lycée jusqu'au niveau Master (Bac à Bac+5)\r\n- Taille des équipes : 4 étudiants par équipe\r\n- Défis : 5 catégories d'épreuves et 25 « flags » (drapeaux) à trouver\r\n\r\nLa compétition est ouverte aussi bien aux débutants qu'aux joueurs expérimentés ; les défis sont conçus pour s'adapter à différents niveaux de compétence.\r\n\r\nRécompenses\r\n- 1re place : 500 € et des goodies\r\n- 2e place : 300 € et des goodies\r\n- 3e place : 150 € et des goodies\r\n\r\nLes membres des 10 meilleures équipes pourront également bénéficier d'un accès direct à un entretien d'admission chez OTERIA, sans avoir à passer le test technique (sous réserve des règles officielles de la compétition).\r\n\r\nInscription : https://www.oteria-cyber-cup.fr/inscription\r\n\r\nSite officiel : https://www.oteria-cyber-cup.fr/\r\n\r\nOrganisé par l'OTERIA Cyber ​​School.",
+    "format": "Jeopardy",
+    "is_votable_now": false,
+    "prizes": "1st place: 500€ + goodies\r\n\r\n2nd place: 300€ + goodies\r\n\r\n3rd place: 150€ + goodies\r\n\r\nTop 10 teams: Direct admission interview eligibility at OTERIA, without a technical test.",
+    "format_id": 1,
+    "onsite": true,
+    "restrictions": "Academic",
+    "url": "https://www.oteria-cyber-cup.fr/",
+    "public_votable": false
   }
 ]

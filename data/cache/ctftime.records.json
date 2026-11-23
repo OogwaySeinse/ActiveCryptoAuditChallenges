@@ -1,44 +1,5 @@
 [
   {
-    "id": "90fe4f56bb0411",
-    "title": "WolvCTF 2026",
-    "platform": "CTFtime",
-    "source": "ctftime",
-    "url": "https://ctftime.org/event/3049/",
-    "prize": "Open Division",
-    "prize_usd": 0.0,
-    "prize_currency": "USD",
-    "prize_raw": "Open Division\r\n1st: 2 Binary Ninja licenses, Altered Security CRTP Certificate\r\n2nd: Binary Ninja license\r\n3rd: Binary Ninja license\r\n\r\nUM Division\r\n1st: Binary Ninja license\r\n2nd: Binary Ninja license",
-    "start_date": "2026-11-20T23:00:00Z",
-    "end_date": "2026-11-22T23:00:00Z",
-    "days_remaining": 0,
-    "status": "ending_soon",
-    "challenge_type": "ctf",
-    "category": "Cryptography & CTF",
-    "ecosystem": "Multi-chain / General",
-    "languages": [
-      "Python"
-    ],
-    "tags": [
-      "cryptography",
-      "ctftime",
-      "jeopardy"
-    ],
-    "description": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint). There are two divisions, Open and University of Michigan students. No team limit sizes. Thank you to our sponsors! Binary Ninja: https://binary.ninja/ Altered …",
-    "organizer": "w01verines",
-    "difficulty": "Beginner",
-    "kyc_required": null,
-    "participants_count": 250,
-    "findings_count": null,
-    "repo_url": null,
-    "logo_url": null,
-    "first_seen_at": null,
-    "is_new": false,
-    "prize_delta_usd": 0.0,
-    "days_shift": 0,
-    "scraped_at": "2026-11-22T13:44:44Z"
-  },
-  {
     "id": "a2d01a9b75b182",
     "title": "RedReaper CTF",
     "platform": "CTFtime",
@@ -50,7 +11,7 @@
     "prize_raw": "TBD",
     "start_date": "2026-11-27T11:00:00Z",
     "end_date": "2026-11-27T19:00:00Z",
-    "days_remaining": 5,
+    "days_remaining": 4,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -67,7 +28,7 @@
     "organizer": "RedReaper",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 29,
+    "participants_count": 50,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -75,7 +36,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-22T13:44:44Z"
+    "scraped_at": "2026-11-23T16:45:53Z"
   },
   {
     "id": "a3bfd46fda2850",
@@ -89,7 +50,7 @@
     "prize_raw": "Prize details, if applicable, will be announced later.",
     "start_date": "2026-11-27T17:00:00Z",
     "end_date": "2026-11-28T17:00:00Z",
-    "days_remaining": 6,
+    "days_remaining": 5,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -106,7 +67,7 @@
     "organizer": "NovaRun",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 13,
+    "participants_count": 29,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -114,7 +75,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-22T13:44:44Z"
+    "scraped_at": "2026-11-23T16:45:53Z"
   },
   {
     "id": "e3300d7ba156eb",
@@ -128,7 +89,7 @@
     "prize_raw": "Academic bracket\r\nTop 10 academic: invited to LakeCTF finals with lodging paid\r\n\r\nno insomnihack this year :< (they are figuring out their own noAI stuff)",
     "start_date": "2026-11-27T18:00:00Z",
     "end_date": "2026-11-28T18:00:00Z",
-    "days_remaining": 6,
+    "days_remaining": 5,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -145,7 +106,7 @@
     "organizer": "polygl0ts",
     "difficulty": "Intermediate",
     "kyc_required": null,
-    "participants_count": 74,
+    "participants_count": 86,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -153,7 +114,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-22T13:44:44Z"
+    "scraped_at": "2026-11-23T16:45:53Z"
   },
   {
     "id": "51929ef0140f7e",
@@ -161,13 +122,13 @@
     "platform": "CTFtime",
     "source": "ctftime",
     "url": "https://ctftime.org/event/3485/",
-    "prize": "To be announced!",
+    "prize": "No prizes for the Qualifiers round.",
     "prize_usd": 0.0,
     "prize_currency": "USD",
-    "prize_raw": "To be announced!",
+    "prize_raw": "No prizes for the Qualifiers round.\r\nTop ~75-85 teams will be invited for the on-site finals to be held at Amrita Vishwa Vidyapeetham, Coimbatore campus on December 12, 2026.\r\nPrizes for the Finals can be viewed in our Discord server: [https://discord.gg/SBPPqq3qf]",
     "start_date": "2026-11-28T04:30:00Z",
     "end_date": "2026-11-28T16:30:00Z",
-    "days_remaining": 6,
+    "days_remaining": 4,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -184,7 +145,7 @@
     "organizer": "L3m0n CTF",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 61,
+    "participants_count": 74,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -192,7 +153,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-22T13:44:44Z"
+    "scraped_at": "2026-11-23T16:45:53Z"
   },
   {
     "id": "1298c925233c3d",
@@ -206,7 +167,7 @@
     "prize_raw": "9 Black Hat India 2027 Briefings passes in total, worth ₹7,65,000 (₹85,000 each)\r\n1st place team: 3 Briefings passes (worth ₹2,55,000)\r\n2nd place team: 3 Briefings passes (worth ₹2,55,000)\r\n3rd place team: 3 Briefings passes (worth ₹2,55,000)\r\nPasses are for Black Hat India 2027, Hyderabad.",
     "start_date": "2026-11-28T14:00:00Z",
     "end_date": "2026-11-29T14:00:00Z",
-    "days_remaining": 7,
+    "days_remaining": 5,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Blockchain CTF",
@@ -225,7 +186,7 @@
     "organizer": "CTF7",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 24,
+    "participants_count": 32,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -233,7 +194,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-22T13:44:44Z"
+    "scraped_at": "2026-11-23T16:45:53Z"
   },
   {
     "id": "03a5ae9715932f",
@@ -247,7 +208,7 @@
     "prize_raw": "",
     "start_date": "2026-12-04T10:00:00Z",
     "end_date": "2026-12-06T18:00:00Z",
-    "days_remaining": 14,
+    "days_remaining": 13,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -264,7 +225,7 @@
     "organizer": "ascii overflow",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 1,
+    "participants_count": 4,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -272,7 +233,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-22T13:44:44Z"
+    "scraped_at": "2026-11-23T16:45:53Z"
   },
   {
     "id": "a084e989170fd8",
@@ -286,7 +247,7 @@
     "prize_raw": "TBA but they will be cute",
     "start_date": "2026-12-04T18:00:00Z",
     "end_date": "2026-12-06T18:00:00Z",
-    "days_remaining": 14,
+    "days_remaining": 13,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -303,7 +264,7 @@
     "organizer": "x3CTF",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 25,
+    "participants_count": 27,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -311,7 +272,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-22T13:44:44Z"
+    "scraped_at": "2026-11-23T16:45:53Z"
   },
   {
     "id": "50dd2d67be48df",
@@ -325,7 +286,7 @@
     "prize_raw": "TBA",
     "start_date": "2026-12-05T05:00:00Z",
     "end_date": "2026-12-06T17:00:00Z",
-    "days_remaining": 14,
+    "days_remaining": 13,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -342,7 +303,7 @@
     "organizer": "bi0s",
     "difficulty": "Advanced",
     "kyc_required": null,
-    "participants_count": 43,
+    "participants_count": 49,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -350,7 +311,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-22T13:44:44Z"
+    "scraped_at": "2026-11-23T16:45:53Z"
   },
   {
     "id": "d0939b60c650b2",
@@ -364,7 +325,7 @@
     "prize_raw": "TBA",
     "start_date": "2026-12-11T12:00:00Z",
     "end_date": "2026-12-13T12:00:00Z",
-    "days_remaining": 20,
+    "days_remaining": 19,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -381,7 +342,7 @@
     "organizer": "Cryptonite",
     "difficulty": "Advanced",
     "kyc_required": null,
-    "participants_count": 79,
+    "participants_count": 83,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -389,6 +350,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-22T13:44:44Z"
+    "scraped_at": "2026-11-23T16:45:53Z"
   }
 ]

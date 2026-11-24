@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-23T16:45:52Z",
+    "generated_at": "2026-11-24T16:40:23Z",
     "total_active": 202,
     "contest_prize_usd": 650893.69,
     "max_bounty_usd": 15500000.0,
@@ -58,7 +58,7 @@
       "Polkadot / Substrate": 1
     },
     "history": {
-      "new_challenges": 5,
+      "new_challenges": 3,
       "prize_changes": 0,
       "deadline_changes": 0,
       "tracked_total": 245
@@ -629,6 +629,21 @@
         "new_count": 5,
         "prize_changes": 0,
         "deadline_changes": 0
+      },
+      {
+        "date": "2026-11-24",
+        "total_active": 202,
+        "by_type": {
+          "audit_contest": 2,
+          "bug_bounty": 178,
+          "hackathon": 5,
+          "ctf": 9,
+          "practice": 8
+        },
+        "contest_prize_usd": 650893.69,
+        "new_count": 3,
+        "prize_changes": 0,
+        "deadline_changes": 0
       }
     ],
     "sources": [
@@ -636,65 +651,65 @@
         "name": "code4rena",
         "status": "ok",
         "count": 0,
-        "duration_ms": 656,
+        "duration_ms": 700,
         "error": "No live challenges right now",
-        "updated_at": "2026-11-23T16:45:52Z"
+        "updated_at": "2026-11-24T16:40:23Z"
       },
       {
         "name": "sherlock",
         "status": "ok",
         "count": 0,
-        "duration_ms": 27188,
+        "duration_ms": 23347,
         "error": "No live challenges right now",
-        "updated_at": "2026-11-23T16:45:52Z"
+        "updated_at": "2026-11-24T16:40:23Z"
       },
       {
         "name": "cantina",
         "status": "ok",
         "count": 48,
-        "duration_ms": 1064,
+        "duration_ms": 1240,
         "error": null,
-        "updated_at": "2026-11-23T16:45:52Z"
+        "updated_at": "2026-11-24T16:40:23Z"
       },
       {
         "name": "codehawks",
         "status": "ok",
         "count": 0,
-        "duration_ms": 4037,
+        "duration_ms": 4021,
         "error": "No live challenges right now",
-        "updated_at": "2026-11-23T16:45:52Z"
+        "updated_at": "2026-11-24T16:40:23Z"
       },
       {
         "name": "immunefi",
         "status": "ok",
         "count": 137,
-        "duration_ms": 1080,
+        "duration_ms": 1443,
         "error": null,
-        "updated_at": "2026-11-23T16:45:52Z"
+        "updated_at": "2026-11-24T16:40:23Z"
       },
       {
         "name": "ethglobal",
         "status": "ok",
         "count": 5,
-        "duration_ms": 2371,
+        "duration_ms": 2147,
         "error": null,
-        "updated_at": "2026-11-23T16:45:52Z"
+        "updated_at": "2026-11-24T16:40:23Z"
       },
       {
         "name": "devpost",
         "status": "ok",
         "count": 0,
-        "duration_ms": 388,
+        "duration_ms": 406,
         "error": "No live challenges right now",
-        "updated_at": "2026-11-23T16:45:52Z"
+        "updated_at": "2026-11-24T16:40:23Z"
       },
       {
         "name": "ctftime",
         "status": "ok",
         "count": 9,
-        "duration_ms": 1109,
+        "duration_ms": 697,
         "error": null,
-        "updated_at": "2026-11-23T16:45:52Z"
+        "updated_at": "2026-11-24T16:40:23Z"
       },
       {
         "name": "curated",
@@ -702,7 +717,7 @@
         "count": 8,
         "duration_ms": 0,
         "error": null,
-        "updated_at": "2026-11-23T16:45:52Z"
+        "updated_at": "2026-11-24T16:40:24Z"
       }
     ]
   },
@@ -719,7 +734,7 @@
       "prize_raw": "250000.0",
       "start_date": "2026-11-19T17:00:00Z",
       "end_date": "2026-12-01T12:00:00Z",
-      "days_remaining": 7,
+      "days_remaining": 6,
       "status": "ending_soon",
       "challenge_type": "audit_contest",
       "category": "L1 / L2 Infrastructure",
@@ -743,10 +758,10 @@
       "repo_url": null,
       "logo_url": "https://qn5bmgziiocgawpp.public.blob.vercel-storage.com/program-logos/mateus.paderes%40immunefi.com-QCsKHyWdRgSJog-Ff37Ui.png",
       "first_seen_at": "2026-11-20",
-      "is_new": true,
+      "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:25Z"
     },
     {
       "id": "c6fb7f1e0c4622",
@@ -760,7 +775,7 @@
       "prize_raw": "400000.0 USDC",
       "start_date": "2026-11-23T12:40:00Z",
       "end_date": "2026-12-03T12:40:00Z",
-      "days_remaining": 9,
+      "days_remaining": 8,
       "status": "active",
       "challenge_type": "audit_contest",
       "category": "Lending & Credit",
@@ -778,14 +793,14 @@
       "difficulty": "Advanced",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 12,
+      "findings_count": 94,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/56103ebb-f81c-409e-c60b-5eb6e9bb7900/public",
       "first_seen_at": "2026-11-23",
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "51929ef0140f7e",
@@ -799,7 +814,7 @@
       "prize_raw": "No prizes for the Qualifiers round.\r\nTop ~75-85 teams will be invited for the on-site finals to be held at Amrita Vishwa Vidyapeetham, Coimbatore campus on December 12, 2026.\r\nPrizes for the Finals can be viewed in our Discord server: [https://discord.gg/SBPPqq3qf]",
       "start_date": "2026-11-28T04:30:00Z",
       "end_date": "2026-11-28T16:30:00Z",
-      "days_remaining": 4,
+      "days_remaining": 3,
       "status": "upcoming",
       "challenge_type": "ctf",
       "category": "Cryptography & CTF",
@@ -816,7 +831,7 @@
       "organizer": "L3m0n CTF",
       "difficulty": "Beginner",
       "kyc_required": null,
-      "participants_count": 74,
+      "participants_count": 86,
       "findings_count": null,
       "repo_url": null,
       "logo_url": null,
@@ -824,7 +839,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "a2d01a9b75b182",
@@ -838,7 +853,7 @@
       "prize_raw": "TBD",
       "start_date": "2026-11-27T11:00:00Z",
       "end_date": "2026-11-27T19:00:00Z",
-      "days_remaining": 4,
+      "days_remaining": 3,
       "status": "upcoming",
       "challenge_type": "ctf",
       "category": "Cryptography & CTF",
@@ -855,7 +870,7 @@
       "organizer": "RedReaper",
       "difficulty": "Beginner",
       "kyc_required": null,
-      "participants_count": 50,
+      "participants_count": 70,
       "findings_count": null,
       "repo_url": null,
       "logo_url": null,
@@ -863,7 +878,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "1298c925233c3d",
@@ -877,7 +892,7 @@
       "prize_raw": "9 Black Hat India 2027 Briefings passes in total, worth ₹7,65,000 (₹85,000 each)\r\n1st place team: 3 Briefings passes (worth ₹2,55,000)\r\n2nd place team: 3 Briefings passes (worth ₹2,55,000)\r\n3rd place team: 3 Briefings passes (worth ₹2,55,000)\r\nPasses are for Black Hat India 2027, Hyderabad.",
       "start_date": "2026-11-28T14:00:00Z",
       "end_date": "2026-11-29T14:00:00Z",
-      "days_remaining": 5,
+      "days_remaining": 4,
       "status": "upcoming",
       "challenge_type": "ctf",
       "category": "Blockchain CTF",
@@ -896,7 +911,7 @@
       "organizer": "CTF7",
       "difficulty": "Beginner",
       "kyc_required": null,
-      "participants_count": 32,
+      "participants_count": 42,
       "findings_count": null,
       "repo_url": null,
       "logo_url": null,
@@ -904,7 +919,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "e3300d7ba156eb",
@@ -918,7 +933,7 @@
       "prize_raw": "Academic bracket\r\nTop 10 academic: invited to LakeCTF finals with lodging paid\r\n\r\nno insomnihack this year :< (they are figuring out their own noAI stuff)",
       "start_date": "2026-11-27T18:00:00Z",
       "end_date": "2026-11-28T18:00:00Z",
-      "days_remaining": 5,
+      "days_remaining": 4,
       "status": "upcoming",
       "challenge_type": "ctf",
       "category": "Cryptography & CTF",
@@ -935,7 +950,7 @@
       "organizer": "polygl0ts",
       "difficulty": "Intermediate",
       "kyc_required": null,
-      "participants_count": 86,
+      "participants_count": 94,
       "findings_count": null,
       "repo_url": null,
       "logo_url": null,
@@ -943,7 +958,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "a3bfd46fda2850",
@@ -954,10 +969,10 @@
       "prize": "Prizes (see page)",
       "prize_usd": 0.0,
       "prize_currency": "USD",
-      "prize_raw": "Prize details, if applicable, will be announced later.",
+      "prize_raw": "Sponsored by TryHackMe (https://tryhackme.com):\r\n\r\n- 1st Place: 2x 6-Month TryHackMe Premium Vouchers + Official Winner Certificates\r\n- 2nd Place: 2x 3-Month TryHackMe Premium Vouchers + Official Winner Certificates\r\n- 3rd Place: 2x 1-Month TryHackMe Premium Vouchers + Official Winner Certificates\r\n- Best Write-up Award: 1x 1-Month TryHackMe Premium Voucher\r\n\r\nMore prizes from additional sponsors are currently being finalized and will be announced soon!\r\n\r\nNote: Vouchers will be distributed within 5-7 days after the competition ends and Top 3 write-ups are verified.",
       "start_date": "2026-11-27T17:00:00Z",
       "end_date": "2026-11-28T17:00:00Z",
-      "days_remaining": 5,
+      "days_remaining": 4,
       "status": "upcoming",
       "challenge_type": "ctf",
       "category": "Cryptography & CTF",
@@ -970,11 +985,11 @@
         "ctftime",
         "jeopardy"
       ],
-      "description": "N0v4CTF 2026 is a free, 24-hour online Jeopardy-style Capture the Flag competition open to teams worldwide. Challenges cover Web Exploitation, Pwn (Binary Exploitation), Reverse Engineering, Cryptography, Digital Forensics, and Miscellaneous. Teams can investigate digital evidence, recover hidden messages, and figure out how unfamiliar programs work. The challenge set includes beginner-friendly puzzles and tougher p…",
+      "description": "N0v4CTF 2026 is a free, 24-hour online Jeopardy-style Capture the Flag competition organized by NovaRun, open to teams and cybersecurity enthusiasts worldwide. Challenges cover Web Exploitation, Pwn (Binary Exploitation), Reverse Engineering, Cryptography, Digital Forensics, and Miscellaneous. Teams will investigate digital evidence, recover hidden messages, exploit vulnerabilities, and analyze unfamiliar programs. …",
       "organizer": "NovaRun",
       "difficulty": "Beginner",
       "kyc_required": null,
-      "participants_count": 29,
+      "participants_count": 44,
       "findings_count": null,
       "repo_url": null,
       "logo_url": null,
@@ -982,7 +997,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "50dd2d67be48df",
@@ -996,7 +1011,7 @@
       "prize_raw": "TBA",
       "start_date": "2026-12-05T05:00:00Z",
       "end_date": "2026-12-06T17:00:00Z",
-      "days_remaining": 13,
+      "days_remaining": 12,
       "status": "upcoming",
       "challenge_type": "ctf",
       "category": "Cryptography & CTF",
@@ -1013,7 +1028,7 @@
       "organizer": "bi0s",
       "difficulty": "Advanced",
       "kyc_required": null,
-      "participants_count": 49,
+      "participants_count": 55,
       "findings_count": null,
       "repo_url": null,
       "logo_url": null,
@@ -1021,7 +1036,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "03a5ae9715932f",
@@ -1035,7 +1050,7 @@
       "prize_raw": "",
       "start_date": "2026-12-04T10:00:00Z",
       "end_date": "2026-12-06T18:00:00Z",
-      "days_remaining": 13,
+      "days_remaining": 12,
       "status": "upcoming",
       "challenge_type": "ctf",
       "category": "Cryptography & CTF",
@@ -1052,15 +1067,15 @@
       "organizer": "ascii overflow",
       "difficulty": "Beginner",
       "kyc_required": null,
-      "participants_count": 4,
+      "participants_count": 5,
       "findings_count": null,
       "repo_url": null,
       "logo_url": null,
       "first_seen_at": "2026-11-20",
-      "is_new": true,
+      "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "a084e989170fd8",
@@ -1074,7 +1089,7 @@
       "prize_raw": "TBA but they will be cute",
       "start_date": "2026-12-04T18:00:00Z",
       "end_date": "2026-12-06T18:00:00Z",
-      "days_remaining": 13,
+      "days_remaining": 12,
       "status": "upcoming",
       "challenge_type": "ctf",
       "category": "Cryptography & CTF",
@@ -1091,7 +1106,7 @@
       "organizer": "x3CTF",
       "difficulty": "Beginner",
       "kyc_required": null,
-      "participants_count": 27,
+      "participants_count": 29,
       "findings_count": null,
       "repo_url": null,
       "logo_url": null,
@@ -1099,7 +1114,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "d0939b60c650b2",
@@ -1113,7 +1128,7 @@
       "prize_raw": "TBA",
       "start_date": "2026-12-11T12:00:00Z",
       "end_date": "2026-12-13T12:00:00Z",
-      "days_remaining": 19,
+      "days_remaining": 18,
       "status": "upcoming",
       "challenge_type": "ctf",
       "category": "Cryptography & CTF",
@@ -1130,7 +1145,7 @@
       "organizer": "Cryptonite",
       "difficulty": "Advanced",
       "kyc_required": null,
-      "participants_count": 83,
+      "participants_count": 88,
       "findings_count": null,
       "repo_url": null,
       "logo_url": null,
@@ -1138,7 +1153,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "1929703a4cd131",
@@ -1152,7 +1167,7 @@
       "prize_raw": "Sponsor prize pool",
       "start_date": "2026-12-03T05:00:00Z",
       "end_date": "2026-12-10T05:00:00Z",
-      "days_remaining": 16,
+      "days_remaining": 15,
       "status": "upcoming",
       "challenge_type": "hackathon",
       "category": "AI & Agents",
@@ -1179,7 +1194,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:54Z"
+      "scraped_at": "2026-11-24T16:40:25Z"
     },
     {
       "id": "efd8684e6890ad",
@@ -1193,7 +1208,7 @@
       "prize_raw": "Sponsor prize pool",
       "start_date": "2027-04-14T10:36:00Z",
       "end_date": "2027-04-16T10:36:00Z",
-      "days_remaining": 143,
+      "days_remaining": 142,
       "status": "upcoming",
       "challenge_type": "hackathon",
       "category": "Web3 Building (General)",
@@ -1220,7 +1235,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:54Z"
+      "scraped_at": "2026-11-24T16:40:25Z"
     },
     {
       "id": "ce0a10c9ee020a",
@@ -1234,7 +1249,7 @@
       "prize_raw": "Sponsor prize pool",
       "start_date": "2027-06-14T11:07:00Z",
       "end_date": "2027-06-16T11:07:00Z",
-      "days_remaining": 204,
+      "days_remaining": 203,
       "status": "upcoming",
       "challenge_type": "hackathon",
       "category": "Web3 Building (General)",
@@ -1261,7 +1276,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:54Z"
+      "scraped_at": "2026-11-24T16:40:25Z"
     },
     {
       "id": "90d12f3c79f62c",
@@ -1275,7 +1290,7 @@
       "prize_raw": "Sponsor prize pool",
       "start_date": "2027-08-23T10:19:00Z",
       "end_date": "2027-08-25T10:19:00Z",
-      "days_remaining": 274,
+      "days_remaining": 273,
       "status": "upcoming",
       "challenge_type": "hackathon",
       "category": "Web3 Building (General)",
@@ -1302,7 +1317,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:54Z"
+      "scraped_at": "2026-11-24T16:40:25Z"
     },
     {
       "id": "c0a42abf771d0a",
@@ -1316,7 +1331,7 @@
       "prize_raw": "Sponsor prize pool",
       "start_date": "2027-10-14T10:24:00Z",
       "end_date": "2027-10-16T10:24:00Z",
-      "days_remaining": 326,
+      "days_remaining": 325,
       "status": "upcoming",
       "challenge_type": "hackathon",
       "category": "Web3 Building (General)",
@@ -1343,7 +1358,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:54Z"
+      "scraped_at": "2026-11-24T16:40:25Z"
     },
     {
       "id": "c5d211e71156f2",
@@ -1375,14 +1390,14 @@
       "difficulty": "Expert",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 1163,
+      "findings_count": 1166,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/996f66ba-85cb-426e-8735-30c8cd8a6300/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "ecb9c7ec31ec46",
@@ -1414,14 +1429,14 @@
       "difficulty": "Expert",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 252,
+      "findings_count": 253,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/9b09e384-f489-4960-ce29-ed0ba1bd6400/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "4ff1aa3074ef63",
@@ -1461,7 +1476,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "1140f95f570587",
@@ -1502,7 +1517,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "76b295fdd6df66",
@@ -1534,14 +1549,14 @@
       "difficulty": "Expert",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 2100,
+      "findings_count": 2107,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/32f837aa-461f-42b4-5c99-2aa6599cf500/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "a7b42f365719ca",
@@ -1582,7 +1597,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "ce2a60fb5b5ee1",
@@ -1614,14 +1629,14 @@
       "difficulty": "Expert",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 1107,
+      "findings_count": 1110,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/d2ebe2eb-7c5e-474b-f255-82266f1eb800/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "22af94be465f9b",
@@ -1661,7 +1676,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "ede44d3cea7b78",
@@ -1703,7 +1718,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "3e5c31a16e3ff6",
@@ -1743,7 +1758,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "f9ec4599a9f5b2",
@@ -1783,7 +1798,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "7dac536256e841",
@@ -1827,7 +1842,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "c96031d316e011",
@@ -1868,7 +1883,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "f7b0c61b45cc72",
@@ -1910,7 +1925,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "5e8b811c42f3b0",
@@ -1949,7 +1964,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "1d2fedf4e6ffed",
@@ -1994,7 +2009,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "b7bd9b2b6580d8",
@@ -2034,7 +2049,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "f32110f5bd993f",
@@ -2073,7 +2088,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "24fa0f356c1058",
@@ -2114,7 +2129,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "47f43d99665e39",
@@ -2153,7 +2168,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "91c8261592028b",
@@ -2192,7 +2207,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "eef7b8e2256b4a",
@@ -2231,7 +2246,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "95ca2444a0b535",
@@ -2263,14 +2278,14 @@
       "difficulty": "Expert",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 123,
+      "findings_count": 124,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/e6dee25f-7bbe-466d-69df-5cf213fbde00/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "ab3d8d7ecda990",
@@ -2311,7 +2326,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "b2fea0ae112834",
@@ -2351,7 +2366,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "4267e2c8557ae3",
@@ -2392,7 +2407,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "06614874d87f3b",
@@ -2433,7 +2448,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "34befcbab1ee7f",
@@ -2474,7 +2489,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "17069a606ded86",
@@ -2506,14 +2521,14 @@
       "difficulty": "Expert",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 1287,
+      "findings_count": 1293,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/736d6bf0-efaa-473a-cf43-3aefa9f53e00/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "2c7e0dda7618d9",
@@ -2553,7 +2568,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "c17dad6ed1cfe4",
@@ -2592,7 +2607,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "9e7e39f17a2bb3",
@@ -2631,7 +2646,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "93c1624719d8f6",
@@ -2670,7 +2685,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "8cd8effb2957c9",
@@ -2710,7 +2725,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "547cf655a7cc10",
@@ -2742,14 +2757,14 @@
       "difficulty": "Expert",
       "kyc_required": false,
       "participants_count": null,
-      "findings_count": 342,
+      "findings_count": 343,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/6cd87a82-9b94-46ae-bff5-65f4969d7e00/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "8849c38e8d9992",
@@ -2788,7 +2803,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "73eb7af18d1893",
@@ -2829,7 +2844,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "11bd179d164342",
@@ -2871,7 +2886,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "230e3a2fffcd09",
@@ -2911,7 +2926,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "9a93d5412ba9d9",
@@ -2949,7 +2964,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "6c364f011d6b57",
@@ -2981,14 +2996,14 @@
       "difficulty": "Expert",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 160,
+      "findings_count": 162,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/3b133e64-b63e-46a8-f714-ec35aaaa8800/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "948e18d81d5e17",
@@ -3027,7 +3042,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "7a17e50d2a81a1",
@@ -3071,7 +3086,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "fb981950a2ba9f",
@@ -3110,7 +3125,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "821403676eb31c",
@@ -3149,7 +3164,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "f0f502cb1456f1",
@@ -3189,7 +3204,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "c1051290fd216d",
@@ -3229,7 +3244,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "3584c7c630fdb7",
@@ -3270,7 +3285,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "c7bb81bf2b8a54",
@@ -3313,7 +3328,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "cefc3f27c7add7",
@@ -3354,7 +3369,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "1b135ac1a760eb",
@@ -3396,7 +3411,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "c12dcf0a5418df",
@@ -3438,7 +3453,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "18fac71f3c067b",
@@ -3471,14 +3486,14 @@
       "difficulty": "Advanced",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 788,
+      "findings_count": 795,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/91b00f2f-c2ce-468a-f6b1-13298dd51200/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "ec4924658e598b",
@@ -3518,7 +3533,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "e0bdc4e69a5a74",
@@ -3557,7 +3572,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "169b7b7249289f",
@@ -3589,14 +3604,14 @@
       "difficulty": "Advanced",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 302,
+      "findings_count": 304,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/faceb1cf-6d27-4718-4623-387405d69000/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "0252a905f4c221",
@@ -3635,7 +3650,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "b246a4ce7293d5",
@@ -3667,14 +3682,14 @@
       "difficulty": "Advanced",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 201,
+      "findings_count": 202,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/09b8bf7d-cf98-44f2-27fc-b9037aadb700/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "2f39dfc724561d",
@@ -3715,7 +3730,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "4472707561fc03",
@@ -3754,7 +3769,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "1176ec2f5daee2",
@@ -3793,7 +3808,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "2096cd2aa6d651",
@@ -3832,7 +3847,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "04770d60f5ccfc",
@@ -3871,7 +3886,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "018de9c3ed3227",
@@ -3911,7 +3926,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "8c0a8fa3f1a678",
@@ -3943,14 +3958,14 @@
       "difficulty": "Advanced",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 1080,
+      "findings_count": 1086,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/02f892de-566d-4e57-522d-838879c79200/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "5c8610f7f20bad",
@@ -3991,7 +4006,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "28de85b9caa1c1",
@@ -4023,14 +4038,14 @@
       "difficulty": "Advanced",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 395,
+      "findings_count": 399,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/7f888151-1692-4106-e83e-146a0f8dec00/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "4265d59baed981",
@@ -4069,7 +4084,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "ce8d82f7496e3b",
@@ -4107,7 +4122,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "938b9a8f7147cd",
@@ -4147,7 +4162,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "e268cbfe10fe18",
@@ -4186,7 +4201,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "eb48a477b8a465",
@@ -4228,7 +4243,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "6733dcef7a8317",
@@ -4267,7 +4282,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "750cf582059e1f",
@@ -4300,14 +4315,14 @@
       "difficulty": "Advanced",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 770,
+      "findings_count": 776,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/972937de-e6ee-4072-bb58-f92703b7df00/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "44ed6ffcdfb5b6",
@@ -4348,7 +4363,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "e085eb46db54f2",
@@ -4387,7 +4402,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "20933c96e627d0",
@@ -4419,14 +4434,14 @@
       "difficulty": "Advanced",
       "kyc_required": false,
       "participants_count": null,
-      "findings_count": 360,
+      "findings_count": 361,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/250f761e-bd6f-4e87-6106-97f651be8100/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "f6cc36f955dbb8",
@@ -4468,7 +4483,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "b5a3e0521dbbb8",
@@ -4509,7 +4524,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "6877403a39e768",
@@ -4548,7 +4563,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "5d4d09fe8e8f52",
@@ -4590,7 +4605,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "8ecd0e0fb7ee11",
@@ -4631,7 +4646,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "b3b6795db9da03",
@@ -4673,7 +4688,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "d8eeb12ce8acc9",
@@ -4716,7 +4731,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "dcd0b90ffebcf9",
@@ -4756,7 +4771,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "b66058b0a78ae1",
@@ -4799,7 +4814,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "19ed40886158e4",
@@ -4839,7 +4854,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "7e1a8deb88f940",
@@ -4879,7 +4894,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "d4ec024946f079",
@@ -4919,7 +4934,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "455c2d0acf0c8d",
@@ -4958,7 +4973,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "ffe0c3f509b564",
@@ -5000,7 +5015,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "b696c019fe0796",
@@ -5038,7 +5053,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "28ccb5c8448b24",
@@ -5078,7 +5093,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "913c7105e45a8d",
@@ -5118,7 +5133,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "da8b7ad0f69f65",
@@ -5160,7 +5175,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "bcb74362a1ce72",
@@ -5202,7 +5217,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "7c1b1f25169ca7",
@@ -5241,7 +5256,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "3aa736230e7b13",
@@ -5280,7 +5295,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "016f85ced02421",
@@ -5319,7 +5334,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "d2b5c4c79f0934",
@@ -5359,7 +5374,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "44f42c81a1bd99",
@@ -5399,7 +5414,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "5f0778fd10b4d7",
@@ -5440,7 +5455,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "a6e53f3d377bc8",
@@ -5481,7 +5496,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "252c8f508096f4",
@@ -5521,7 +5536,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "2a34f152fd6b0d",
@@ -5561,7 +5576,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "2a18c085d482af",
@@ -5601,7 +5616,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "9e024445f14187",
@@ -5641,7 +5656,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "77b57cce0c0c2a",
@@ -5684,7 +5699,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "6c6cd7dee7b333",
@@ -5723,7 +5738,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "a1204b62d00780",
@@ -5762,7 +5777,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "a7a940beea380c",
@@ -5802,7 +5817,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "408bee08b05fd5",
@@ -5840,7 +5855,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "87035080d5f10e",
@@ -5881,7 +5896,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "9e38db84b3c68c",
@@ -5922,7 +5937,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "aeb0ed9f36d654",
@@ -5961,7 +5976,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "519f5fb33ea5cd",
@@ -6000,7 +6015,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "c9602185547973",
@@ -6040,7 +6055,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "2b23a9019e36e2",
@@ -6079,7 +6094,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "1b770324837fcc",
@@ -6118,7 +6133,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "415dcf1503a66f",
@@ -6158,7 +6173,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "46db655a78709c",
@@ -6190,14 +6205,14 @@
       "difficulty": "Advanced",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 300,
+      "findings_count": 301,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/b6fd462c-4d69-4dda-1ec5-0ee1db626c00/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "287961b466cf9d",
@@ -6236,7 +6251,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "7a3fda7fad187a",
@@ -6276,7 +6291,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "d22588b2099f8c",
@@ -6315,7 +6330,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "cd09da89b4fd9d",
@@ -6354,7 +6369,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "d6cd6ba79ed9ab",
@@ -6393,7 +6408,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "3086b000c2d0a5",
@@ -6434,7 +6449,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "3e85f08c51afc7",
@@ -6465,14 +6480,14 @@
       "difficulty": "Advanced",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 1095,
+      "findings_count": 1101,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/d76cdfeb-fb43-4aba-dc7c-f4171ea0ae00/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "fb24e3012c1845",
@@ -6513,7 +6528,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "49afc8f30b7911",
@@ -6552,7 +6567,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "c4f5445a80df8c",
@@ -6593,7 +6608,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "9ad134bf672515",
@@ -6633,7 +6648,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "64cee78be5b832",
@@ -6674,7 +6689,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "aa9ae11d5bea89",
@@ -6714,7 +6729,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "7e1dfe7b7aa928",
@@ -6753,7 +6768,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "4ef29930915b43",
@@ -6792,7 +6807,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "98ce7d473aa0d5",
@@ -6832,7 +6847,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "9e9069c71beb83",
@@ -6871,7 +6886,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "2ab97de69175fe",
@@ -6914,7 +6929,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "ee1d1ad03ee33c",
@@ -6955,7 +6970,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "c72aa8c07b4252",
@@ -6993,7 +7008,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "d0e4d7bff5d823",
@@ -7034,7 +7049,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "a01eecdd46caec",
@@ -7073,7 +7088,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "b8f51803351062",
@@ -7111,7 +7126,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "b6697f382bbfd1",
@@ -7149,7 +7164,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "337bb6ca81ed45",
@@ -7191,7 +7206,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "dd8669f26ae4ff",
@@ -7230,7 +7245,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "b9d9b508b298ee",
@@ -7270,7 +7285,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "703cab55f57426",
@@ -7311,7 +7326,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "5ef3f89b306682",
@@ -7350,7 +7365,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "3d4f2dcf5caaa6",
@@ -7393,7 +7408,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "8e5cefc40f55fd",
@@ -7432,7 +7447,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "33c8526e5e6b93",
@@ -7471,7 +7486,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "775122f1226586",
@@ -7512,7 +7527,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "346463cf540bf4",
@@ -7551,7 +7566,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "6d74c90e66bde4",
@@ -7592,7 +7607,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "bd8eda9a473afe",
@@ -7631,7 +7646,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "e6ecce3f892c93",
@@ -7671,7 +7686,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "4a4120c1e3dd9c",
@@ -7711,7 +7726,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "23cd5c79383edb",
@@ -7742,14 +7757,14 @@
       "difficulty": "Intermediate",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 80,
+      "findings_count": 82,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/c1f933ad-6648-4bad-fa77-cf7059bfb700/public",
       "first_seen_at": "2026-11-14",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "686e9b0f270378",
@@ -7788,7 +7803,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "86d3d3103e6dd4",
@@ -7829,7 +7844,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "178bdefe4bb459",
@@ -7861,14 +7876,14 @@
       "difficulty": "Intermediate",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 99,
+      "findings_count": 100,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/7f0fbfe3-3518-4f28-2be4-9e9ee6b8e400/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "6efedd99fc07e3",
@@ -7900,14 +7915,14 @@
       "difficulty": "Intermediate",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 29,
+      "findings_count": 31,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/aa4dbb6d-4a3f-4472-b63e-a4c8f3341500/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "8846620c8f99f2",
@@ -7947,7 +7962,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "d610a0f823d00a",
@@ -7986,7 +8001,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "54f277d721eeed",
@@ -8026,7 +8041,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "61002ccf02a4aa",
@@ -8067,7 +8082,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "e83338327d587e",
@@ -8107,7 +8122,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "1f8d20a4f26daa",
@@ -8147,7 +8162,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "26fa8666bfccd3",
@@ -8186,7 +8201,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "9261042d889241",
@@ -8230,7 +8245,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "99f2d269d1a359",
@@ -8270,7 +8285,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "fc2f1293c5cd1b",
@@ -8312,7 +8327,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "fffd0741cfb272",
@@ -8355,7 +8370,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "9669671d0447da",
@@ -8395,7 +8410,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "59c0c6954d3e4b",
@@ -8436,7 +8451,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "4c638a3f061ae9",
@@ -8468,14 +8483,14 @@
       "difficulty": "Intermediate",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 674,
+      "findings_count": 680,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/f09ac833-d918-4611-a85d-14a1aed50900/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:53Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "d81113c08556aa",
@@ -8517,7 +8532,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "569be6d7b3facb",
@@ -8560,7 +8575,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "6d75ecc14260fe",
@@ -8602,7 +8617,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "267a81d10e05a7",
@@ -8643,7 +8658,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "dfd5aad5fa36e6",
@@ -8684,7 +8699,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "68ff53fcba952a",
@@ -8725,7 +8740,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "6cb8b7b3059301",
@@ -8767,7 +8782,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     },
     {
       "id": "213edcdb54bd00",
@@ -8808,7 +8823,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-23T16:45:52Z"
+      "scraped_at": "2026-11-24T16:40:24Z"
     }
   ]
 }

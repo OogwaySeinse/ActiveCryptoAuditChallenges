@@ -1496,7 +1496,8 @@
           "KYC Required",
           "Paid Submissions",
           "PoC Required",
-          "Primacy of Impact"
+          "Primacy of Impact",
+          "Premium Program"
         ],
         "featured": [
           "Launched Recently",
@@ -2531,8 +2532,7 @@
           "PoC Required"
         ],
         "featured": [
-          "Launched Recently",
-          "Paid Recently"
+          "Launched Recently"
         ]
       },
       "url": "/bug-bounty/hydration/information/",
@@ -5834,8 +5834,7 @@
         ],
         "projectType": [
           "Blockchain",
-          "Defi",
-          "NFT"
+          "Defi"
         ],
         "general": [
           "Immunefi Standard",

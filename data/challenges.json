@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-11-24T16:40:23Z",
+    "generated_at": "2026-11-25T16:24:23Z",
     "total_active": 202,
     "contest_prize_usd": 650893.69,
     "max_bounty_usd": 15500000.0,
     "bounty_pool_usd": 142965597.0,
-    "ending_soon_count": 1,
+    "ending_soon_count": 2,
     "platforms_count": 12,
     "by_type": {
       "bug_bounty": 178,
@@ -58,7 +58,7 @@
       "Polkadot / Substrate": 1
     },
     "history": {
-      "new_challenges": 3,
+      "new_challenges": 2,
       "prize_changes": 0,
       "deadline_changes": 0,
       "tracked_total": 245
@@ -644,6 +644,21 @@
         "new_count": 3,
         "prize_changes": 0,
         "deadline_changes": 0
+      },
+      {
+        "date": "2026-11-25",
+        "total_active": 202,
+        "by_type": {
+          "audit_contest": 2,
+          "bug_bounty": 178,
+          "hackathon": 5,
+          "ctf": 9,
+          "practice": 8
+        },
+        "contest_prize_usd": 650893.69,
+        "new_count": 2,
+        "prize_changes": 0,
+        "deadline_changes": 0
       }
     ],
     "sources": [
@@ -651,65 +666,65 @@
         "name": "code4rena",
         "status": "ok",
         "count": 0,
-        "duration_ms": 700,
+        "duration_ms": 659,
         "error": "No live challenges right now",
-        "updated_at": "2026-11-24T16:40:23Z"
+        "updated_at": "2026-11-25T16:24:23Z"
       },
       {
         "name": "sherlock",
         "status": "ok",
         "count": 0,
-        "duration_ms": 23347,
+        "duration_ms": 13992,
         "error": "No live challenges right now",
-        "updated_at": "2026-11-24T16:40:23Z"
+        "updated_at": "2026-11-25T16:24:23Z"
       },
       {
         "name": "cantina",
         "status": "ok",
         "count": 48,
-        "duration_ms": 1240,
+        "duration_ms": 1006,
         "error": null,
-        "updated_at": "2026-11-24T16:40:23Z"
+        "updated_at": "2026-11-25T16:24:23Z"
       },
       {
         "name": "codehawks",
         "status": "ok",
         "count": 0,
-        "duration_ms": 4021,
+        "duration_ms": 3960,
         "error": "No live challenges right now",
-        "updated_at": "2026-11-24T16:40:23Z"
+        "updated_at": "2026-11-25T16:24:23Z"
       },
       {
         "name": "immunefi",
         "status": "ok",
         "count": 137,
-        "duration_ms": 1443,
+        "duration_ms": 1161,
         "error": null,
-        "updated_at": "2026-11-24T16:40:23Z"
+        "updated_at": "2026-11-25T16:24:23Z"
       },
       {
         "name": "ethglobal",
         "status": "ok",
         "count": 5,
-        "duration_ms": 2147,
+        "duration_ms": 2396,
         "error": null,
-        "updated_at": "2026-11-24T16:40:23Z"
+        "updated_at": "2026-11-25T16:24:23Z"
       },
       {
         "name": "devpost",
         "status": "ok",
         "count": 0,
-        "duration_ms": 406,
+        "duration_ms": 360,
         "error": "No live challenges right now",
-        "updated_at": "2026-11-24T16:40:23Z"
+        "updated_at": "2026-11-25T16:24:23Z"
       },
       {
         "name": "ctftime",
         "status": "ok",
         "count": 9,
-        "duration_ms": 697,
+        "duration_ms": 681,
         "error": null,
-        "updated_at": "2026-11-24T16:40:23Z"
+        "updated_at": "2026-11-25T16:24:23Z"
       },
       {
         "name": "curated",
@@ -717,7 +732,7 @@
         "count": 8,
         "duration_ms": 0,
         "error": null,
-        "updated_at": "2026-11-24T16:40:24Z"
+        "updated_at": "2026-11-25T16:24:24Z"
       }
     ]
   },
@@ -734,7 +749,7 @@
       "prize_raw": "250000.0",
       "start_date": "2026-11-19T17:00:00Z",
       "end_date": "2026-12-01T12:00:00Z",
-      "days_remaining": 6,
+      "days_remaining": 5,
       "status": "ending_soon",
       "challenge_type": "audit_contest",
       "category": "L1 / L2 Infrastructure",
@@ -761,7 +776,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:25Z"
+      "scraped_at": "2026-11-25T16:24:25Z"
     },
     {
       "id": "c6fb7f1e0c4622",
@@ -775,8 +790,8 @@
       "prize_raw": "400000.0 USDC",
       "start_date": "2026-11-23T12:40:00Z",
       "end_date": "2026-12-03T12:40:00Z",
-      "days_remaining": 8,
-      "status": "active",
+      "days_remaining": 7,
+      "status": "ending_soon",
       "challenge_type": "audit_contest",
       "category": "Lending & Credit",
       "ecosystem": "EVM",
@@ -793,14 +808,94 @@
       "difficulty": "Advanced",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 94,
+      "findings_count": 176,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/56103ebb-f81c-409e-c60b-5eb6e9bb7900/public",
       "first_seen_at": "2026-11-23",
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
+    },
+    {
+      "id": "a2d01a9b75b182",
+      "title": "RedReaper CTF",
+      "platform": "CTFtime",
+      "source": "ctftime",
+      "url": "https://ctftime.org/event/3502/",
+      "prize": "TBD",
+      "prize_usd": 0.0,
+      "prize_currency": "USD",
+      "prize_raw": "TBD",
+      "start_date": "2026-11-27T11:00:00Z",
+      "end_date": "2026-11-27T19:00:00Z",
+      "days_remaining": 2,
+      "status": "upcoming",
+      "challenge_type": "ctf",
+      "category": "Cryptography & CTF",
+      "ecosystem": "Multi-chain / General",
+      "languages": [
+        "Python"
+      ],
+      "tags": [
+        "cryptography",
+        "ctftime",
+        "jeopardy"
+      ],
+      "description": "RedReaper CTF Welcome to RedReaper CTF, a cybersecurity Capture The Flag competition organized by RedX & Reaper Enter a dark world of cybersecurity challenges, where technical knowledge, creativity, and problem-solving skills will determine who survives the hunt. Test your skills across multiple cybersecurity domains, solve challenges, uncover hidden flags, and compete against other participants. Challenge Categorie…",
+      "organizer": "RedReaper",
+      "difficulty": "Beginner",
+      "kyc_required": null,
+      "participants_count": 85,
+      "findings_count": null,
+      "repo_url": null,
+      "logo_url": null,
+      "first_seen_at": "2026-11-15",
+      "is_new": false,
+      "prize_delta_usd": 0.0,
+      "days_shift": 0,
+      "scraped_at": "2026-11-25T16:24:24Z"
+    },
+    {
+      "id": "1298c925233c3d",
+      "title": "Black Hat India 2026 Official CTF",
+      "platform": "CTFtime",
+      "source": "ctftime",
+      "url": "https://ctftime.org/event/3510/",
+      "prize": "85,000 INR",
+      "prize_usd": 893.69,
+      "prize_currency": "INR",
+      "prize_raw": "9 Black Hat India 2027 Briefings passes in total, worth ₹7,65,000 (₹85,000 each)\r\n1st place team: 3 Briefings passes (worth ₹2,55,000)\r\n2nd place team: 3 Briefings passes (worth ₹2,55,000)\r\n3rd place team: 3 Briefings passes (worth ₹2,55,000)\r\nPasses are for Black Hat India 2027, Hyderabad.",
+      "start_date": "2026-11-28T14:00:00Z",
+      "end_date": "2026-11-29T14:00:00Z",
+      "days_remaining": 3,
+      "status": "upcoming",
+      "challenge_type": "ctf",
+      "category": "Blockchain CTF",
+      "ecosystem": "Multi-chain / General",
+      "languages": [
+        "Python",
+        "Solidity"
+      ],
+      "tags": [
+        "blockchain",
+        "cryptography",
+        "ctftime",
+        "jeopardy"
+      ],
+      "description": "Black Hat India 2026 Official CTF is a 24-hour online Jeopardy-style CTF with 200 original challenges. The top 3 teams each win 3 Briefings passes (9 in total, each worth ₹85,000) to attend Black Hat India 2027 in Hyderabad. Dates for Black Hat India 2027 are yet to be announced. Categories: Web3, Smart Contract Exploitation, LLM Security, AI Security, IAM, SSO, DFIR, Cloud Native Security, Mobile Security, FinTech …",
+      "organizer": "CTF7",
+      "difficulty": "Beginner",
+      "kyc_required": null,
+      "participants_count": 45,
+      "findings_count": null,
+      "repo_url": null,
+      "logo_url": null,
+      "first_seen_at": "2026-11-15",
+      "is_new": false,
+      "prize_delta_usd": 0.0,
+      "days_shift": 0,
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "51929ef0140f7e",
@@ -831,7 +926,7 @@
       "organizer": "L3m0n CTF",
       "difficulty": "Beginner",
       "kyc_required": null,
-      "participants_count": 86,
+      "participants_count": 100,
       "findings_count": null,
       "repo_url": null,
       "logo_url": null,
@@ -839,87 +934,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
-    },
-    {
-      "id": "a2d01a9b75b182",
-      "title": "RedReaper CTF",
-      "platform": "CTFtime",
-      "source": "ctftime",
-      "url": "https://ctftime.org/event/3502/",
-      "prize": "TBD",
-      "prize_usd": 0.0,
-      "prize_currency": "USD",
-      "prize_raw": "TBD",
-      "start_date": "2026-11-27T11:00:00Z",
-      "end_date": "2026-11-27T19:00:00Z",
-      "days_remaining": 3,
-      "status": "upcoming",
-      "challenge_type": "ctf",
-      "category": "Cryptography & CTF",
-      "ecosystem": "Multi-chain / General",
-      "languages": [
-        "Python"
-      ],
-      "tags": [
-        "cryptography",
-        "ctftime",
-        "jeopardy"
-      ],
-      "description": "RedReaper CTF Welcome to RedReaper CTF, a cybersecurity Capture The Flag competition organized by RedX & Reaper Enter a dark world of cybersecurity challenges, where technical knowledge, creativity, and problem-solving skills will determine who survives the hunt. Test your skills across multiple cybersecurity domains, solve challenges, uncover hidden flags, and compete against other participants. Challenge Categorie…",
-      "organizer": "RedReaper",
-      "difficulty": "Beginner",
-      "kyc_required": null,
-      "participants_count": 70,
-      "findings_count": null,
-      "repo_url": null,
-      "logo_url": null,
-      "first_seen_at": "2026-11-15",
-      "is_new": false,
-      "prize_delta_usd": 0.0,
-      "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
-    },
-    {
-      "id": "1298c925233c3d",
-      "title": "Black Hat India 2026 Official CTF",
-      "platform": "CTFtime",
-      "source": "ctftime",
-      "url": "https://ctftime.org/event/3510/",
-      "prize": "85,000 INR",
-      "prize_usd": 893.69,
-      "prize_currency": "INR",
-      "prize_raw": "9 Black Hat India 2027 Briefings passes in total, worth ₹7,65,000 (₹85,000 each)\r\n1st place team: 3 Briefings passes (worth ₹2,55,000)\r\n2nd place team: 3 Briefings passes (worth ₹2,55,000)\r\n3rd place team: 3 Briefings passes (worth ₹2,55,000)\r\nPasses are for Black Hat India 2027, Hyderabad.",
-      "start_date": "2026-11-28T14:00:00Z",
-      "end_date": "2026-11-29T14:00:00Z",
-      "days_remaining": 4,
-      "status": "upcoming",
-      "challenge_type": "ctf",
-      "category": "Blockchain CTF",
-      "ecosystem": "Multi-chain / General",
-      "languages": [
-        "Python",
-        "Solidity"
-      ],
-      "tags": [
-        "blockchain",
-        "cryptography",
-        "ctftime",
-        "jeopardy"
-      ],
-      "description": "Black Hat India 2026 Official CTF is a 24-hour online Jeopardy-style CTF with 200 original challenges. The top 3 teams each win 3 Briefings passes (9 in total, each worth ₹85,000) to attend Black Hat India 2027 in Hyderabad. Dates for Black Hat India 2027 are yet to be announced. Categories: Web3, Smart Contract Exploitation, LLM Security, AI Security, IAM, SSO, DFIR, Cloud Native Security, Mobile Security, FinTech …",
-      "organizer": "CTF7",
-      "difficulty": "Beginner",
-      "kyc_required": null,
-      "participants_count": 42,
-      "findings_count": null,
-      "repo_url": null,
-      "logo_url": null,
-      "first_seen_at": "2026-11-15",
-      "is_new": false,
-      "prize_delta_usd": 0.0,
-      "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "e3300d7ba156eb",
@@ -933,7 +948,7 @@
       "prize_raw": "Academic bracket\r\nTop 10 academic: invited to LakeCTF finals with lodging paid\r\n\r\nno insomnihack this year :< (they are figuring out their own noAI stuff)",
       "start_date": "2026-11-27T18:00:00Z",
       "end_date": "2026-11-28T18:00:00Z",
-      "days_remaining": 4,
+      "days_remaining": 3,
       "status": "upcoming",
       "challenge_type": "ctf",
       "category": "Cryptography & CTF",
@@ -950,7 +965,7 @@
       "organizer": "polygl0ts",
       "difficulty": "Intermediate",
       "kyc_required": null,
-      "participants_count": 94,
+      "participants_count": 105,
       "findings_count": null,
       "repo_url": null,
       "logo_url": null,
@@ -958,7 +973,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "a3bfd46fda2850",
@@ -972,7 +987,7 @@
       "prize_raw": "Sponsored by TryHackMe (https://tryhackme.com):\r\n\r\n- 1st Place: 2x 6-Month TryHackMe Premium Vouchers + Official Winner Certificates\r\n- 2nd Place: 2x 3-Month TryHackMe Premium Vouchers + Official Winner Certificates\r\n- 3rd Place: 2x 1-Month TryHackMe Premium Vouchers + Official Winner Certificates\r\n- Best Write-up Award: 1x 1-Month TryHackMe Premium Voucher\r\n\r\nMore prizes from additional sponsors are currently being finalized and will be announced soon!\r\n\r\nNote: Vouchers will be distributed within 5-7 days after the competition ends and Top 3 write-ups are verified.",
       "start_date": "2026-11-27T17:00:00Z",
       "end_date": "2026-11-28T17:00:00Z",
-      "days_remaining": 4,
+      "days_remaining": 3,
       "status": "upcoming",
       "challenge_type": "ctf",
       "category": "Cryptography & CTF",
@@ -989,7 +1004,7 @@
       "organizer": "NovaRun",
       "difficulty": "Beginner",
       "kyc_required": null,
-      "participants_count": 44,
+      "participants_count": 55,
       "findings_count": null,
       "repo_url": null,
       "logo_url": null,
@@ -997,7 +1012,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "50dd2d67be48df",
@@ -1011,7 +1026,7 @@
       "prize_raw": "TBA",
       "start_date": "2026-12-05T05:00:00Z",
       "end_date": "2026-12-06T17:00:00Z",
-      "days_remaining": 12,
+      "days_remaining": 11,
       "status": "upcoming",
       "challenge_type": "ctf",
       "category": "Cryptography & CTF",
@@ -1028,7 +1043,7 @@
       "organizer": "bi0s",
       "difficulty": "Advanced",
       "kyc_required": null,
-      "participants_count": 55,
+      "participants_count": 56,
       "findings_count": null,
       "repo_url": null,
       "logo_url": null,
@@ -1036,7 +1051,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "03a5ae9715932f",
@@ -1050,7 +1065,7 @@
       "prize_raw": "",
       "start_date": "2026-12-04T10:00:00Z",
       "end_date": "2026-12-06T18:00:00Z",
-      "days_remaining": 12,
+      "days_remaining": 11,
       "status": "upcoming",
       "challenge_type": "ctf",
       "category": "Cryptography & CTF",
@@ -1067,7 +1082,7 @@
       "organizer": "ascii overflow",
       "difficulty": "Beginner",
       "kyc_required": null,
-      "participants_count": 5,
+      "participants_count": 8,
       "findings_count": null,
       "repo_url": null,
       "logo_url": null,
@@ -1075,7 +1090,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "a084e989170fd8",
@@ -1089,7 +1104,7 @@
       "prize_raw": "TBA but they will be cute",
       "start_date": "2026-12-04T18:00:00Z",
       "end_date": "2026-12-06T18:00:00Z",
-      "days_remaining": 12,
+      "days_remaining": 11,
       "status": "upcoming",
       "challenge_type": "ctf",
       "category": "Cryptography & CTF",
@@ -1106,7 +1121,7 @@
       "organizer": "x3CTF",
       "difficulty": "Beginner",
       "kyc_required": null,
-      "participants_count": 29,
+      "participants_count": 31,
       "findings_count": null,
       "repo_url": null,
       "logo_url": null,
@@ -1114,7 +1129,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "d0939b60c650b2",
@@ -1128,7 +1143,7 @@
       "prize_raw": "TBA",
       "start_date": "2026-12-11T12:00:00Z",
       "end_date": "2026-12-13T12:00:00Z",
-      "days_remaining": 18,
+      "days_remaining": 17,
       "status": "upcoming",
       "challenge_type": "ctf",
       "category": "Cryptography & CTF",
@@ -1145,7 +1160,7 @@
       "organizer": "Cryptonite",
       "difficulty": "Advanced",
       "kyc_required": null,
-      "participants_count": 88,
+      "participants_count": 91,
       "findings_count": null,
       "repo_url": null,
       "logo_url": null,
@@ -1153,7 +1168,7 @@
       "is_new": true,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "1929703a4cd131",
@@ -1167,7 +1182,7 @@
       "prize_raw": "Sponsor prize pool",
       "start_date": "2026-12-03T05:00:00Z",
       "end_date": "2026-12-10T05:00:00Z",
-      "days_remaining": 15,
+      "days_remaining": 14,
       "status": "upcoming",
       "challenge_type": "hackathon",
       "category": "AI & Agents",
@@ -1191,10 +1206,10 @@
       "repo_url": null,
       "logo_url": null,
       "first_seen_at": "2026-11-21",
-      "is_new": true,
+      "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:25Z"
+      "scraped_at": "2026-11-25T16:24:26Z"
     },
     {
       "id": "efd8684e6890ad",
@@ -1208,7 +1223,7 @@
       "prize_raw": "Sponsor prize pool",
       "start_date": "2027-04-14T10:36:00Z",
       "end_date": "2027-04-16T10:36:00Z",
-      "days_remaining": 142,
+      "days_remaining": 141,
       "status": "upcoming",
       "challenge_type": "hackathon",
       "category": "Web3 Building (General)",
@@ -1235,7 +1250,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:25Z"
+      "scraped_at": "2026-11-25T16:24:26Z"
     },
     {
       "id": "ce0a10c9ee020a",
@@ -1249,7 +1264,7 @@
       "prize_raw": "Sponsor prize pool",
       "start_date": "2027-06-14T11:07:00Z",
       "end_date": "2027-06-16T11:07:00Z",
-      "days_remaining": 203,
+      "days_remaining": 202,
       "status": "upcoming",
       "challenge_type": "hackathon",
       "category": "Web3 Building (General)",
@@ -1276,7 +1291,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:25Z"
+      "scraped_at": "2026-11-25T16:24:26Z"
     },
     {
       "id": "90d12f3c79f62c",
@@ -1290,7 +1305,7 @@
       "prize_raw": "Sponsor prize pool",
       "start_date": "2027-08-23T10:19:00Z",
       "end_date": "2027-08-25T10:19:00Z",
-      "days_remaining": 273,
+      "days_remaining": 272,
       "status": "upcoming",
       "challenge_type": "hackathon",
       "category": "Web3 Building (General)",
@@ -1317,7 +1332,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:25Z"
+      "scraped_at": "2026-11-25T16:24:26Z"
     },
     {
       "id": "c0a42abf771d0a",
@@ -1331,7 +1346,7 @@
       "prize_raw": "Sponsor prize pool",
       "start_date": "2027-10-14T10:24:00Z",
       "end_date": "2027-10-16T10:24:00Z",
-      "days_remaining": 325,
+      "days_remaining": 324,
       "status": "upcoming",
       "challenge_type": "hackathon",
       "category": "Web3 Building (General)",
@@ -1358,7 +1373,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:25Z"
+      "scraped_at": "2026-11-25T16:24:26Z"
     },
     {
       "id": "c5d211e71156f2",
@@ -1390,14 +1405,14 @@
       "difficulty": "Expert",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 1166,
+      "findings_count": 1167,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/996f66ba-85cb-426e-8735-30c8cd8a6300/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "ecb9c7ec31ec46",
@@ -1429,14 +1444,14 @@
       "difficulty": "Expert",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 253,
+      "findings_count": 254,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/9b09e384-f489-4960-ce29-ed0ba1bd6400/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "4ff1aa3074ef63",
@@ -1476,7 +1491,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "1140f95f570587",
@@ -1517,7 +1532,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "76b295fdd6df66",
@@ -1549,14 +1564,14 @@
       "difficulty": "Expert",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 2107,
+      "findings_count": 2115,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/32f837aa-461f-42b4-5c99-2aa6599cf500/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "a7b42f365719ca",
@@ -1597,7 +1612,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "ce2a60fb5b5ee1",
@@ -1636,7 +1651,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "22af94be465f9b",
@@ -1676,7 +1691,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "ede44d3cea7b78",
@@ -1718,7 +1733,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "3e5c31a16e3ff6",
@@ -1758,7 +1773,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "f9ec4599a9f5b2",
@@ -1798,7 +1813,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "7dac536256e841",
@@ -1842,7 +1857,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "c96031d316e011",
@@ -1883,7 +1898,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "f7b0c61b45cc72",
@@ -1925,7 +1940,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "5e8b811c42f3b0",
@@ -1957,14 +1972,14 @@
       "difficulty": "Expert",
       "kyc_required": false,
       "participants_count": null,
-      "findings_count": 1710,
+      "findings_count": 1711,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/56103ebb-f81c-409e-c60b-5eb6e9bb7900/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "1d2fedf4e6ffed",
@@ -2009,7 +2024,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "b7bd9b2b6580d8",
@@ -2049,7 +2064,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "f32110f5bd993f",
@@ -2088,7 +2103,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "24fa0f356c1058",
@@ -2129,7 +2144,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "47f43d99665e39",
@@ -2161,14 +2176,14 @@
       "difficulty": "Expert",
       "kyc_required": false,
       "participants_count": null,
-      "findings_count": 108,
+      "findings_count": 109,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/2b01fc25-74fe-4674-66e2-b90805e65500/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "91c8261592028b",
@@ -2207,7 +2222,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "eef7b8e2256b4a",
@@ -2246,7 +2261,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "95ca2444a0b535",
@@ -2285,7 +2300,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "ab3d8d7ecda990",
@@ -2326,7 +2341,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "b2fea0ae112834",
@@ -2366,7 +2381,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "4267e2c8557ae3",
@@ -2407,7 +2422,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "06614874d87f3b",
@@ -2448,7 +2463,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "34befcbab1ee7f",
@@ -2489,7 +2504,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "17069a606ded86",
@@ -2521,14 +2536,14 @@
       "difficulty": "Expert",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 1293,
+      "findings_count": 1295,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/736d6bf0-efaa-473a-cf43-3aefa9f53e00/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "2c7e0dda7618d9",
@@ -2568,7 +2583,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "c17dad6ed1cfe4",
@@ -2607,7 +2622,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "9e7e39f17a2bb3",
@@ -2646,7 +2661,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "93c1624719d8f6",
@@ -2685,7 +2700,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "8cd8effb2957c9",
@@ -2725,7 +2740,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "547cf655a7cc10",
@@ -2757,14 +2772,14 @@
       "difficulty": "Expert",
       "kyc_required": false,
       "participants_count": null,
-      "findings_count": 343,
+      "findings_count": 345,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/6cd87a82-9b94-46ae-bff5-65f4969d7e00/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "8849c38e8d9992",
@@ -2803,7 +2818,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "73eb7af18d1893",
@@ -2844,7 +2859,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "11bd179d164342",
@@ -2886,7 +2901,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "230e3a2fffcd09",
@@ -2926,7 +2941,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "9a93d5412ba9d9",
@@ -2964,7 +2979,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "6c364f011d6b57",
@@ -2996,14 +3011,14 @@
       "difficulty": "Expert",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 162,
+      "findings_count": 163,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/3b133e64-b63e-46a8-f714-ec35aaaa8800/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "948e18d81d5e17",
@@ -3042,7 +3057,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "7a17e50d2a81a1",
@@ -3086,7 +3101,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "fb981950a2ba9f",
@@ -3125,7 +3140,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "821403676eb31c",
@@ -3164,7 +3179,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "f0f502cb1456f1",
@@ -3204,7 +3219,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "c1051290fd216d",
@@ -3244,7 +3259,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "3584c7c630fdb7",
@@ -3285,7 +3300,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "c7bb81bf2b8a54",
@@ -3328,7 +3343,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "cefc3f27c7add7",
@@ -3369,7 +3384,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "1b135ac1a760eb",
@@ -3411,7 +3426,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "c12dcf0a5418df",
@@ -3453,7 +3468,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "18fac71f3c067b",
@@ -3493,7 +3508,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "ec4924658e598b",
@@ -3513,7 +3528,8 @@
       "category": "L1 / L2 Infrastructure",
       "ecosystem": "EVM",
       "languages": [
-        "Solidity"
+        "Solidity",
+        "Move"
       ],
       "tags": [
         "immunefi",
@@ -3533,7 +3549,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "e0bdc4e69a5a74",
@@ -3565,14 +3581,14 @@
       "difficulty": "Advanced",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 325,
+      "findings_count": 326,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/faceb1cf-6d27-4718-4623-387405d69000/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "169b7b7249289f",
@@ -3611,7 +3627,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "0252a905f4c221",
@@ -3650,7 +3666,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "b246a4ce7293d5",
@@ -3689,7 +3705,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "2f39dfc724561d",
@@ -3730,7 +3746,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "4472707561fc03",
@@ -3769,7 +3785,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "1176ec2f5daee2",
@@ -3808,7 +3824,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "2096cd2aa6d651",
@@ -3847,7 +3863,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "04770d60f5ccfc",
@@ -3886,7 +3902,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "018de9c3ed3227",
@@ -3926,7 +3942,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "8c0a8fa3f1a678",
@@ -3958,14 +3974,14 @@
       "difficulty": "Advanced",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 1086,
+      "findings_count": 1091,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/02f892de-566d-4e57-522d-838879c79200/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "5c8610f7f20bad",
@@ -4006,7 +4022,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "28de85b9caa1c1",
@@ -4038,14 +4054,14 @@
       "difficulty": "Advanced",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 399,
+      "findings_count": 400,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/7f888151-1692-4106-e83e-146a0f8dec00/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "4265d59baed981",
@@ -4084,7 +4100,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "ce8d82f7496e3b",
@@ -4122,7 +4138,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "938b9a8f7147cd",
@@ -4162,7 +4178,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "e268cbfe10fe18",
@@ -4201,7 +4217,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "eb48a477b8a465",
@@ -4243,7 +4259,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "6733dcef7a8317",
@@ -4282,7 +4298,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "750cf582059e1f",
@@ -4315,14 +4331,14 @@
       "difficulty": "Advanced",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 776,
+      "findings_count": 782,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/972937de-e6ee-4072-bb58-f92703b7df00/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "44ed6ffcdfb5b6",
@@ -4351,7 +4367,7 @@
         "smart contract",
         "websites and applications"
       ],
-      "description": "Up to $250,000 for critical findings. Scope: Smart Contract, Websites and Applications. PoC required. Triaged by Immunefi.",
+      "description": "Up to $250,000 for critical findings. Scope: Websites and Applications, Smart Contract. PoC required. Triaged by Immunefi.",
       "organizer": "Avail",
       "difficulty": "Advanced",
       "kyc_required": true,
@@ -4363,7 +4379,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "e085eb46db54f2",
@@ -4402,7 +4418,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "20933c96e627d0",
@@ -4434,14 +4450,14 @@
       "difficulty": "Advanced",
       "kyc_required": false,
       "participants_count": null,
-      "findings_count": 361,
+      "findings_count": 363,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/250f761e-bd6f-4e87-6106-97f651be8100/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "f6cc36f955dbb8",
@@ -4483,7 +4499,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "b5a3e0521dbbb8",
@@ -4524,7 +4540,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "6877403a39e768",
@@ -4563,7 +4579,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "5d4d09fe8e8f52",
@@ -4605,7 +4621,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "8ecd0e0fb7ee11",
@@ -4646,7 +4662,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "b3b6795db9da03",
@@ -4688,7 +4704,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "d8eeb12ce8acc9",
@@ -4731,7 +4747,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "dcd0b90ffebcf9",
@@ -4771,7 +4787,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "b66058b0a78ae1",
@@ -4814,7 +4830,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "19ed40886158e4",
@@ -4854,7 +4870,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "7e1a8deb88f940",
@@ -4894,7 +4910,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "d4ec024946f079",
@@ -4934,7 +4950,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "455c2d0acf0c8d",
@@ -4973,7 +4989,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "ffe0c3f509b564",
@@ -5015,7 +5031,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "b696c019fe0796",
@@ -5053,7 +5069,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "28ccb5c8448b24",
@@ -5081,7 +5097,7 @@
         "safe harbor",
         "smart contract"
       ],
-      "description": "Up to $200,000 for critical findings. Scope: Smart Contract. PoC required. Triaged by Immunefi.",
+      "description": "Up to $200,000 for critical findings. Scope: Smart Contract. PoC required.",
       "organizer": "Enzyme Blue",
       "difficulty": "Advanced",
       "kyc_required": false,
@@ -5093,7 +5109,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "913c7105e45a8d",
@@ -5121,7 +5137,7 @@
         "safe harbor",
         "smart contract"
       ],
-      "description": "Up to $200,000 for critical findings. Scope: Smart Contract. PoC required. Triaged by Immunefi.",
+      "description": "Up to $200,000 for critical findings. Scope: Smart Contract. PoC required.",
       "organizer": "Enzyme Onyx",
       "difficulty": "Advanced",
       "kyc_required": false,
@@ -5133,7 +5149,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "da8b7ad0f69f65",
@@ -5175,7 +5191,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "bcb74362a1ce72",
@@ -5217,7 +5233,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "7c1b1f25169ca7",
@@ -5256,7 +5272,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "3aa736230e7b13",
@@ -5295,7 +5311,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "016f85ced02421",
@@ -5334,7 +5350,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "d2b5c4c79f0934",
@@ -5374,7 +5390,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "44f42c81a1bd99",
@@ -5414,7 +5430,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "5f0778fd10b4d7",
@@ -5455,7 +5471,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "a6e53f3d377bc8",
@@ -5496,7 +5512,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "252c8f508096f4",
@@ -5536,7 +5552,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "2a34f152fd6b0d",
@@ -5576,7 +5592,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "2a18c085d482af",
@@ -5616,7 +5632,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "9e024445f14187",
@@ -5656,7 +5672,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "77b57cce0c0c2a",
@@ -5699,7 +5715,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "6c6cd7dee7b333",
@@ -5738,7 +5754,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "a1204b62d00780",
@@ -5777,7 +5793,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "a7a940beea380c",
@@ -5817,7 +5833,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "408bee08b05fd5",
@@ -5855,7 +5871,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "87035080d5f10e",
@@ -5896,7 +5912,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "9e38db84b3c68c",
@@ -5937,7 +5953,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "aeb0ed9f36d654",
@@ -5976,7 +5992,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "519f5fb33ea5cd",
@@ -6015,7 +6031,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "c9602185547973",
@@ -6055,7 +6071,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "2b23a9019e36e2",
@@ -6094,7 +6110,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "1b770324837fcc",
@@ -6133,7 +6149,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "415dcf1503a66f",
@@ -6173,7 +6189,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "46db655a78709c",
@@ -6205,14 +6221,14 @@
       "difficulty": "Advanced",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 301,
+      "findings_count": 302,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/b6fd462c-4d69-4dda-1ec5-0ee1db626c00/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "287961b466cf9d",
@@ -6251,7 +6267,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "7a3fda7fad187a",
@@ -6291,7 +6307,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "d22588b2099f8c",
@@ -6330,7 +6346,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "cd09da89b4fd9d",
@@ -6362,14 +6378,14 @@
       "difficulty": "Advanced",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 196,
+      "findings_count": 197,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/7b9b34db-25d9-4cd1-34b6-cb169028fe00/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "d6cd6ba79ed9ab",
@@ -6408,7 +6424,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "3086b000c2d0a5",
@@ -6449,7 +6465,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "3e85f08c51afc7",
@@ -6480,14 +6496,14 @@
       "difficulty": "Advanced",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 1101,
+      "findings_count": 1103,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/d76cdfeb-fb43-4aba-dc7c-f4171ea0ae00/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "fb24e3012c1845",
@@ -6528,7 +6544,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "49afc8f30b7911",
@@ -6567,7 +6583,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "c4f5445a80df8c",
@@ -6608,7 +6624,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "9ad134bf672515",
@@ -6648,7 +6664,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "64cee78be5b832",
@@ -6689,7 +6705,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "aa9ae11d5bea89",
@@ -6729,7 +6745,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "7e1dfe7b7aa928",
@@ -6768,7 +6784,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "4ef29930915b43",
@@ -6807,7 +6823,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "98ce7d473aa0d5",
@@ -6847,7 +6863,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "9e9069c71beb83",
@@ -6886,7 +6902,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "2ab97de69175fe",
@@ -6929,7 +6945,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "ee1d1ad03ee33c",
@@ -6970,7 +6986,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "c72aa8c07b4252",
@@ -7008,7 +7024,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "d0e4d7bff5d823",
@@ -7049,7 +7065,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "a01eecdd46caec",
@@ -7088,7 +7104,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "b8f51803351062",
@@ -7126,7 +7142,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "b6697f382bbfd1",
@@ -7164,7 +7180,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "337bb6ca81ed45",
@@ -7206,7 +7222,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "dd8669f26ae4ff",
@@ -7245,7 +7261,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "b9d9b508b298ee",
@@ -7285,7 +7301,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "703cab55f57426",
@@ -7326,7 +7342,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "5ef3f89b306682",
@@ -7365,7 +7381,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "3d4f2dcf5caaa6",
@@ -7408,7 +7424,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "8e5cefc40f55fd",
@@ -7447,7 +7463,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "33c8526e5e6b93",
@@ -7486,7 +7502,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "775122f1226586",
@@ -7527,7 +7543,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "346463cf540bf4",
@@ -7566,7 +7582,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "6d74c90e66bde4",
@@ -7607,7 +7623,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "bd8eda9a473afe",
@@ -7646,7 +7662,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "e6ecce3f892c93",
@@ -7686,7 +7702,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "4a4120c1e3dd9c",
@@ -7726,7 +7742,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "23cd5c79383edb",
@@ -7757,14 +7773,14 @@
       "difficulty": "Intermediate",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 82,
+      "findings_count": 85,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/c1f933ad-6648-4bad-fa77-cf7059bfb700/public",
       "first_seen_at": "2026-11-14",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "686e9b0f270378",
@@ -7803,7 +7819,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "86d3d3103e6dd4",
@@ -7844,7 +7860,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "178bdefe4bb459",
@@ -7883,7 +7899,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "6efedd99fc07e3",
@@ -7915,14 +7931,14 @@
       "difficulty": "Intermediate",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 31,
+      "findings_count": 32,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/aa4dbb6d-4a3f-4472-b63e-a4c8f3341500/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "8846620c8f99f2",
@@ -7962,7 +7978,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "d610a0f823d00a",
@@ -8001,7 +8017,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "54f277d721eeed",
@@ -8041,7 +8057,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "61002ccf02a4aa",
@@ -8082,7 +8098,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "e83338327d587e",
@@ -8122,7 +8138,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "1f8d20a4f26daa",
@@ -8162,7 +8178,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "26fa8666bfccd3",
@@ -8201,7 +8217,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "9261042d889241",
@@ -8245,7 +8261,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "99f2d269d1a359",
@@ -8285,7 +8301,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "fc2f1293c5cd1b",
@@ -8327,7 +8343,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "fffd0741cfb272",
@@ -8370,7 +8386,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "9669671d0447da",
@@ -8410,7 +8426,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "59c0c6954d3e4b",
@@ -8451,7 +8467,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "4c638a3f061ae9",
@@ -8483,14 +8499,14 @@
       "difficulty": "Intermediate",
       "kyc_required": true,
       "participants_count": null,
-      "findings_count": 680,
+      "findings_count": 684,
       "repo_url": null,
       "logo_url": "https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/f09ac833-d918-4611-a85d-14a1aed50900/public",
       "first_seen_at": "2026-10-17",
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "d81113c08556aa",
@@ -8532,7 +8548,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "569be6d7b3facb",
@@ -8575,7 +8591,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "6d75ecc14260fe",
@@ -8617,7 +8633,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "267a81d10e05a7",
@@ -8658,7 +8674,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "dfd5aad5fa36e6",
@@ -8699,7 +8715,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "68ff53fcba952a",
@@ -8740,7 +8756,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "6cb8b7b3059301",
@@ -8782,7 +8798,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     },
     {
       "id": "213edcdb54bd00",
@@ -8823,7 +8839,7 @@
       "is_new": false,
       "prize_delta_usd": 0.0,
       "days_shift": 0,
-      "scraped_at": "2026-11-24T16:40:24Z"
+      "scraped_at": "2026-11-25T16:24:24Z"
     }
   ]
 }

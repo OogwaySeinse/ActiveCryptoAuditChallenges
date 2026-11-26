@@ -525,8 +525,8 @@
         ],
         "programType": [
           "Smart Contract",
-          "Websites and Applications",
-          "Blockchain/DLT"
+          "Blockchain/DLT",
+          "Websites and Applications"
         ],
         "projectType": [
           "Defi",
@@ -707,48 +707,6 @@
       },
       "url": "/bug-bounty/lido/information/",
       "pausedAt": null
-    },
-    {
-      "slug": "beanstalk",
-      "project": "Beanstalk",
-      "maxBounty": 1100000,
-      "launchDate": "2022-10-11T19:00:00.000Z",
-      "kyc": false,
-      "tags": {
-        "language": [
-          "Solidity",
-          "Typescript"
-        ],
-        "ecosystem": [
-          "ETH"
-        ],
-        "productType": [
-          "DAO",
-          "DEX",
-          "Stablecoin"
-        ],
-        "programType": [
-          "Smart Contract",
-          "Websites and Applications"
-        ],
-        "projectType": [
-          "Defi",
-          "Infrastructure"
-        ],
-        "general": [
-          "Immunefi Standard",
-          "KYC Not Required",
-          "Paid Submissions",
-          "PoC Required",
-          "Premium Program"
-        ],
-        "featured": [
-          "Launched Recently",
-          "Paid Recently"
-        ]
-      },
-      "url": "/bug-bounty/beanstalk/information/",
-      "pausedAt": "2026-11-02T05:58:12.932Z"
     },
     {
       "slug": "capyfi",
@@ -5902,7 +5860,7 @@
       "rewardsPool": 80000,
       "launchDate": "2026-11-02T14:00:00.000Z",
       "endDate": "2026-11-16T08:30:00.000Z",
-      "auditCompetitionStatus": "EVALUATING",
+      "auditCompetitionStatus": "FINISHED",
       "url": "/audit-competition/plether/information/"
     },
     {

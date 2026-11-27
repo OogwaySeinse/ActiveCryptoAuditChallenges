@@ -11,8 +11,8 @@
     "prize_raw": "TBD",
     "start_date": "2026-11-27T11:00:00Z",
     "end_date": "2026-11-27T19:00:00Z",
-    "days_remaining": 1,
-    "status": "upcoming",
+    "days_remaining": 0,
+    "status": "ending_soon",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
     "ecosystem": "Multi-chain / General",
@@ -28,7 +28,7 @@
     "organizer": "RedReaper",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 108,
+    "participants_count": 126,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -36,7 +36,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-26T15:58:14Z"
+    "scraped_at": "2026-11-27T15:46:58Z"
   },
   {
     "id": "a3bfd46fda2850",
@@ -50,7 +50,7 @@
     "prize_raw": "Sponsored by TryHackMe (https://tryhackme.com):\r\n\r\n- 1st Place: 2x 6-Month TryHackMe Premium Vouchers + Official Winner Certificates\r\n- 2nd Place: 2x 3-Month TryHackMe Premium Vouchers + Official Winner Certificates\r\n- 3rd Place: 2x 1-Month TryHackMe Premium Vouchers + Official Winner Certificates\r\n- Best Write-up Award: 1x 1-Month TryHackMe Premium Voucher\r\n\r\nMore prizes from additional sponsors are currently being finalized and will be announced soon!\r\n\r\nNote: Vouchers will be distributed within 5-7 days after the competition ends and Top 3 write-ups are verified.",
     "start_date": "2026-11-27T17:00:00Z",
     "end_date": "2026-11-28T17:00:00Z",
-    "days_remaining": 2,
+    "days_remaining": 1,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -67,7 +67,7 @@
     "organizer": "NovaRun",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 73,
+    "participants_count": 105,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -75,7 +75,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-26T15:58:14Z"
+    "scraped_at": "2026-11-27T15:46:58Z"
   },
   {
     "id": "e3300d7ba156eb",
@@ -89,7 +89,7 @@
     "prize_raw": "Academic bracket\r\nTop 10 academic: invited to LakeCTF finals with lodging paid\r\n\r\nno insomnihack this year :< (they are figuring out their own noAI stuff)",
     "start_date": "2026-11-27T18:00:00Z",
     "end_date": "2026-11-28T18:00:00Z",
-    "days_remaining": 2,
+    "days_remaining": 1,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -106,7 +106,7 @@
     "organizer": "polygl0ts",
     "difficulty": "Intermediate",
     "kyc_required": null,
-    "participants_count": 123,
+    "participants_count": 142,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -114,7 +114,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-26T15:58:14Z"
+    "scraped_at": "2026-11-27T15:46:58Z"
   },
   {
     "id": "51929ef0140f7e",
@@ -128,7 +128,7 @@
     "prize_raw": "No prizes for the Qualifiers round.\r\nTop ~75-85 teams will be invited for the on-site finals to be held at Amrita Vishwa Vidyapeetham, Coimbatore campus on December 12, 2026.\r\nPrizes for the Finals can be viewed in our Discord server: [https://discord.gg/SBPPqq3qf]",
     "start_date": "2026-11-28T04:30:00Z",
     "end_date": "2026-11-28T16:30:00Z",
-    "days_remaining": 2,
+    "days_remaining": 1,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -145,7 +145,7 @@
     "organizer": "L3m0n CTF",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 119,
+    "participants_count": 138,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -153,7 +153,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-26T15:58:14Z"
+    "scraped_at": "2026-11-27T15:46:58Z"
   },
   {
     "id": "1298c925233c3d",
@@ -167,7 +167,7 @@
     "prize_raw": "9 Black Hat India 2027 Briefings passes in total, worth ₹7,65,000 (₹85,000 each)\r\n1st place team: 3 Briefings passes (worth ₹2,55,000)\r\n2nd place team: 3 Briefings passes (worth ₹2,55,000)\r\n3rd place team: 3 Briefings passes (worth ₹2,55,000)\r\nPasses are for Black Hat India 2027, Hyderabad.",
     "start_date": "2026-11-28T14:00:00Z",
     "end_date": "2026-11-29T14:00:00Z",
-    "days_remaining": 2,
+    "days_remaining": 1,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Blockchain CTF",
@@ -186,7 +186,7 @@
     "organizer": "CTF7",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 55,
+    "participants_count": 69,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -194,7 +194,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-26T15:58:14Z"
+    "scraped_at": "2026-11-27T15:46:58Z"
   },
   {
     "id": "03a5ae9715932f",
@@ -208,7 +208,7 @@
     "prize_raw": "",
     "start_date": "2026-12-04T10:00:00Z",
     "end_date": "2026-12-06T18:00:00Z",
-    "days_remaining": 10,
+    "days_remaining": 9,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -225,7 +225,7 @@
     "organizer": "ascii overflow",
     "difficulty": "Beginner",
     "kyc_required": null,
-    "participants_count": 9,
+    "participants_count": 12,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -233,7 +233,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-26T15:58:14Z"
+    "scraped_at": "2026-11-27T15:46:58Z"
   },
   {
     "id": "a084e989170fd8",
@@ -247,7 +247,7 @@
     "prize_raw": "TBA but they will be cute",
     "start_date": "2026-12-04T18:00:00Z",
     "end_date": "2026-12-06T18:00:00Z",
-    "days_remaining": 10,
+    "days_remaining": 9,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -272,7 +272,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-26T15:58:14Z"
+    "scraped_at": "2026-11-27T15:46:58Z"
   },
   {
     "id": "50dd2d67be48df",
@@ -286,7 +286,7 @@
     "prize_raw": "TBA",
     "start_date": "2026-12-05T05:00:00Z",
     "end_date": "2026-12-06T17:00:00Z",
-    "days_remaining": 10,
+    "days_remaining": 9,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -303,7 +303,7 @@
     "organizer": "bi0s",
     "difficulty": "Advanced",
     "kyc_required": null,
-    "participants_count": 57,
+    "participants_count": 59,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -311,7 +311,7 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-26T15:58:14Z"
+    "scraped_at": "2026-11-27T15:46:58Z"
   },
   {
     "id": "d0939b60c650b2",
@@ -325,7 +325,7 @@
     "prize_raw": "TBA",
     "start_date": "2026-12-11T12:00:00Z",
     "end_date": "2026-12-13T12:00:00Z",
-    "days_remaining": 16,
+    "days_remaining": 15,
     "status": "upcoming",
     "challenge_type": "ctf",
     "category": "Cryptography & CTF",
@@ -342,7 +342,7 @@
     "organizer": "Cryptonite",
     "difficulty": "Advanced",
     "kyc_required": null,
-    "participants_count": 93,
+    "participants_count": 96,
     "findings_count": null,
     "repo_url": null,
     "logo_url": null,
@@ -350,6 +350,6 @@
     "is_new": false,
     "prize_delta_usd": 0.0,
     "days_shift": 0,
-    "scraped_at": "2026-11-26T15:58:14Z"
+    "scraped_at": "2026-11-27T15:46:58Z"
   }
 ]

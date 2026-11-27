@@ -549,6 +549,41 @@
       "pausedAt": null
     },
     {
+      "slug": "lido-lend",
+      "project": "Lido Lend",
+      "maxBounty": 2000000,
+      "launchDate": "2026-11-27T13:30:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "Solidity",
+          "Typescript"
+        ],
+        "ecosystem": [
+          "ETH"
+        ],
+        "productType": [
+          "Lending"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Defi"
+        ],
+        "general": [
+          "KYC Not Required",
+          "PoC Not Required"
+        ],
+        "featured": [
+          "Launched Recently"
+        ]
+      },
+      "url": "/bug-bounty/lido-lend/information/",
+      "pausedAt": null
+    },
+    {
       "slug": "rhinofi",
       "project": "Rhino.fi",
       "maxBounty": 2000000,
@@ -2946,55 +2981,6 @@
       "pausedAt": null
     },
     {
-      "slug": "thresholdnetwork",
-      "project": "Threshold Network",
-      "maxBounty": 150000,
-      "launchDate": "2023-04-28T09:00:00.000Z",
-      "kyc": false,
-      "tags": {
-        "language": [
-          "JavaScript",
-          "Solidity"
-        ],
-        "ecosystem": [
-          "Arbitrum",
-          "ETH",
-          "Optimism",
-          "Polygon",
-          "Solana",
-          "Base",
-          "Starknet",
-          "SUI"
-        ],
-        "productType": [
-          "Crosschain Liquidity",
-          "Currency",
-          "Staking",
-          "Synthetic Assets"
-        ],
-        "programType": [
-          "Smart Contract",
-          "Websites and Applications"
-        ],
-        "projectType": [
-          "Blockchain",
-          "Defi"
-        ],
-        "general": [
-          "Immunefi Standard",
-          "KYC Not Required",
-          "Paid Submissions",
-          "PoC Required"
-        ],
-        "featured": [
-          "Launched Recently",
-          "Paid Recently"
-        ]
-      },
-      "url": "/bug-bounty/thresholdnetwork/information/",
-      "pausedAt": null
-    },
-    {
       "slug": "gearbox",
       "project": "Gearbox",
       "maxBounty": 150000,
@@ -3671,6 +3657,47 @@
         ]
       },
       "url": "/bug-bounty/extrafinance/information/",
+      "pausedAt": null
+    },
+    {
+      "slug": "thresholdnetwork",
+      "project": "Threshold Network",
+      "maxBounty": 100000,
+      "launchDate": "2023-04-28T09:00:00.000Z",
+      "kyc": false,
+      "tags": {
+        "language": [
+          "JavaScript",
+          "Solidity"
+        ],
+        "ecosystem": [
+          "Arbitrum",
+          "ETH",
+          "Base"
+        ],
+        "productType": [
+          "Bridge"
+        ],
+        "programType": [
+          "Smart Contract",
+          "Websites and Applications"
+        ],
+        "projectType": [
+          "Blockchain",
+          "Defi"
+        ],
+        "general": [
+          "Immunefi Standard",
+          "KYC Not Required",
+          "Paid Submissions",
+          "PoC Required"
+        ],
+        "featured": [
+          "Launched Recently",
+          "Paid Recently"
+        ]
+      },
+      "url": "/bug-bounty/thresholdnetwork/information/",
       "pausedAt": null
     },
     {

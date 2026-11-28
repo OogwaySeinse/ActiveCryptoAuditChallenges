@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": 32253,
+    "title": "Build AI on Kaspa",
+    "displayed_location": {
+      "icon": "map-marker-alt",
+      "location": "EPITA Kremlin-Bicêtre"
+    },
+    "open_state": "open",
+    "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/006/014/178/datas/medium_square.png",
+    "analytics_identifier": "Build AI on Kaspa (32253)",
+    "url": "https://build-ai-on-kaspa.devpost.com/",
+    "time_left_to_submission": "17 minutes left",
+    "submission_period_dates": "Nov 28, 2026",
+    "themes": [
+      {
+        "id": 23,
+        "name": "Beginner Friendly"
+      },
+      {
+        "id": 1,
+        "name": "Blockchain"
+      },
+      {
+        "id": 6,
+        "name": "Machine Learning/AI"
+      }
+    ],
+    "prize_amount": "€<span data-currency-value>1,000</span>",
+    "prizes_counts": {
+      "cash": 1,
+      "other": 2
+    },
+    "registrations_count": 23,
+    "featured": false,
+    "organization_name": "GDG EPITA",
+    "winners_announced": false,
+    "submission_gallery_url": "https://build-ai-on-kaspa.devpost.com/project-gallery",
+    "start_a_submission_url": "https://build-ai-on-kaspa.devpost.com/challenges/start_a_submission",
+    "invite_only": false,
+    "eligibility_requirement_invite_only_description": null,
+    "managed_by_devpost_badge": false
+  }
+]
